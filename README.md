@@ -22,6 +22,8 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 - `Image/Icons/*`: GUM、Cp、CE、報酬、MCH/MCHC/MAIロゴ類の画像。
 - `Data/BattleIcons/battle_icons.json`: パラメーター、バフ/デバフ、状態異常系アイコンの一覧。
 - `Image/BattleIcons/*`: バトルUI用アイコン。
+- `Data/Cryptids/cryptids.json`: ランドごとのクリプタイドアイコン一覧。
+- `Image/Cryptids/*.png`: クリプタイドアイコン。ファイル名の連番を除いた名称がランド名です。
 - `Audio/BGM/*.mp3`: BGM素材。
 - `Audio/SE/*.wav`: SE素材。
 
@@ -34,6 +36,7 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 - JSON/CSVの `image_file_path` を参照すると、対応する画像ファイルを読み込めます。
 - 通貨・ポイント・ロゴ類は `Data/Icons/icons.json` から用途説明と `image_file_path` を参照できます。
 - パラメーター、バフ/デバフ、状態異常系アイコンは `Data/BattleIcons/battle_icons.json` から用途説明と `image_file_path` を参照できます。
+- クリプタイドアイコンは `Data/Cryptids/cryptids.json` からランド名と `image_file_path` を参照できます。
 - 背景画像はバトル背景などに利用できます。縦長画面ではそのまま表示し、横長画面では中央部分を拡大・クロップする形で利用してください。
 - BGMは `Audio/BGM`、効果音は `Audio/SE` を参照してください。
 - ドット絵素材を拡大表示する場合は、バイキュービック法ではなく、ニアレストネイバー法を強く推奨します。ブラウザでは `image-rendering: pixelated;` などを指定してください。
@@ -45,6 +48,10 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 - ヒーローのスキルは、その偉人の歴史上の逸話などをもとにしたものが多くあります。
 - ゲーム内に固定シナリオは存在しないため、「ヒーローがエクステンションを装備して戦う」という基本を押さえると、My Crypto Heroesらしいゲーム体験を作りやすくなります。
 - 元のゲームは戦略性・戦術性が非常に高く、ヒーローやエクステンションのスキルの組み合わせで、いかに相手に有利なパーティを組むかを問われるオートバトルストラテジーゲームです。
+
+## クリプタイド補足
+
+クリプタイドは、マイクリ内のゲーム内ギルド「ランド」の守護神的な存在です。`Image/Cryptids` のファイル名は `01_Ocean.png` のように連番とランド名で構成しており、連番を除いた `Ocean`、`Strawberry` などがそのままランド名です。
 
 ## バトルUIアイコン補足
 
@@ -110,6 +117,7 @@ node scripts/fetch_enemy_images.js
 node scripts/fetch_icons.js
 node scripts/generate_background_manifest.js
 node scripts/generate_battle_icon_manifest.js
+node scripts/generate_cryptid_manifest.js
 ```
 
 一部レプリカ画像URLはCDNで直接 503 になることがあります。該当ヒーローは同名の元ヒーロー画像URLへフォールバックして `Image/Heroes/[ID].png` として保存し、`metadata.json` の `image_download_fallbacks` に記録します。

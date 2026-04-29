@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "land_name": "Ocean",
+    "filename": "01_Ocean.png",
+    "image_file_path": "Image/Cryptids/01_Ocean.png",
+    "description": "マイクリ内のゲーム内ギルド「ランド」Oceanの守護神的な存在である「クリプタイド」のアイコン。",
+    "width": 128,
+    "height": 128,
+    "size_bytes": 26781,
+    "sha256": "a1c76a53236c8abdface92cd882755dff987429a4b898a55b79c5ac154a7f781"
+  },
+  {
+    "id": 2,
+    "land_name": "Strawberry",
+    "filename": "02_Strawberry.png",
+    "image_file_path": "Image/Cryptids/02_Strawberry.png",
+    "description": "マイクリ内のゲーム内ギルド「ランド」Strawberryの守護神的な存在である「クリプタイド」のアイコン。",
+    "width": 128,
+    "height": 128,
+    "size_bytes": 28274,
+    "sha256": "6e5b9e89724fc996788e3687c4d044a011f9fccc1b98f1b29eac822b728b6fa5"
+  },
+  {
+    "id": 3,
+    "land_name": "Tangerine",
+    "filename": "03_Tangerine.png",
+    "image_file_path": "Image/Cryptids/03_Tangerine.png",
+    "description": "マイクリ内のゲーム内ギルド「ランド」Tangerineの守護神的な存在である「クリプタイド」のアイコン。",
+    "width": 128,
+    "height": 128,
+    "size_bytes": 26400,
+    "sha256": "fa7d598acc16b901107812d5ce7e8d815767107cfe2cf76395ee1b4ea60d6560"
+  },
+  {
+    "id": 4,
+    "land_name": "Lime",
+    "filename": "04_Lime.png",
+    "image_file_path": "Image/Cryptids/04_Lime.png",
+    "description": "マイクリ内のゲーム内ギルド「ランド」Limeの守護神的な存在である「クリプタイド」のアイコン。",
+    "width": 128,
+    "height": 128,
+    "size_bytes": 25388,
+    "sha256": "e1ea864c33c523f565528d217be583d6381658618895e6eef531094398505905"
+  },
+  {
+    "id": 5,
+    "land_name": "Graphite",
+    "filename": "05_Graphite.png",
+    "image_file_path": "Image/Cryptids/05_Graphite.png",
+    "description": "マイクリ内のゲーム内ギルド「ランド」Graphiteの守護神的な存在である「クリプタイド」のアイコン。",
+    "width": 128,
+    "height": 128,
+    "size_bytes": 27131,
+    "sha256": "07d799858772a623bdc29f8420bf5dfbf88bd08c3d95a67ea0c4ca86b4216c94"
+  },
+  {
+    "id": 6,
+    "land_name": "Grape",
+    "filename": "06_Grape.png",
+    "image_file_path": "Image/Cryptids/06_Grape.png",
+    "description": "マイクリ内のゲーム内ギルド「ランド」Grapeの守護神的な存在である「クリプタイド」のアイコン。",
+    "width": 128,
+    "height": 128,
+    "size_bytes": 28454,
+    "sha256": "79a21063b63fba9a078045c4201470566416eb146f494850021b94a0de67f030"
+  },
+  {
+    "id": 7,
+    "land_name": "Sage",
+    "filename": "07_Sage.png",
+    "image_file_path": "Image/Cryptids/07_Sage.png",
+    "description": "マイクリ内のゲーム内ギルド「ランド」Sageの守護神的な存在である「クリプタイド」のアイコン。",
+    "width": 128,
+    "height": 128,
+    "size_bytes": 26402,
+    "sha256": "0b51688b656ac643866dc191180ca93af2e766d21d338575a76f1a7c72e3c11b"
+  },
+  {
+    "id": 8,
+    "land_name": "Blueberry",
+    "filename": "08_Blueberry.png",
+    "image_file_path": "Image/Cryptids/08_Blueberry.png",
+    "description": "マイクリ内のゲーム内ギルド「ランド」Blueberryの守護神的な存在である「クリプタイド」のアイコン。",
+    "width": 128,
+    "height": 128,
+    "size_bytes": 27513,
+    "sha256": "b0f3eb4e84b94995599610d620edc18414ebc2a1319c9c628c096c900a589f92"
+  },
+  {
+    "id": 9,
+    "land_name": "ruby",
+    "filename": "09_ruby.png",
+    "image_file_path": "Image/Cryptids/09_ruby.png",
+    "description": "マイクリ内のゲーム内ギルド「ランド」rubyの守護神的な存在である「クリプタイド」のアイコン。",
+    "width": 128,
+    "height": 128,
+    "size_bytes": 24598,
+    "sha256": "b310f839b889b0f3c99ec0753712c6af550493eddb4c3ba94789d5df1568a332"
+  }
+]

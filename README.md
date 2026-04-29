@@ -22,6 +22,8 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 - `Image/Icons/*`: GUM、Cp、CE、報酬、MCH/MCHC/MAIロゴ類の画像。
 - `Data/BattleIcons/battle_icons.json`: パラメーター、バフ/デバフ、状態異常系アイコンの一覧。
 - `Image/BattleIcons/*`: バトルUI用アイコン。
+- `Data/Effects/battle_effect_sprites.json`: Action欄で使うバトルエフェクトスプライトの一覧。
+- `Image/Effects/Battle/*.png`: バトルエフェクトの100pxグリッドPNGスプライト。
 - `Data/Cryptids/cryptids.json`: ランドごとのクリプタイドアイコン一覧。
 - `Image/Cryptids/*.png`: クリプタイドアイコン。ファイル名の連番を除いた名称がランド名です。
 - `Data/SoundEffects/battle_sound_effects.json`: バトル中のサウンドエフェクト一覧。
@@ -38,6 +40,7 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 - JSON/CSVの `image_file_path` を参照すると、対応する画像ファイルを読み込めます。
 - 通貨・ポイント・ロゴ類は `Data/Icons/icons.json` から用途説明と `image_file_path` を参照できます。
 - パラメーター、バフ/デバフ、状態異常系アイコンは `Data/BattleIcons/battle_icons.json` から用途説明と `image_file_path` を参照できます。
+- Action欄のバトルエフェクトは `Data/Effects/battle_effect_sprites.json` からCSSクラス、用途、`image_file_path` を参照できます。
 - クリプタイドアイコンは `Data/Cryptids/cryptids.json` からランド名と `image_file_path` を参照できます。
 - 背景画像はバトル背景などに利用できます。縦長画面ではそのまま表示し、横長画面では中央部分を拡大・クロップする形で利用してください。
 - BGMは `Audio/BGM`、効果音は `Audio/SE` を参照してください。
@@ -62,6 +65,17 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 - `3_heal_resurrection`: 回復/復活。
 - `4_buff`: バフ。
 - `5_debuff_status_effect`: デバフ/状態異常系。
+
+## バトルエフェクト補足
+
+Action欄のダメージ、回復、バフ/デバフ演出は `effect-1`〜`effect-12` のCSSスプライトです。各PNGは100pxグリッドのスプライトシートで、元のゲームでは `background-position` を100px単位で動かしてアニメーションさせています。
+
+- `01_single_damage`: 単体ダメージ。
+- `02_area_damage`: 全体ダメージ。
+- `03_heal_resurrection`: 回復/復活。
+- `04_buff`: バフ。
+- `05_debuff_status_effect`: デバフ/状態異常系。
+- `06_effect_06`〜`12_effect_12`: バトルCSS上で定義されている追加エフェクトスプライト。現行の公開スキルマスタでは主に `effectId` 1〜5 が使われています。
 
 ## バトルUIアイコン補足
 
@@ -129,6 +143,7 @@ node scripts/generate_background_manifest.js
 node scripts/generate_battle_icon_manifest.js
 node scripts/generate_cryptid_manifest.js
 node scripts/fetch_battle_sound_effects.js
+node scripts/fetch_battle_effect_sprites.js
 ```
 
 一部レプリカ画像URLはCDNで直接 503 になることがあります。該当ヒーローは同名の元ヒーロー画像URLへフォールバックして `Image/Heroes/[ID].png` として保存し、`metadata.json` の `image_download_fallbacks` に記録します。

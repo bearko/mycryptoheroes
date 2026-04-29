@@ -1,0 +1,7 @@
+{
+  "fetched_at": "2026-04-29T12:57:50.725Z",
+  "total_effect_sprites": 12,
+  "downloaded_effect_sprites": 12,
+  "image_download_failures": [],
+  "note": "Battle Action effects are CSS sprites used by action__effect.effect-N. Current public skill masters reference effectId 1 through 5; sprites 6 through 12 are included because the battle CSS defines them."
+}

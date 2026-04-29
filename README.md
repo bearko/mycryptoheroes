@@ -24,8 +24,10 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 - `Image/BattleIcons/*`: バトルUI用アイコン。
 - `Data/Cryptids/cryptids.json`: ランドごとのクリプタイドアイコン一覧。
 - `Image/Cryptids/*.png`: クリプタイドアイコン。ファイル名の連番を除いた名称がランド名です。
+- `Data/SoundEffects/battle_sound_effects.json`: バトル中のサウンドエフェクト一覧。
 - `Audio/BGM/*.mp3`: BGM素材。
 - `Audio/SE/*.wav`: SE素材。
+- `Audio/SE/Battle/*`: バトル演出用SE素材。MP3/OGGを収録しています。
 
 `heroes.json` には、ヒーロー名、ID、画像パス、Max Level Stats（HP/PHY/INT/AGI）、Passiveスキル名と内容、Attribute、Rarity、勢力、Enchantを収録しています。
 
@@ -52,6 +54,14 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 ## クリプタイド補足
 
 クリプタイドは、マイクリ内のゲーム内ギルド「ランド」の守護神的な存在です。`Image/Cryptids` のファイル名は `01_Ocean.png` のように連番とランド名で構成しており、連番を除いた `Ocean`、`Strawberry` などがそのままランド名です。
+
+## バトルSE補足
+
+- `1_single_damage`: 単体ダメージ。
+- `2_area_damage`: 全体ダメージ。
+- `3_heal_resurrection`: 回復/復活。
+- `4_buff`: バフ。
+- `5_debuff_status_effect`: デバフ/状態異常系。
 
 ## バトルUIアイコン補足
 
@@ -118,6 +128,7 @@ node scripts/fetch_icons.js
 node scripts/generate_background_manifest.js
 node scripts/generate_battle_icon_manifest.js
 node scripts/generate_cryptid_manifest.js
+node scripts/fetch_battle_sound_effects.js
 ```
 
 一部レプリカ画像URLはCDNで直接 503 になることがあります。該当ヒーローは同名の元ヒーロー画像URLへフォールバックして `Image/Heroes/[ID].png` として保存し、`metadata.json` の `image_download_fallbacks` に記録します。

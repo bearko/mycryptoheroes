@@ -15,6 +15,8 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 - `Data/Enemies/enemy_images.json`: 000〜999を総当たりして取得できたエネミー画像の一覧。
 - `Data/Enemies/metadata.json`: エネミー画像の取得元、総当たり範囲、取得件数。
 - `Image/Enemies/*.png`: 有効なエネミー画像 488 件。ファイル名は取得元と同じ3桁PNGです。
+- `Data/Icons/icons.json`: 通貨、ポイント、ロゴなどのアイコン一覧。
+- `Image/Icons/*`: GUM、Cp、CE、報酬、MCH/MCHC/MAIロゴ類の画像。
 - `Audio/BGM/*.mp3`: BGM素材。
 - `Audio/SE/*.wav`: SE素材。
 
@@ -25,9 +27,25 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 ## ゲーム開発での使い方
 
 - JSON/CSVの `image_file_path` を参照すると、対応する画像ファイルを読み込めます。
+- 通貨・ポイント・ロゴ類は `Data/Icons/icons.json` から用途説明と `image_file_path` を参照できます。
 - BGMは `Audio/BGM`、効果音は `Audio/SE` を参照してください。
 - ドット絵素材を拡大表示する場合は、バイキュービック法ではなく、ニアレストネイバー法を強く推奨します。ブラウザでは `image-rendering: pixelated;` などを指定してください。
 - 画像/音声の権利や利用可否は、必ず公式の最新ガイドラインを確認してください。
+
+## アイコン補足
+
+- `gum`: GUM（Game Users Money）。ゲーム内通貨として利用されている通貨アイコン。
+- `cp`: Cp / Cryptonium（クリプトニウム）。ゲーム内ポイント。
+- `ce`: CE / Crypto Energy（クリプトエナジー）。経験値。
+- `emblem`: エンブレム。ゲーム内報酬（ポイント）。
+- `gold_dust`: ゴールドダスト。ゲーム内報酬（ポイント）。
+- `mch_icon`: My Crypto Heroesの正方形アイコン。
+- `mch_logo_horizontal`: My Crypto Heroesの横長ロゴ。
+- `mchc_official`: MCHC。MCH Verseのトークン。
+- `mchc_text_non_official`: MCHCのテキストロゴ素材。
+- `mai_sd`: MAI。MCH Verseを擬人化したアイドルキャラクターのアイコン。
+- `mch_company_logo`: My Crypto Heroesを運営する会社のロゴ。
+- `mch_company_logo_negate`: My Crypto Heroesを運営する会社の反転ロゴ。
 
 ## 画像利用ガイドライン要約
 
@@ -63,6 +81,7 @@ Node.js で以下を実行すると、JSON/CSV/画像を再生成します。
 node scripts/fetch_heroes.js
 node scripts/fetch_extensions.js
 node scripts/fetch_enemy_images.js
+node scripts/fetch_icons.js
 ```
 
 一部レプリカ画像URLはCDNで直接 503 になることがあります。該当ヒーローは同名の元ヒーロー画像URLへフォールバックして `Image/Heroes/[ID].png` として保存し、`metadata.json` の `image_download_fallbacks` に記録します。

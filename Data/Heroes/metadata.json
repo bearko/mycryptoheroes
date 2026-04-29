@@ -1,0 +1,63 @@
+{
+  "source_url": "https://www.mycryptoheroes.net/ja/dictionary/heroes",
+  "fetched_at": "2026-04-29T04:52:13.132Z",
+  "login_required_for_public_master_data": false,
+  "note": "The public dictionary page embeds hero, passive skill, attribute, and image URL master data in window.__NUXT__; wallet login is not required for these public records.",
+  "total_hero_master_records": 414,
+  "dictionary_visible_records": 218,
+  "image_count": 414,
+  "image_download_failures": [],
+  "image_download_fallbacks": [
+    {
+      "id": 12045,
+      "name": {
+        "en": "Bodhidharma",
+        "ja": "達磨",
+        "zh": "Bodhidharma"
+      },
+      "image_file_path": "Image/Heroes/12045.png",
+      "requested_source_image_url": "https://d2fvodbijouf8s.cloudfront.net/images/heroes/64/12045.png",
+      "downloaded_source_image_url": "https://d2fvodbijouf8s.cloudfront.net/images/heroes/64/2045.png"
+    },
+    {
+      "id": 12047,
+      "name": {
+        "en": "Aristotle",
+        "ja": "アリストテレス",
+        "zh": "Aristotle"
+      },
+      "image_file_path": "Image/Heroes/12047.png",
+      "requested_source_image_url": "https://d2fvodbijouf8s.cloudfront.net/images/heroes/64/12047.png",
+      "downloaded_source_image_url": "https://d2fvodbijouf8s.cloudfront.net/images/heroes/64/2047.png"
+    },
+    {
+      "id": 14053,
+      "name": {
+        "en": "William Tell",
+        "ja": "ウィリアム・テル",
+        "zh": "William Tell"
+      },
+      "image_file_path": "Image/Heroes/14053.png",
+      "requested_source_image_url": "https://d2fvodbijouf8s.cloudfront.net/images/heroes/64/14053.png",
+      "downloaded_source_image_url": "https://d2fvodbijouf8s.cloudfront.net/images/heroes/64/4053.png"
+    },
+    {
+      "id": 14056,
+      "name": {
+        "en": "Natsume Sōseki",
+        "ja": "夏目漱石",
+        "zh": "Natsume Sōseki"
+      },
+      "image_file_path": "Image/Heroes/14056.png",
+      "requested_source_image_url": "https://d2fvodbijouf8s.cloudfront.net/images/heroes/64/14056.png",
+      "downloaded_source_image_url": "https://d2fvodbijouf8s.cloudfront.net/images/heroes/64/4056.png"
+    }
+  ],
+  "category_counts": {
+    "original": 196,
+    "collaboration": 14,
+    "novice": 8,
+    "other": 8,
+    "replica": 188
+  }
+}

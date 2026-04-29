@@ -1,0 +1,48 @@
+{
+  "generated_at": "2026-04-29T13:53:55.640Z",
+  "styles": [
+    {
+      "key": "passive_skill_cutin",
+      "label": "パッシブスキル発動カットイン",
+      "css_file_path": "Style/Cutins/passive_skill_cutin.css",
+      "source_note": "Extracted from the battle status component. The original effect combines gradients, random triangle pieces, hero images, and skill-name text."
+    },
+    {
+      "key": "battle_result_cutin",
+      "label": "勝利/敗北表示カットイン",
+      "css_file_path": "Style/Cutins/battle_result_cutin.css",
+      "source_note": "Extracted from the battle status component. The original result visual is a text label; win/lose audio is handled by jingles."
+    }
+  ],
+  "jingles": [
+    {
+      "key": "win",
+      "label": "勝利",
+      "description": "勝利時に再生されるジングル。",
+      "audio_file_path": "Audio/SE/Jingles/win.mp3",
+      "source_url": "https://d2fvodbijouf8s.cloudfront.net/sounds/jingles/win.mp3",
+      "size_bytes": 42631,
+      "sha256": "2c865f1307970ab2a211ed4cbb71bc132802348c8b0881a2ed49b0961d57f734"
+    },
+    {
+      "key": "lose",
+      "label": "敗北",
+      "description": "敗北時に再生されるジングル。",
+      "audio_file_path": "Audio/SE/Jingles/lose.mp3",
+      "source_url": "https://d2fvodbijouf8s.cloudfront.net/sounds/jingles/lose.mp3",
+      "size_bytes": 63634,
+      "sha256": "22a52a05626ad87e2ad62739dd893f81201420504c4ae09af33c7c59d6330f4f"
+    },
+    {
+      "key": "knight",
+      "label": "ナイト戦結果",
+      "description": "ランドバトル、アリーナ、コロシアム、ジムの結果演出で使われるジングル。",
+      "audio_file_path": "Audio/SE/Jingles/knight.mp3",
+      "source_url": "https://d2fvodbijouf8s.cloudfront.net/sounds/jingles/knight.mp3",
+      "size_bytes": 33541,
+      "sha256": "caa55f4ef4cbdd2b00c6c547888aae94fdc6b68fad68dac8f22811e3ac82abaa"
+    }
+  ],
+  "audio_download_failures": [],
+  "note": "Passive skill cut-ins and battle result visuals are CSS/DOM effects rather than standalone images. Win/lose/knight result jingles are standalone MP3 files."
+}

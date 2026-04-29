@@ -1,0 +1,143 @@
+.mch-passive-cutin {
+  align-items: center;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  left: 0;
+  padding: 3rem 0;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%) skewY(-10deg);
+  transition: all 0.1s;
+  width: 100%;
+  z-index: 4;
+  -webkit-mask-image: linear-gradient(#000 1%, #000 99%);
+  mask-image: linear-gradient(#000 1%, #000 99%);
+  -webkit-mask-position: center;
+  mask-position: center;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+}
+
+@media (min-width: 768px) {
+  .mch-passive-cutin {
+    padding: 6rem 0;
+  }
+}
+
+.mch-passive-cutin--ally {
+  background: linear-gradient(to right bottom, #609da8 0, #609da8 50%, #282b33 0, #282b33);
+}
+
+.mch-passive-cutin--opponent {
+  background: linear-gradient(to left top, #be6c65 0, #be6c65 50%, #282b33 0, #282b33);
+}
+
+.mch-passive-cutin__triangle {
+  mix-blend-mode: color-dodge;
+  opacity: 0;
+  position: absolute;
+}
+
+.mch-passive-cutin__triangle--ally {
+  background: linear-gradient(to left bottom, #609da8 0, #609da8);
+}
+
+.mch-passive-cutin__triangle--opponent {
+  background: linear-gradient(to left bottom, #be6c65 0, #be6c65);
+}
+
+.mch-passive-cutin__shine {
+  animation: mch-passive-cutin-shine 0.6s linear infinite alternate;
+  height: 100%;
+  left: 0;
+  mix-blend-mode: color-dodge;
+  opacity: 1;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.mch-passive-cutin__shine--ally {
+  background: linear-gradient(180deg, #024, #059 20%, #059 80%, #024);
+}
+
+.mch-passive-cutin__shine--opponent {
+  background: linear-gradient(180deg, #402, #903 20%, #903 80%, #402);
+}
+
+@keyframes mch-passive-cutin-shine {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0.8;
+  }
+}
+
+.mch-passive-cutin-enter {
+  opacity: 0;
+  transform: translate(100%, -50%) skewY(-10deg);
+}
+
+.mch-passive-cutin-enter-to,
+.mch-passive-cutin-leave {
+  opacity: 1;
+  transform: translateY(-50%) skewY(-10deg);
+}
+
+.mch-passive-cutin-leave-to {
+  opacity: 0;
+  transform: translate(-100%, -50%) skewY(-10deg);
+}
+
+.mch-passive-cutin-unit {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  left: 0;
+  padding: 1rem 0;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%) skewY(-10deg);
+  transition: all 0.1s;
+  width: 100%;
+  z-index: 4;
+}
+
+@media (min-width: 768px) {
+  .mch-passive-cutin-unit {
+    padding: 4rem 0;
+  }
+}
+
+.mch-passive-cutin-unit__image {
+  image-rendering: pixelated;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  max-width: 128px;
+  transform: scale(2) skewY(10deg);
+}
+
+@media (min-width: 768px) {
+  .mch-passive-cutin-unit__image {
+    margin-left: 6rem;
+    margin-right: 6rem;
+    transform: scale(4) skewY(10deg);
+  }
+}
+
+.mch-passive-cutin-unit__skill-name {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.1;
+  margin: 0;
+  opacity: 0.8;
+  text-shadow: 2px 2px 0 #333, -2px 2px 0 #333, -2px -2px 0 #333, 2px -2px 0 #333;
+}
+
+@media (min-width: 768px) {
+  .mch-passive-cutin-unit__skill-name {
+    font-size: 3rem;
+  }
+}

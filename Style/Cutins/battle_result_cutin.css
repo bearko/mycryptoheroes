@@ -1,0 +1,48 @@
+.mch-battle-result-label {
+  align-items: center;
+  display: flex;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 10;
+}
+
+.mch-battle-result-label__text {
+  background: #282b33;
+  flex: 1 0 auto;
+  font-size: 3rem;
+  font-weight: 700;
+  left: 50%;
+  margin: 0;
+  opacity: 0.8;
+  padding: 1rem;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  transform: translate(-50%, -50%) rotate(-10deg);
+  width: 150%;
+}
+
+.mch-battle-result-label-enter-active {
+  animation: mch-battle-result-jack-in 0.75s both;
+}
+
+@keyframes mch-battle-result-jack-in {
+  0% {
+    opacity: 0;
+    transform: scale(0.1) rotate(30deg);
+    transform-origin: center bottom;
+  }
+  50% {
+    transform: rotate(-10deg);
+  }
+  70% {
+    transform: rotate(3deg);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}

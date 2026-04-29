@@ -24,12 +24,15 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 - `Image/BattleIcons/*`: バトルUI用アイコン。
 - `Data/Effects/battle_effect_sprites.json`: Action欄で使うバトルエフェクトスプライトの一覧。
 - `Image/Effects/Battle/*.png`: バトルエフェクトの100pxグリッドPNGスプライト。
+- `Data/Effects/cutins.json`: パッシブスキル発動、勝利/敗北表示のCSSとジングル一覧。
+- `Style/Cutins/*.css`: カットイン演出を再現するCSS。
 - `Data/Cryptids/cryptids.json`: ランドごとのクリプタイドアイコン一覧。
 - `Image/Cryptids/*.png`: クリプタイドアイコン。ファイル名の連番を除いた名称がランド名です。
 - `Data/SoundEffects/battle_sound_effects.json`: バトル中のサウンドエフェクト一覧。
 - `Audio/BGM/*.mp3`: BGM素材。
 - `Audio/SE/*.wav`: SE素材。
 - `Audio/SE/Battle/*`: バトル演出用SE素材。MP3/OGGを収録しています。
+- `Audio/SE/Jingles/*.mp3`: 勝利/敗北などの結果ジングル。
 
 `heroes.json` には、ヒーロー名、ID、画像パス、Max Level Stats（HP/PHY/INT/AGI）、Passiveスキル名と内容、Attribute、Rarity、勢力、Enchantを収録しています。
 
@@ -76,6 +79,16 @@ Action欄のダメージ、回復、バフ/デバフ演出は `effect-1`〜`effe
 - `04_buff`: バフ。
 - `05_debuff_status_effect`: デバフ/状態異常系。
 - `06_effect_06`〜`12_effect_12`: バトルCSS上で定義されている追加エフェクトスプライト。現行の公開スキルマスタでは主に `effectId` 1〜5 が使われています。
+
+## カットイン・ジングル補足
+
+パッシブスキル発動カットインと勝利/敗北表示は、単体画像ではなくCSS/DOM演出です。再利用しやすいよう、元の演出から抽出したCSSを `Style/Cutins` に格納しています。
+
+- `Style/Cutins/passive_skill_cutin.css`: パッシブスキル発動時のカットイン。ヒーロー画像、スキル名、青/赤グラデーション、三角形パーツを組み合わせます。
+- `Style/Cutins/battle_result_cutin.css`: 勝利/敗北表示のテキストカットイン。
+- `Audio/SE/Jingles/win.mp3`: 勝利時ジングル。
+- `Audio/SE/Jingles/lose.mp3`: 敗北時ジングル。
+- `Audio/SE/Jingles/knight.mp3`: ランドバトル、アリーナ、コロシアム、ジムの結果演出ジングル。
 
 ## バトルUIアイコン補足
 
@@ -144,6 +157,7 @@ node scripts/generate_battle_icon_manifest.js
 node scripts/generate_cryptid_manifest.js
 node scripts/fetch_battle_sound_effects.js
 node scripts/fetch_battle_effect_sprites.js
+node scripts/fetch_battle_cutin_assets.js
 ```
 
 一部レプリカ画像URLはCDNで直接 503 になることがあります。該当ヒーローは同名の元ヒーロー画像URLへフォールバックして `Image/Heroes/[ID].png` として保存し、`metadata.json` の `image_download_fallbacks` に記録します。

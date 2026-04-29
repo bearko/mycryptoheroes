@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "key": "single_damage",
+    "label": "単体ダメージ",
+    "description": "単体ダメージ演出で使用するサウンドエフェクト。",
+    "files": [
+      {
+        "format": "mp3",
+        "audio_file_path": "Audio/SE/Battle/1_single_damage.mp3",
+        "source_url": "https://d2fvodbijouf8s.cloudfront.net/sounds/se/1.mp3",
+        "size_bytes": 5524,
+        "sha256": "1eb6690f606d12a8582941ed03ec4c8c52fb2e8f0e04c331d7754488e2f18b6d"
+      },
+      {
+        "format": "ogg",
+        "audio_file_path": "Audio/SE/Battle/1_single_damage.ogg",
+        "source_url": "https://d2fvodbijouf8s.cloudfront.net/sounds/se/1.ogg",
+        "size_bytes": 6954,
+        "sha256": "ce350fcdbff1c5ccafb0a105a73e60cf519d051b4dc255f8a8e936004f19ffea"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "key": "area_damage",
+    "label": "全体ダメージ",
+    "description": "全体ダメージ演出で使用するサウンドエフェクト。",
+    "files": [
+      {
+        "format": "mp3",
+        "audio_file_path": "Audio/SE/Battle/2_area_damage.mp3",
+        "source_url": "https://d2fvodbijouf8s.cloudfront.net/sounds/se/2.mp3",
+        "size_bytes": 36871,
+        "sha256": "0e5a3066a0ed68525c4e9a6d343908e0d114e7ff5eabbac4bde6272e35b11744"
+      },
+      {
+        "format": "ogg",
+        "audio_file_path": "Audio/SE/Battle/2_area_damage.ogg",
+        "source_url": "https://d2fvodbijouf8s.cloudfront.net/sounds/se/2.ogg",
+        "size_bytes": 25485,
+        "sha256": "5037f92f64bf22d809e997f0e072835f3f9d3ad8da39439ab50d07d43c122b24"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "key": "heal_resurrection",
+    "label": "回復/復活",
+    "description": "回復または復活演出で使用するサウンドエフェクト。",
+    "files": [
+      {
+        "format": "mp3",
+        "audio_file_path": "Audio/SE/Battle/3_heal_resurrection.mp3",
+        "source_url": "https://d2fvodbijouf8s.cloudfront.net/sounds/se/3.mp3",
+        "size_bytes": 26874,
+        "sha256": "34565ad925682f06497be9338e48fd7754311378405c8e32cf89edbcff20f944"
+      },
+      {
+        "format": "ogg",
+        "audio_file_path": "Audio/SE/Battle/3_heal_resurrection.ogg",
+        "source_url": "https://d2fvodbijouf8s.cloudfront.net/sounds/se/3.ogg",
+        "size_bytes": 21655,
+        "sha256": "b8f4cb79aaf2afdb9dfd81324209a7b501ddc641c48b018350329f5a21c6b503"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "key": "buff",
+    "label": "バフ",
+    "description": "バフ演出で使用するサウンドエフェクト。",
+    "files": [
+      {
+        "format": "mp3",
+        "audio_file_path": "Audio/SE/Battle/4_buff.mp3",
+        "source_url": "https://d2fvodbijouf8s.cloudfront.net/sounds/se/4.mp3",
+        "size_bytes": 33557,
+        "sha256": "4944471c7164b12c187dda137170f9d7f2c39b6b4abdad584355475ddfaa642e"
+      },
+      {
+        "format": "ogg",
+        "audio_file_path": "Audio/SE/Battle/4_buff.ogg",
+        "source_url": "https://d2fvodbijouf8s.cloudfront.net/sounds/se/4.ogg",
+        "size_bytes": 24984,
+        "sha256": "56cf28c748b64b4cf713d24741a6cb371039908f759057bd5070d6db05b10aa6"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "key": "debuff_status_effect",
+    "label": "デバフ/状態異常系",
+    "description": "デバフまたは状態異常演出で使用するサウンドエフェクト。",
+    "files": [
+      {
+        "format": "mp3",
+        "audio_file_path": "Audio/SE/Battle/5_debuff_status_effect.mp3",
+        "source_url": "https://d2fvodbijouf8s.cloudfront.net/sounds/se/5.mp3",
+        "size_bytes": 33559,
+        "sha256": "a2a8c12037ae24d84897ee9f5cd14bbb56701bba60cd91020a98d4e5028d3b1a"
+      },
+      {
+        "format": "ogg",
+        "audio_file_path": "Audio/SE/Battle/5_debuff_status_effect.ogg",
+        "source_url": "https://d2fvodbijouf8s.cloudfront.net/sounds/se/5.ogg",
+        "size_bytes": 22969,
+        "sha256": "441e05fbbf16cda3afb453d9c1114265fafe28af4438dd73e3db366909c879e9"
+      }
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "fetched_at": "2026-04-29T10:30:05.395Z",
+  "source_url_pattern": "https://d2fvodbijouf8s.cloudfront.net/sounds/se/[1-5].{mp3,ogg}",
+  "total_effects": 5,
+  "total_files": 10,
+  "audio_download_failures": [],
+  "note": "Battle source loads getSe(1)..getSe(5); effect-N classes map these IDs to battle animations."
+}

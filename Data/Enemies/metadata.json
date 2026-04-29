@@ -1,0 +1,10 @@
+{
+  "source_url_pattern": "https://www.mycryptoheroes.net/images/enemies/[000-999].png",
+  "master_data_url": "https://www.mycryptoheroes.net/data/enemy_types.json",
+  "fetched_at": "2026-04-29T05:21:39.335Z",
+  "tested_range": "000-999",
+  "valid_png_count": 488,
+  "invalid_or_missing_count": 512,
+  "image_count": 488,
+  "note": "Each URL in 000-999 was requested and saved only when the response was a valid PNG."
+}

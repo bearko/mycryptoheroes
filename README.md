@@ -20,6 +20,8 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 - `Image/Backgrounds/*.png`: 背景画像。ファイル名はアップロード時の名前を維持しています。
 - `Data/Icons/icons.json`: 通貨、ポイント、ロゴなどのアイコン一覧。
 - `Image/Icons/*`: GUM、Cp、CE、報酬、MCH/MCHC/MAIロゴ類の画像。
+- `Data/BattleIcons/battle_icons.json`: パラメーター、バフ/デバフ、状態異常系アイコンの一覧。
+- `Image/BattleIcons/*`: バトルUI用アイコン。
 - `Audio/BGM/*.mp3`: BGM素材。
 - `Audio/SE/*.wav`: SE素材。
 
@@ -31,10 +33,22 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 
 - JSON/CSVの `image_file_path` を参照すると、対応する画像ファイルを読み込めます。
 - 通貨・ポイント・ロゴ類は `Data/Icons/icons.json` から用途説明と `image_file_path` を参照できます。
+- パラメーター、バフ/デバフ、状態異常系アイコンは `Data/BattleIcons/battle_icons.json` から用途説明と `image_file_path` を参照できます。
 - 背景画像はバトル背景などに利用できます。縦長画面ではそのまま表示し、横長画面では中央部分を拡大・クロップする形で利用してください。
 - BGMは `Audio/BGM`、効果音は `Audio/SE` を参照してください。
 - ドット絵素材を拡大表示する場合は、バイキュービック法ではなく、ニアレストネイバー法を強く推奨します。ブラウザでは `image-rendering: pixelated;` などを指定してください。
 - 画像/音声の権利や利用可否は、必ず公式の最新ガイドラインを確認してください。
+
+## バトルUIアイコン補足
+
+- `hp`: パラメーター「HP（体力）」のアイコン。
+- `phy`: パラメーター「PHY（物理攻防力）」のアイコン。
+- `int`: パラメーター「INT（魔法攻防力）」のアイコン。
+- `buf_agi`: AGIパラメーターにバフがかかっている、またはバフ効果があることを示すアイコン。
+- `dbf_agi`: AGIパラメーターにデバフがかかっている、またはデバフ効果があることを示すアイコン。
+- `buf_phy` / `buf_int`: PHY/INTパラメーターのバフを示すアイコン。
+- `dbf_phy` / `dbf_int`: PHY/INTパラメーターのデバフを示すアイコン。
+- `poison`、`bleed`、`sleep`、`confused`、`fear`、`decoy`、`resurrection`: 状態異常・特殊状態系のアイコン。
 
 ## アイコン補足
 
@@ -88,6 +102,7 @@ node scripts/fetch_extensions.js
 node scripts/fetch_enemy_images.js
 node scripts/fetch_icons.js
 node scripts/generate_background_manifest.js
+node scripts/generate_battle_icon_manifest.js
 ```
 
 一部レプリカ画像URLはCDNで直接 503 になることがあります。該当ヒーローは同名の元ヒーロー画像URLへフォールバックして `Image/Heroes/[ID].png` として保存し、`metadata.json` の `image_download_fallbacks` に記録します。

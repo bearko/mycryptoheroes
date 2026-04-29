@@ -15,6 +15,9 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 - `Data/Enemies/enemy_images.json`: 000〜999を総当たりして取得できたエネミー画像の一覧。
 - `Data/Enemies/metadata.json`: エネミー画像の取得元、総当たり範囲、取得件数。
 - `Image/Enemies/*.png`: 有効なエネミー画像 488 件。ファイル名は取得元と同じ3桁PNGです。
+- `Data/Backgrounds/backgrounds.json`: バトル背景などに使う背景画像 37 件の一覧。
+- `Data/Backgrounds/metadata.json`: 背景画像の件数、重複グループ、利用許可に関する補足。
+- `Image/Backgrounds/*.png`: 背景画像。ファイル名はアップロード時の名前を維持しています。
 - `Data/Icons/icons.json`: 通貨、ポイント、ロゴなどのアイコン一覧。
 - `Image/Icons/*`: GUM、Cp、CE、報酬、MCH/MCHC/MAIロゴ類の画像。
 - `Audio/BGM/*.mp3`: BGM素材。
@@ -28,6 +31,7 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 
 - JSON/CSVの `image_file_path` を参照すると、対応する画像ファイルを読み込めます。
 - 通貨・ポイント・ロゴ類は `Data/Icons/icons.json` から用途説明と `image_file_path` を参照できます。
+- 背景画像はバトル背景などに利用できます。縦長画面ではそのまま表示し、横長画面では中央部分を拡大・クロップする形で利用してください。
 - BGMは `Audio/BGM`、効果音は `Audio/SE` を参照してください。
 - ドット絵素材を拡大表示する場合は、バイキュービック法ではなく、ニアレストネイバー法を強く推奨します。ブラウザでは `image-rendering: pixelated;` などを指定してください。
 - 画像/音声の権利や利用可否は、必ず公式の最新ガイドラインを確認してください。
@@ -53,6 +57,7 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 
 - 「マイクリ画像」は、運営側が提供するヒーロー、エクステンション、エネミー、MCHロゴマークを指します。
 - 上記以外の画像は使用できません。
+- 背景画像は上記ガイドラインの利用可能素材には明記されていませんが、本リポジトリではMCH Co.Ltd.から特別に許可をいただいて管理しています。
 - 禁止事項に抵触しない範囲で、ゲーム内のアートエディット/アートギャラリー素材として利用できます。
 - ゲーム外では、禁止事項に抵触しない非営利目的の二次創作素材として利用できます。
 - 禁止事項には、ゲームイメージを損なう内容、公序良俗に反する内容、公式詐称、他者権利侵害の可能性がある内容が含まれます。
@@ -82,6 +87,7 @@ node scripts/fetch_heroes.js
 node scripts/fetch_extensions.js
 node scripts/fetch_enemy_images.js
 node scripts/fetch_icons.js
+node scripts/generate_background_manifest.js
 ```
 
 一部レプリカ画像URLはCDNで直接 503 になることがあります。該当ヒーローは同名の元ヒーロー画像URLへフォールバックして `Image/Heroes/[ID].png` として保存し、`metadata.json` の `image_download_fallbacks` に記録します。

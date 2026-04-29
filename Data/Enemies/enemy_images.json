@@ -1,0 +1,6617 @@
+[
+  {
+    "id": 101,
+    "filename": "101.png",
+    "image_file_path": "Image/Enemies/101.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/101.png",
+    "names": [
+      {
+        "en": "Creeper-short",
+        "ja": "クリーパー ショート",
+        "zh": "Creeper-short"
+      }
+    ],
+    "enemy_types": [
+      101,
+      310,
+      611
+    ]
+  },
+  {
+    "id": 102,
+    "filename": "102.png",
+    "image_file_path": "Image/Enemies/102.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/102.png",
+    "names": [
+      {
+        "en": "Creeper-tall",
+        "ja": "クリーパー トール",
+        "zh": "Creeper-tall"
+      }
+    ],
+    "enemy_types": [
+      102,
+      311,
+      612
+    ]
+  },
+  {
+    "id": 103,
+    "filename": "103.png",
+    "image_file_path": "Image/Enemies/103.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/103.png",
+    "names": [
+      {
+        "en": "Creeper-grande",
+        "ja": "クリーパー グランデ",
+        "zh": "Creeper-grande"
+      }
+    ],
+    "enemy_types": [
+      103,
+      312,
+      613
+    ]
+  },
+  {
+    "id": 104,
+    "filename": "104.png",
+    "image_file_path": "Image/Enemies/104.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/104.png",
+    "names": [
+      {
+        "en": "Creeper-venti",
+        "ja": "クリーパー ヴェンティ",
+        "zh": "Creeper-venti"
+      }
+    ],
+    "enemy_types": [
+      104,
+      313,
+      614
+    ]
+  },
+  {
+    "id": 105,
+    "filename": "105.png",
+    "image_file_path": "Image/Enemies/105.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/105.png",
+    "names": [
+      {
+        "en": "Creeper-macchiato",
+        "ja": "クリーパー マキアート",
+        "zh": "Creeper-macchiato"
+      }
+    ],
+    "enemy_types": [
+      105,
+      314,
+      615
+    ]
+  },
+  {
+    "id": 106,
+    "filename": "106.png",
+    "image_file_path": "Image/Enemies/106.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/106.png",
+    "names": [
+      {
+        "en": "Creeper-frappuccino",
+        "ja": "クリーパー フラペチーノ",
+        "zh": "Creeper-frappuccino"
+      }
+    ],
+    "enemy_types": [
+      106,
+      315,
+      616
+    ]
+  },
+  {
+    "id": 111,
+    "filename": "111.png",
+    "image_file_path": "Image/Enemies/111.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/111.png",
+    "names": [
+      {
+        "en": "Elk Cloner-short",
+        "ja": "エルククローナ ショート",
+        "zh": "Elk Cloner-short"
+      }
+    ],
+    "enemy_types": [
+      111,
+      320,
+      621
+    ]
+  },
+  {
+    "id": 112,
+    "filename": "112.png",
+    "image_file_path": "Image/Enemies/112.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/112.png",
+    "names": [
+      {
+        "en": "Elk Cloner-tall",
+        "ja": "エルククローナ トール",
+        "zh": "Elk Cloner-tall"
+      }
+    ],
+    "enemy_types": [
+      112,
+      321,
+      622
+    ]
+  },
+  {
+    "id": 113,
+    "filename": "113.png",
+    "image_file_path": "Image/Enemies/113.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/113.png",
+    "names": [
+      {
+        "en": "Elk Cloner-grande",
+        "ja": "エルククローナ グランデ",
+        "zh": "Elk Cloner-grande"
+      }
+    ],
+    "enemy_types": [
+      113,
+      322,
+      623
+    ]
+  },
+  {
+    "id": 114,
+    "filename": "114.png",
+    "image_file_path": "Image/Enemies/114.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/114.png",
+    "names": [
+      {
+        "en": "Elk Cloner-venti",
+        "ja": "エルククローナ ヴェンティ",
+        "zh": "Elk Cloner-venti"
+      }
+    ],
+    "enemy_types": [
+      114,
+      323,
+      624
+    ]
+  },
+  {
+    "id": 115,
+    "filename": "115.png",
+    "image_file_path": "Image/Enemies/115.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/115.png",
+    "names": [
+      {
+        "en": "Elk Cloner-macchiato",
+        "ja": "エルククローナ マキアート",
+        "zh": "Elk Cloner-macchiato"
+      }
+    ],
+    "enemy_types": [
+      115,
+      324,
+      625
+    ]
+  },
+  {
+    "id": 116,
+    "filename": "116.png",
+    "image_file_path": "Image/Enemies/116.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/116.png",
+    "names": [
+      {
+        "en": "Elk Cloner-frappuccino",
+        "ja": "エルククローナ フラペチーノ",
+        "zh": "Elk Cloner-frappuccino"
+      }
+    ],
+    "enemy_types": [
+      116,
+      325,
+      626
+    ]
+  },
+  {
+    "id": 121,
+    "filename": "121.png",
+    "image_file_path": "Image/Enemies/121.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/121.png",
+    "names": [
+      {
+        "en": "Heartbleed-short",
+        "ja": "ハートブリード ショート",
+        "zh": "Heartbleed-short"
+      }
+    ],
+    "enemy_types": [
+      121,
+      330,
+      631,
+      1031
+    ]
+  },
+  {
+    "id": 122,
+    "filename": "122.png",
+    "image_file_path": "Image/Enemies/122.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/122.png",
+    "names": [
+      {
+        "en": "Heartbleed-tall",
+        "ja": "ハートブリード トール",
+        "zh": "Heartbleed-tall"
+      }
+    ],
+    "enemy_types": [
+      122,
+      331,
+      632,
+      1032
+    ]
+  },
+  {
+    "id": 123,
+    "filename": "123.png",
+    "image_file_path": "Image/Enemies/123.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/123.png",
+    "names": [
+      {
+        "en": "Heartbleed-grande",
+        "ja": "ハートブリード グランデ",
+        "zh": "Heartbleed-grande"
+      }
+    ],
+    "enemy_types": [
+      123,
+      332,
+      633,
+      1033
+    ]
+  },
+  {
+    "id": 124,
+    "filename": "124.png",
+    "image_file_path": "Image/Enemies/124.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/124.png",
+    "names": [
+      {
+        "en": "Heartbleed-venti",
+        "ja": "ハートブリード ヴェンティ",
+        "zh": "Heartbleed-venti"
+      }
+    ],
+    "enemy_types": [
+      124,
+      333,
+      634,
+      1034
+    ]
+  },
+  {
+    "id": 125,
+    "filename": "125.png",
+    "image_file_path": "Image/Enemies/125.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/125.png",
+    "names": [
+      {
+        "en": "Heartbleed-macchiato",
+        "ja": "ハートブリード マキアート",
+        "zh": "Heartbleed-macchiato"
+      }
+    ],
+    "enemy_types": [
+      125,
+      334,
+      635,
+      1035
+    ]
+  },
+  {
+    "id": 126,
+    "filename": "126.png",
+    "image_file_path": "Image/Enemies/126.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/126.png",
+    "names": [
+      {
+        "en": "Heartbleed-frappuccino",
+        "ja": "ハートブリード フラペチーノ",
+        "zh": "Heartbleed-frappuccino"
+      }
+    ],
+    "enemy_types": [
+      126,
+      335,
+      636,
+      1036
+    ]
+  },
+  {
+    "id": 131,
+    "filename": "131.png",
+    "image_file_path": "Image/Enemies/131.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/131.png",
+    "names": [
+      {
+        "en": "Melissa-short",
+        "ja": "メリッサ ショート",
+        "zh": "Melissa-short"
+      }
+    ],
+    "enemy_types": [
+      131,
+      340,
+      641
+    ]
+  },
+  {
+    "id": 132,
+    "filename": "132.png",
+    "image_file_path": "Image/Enemies/132.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/132.png",
+    "names": [
+      {
+        "en": "Melissa-tall",
+        "ja": "メリッサ トール",
+        "zh": "Melissa-tall"
+      }
+    ],
+    "enemy_types": [
+      132,
+      341,
+      642
+    ]
+  },
+  {
+    "id": 133,
+    "filename": "133.png",
+    "image_file_path": "Image/Enemies/133.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/133.png",
+    "names": [
+      {
+        "en": "Melissa-grande",
+        "ja": "メリッサ グランデ",
+        "zh": "Melissa-grande"
+      }
+    ],
+    "enemy_types": [
+      133,
+      137,
+      342,
+      643
+    ]
+  },
+  {
+    "id": 134,
+    "filename": "134.png",
+    "image_file_path": "Image/Enemies/134.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/134.png",
+    "names": [
+      {
+        "en": "Melissa-venti",
+        "ja": "メリッサ ヴェンティ",
+        "zh": "Melissa-venti"
+      }
+    ],
+    "enemy_types": [
+      134,
+      138,
+      343,
+      644
+    ]
+  },
+  {
+    "id": 135,
+    "filename": "135.png",
+    "image_file_path": "Image/Enemies/135.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/135.png",
+    "names": [
+      {
+        "en": "Melissa-macchiato",
+        "ja": "メリッサ マキアート",
+        "zh": "Melissa-macchiato"
+      }
+    ],
+    "enemy_types": [
+      135,
+      344,
+      645
+    ]
+  },
+  {
+    "id": 136,
+    "filename": "136.png",
+    "image_file_path": "Image/Enemies/136.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/136.png",
+    "names": [
+      {
+        "en": "Melissa-frappuccino",
+        "ja": "メリッサ フラペチーノ",
+        "zh": "Melissa-frappuccino"
+      }
+    ],
+    "enemy_types": [
+      136,
+      345,
+      646
+    ]
+  },
+  {
+    "id": 137,
+    "filename": "137.png",
+    "image_file_path": "Image/Enemies/137.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/137.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 138,
+    "filename": "138.png",
+    "image_file_path": "Image/Enemies/138.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/138.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 141,
+    "filename": "141.png",
+    "image_file_path": "Image/Enemies/141.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/141.png",
+    "names": [
+      {
+        "en": "Creeper-tall doppio",
+        "ja": "クリーパー トール ドッピオ",
+        "zh": "Creeper-tall doppio"
+      }
+    ],
+    "enemy_types": [
+      141,
+      316,
+      617
+    ]
+  },
+  {
+    "id": 142,
+    "filename": "142.png",
+    "image_file_path": "Image/Enemies/142.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/142.png",
+    "names": [
+      {
+        "en": "Melissa-tall doppio",
+        "ja": "メリッサ トール ドッピオ",
+        "zh": "Melissa-tall doppio"
+      }
+    ],
+    "enemy_types": [
+      142,
+      346,
+      647
+    ]
+  },
+  {
+    "id": 143,
+    "filename": "143.png",
+    "image_file_path": "Image/Enemies/143.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/143.png",
+    "names": [
+      {
+        "en": "Creeper-grande doppio",
+        "ja": "クリーパー グランデ ドッピオ",
+        "zh": "Creeper-grande doppio"
+      }
+    ],
+    "enemy_types": [
+      143,
+      317,
+      618
+    ]
+  },
+  {
+    "id": 144,
+    "filename": "144.png",
+    "image_file_path": "Image/Enemies/144.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/144.png",
+    "names": [
+      {
+        "en": "Melissa-grande doppio",
+        "ja": "メリッサ グランデ ドッピオ",
+        "zh": "Melissa-grande doppio"
+      }
+    ],
+    "enemy_types": [
+      144,
+      347,
+      648
+    ]
+  },
+  {
+    "id": 145,
+    "filename": "145.png",
+    "image_file_path": "Image/Enemies/145.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/145.png",
+    "names": [
+      {
+        "en": "Creeper-venti doppio",
+        "ja": "クリーパー ヴェンティ ドッピオ",
+        "zh": "Creeper-venti doppio"
+      }
+    ],
+    "enemy_types": [
+      145,
+      318,
+      619
+    ]
+  },
+  {
+    "id": 146,
+    "filename": "146.png",
+    "image_file_path": "Image/Enemies/146.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/146.png",
+    "names": [
+      {
+        "en": "Melissa-venti doppio",
+        "ja": "メリッサ ヴェンティ ドッピオ",
+        "zh": "Melissa-venti doppio"
+      }
+    ],
+    "enemy_types": [
+      146,
+      348,
+      649
+    ]
+  },
+  {
+    "id": 147,
+    "filename": "147.png",
+    "image_file_path": "Image/Enemies/147.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/147.png",
+    "names": [
+      {
+        "en": "Creeper-frappuccino doppio",
+        "ja": "クリーパー フラペチーノ ドッピオ",
+        "zh": "Creeper-frappuccino doppio"
+      }
+    ],
+    "enemy_types": [
+      147,
+      319,
+      620
+    ]
+  },
+  {
+    "id": 148,
+    "filename": "148.png",
+    "image_file_path": "Image/Enemies/148.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/148.png",
+    "names": [
+      {
+        "en": "Melissa-frappuccino doppio",
+        "ja": "メリッサ フラペチーノ ドッピオ",
+        "zh": "Melissa-frappuccino doppio"
+      }
+    ],
+    "enemy_types": [
+      148,
+      349,
+      650
+    ]
+  },
+  {
+    "id": 149,
+    "filename": "149.png",
+    "image_file_path": "Image/Enemies/149.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/149.png",
+    "names": [
+      {
+        "en": "Elk Cloner-tall doppio",
+        "ja": "エルククローナ トール ドッピオ",
+        "zh": "Elk Cloner-tall doppio"
+      }
+    ],
+    "enemy_types": [
+      149,
+      326,
+      627
+    ]
+  },
+  {
+    "id": 150,
+    "filename": "150.png",
+    "image_file_path": "Image/Enemies/150.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/150.png",
+    "names": [
+      {
+        "en": "Elk Cloner-grande doppio",
+        "ja": "エルククローナ グランデ ドッピオ",
+        "zh": "Elk Cloner-grande doppio"
+      }
+    ],
+    "enemy_types": [
+      150,
+      327,
+      628
+    ]
+  },
+  {
+    "id": 151,
+    "filename": "151.png",
+    "image_file_path": "Image/Enemies/151.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/151.png",
+    "names": [
+      {
+        "en": "Elk Cloner-venti doppio",
+        "ja": "エルククローナ ヴェンティ ドッピオ",
+        "zh": "Elk Cloner-venti doppio"
+      }
+    ],
+    "enemy_types": [
+      151,
+      328,
+      629
+    ]
+  },
+  {
+    "id": 152,
+    "filename": "152.png",
+    "image_file_path": "Image/Enemies/152.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/152.png",
+    "names": [
+      {
+        "en": "Elk Cloner-frappuccino doppio",
+        "ja": "エルククローナ フラペチーノ ドッピオ",
+        "zh": "Elk Cloner-frappuccino doppio"
+      }
+    ],
+    "enemy_types": [
+      152,
+      329,
+      630
+    ]
+  },
+  {
+    "id": 153,
+    "filename": "153.png",
+    "image_file_path": "Image/Enemies/153.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/153.png",
+    "names": [
+      {
+        "en": "Heartbleed-tall doppio",
+        "ja": "ハートブリード トール ドッピオ",
+        "zh": "Heartbleed-tall doppio"
+      }
+    ],
+    "enemy_types": [
+      153,
+      336,
+      637,
+      1037
+    ]
+  },
+  {
+    "id": 154,
+    "filename": "154.png",
+    "image_file_path": "Image/Enemies/154.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/154.png",
+    "names": [
+      {
+        "en": "Heartbleed-grande doppio",
+        "ja": "ハートブリード グランデ ドッピオ",
+        "zh": "Heartbleed-grande doppio"
+      }
+    ],
+    "enemy_types": [
+      154,
+      337,
+      638,
+      1038
+    ]
+  },
+  {
+    "id": 155,
+    "filename": "155.png",
+    "image_file_path": "Image/Enemies/155.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/155.png",
+    "names": [
+      {
+        "en": "Heartbleed-venti doppio",
+        "ja": "ハートブリード ヴェンティ ドッピオ",
+        "zh": "Heartbleed-venti doppio"
+      }
+    ],
+    "enemy_types": [
+      155,
+      338,
+      639,
+      1039
+    ]
+  },
+  {
+    "id": 156,
+    "filename": "156.png",
+    "image_file_path": "Image/Enemies/156.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/156.png",
+    "names": [
+      {
+        "en": "Heartbleed-frappuccino doppio",
+        "ja": "ハートブリード フラペチーノ ドッピオ",
+        "zh": "Heartbleed-frappuccino doppio"
+      }
+    ],
+    "enemy_types": [
+      156,
+      339,
+      640,
+      1040
+    ]
+  },
+  {
+    "id": 161,
+    "filename": "161.png",
+    "image_file_path": "Image/Enemies/161.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/161.png",
+    "names": [
+      {
+        "en": "Byte Bandit-short",
+        "ja": "バイトバンディット ショート",
+        "zh": "Byte Bandit-short"
+      }
+    ],
+    "enemy_types": [
+      161,
+      350,
+      651,
+      1011
+    ]
+  },
+  {
+    "id": 162,
+    "filename": "162.png",
+    "image_file_path": "Image/Enemies/162.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/162.png",
+    "names": [
+      {
+        "en": "Byte Bandit-tall",
+        "ja": "バイトバンディット トール",
+        "zh": "Byte Bandit-tall"
+      }
+    ],
+    "enemy_types": [
+      162,
+      351,
+      652,
+      1012
+    ]
+  },
+  {
+    "id": 163,
+    "filename": "163.png",
+    "image_file_path": "Image/Enemies/163.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/163.png",
+    "names": [
+      {
+        "en": "Byte Bandit-grande",
+        "ja": "バイトバンディット グランデ",
+        "zh": "Byte Bandit-grande"
+      }
+    ],
+    "enemy_types": [
+      163,
+      352,
+      653,
+      1013
+    ]
+  },
+  {
+    "id": 164,
+    "filename": "164.png",
+    "image_file_path": "Image/Enemies/164.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/164.png",
+    "names": [
+      {
+        "en": "Byte Bandit-venti",
+        "ja": "バイトバンディット ヴェンティ",
+        "zh": "Byte Bandit-venti"
+      }
+    ],
+    "enemy_types": [
+      164,
+      353,
+      654,
+      1014
+    ]
+  },
+  {
+    "id": 165,
+    "filename": "165.png",
+    "image_file_path": "Image/Enemies/165.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/165.png",
+    "names": [
+      {
+        "en": "Byte Bandit-macchiato",
+        "ja": "バイトバンディット マキアート",
+        "zh": "Byte Bandit-macchiato"
+      }
+    ],
+    "enemy_types": [
+      165,
+      354,
+      655,
+      1015
+    ]
+  },
+  {
+    "id": 166,
+    "filename": "166.png",
+    "image_file_path": "Image/Enemies/166.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/166.png",
+    "names": [
+      {
+        "en": "Byte Bandit-frappuccino",
+        "ja": "バイトバンディット フラペチーノ",
+        "zh": "Byte Bandit-frappuccino"
+      }
+    ],
+    "enemy_types": [
+      166,
+      355,
+      656,
+      1016
+    ]
+  },
+  {
+    "id": 167,
+    "filename": "167.png",
+    "image_file_path": "Image/Enemies/167.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/167.png",
+    "names": [
+      {
+        "en": "Byte Bandit-tall doppio",
+        "ja": "バイトバンディット トール ドッピオ",
+        "zh": "Byte Bandit-tall doppio"
+      }
+    ],
+    "enemy_types": [
+      167,
+      356,
+      657,
+      1017
+    ]
+  },
+  {
+    "id": 168,
+    "filename": "168.png",
+    "image_file_path": "Image/Enemies/168.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/168.png",
+    "names": [
+      {
+        "en": "Byte Bandit-grande doppio",
+        "ja": "バイトバンディット グランデ ドッピオ",
+        "zh": "Byte Bandit-grande doppio"
+      }
+    ],
+    "enemy_types": [
+      168,
+      357,
+      658,
+      1018
+    ]
+  },
+  {
+    "id": 169,
+    "filename": "169.png",
+    "image_file_path": "Image/Enemies/169.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/169.png",
+    "names": [
+      {
+        "en": "Byte Bandit-venti doppio",
+        "ja": "バイトバンディット ヴェンティ ドッピオ",
+        "zh": "Byte Bandit-venti doppio"
+      }
+    ],
+    "enemy_types": [
+      169,
+      358,
+      659,
+      1019
+    ]
+  },
+  {
+    "id": 170,
+    "filename": "170.png",
+    "image_file_path": "Image/Enemies/170.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/170.png",
+    "names": [
+      {
+        "en": "Byte Bandit-frappuccino doppio",
+        "ja": "バイトバンディット フラペチーノ ドッピオ",
+        "zh": "Byte Bandit-frappuccino doppio"
+      }
+    ],
+    "enemy_types": [
+      170,
+      359,
+      660,
+      1020
+    ]
+  },
+  {
+    "id": 171,
+    "filename": "171.png",
+    "image_file_path": "Image/Enemies/171.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/171.png",
+    "names": [
+      {
+        "en": "ディープ・ヨシュカ",
+        "ja": "ディープ・ヨシュカ",
+        "zh": "ディープ・ヨシュカ"
+      },
+      {
+        "en": "Shin Deep-Yoshka",
+        "ja": "真・ディープ・ヨシュカ",
+        "zh": "Shin Deep-Yoshka"
+      }
+    ],
+    "enemy_types": [
+      171,
+      1007,
+      1182
+    ]
+  },
+  {
+    "id": 172,
+    "filename": "172.png",
+    "image_file_path": "Image/Enemies/172.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/172.png",
+    "names": [
+      {
+        "en": "ディープ・ヨシュカ",
+        "ja": "ディープ・ヨシュカ チョコラート",
+        "zh": "ディープ・ヨシュカ チョコラート"
+      }
+    ],
+    "enemy_types": [
+      172
+    ]
+  },
+  {
+    "id": 181,
+    "filename": "181.png",
+    "image_file_path": "Image/Enemies/181.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/181.png",
+    "names": [
+      {
+        "en": "Bagle-short",
+        "ja": "ベーグル ショート",
+        "zh": "Bagle-short"
+      }
+    ],
+    "enemy_types": [
+      181,
+      360,
+      661,
+      1021
+    ]
+  },
+  {
+    "id": 182,
+    "filename": "182.png",
+    "image_file_path": "Image/Enemies/182.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/182.png",
+    "names": [
+      {
+        "en": "Bagle-tall",
+        "ja": "ベーグル トール",
+        "zh": "Bagle-tall"
+      }
+    ],
+    "enemy_types": [
+      182,
+      361,
+      662,
+      1022
+    ]
+  },
+  {
+    "id": 183,
+    "filename": "183.png",
+    "image_file_path": "Image/Enemies/183.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/183.png",
+    "names": [
+      {
+        "en": "Bagle-grande",
+        "ja": "ベーグル グランデ",
+        "zh": "Bagle-grande"
+      }
+    ],
+    "enemy_types": [
+      183,
+      362,
+      663,
+      1023
+    ]
+  },
+  {
+    "id": 184,
+    "filename": "184.png",
+    "image_file_path": "Image/Enemies/184.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/184.png",
+    "names": [
+      {
+        "en": "Bagle-venti",
+        "ja": "ベーグル ヴェンティ",
+        "zh": "Bagle-venti"
+      }
+    ],
+    "enemy_types": [
+      184,
+      363,
+      664,
+      1024
+    ]
+  },
+  {
+    "id": 185,
+    "filename": "185.png",
+    "image_file_path": "Image/Enemies/185.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/185.png",
+    "names": [
+      {
+        "en": "Bagle-macchiato",
+        "ja": "ベーグル マキアート",
+        "zh": "Bagle-macchiato"
+      }
+    ],
+    "enemy_types": [
+      185,
+      364,
+      665,
+      1025
+    ]
+  },
+  {
+    "id": 186,
+    "filename": "186.png",
+    "image_file_path": "Image/Enemies/186.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/186.png",
+    "names": [
+      {
+        "en": "Bagle-frappuccino",
+        "ja": "ベーグル フラペチーノ",
+        "zh": "Bagle-frappuccino"
+      }
+    ],
+    "enemy_types": [
+      186,
+      365,
+      666,
+      1026
+    ]
+  },
+  {
+    "id": 310,
+    "filename": "310.png",
+    "image_file_path": "Image/Enemies/310.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/310.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 311,
+    "filename": "311.png",
+    "image_file_path": "Image/Enemies/311.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/311.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 312,
+    "filename": "312.png",
+    "image_file_path": "Image/Enemies/312.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/312.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 313,
+    "filename": "313.png",
+    "image_file_path": "Image/Enemies/313.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/313.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 314,
+    "filename": "314.png",
+    "image_file_path": "Image/Enemies/314.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/314.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 315,
+    "filename": "315.png",
+    "image_file_path": "Image/Enemies/315.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/315.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 316,
+    "filename": "316.png",
+    "image_file_path": "Image/Enemies/316.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/316.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 317,
+    "filename": "317.png",
+    "image_file_path": "Image/Enemies/317.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/317.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 318,
+    "filename": "318.png",
+    "image_file_path": "Image/Enemies/318.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/318.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 319,
+    "filename": "319.png",
+    "image_file_path": "Image/Enemies/319.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/319.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 320,
+    "filename": "320.png",
+    "image_file_path": "Image/Enemies/320.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/320.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 321,
+    "filename": "321.png",
+    "image_file_path": "Image/Enemies/321.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/321.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 322,
+    "filename": "322.png",
+    "image_file_path": "Image/Enemies/322.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/322.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 323,
+    "filename": "323.png",
+    "image_file_path": "Image/Enemies/323.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/323.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 324,
+    "filename": "324.png",
+    "image_file_path": "Image/Enemies/324.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/324.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 325,
+    "filename": "325.png",
+    "image_file_path": "Image/Enemies/325.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/325.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 326,
+    "filename": "326.png",
+    "image_file_path": "Image/Enemies/326.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/326.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 327,
+    "filename": "327.png",
+    "image_file_path": "Image/Enemies/327.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/327.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 328,
+    "filename": "328.png",
+    "image_file_path": "Image/Enemies/328.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/328.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 329,
+    "filename": "329.png",
+    "image_file_path": "Image/Enemies/329.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/329.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 330,
+    "filename": "330.png",
+    "image_file_path": "Image/Enemies/330.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/330.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 331,
+    "filename": "331.png",
+    "image_file_path": "Image/Enemies/331.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/331.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 332,
+    "filename": "332.png",
+    "image_file_path": "Image/Enemies/332.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/332.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 333,
+    "filename": "333.png",
+    "image_file_path": "Image/Enemies/333.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/333.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 334,
+    "filename": "334.png",
+    "image_file_path": "Image/Enemies/334.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/334.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 335,
+    "filename": "335.png",
+    "image_file_path": "Image/Enemies/335.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/335.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 336,
+    "filename": "336.png",
+    "image_file_path": "Image/Enemies/336.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/336.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 337,
+    "filename": "337.png",
+    "image_file_path": "Image/Enemies/337.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/337.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 338,
+    "filename": "338.png",
+    "image_file_path": "Image/Enemies/338.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/338.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 339,
+    "filename": "339.png",
+    "image_file_path": "Image/Enemies/339.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/339.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 340,
+    "filename": "340.png",
+    "image_file_path": "Image/Enemies/340.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/340.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 341,
+    "filename": "341.png",
+    "image_file_path": "Image/Enemies/341.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/341.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 342,
+    "filename": "342.png",
+    "image_file_path": "Image/Enemies/342.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/342.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 343,
+    "filename": "343.png",
+    "image_file_path": "Image/Enemies/343.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/343.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 344,
+    "filename": "344.png",
+    "image_file_path": "Image/Enemies/344.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/344.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 345,
+    "filename": "345.png",
+    "image_file_path": "Image/Enemies/345.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/345.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 346,
+    "filename": "346.png",
+    "image_file_path": "Image/Enemies/346.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/346.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 347,
+    "filename": "347.png",
+    "image_file_path": "Image/Enemies/347.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/347.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 348,
+    "filename": "348.png",
+    "image_file_path": "Image/Enemies/348.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/348.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 349,
+    "filename": "349.png",
+    "image_file_path": "Image/Enemies/349.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/349.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 350,
+    "filename": "350.png",
+    "image_file_path": "Image/Enemies/350.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/350.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 351,
+    "filename": "351.png",
+    "image_file_path": "Image/Enemies/351.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/351.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 352,
+    "filename": "352.png",
+    "image_file_path": "Image/Enemies/352.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/352.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 353,
+    "filename": "353.png",
+    "image_file_path": "Image/Enemies/353.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/353.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 354,
+    "filename": "354.png",
+    "image_file_path": "Image/Enemies/354.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/354.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 355,
+    "filename": "355.png",
+    "image_file_path": "Image/Enemies/355.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/355.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 356,
+    "filename": "356.png",
+    "image_file_path": "Image/Enemies/356.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/356.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 357,
+    "filename": "357.png",
+    "image_file_path": "Image/Enemies/357.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/357.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 358,
+    "filename": "358.png",
+    "image_file_path": "Image/Enemies/358.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/358.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 359,
+    "filename": "359.png",
+    "image_file_path": "Image/Enemies/359.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/359.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 360,
+    "filename": "360.png",
+    "image_file_path": "Image/Enemies/360.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/360.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 361,
+    "filename": "361.png",
+    "image_file_path": "Image/Enemies/361.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/361.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 362,
+    "filename": "362.png",
+    "image_file_path": "Image/Enemies/362.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/362.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 363,
+    "filename": "363.png",
+    "image_file_path": "Image/Enemies/363.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/363.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 364,
+    "filename": "364.png",
+    "image_file_path": "Image/Enemies/364.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/364.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 365,
+    "filename": "365.png",
+    "image_file_path": "Image/Enemies/365.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/365.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 366,
+    "filename": "366.png",
+    "image_file_path": "Image/Enemies/366.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/366.png",
+    "names": [
+      {
+        "en": "Bagle-tall doppio",
+        "ja": "ベーグル トール ドッピオ",
+        "zh": "Bagle-tall doppio"
+      }
+    ],
+    "enemy_types": [
+      366,
+      667,
+      1027
+    ]
+  },
+  {
+    "id": 367,
+    "filename": "367.png",
+    "image_file_path": "Image/Enemies/367.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/367.png",
+    "names": [
+      {
+        "en": "Bagle-grande doppio",
+        "ja": "ベーグル グランデ ドッピオ",
+        "zh": "Bagle-grande doppio"
+      }
+    ],
+    "enemy_types": [
+      367,
+      668,
+      1028
+    ]
+  },
+  {
+    "id": 368,
+    "filename": "368.png",
+    "image_file_path": "Image/Enemies/368.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/368.png",
+    "names": [
+      {
+        "en": "Bagle-venti doppio",
+        "ja": "ベーグル ヴェンティ ドッピオ",
+        "zh": "Bagle-venti doppio"
+      }
+    ],
+    "enemy_types": [
+      368,
+      669,
+      1029
+    ]
+  },
+  {
+    "id": 369,
+    "filename": "369.png",
+    "image_file_path": "Image/Enemies/369.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/369.png",
+    "names": [
+      {
+        "en": "Bagle-frappuccino doppio",
+        "ja": "ベーグル フラペチーノ ドッピオ",
+        "zh": "Bagle-frappuccino doppio"
+      }
+    ],
+    "enemy_types": [
+      369,
+      670,
+      1030
+    ]
+  },
+  {
+    "id": 370,
+    "filename": "370.png",
+    "image_file_path": "Image/Enemies/370.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/370.png",
+    "names": [
+      {
+        "en": "Heisei Yoshka",
+        "ja": "ヘイセイ・ヨシュカ",
+        "zh": "Heisei Yoshka"
+      }
+    ],
+    "enemy_types": [
+      370
+    ]
+  },
+  {
+    "id": 371,
+    "filename": "371.png",
+    "image_file_path": "Image/Enemies/371.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/371.png",
+    "names": [
+      {
+        "en": "Monsoon Yoshka",
+        "ja": "モンスーン・ヨシュカ",
+        "zh": "Monsoon Yoshka"
+      }
+    ],
+    "enemy_types": [
+      371
+    ]
+  },
+  {
+    "id": 372,
+    "filename": "372.png",
+    "image_file_path": "Image/Enemies/372.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/372.png",
+    "names": [
+      {
+        "en": "Puli Beast",
+        "ja": "プーリー・ビースト",
+        "zh": "Puli Beast"
+      }
+    ],
+    "enemy_types": [
+      372
+    ]
+  },
+  {
+    "id": 373,
+    "filename": "373.png",
+    "image_file_path": "Image/Enemies/373.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/373.png",
+    "names": [
+      {
+        "en": "Dark Lord Fao",
+        "ja": "覚醒魔王ファオ ",
+        "zh": "Dark Lord Fao"
+      },
+      {
+        "en": "Fao Phantom",
+        "ja": "ファオ・ファントム",
+        "zh": "Fao Phantom"
+      }
+    ],
+    "enemy_types": [
+      373,
+      1188
+    ]
+  },
+  {
+    "id": 374,
+    "filename": "374.png",
+    "image_file_path": "Image/Enemies/374.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/374.png",
+    "names": [
+      {
+        "en": "Halloween Puli",
+        "ja": "ハロウィン・プーリー",
+        "zh": "Halloween Puli"
+      }
+    ],
+    "enemy_types": [
+      374
+    ]
+  },
+  {
+    "id": 375,
+    "filename": "375.png",
+    "image_file_path": "Image/Enemies/375.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/375.png",
+    "names": [
+      {
+        "en": "Cascade-short",
+        "ja": "カスケード ショート",
+        "zh": "Cascade-short"
+      }
+    ],
+    "enemy_types": [
+      375
+    ]
+  },
+  {
+    "id": 376,
+    "filename": "376.png",
+    "image_file_path": "Image/Enemies/376.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/376.png",
+    "names": [
+      {
+        "en": "Cascade-tall",
+        "ja": "カスケード トール",
+        "zh": "Cascade-tall"
+      }
+    ],
+    "enemy_types": [
+      376
+    ]
+  },
+  {
+    "id": 377,
+    "filename": "377.png",
+    "image_file_path": "Image/Enemies/377.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/377.png",
+    "names": [
+      {
+        "en": "Cascade-grande",
+        "ja": "カスケード グランデ",
+        "zh": "Cascade-grande"
+      }
+    ],
+    "enemy_types": [
+      377
+    ]
+  },
+  {
+    "id": 378,
+    "filename": "378.png",
+    "image_file_path": "Image/Enemies/378.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/378.png",
+    "names": [
+      {
+        "en": "Cascade-venti",
+        "ja": "カスケード ヴェンティ",
+        "zh": "Cascade-venti"
+      }
+    ],
+    "enemy_types": [
+      378
+    ]
+  },
+  {
+    "id": 379,
+    "filename": "379.png",
+    "image_file_path": "Image/Enemies/379.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/379.png",
+    "names": [
+      {
+        "en": "Cascade-macchiato",
+        "ja": "カスケード マキアート",
+        "zh": "Cascade-macchiato"
+      }
+    ],
+    "enemy_types": [
+      379
+    ]
+  },
+  {
+    "id": 380,
+    "filename": "380.png",
+    "image_file_path": "Image/Enemies/380.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/380.png",
+    "names": [
+      {
+        "en": "Cascade-frappuccino",
+        "ja": "カスケード フラペチーノ",
+        "zh": "Cascade-frappuccino"
+      }
+    ],
+    "enemy_types": [
+      380
+    ]
+  },
+  {
+    "id": 381,
+    "filename": "381.png",
+    "image_file_path": "Image/Enemies/381.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/381.png",
+    "names": [
+      {
+        "en": "Cascade-tall doppio",
+        "ja": "カスケード トール ドッピオ",
+        "zh": "Cascade-tall doppio"
+      }
+    ],
+    "enemy_types": [
+      381
+    ]
+  },
+  {
+    "id": 382,
+    "filename": "382.png",
+    "image_file_path": "Image/Enemies/382.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/382.png",
+    "names": [
+      {
+        "en": "Cascade-grande doppio",
+        "ja": "カスケード グランデ ドッピオ",
+        "zh": "Cascade-grande doppio"
+      }
+    ],
+    "enemy_types": [
+      382
+    ]
+  },
+  {
+    "id": 383,
+    "filename": "383.png",
+    "image_file_path": "Image/Enemies/383.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/383.png",
+    "names": [
+      {
+        "en": "Cascade-venti doppio",
+        "ja": "カスケード ヴェンティ ドッピオ",
+        "zh": "Cascade-venti doppio"
+      }
+    ],
+    "enemy_types": [
+      383
+    ]
+  },
+  {
+    "id": 384,
+    "filename": "384.png",
+    "image_file_path": "Image/Enemies/384.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/384.png",
+    "names": [
+      {
+        "en": "Cascade-macchiato doppio",
+        "ja": "カスケード マキアート ドッピオ",
+        "zh": "Cascade-macchiato doppio"
+      }
+    ],
+    "enemy_types": [
+      384
+    ]
+  },
+  {
+    "id": 385,
+    "filename": "385.png",
+    "image_file_path": "Image/Enemies/385.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/385.png",
+    "names": [
+      {
+        "en": "Cascade-frappuccino doppio",
+        "ja": "カスケード フラペチーノ ドッピオ",
+        "zh": "Cascade-frappuccino doppio"
+      }
+    ],
+    "enemy_types": [
+      385
+    ]
+  },
+  {
+    "id": 386,
+    "filename": "386.png",
+    "image_file_path": "Image/Enemies/386.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/386.png",
+    "names": [
+      {
+        "en": "Rabbit-short",
+        "ja": "ラビット ショート",
+        "zh": "Rabbit-short"
+      }
+    ],
+    "enemy_types": [
+      386
+    ]
+  },
+  {
+    "id": 387,
+    "filename": "387.png",
+    "image_file_path": "Image/Enemies/387.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/387.png",
+    "names": [
+      {
+        "en": "Rabbit-tall",
+        "ja": "ラビット トール",
+        "zh": "Rabbit-tall"
+      }
+    ],
+    "enemy_types": [
+      387
+    ]
+  },
+  {
+    "id": 388,
+    "filename": "388.png",
+    "image_file_path": "Image/Enemies/388.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/388.png",
+    "names": [
+      {
+        "en": "Rabbit-grande",
+        "ja": "ラビット グランデ",
+        "zh": "Rabbit-grande"
+      }
+    ],
+    "enemy_types": [
+      388
+    ]
+  },
+  {
+    "id": 389,
+    "filename": "389.png",
+    "image_file_path": "Image/Enemies/389.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/389.png",
+    "names": [
+      {
+        "en": "Rabbit-venti",
+        "ja": "ラビット ヴェンティ",
+        "zh": "Rabbit-venti"
+      }
+    ],
+    "enemy_types": [
+      389
+    ]
+  },
+  {
+    "id": 390,
+    "filename": "390.png",
+    "image_file_path": "Image/Enemies/390.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/390.png",
+    "names": [
+      {
+        "en": "Rabbit-macchiato",
+        "ja": "ラビット マキアート",
+        "zh": "Rabbit-macchiato"
+      }
+    ],
+    "enemy_types": [
+      390
+    ]
+  },
+  {
+    "id": 391,
+    "filename": "391.png",
+    "image_file_path": "Image/Enemies/391.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/391.png",
+    "names": [
+      {
+        "en": "Rabbit-frappuccino",
+        "ja": "ラビット フラペチーノ",
+        "zh": "Rabbit-frappuccino"
+      }
+    ],
+    "enemy_types": [
+      391
+    ]
+  },
+  {
+    "id": 392,
+    "filename": "392.png",
+    "image_file_path": "Image/Enemies/392.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/392.png",
+    "names": [
+      {
+        "en": "Rabbit-tall doppio",
+        "ja": "ラビット トール ドッピオ",
+        "zh": "Rabbit-tall doppio"
+      }
+    ],
+    "enemy_types": [
+      392
+    ]
+  },
+  {
+    "id": 393,
+    "filename": "393.png",
+    "image_file_path": "Image/Enemies/393.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/393.png",
+    "names": [
+      {
+        "en": "Rabbit-grande doppio",
+        "ja": "ラビット グランデ ドッピオ",
+        "zh": "Rabbit-grande doppio"
+      }
+    ],
+    "enemy_types": [
+      393
+    ]
+  },
+  {
+    "id": 394,
+    "filename": "394.png",
+    "image_file_path": "Image/Enemies/394.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/394.png",
+    "names": [
+      {
+        "en": "Rabbit-venti doppio",
+        "ja": "ラビット ヴェンティ ドッピオ",
+        "zh": "Rabbit-venti doppio"
+      }
+    ],
+    "enemy_types": [
+      394
+    ]
+  },
+  {
+    "id": 395,
+    "filename": "395.png",
+    "image_file_path": "Image/Enemies/395.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/395.png",
+    "names": [
+      {
+        "en": "Rabbit-macchiato doppio",
+        "ja": "ラビット マキアート ドッピオ",
+        "zh": "Rabbit-macchiato doppio"
+      }
+    ],
+    "enemy_types": [
+      395
+    ]
+  },
+  {
+    "id": 396,
+    "filename": "396.png",
+    "image_file_path": "Image/Enemies/396.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/396.png",
+    "names": [
+      {
+        "en": "Rabbit-frappuccino doppio",
+        "ja": "ラビット フラペチーノ ドッピオ",
+        "zh": "Rabbit-frappuccino doppio"
+      }
+    ],
+    "enemy_types": [
+      396
+    ]
+  },
+  {
+    "id": 397,
+    "filename": "397.png",
+    "image_file_path": "Image/Enemies/397.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/397.png",
+    "names": [
+      {
+        "en": "Love letter-short",
+        "ja": "ラブレター ショート",
+        "zh": "Love letter-short"
+      }
+    ],
+    "enemy_types": [
+      397
+    ]
+  },
+  {
+    "id": 398,
+    "filename": "398.png",
+    "image_file_path": "Image/Enemies/398.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/398.png",
+    "names": [
+      {
+        "en": "Love letter-tall",
+        "ja": "ラブレター トール",
+        "zh": "Love letter-tall"
+      }
+    ],
+    "enemy_types": [
+      398
+    ]
+  },
+  {
+    "id": 399,
+    "filename": "399.png",
+    "image_file_path": "Image/Enemies/399.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/399.png",
+    "names": [
+      {
+        "en": "Love letter-grande",
+        "ja": "ラブレター グランデ",
+        "zh": "Love letter-grande"
+      }
+    ],
+    "enemy_types": [
+      399
+    ]
+  },
+  {
+    "id": 400,
+    "filename": "400.png",
+    "image_file_path": "Image/Enemies/400.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/400.png",
+    "names": [
+      {
+        "en": "Love letter-venti",
+        "ja": "ラブレター ヴェンティ",
+        "zh": "Love letter-venti"
+      }
+    ],
+    "enemy_types": [
+      400
+    ]
+  },
+  {
+    "id": 401,
+    "filename": "401.png",
+    "image_file_path": "Image/Enemies/401.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/401.png",
+    "names": [
+      {
+        "en": "Love letter-macchiato",
+        "ja": "ラブレター マキアート",
+        "zh": "Love letter-macchiato"
+      }
+    ],
+    "enemy_types": [
+      401
+    ]
+  },
+  {
+    "id": 402,
+    "filename": "402.png",
+    "image_file_path": "Image/Enemies/402.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/402.png",
+    "names": [
+      {
+        "en": "Love letter-frappuccino",
+        "ja": "ラブレター フラペチーノ",
+        "zh": "Love letter-frappuccino"
+      }
+    ],
+    "enemy_types": [
+      402
+    ]
+  },
+  {
+    "id": 403,
+    "filename": "403.png",
+    "image_file_path": "Image/Enemies/403.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/403.png",
+    "names": [
+      {
+        "en": "Love letter-tall doppio",
+        "ja": "ラブレター トール ドッピオ",
+        "zh": "Love letter-tall doppio"
+      }
+    ],
+    "enemy_types": [
+      403
+    ]
+  },
+  {
+    "id": 404,
+    "filename": "404.png",
+    "image_file_path": "Image/Enemies/404.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/404.png",
+    "names": [
+      {
+        "en": "Love letter-grande doppio",
+        "ja": "ラブレター グランデ ドッピオ",
+        "zh": "Love letter-grande doppio"
+      }
+    ],
+    "enemy_types": [
+      404
+    ]
+  },
+  {
+    "id": 405,
+    "filename": "405.png",
+    "image_file_path": "Image/Enemies/405.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/405.png",
+    "names": [
+      {
+        "en": "Love letter-venti doppio",
+        "ja": "ラブレター ヴェンティ ドッピオ",
+        "zh": "Love letter-venti doppio"
+      }
+    ],
+    "enemy_types": [
+      405
+    ]
+  },
+  {
+    "id": 406,
+    "filename": "406.png",
+    "image_file_path": "Image/Enemies/406.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/406.png",
+    "names": [
+      {
+        "en": "Love letter-macchiato doppio",
+        "ja": "ラブレター マキアート ドッピオ",
+        "zh": "Love letter-macchiato doppio"
+      }
+    ],
+    "enemy_types": [
+      406
+    ]
+  },
+  {
+    "id": 407,
+    "filename": "407.png",
+    "image_file_path": "Image/Enemies/407.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/407.png",
+    "names": [
+      {
+        "en": "Love letter-frappuccino doppio",
+        "ja": "ラブレター フラペチーノ ドッピオ",
+        "zh": "Love letter-frappuccino doppio"
+      }
+    ],
+    "enemy_types": [
+      407
+    ]
+  },
+  {
+    "id": 408,
+    "filename": "408.png",
+    "image_file_path": "Image/Enemies/408.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/408.png",
+    "names": [
+      {
+        "en": "Chameleon-short",
+        "ja": "カメレオン ショート",
+        "zh": "Chameleon-short"
+      }
+    ],
+    "enemy_types": [
+      408
+    ]
+  },
+  {
+    "id": 409,
+    "filename": "409.png",
+    "image_file_path": "Image/Enemies/409.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/409.png",
+    "names": [
+      {
+        "en": "Chameleon-tall",
+        "ja": "カメレオン トール",
+        "zh": "Chameleon-tall"
+      }
+    ],
+    "enemy_types": [
+      409
+    ]
+  },
+  {
+    "id": 410,
+    "filename": "410.png",
+    "image_file_path": "Image/Enemies/410.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/410.png",
+    "names": [
+      {
+        "en": "Chameleon-grande",
+        "ja": "カメレオン グランデ",
+        "zh": "Chameleon-grande"
+      }
+    ],
+    "enemy_types": [
+      410
+    ]
+  },
+  {
+    "id": 411,
+    "filename": "411.png",
+    "image_file_path": "Image/Enemies/411.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/411.png",
+    "names": [
+      {
+        "en": "Chameleon-venti",
+        "ja": "カメレオン ヴェンティ",
+        "zh": "Chameleon-venti"
+      }
+    ],
+    "enemy_types": [
+      411
+    ]
+  },
+  {
+    "id": 412,
+    "filename": "412.png",
+    "image_file_path": "Image/Enemies/412.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/412.png",
+    "names": [
+      {
+        "en": "Chameleon-macchiato",
+        "ja": "カメレオン マキアート",
+        "zh": "Chameleon-macchiato"
+      }
+    ],
+    "enemy_types": [
+      412
+    ]
+  },
+  {
+    "id": 413,
+    "filename": "413.png",
+    "image_file_path": "Image/Enemies/413.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/413.png",
+    "names": [
+      {
+        "en": "Chameleon-frappuccino",
+        "ja": "カメレオン フラペチーノ",
+        "zh": "Chameleon-frappuccino"
+      }
+    ],
+    "enemy_types": [
+      413
+    ]
+  },
+  {
+    "id": 414,
+    "filename": "414.png",
+    "image_file_path": "Image/Enemies/414.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/414.png",
+    "names": [
+      {
+        "en": "Chameleon-tall doppio",
+        "ja": "カメレオン トール ドッピオ",
+        "zh": "Chameleon-tall doppio"
+      }
+    ],
+    "enemy_types": [
+      414
+    ]
+  },
+  {
+    "id": 415,
+    "filename": "415.png",
+    "image_file_path": "Image/Enemies/415.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/415.png",
+    "names": [
+      {
+        "en": "Chameleon-grande doppio",
+        "ja": "カメレオン グランデ ドッピオ",
+        "zh": "Chameleon-grande doppio"
+      }
+    ],
+    "enemy_types": [
+      415
+    ]
+  },
+  {
+    "id": 416,
+    "filename": "416.png",
+    "image_file_path": "Image/Enemies/416.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/416.png",
+    "names": [
+      {
+        "en": "Chameleon-venti doppio",
+        "ja": "カメレオン ヴェンティ ドッピオ",
+        "zh": "Chameleon-venti doppio"
+      }
+    ],
+    "enemy_types": [
+      416
+    ]
+  },
+  {
+    "id": 417,
+    "filename": "417.png",
+    "image_file_path": "Image/Enemies/417.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/417.png",
+    "names": [
+      {
+        "en": "Chameleon-macchiato doppio",
+        "ja": "カメレオン マキアート ドッピオ",
+        "zh": "Chameleon-macchiato doppio"
+      }
+    ],
+    "enemy_types": [
+      417
+    ]
+  },
+  {
+    "id": 418,
+    "filename": "418.png",
+    "image_file_path": "Image/Enemies/418.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/418.png",
+    "names": [
+      {
+        "en": "Chameleon-frappuccino doppio",
+        "ja": "カメレオン フラペチーノ ドッピオ",
+        "zh": "Chameleon-frappuccino doppio"
+      }
+    ],
+    "enemy_types": [
+      418,
+      676,
+      677
+    ]
+  },
+  {
+    "id": 419,
+    "filename": "419.png",
+    "image_file_path": "Image/Enemies/419.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/419.png",
+    "names": [
+      {
+        "en": "Pluto",
+        "ja": "プルートウ",
+        "zh": "Pluto"
+      }
+    ],
+    "enemy_types": [
+      419
+    ]
+  },
+  {
+    "id": 420,
+    "filename": "420.png",
+    "image_file_path": "Image/Enemies/420.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/420.png",
+    "names": [
+      {
+        "en": "Deep Yoshka Cioccolato 2020",
+        "ja": "ディープ・ヨシュカ チョコラート 2020",
+        "zh": "Deep Yoshka Cioccolato 2020"
+      }
+    ],
+    "enemy_types": [
+      420
+    ]
+  },
+  {
+    "id": 421,
+    "filename": "421.png",
+    "image_file_path": "Image/Enemies/421.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/421.png",
+    "names": [
+      {
+        "en": "Ghost Brothers Grimm",
+        "ja": "ゴースト・グリム兄弟",
+        "zh": "Ghost Brothers Grimm"
+      }
+    ],
+    "enemy_types": [
+      421,
+      562,
+      719,
+      720,
+      721,
+      746,
+      752,
+      773,
+      1047,
+      1048,
+      1049,
+      1059,
+      1060,
+      1061,
+      1065,
+      1079,
+      1083
+    ]
+  },
+  {
+    "id": 422,
+    "filename": "422.png",
+    "image_file_path": "Image/Enemies/422.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/422.png",
+    "names": [
+      {
+        "en": "Ghost Tokugawa Yoshinobu",
+        "ja": "ゴースト・徳川慶喜",
+        "zh": "Ghost Tokugawa Yoshinobu"
+      }
+    ],
+    "enemy_types": [
+      422,
+      723,
+      724,
+      747,
+      748,
+      766,
+      862
+    ]
+  },
+  {
+    "id": 423,
+    "filename": "423.png",
+    "image_file_path": "Image/Enemies/423.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/423.png",
+    "names": [
+      {
+        "en": "Ghost Ludwig van Beethoven",
+        "ja": "ゴースト・ベートーヴェン",
+        "zh": "Ghost Ludwig van Beethoven"
+      }
+    ],
+    "enemy_types": [
+      423,
+      439,
+      465,
+      512,
+      531,
+      585,
+      833,
+      840,
+      847,
+      851,
+      860,
+      868,
+      877,
+      878,
+      1114,
+      1123,
+      1132
+    ]
+  },
+  {
+    "id": 424,
+    "filename": "424.png",
+    "image_file_path": "Image/Enemies/424.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/424.png",
+    "names": [
+      {
+        "en": "Ghost Vincent van Gogh",
+        "ja": "ゴースト・ゴッホ",
+        "zh": "Ghost Vincent van Gogh"
+      }
+    ],
+    "enemy_types": [
+      424,
+      511,
+      514,
+      516,
+      527,
+      533,
+      846,
+      852,
+      861,
+      867,
+      907,
+      936,
+      1124
+    ]
+  },
+  {
+    "id": 425,
+    "filename": "425.png",
+    "image_file_path": "Image/Enemies/425.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/425.png",
+    "names": [
+      {
+        "en": "Ghost Uesugi Kenshin",
+        "ja": "ゴースト・上杉謙信",
+        "zh": "Ghost Uesugi Kenshin"
+      }
+    ],
+    "enemy_types": [
+      425,
+      513,
+      518,
+      539,
+      546,
+      835,
+      866,
+      875,
+      1115
+    ]
+  },
+  {
+    "id": 426,
+    "filename": "426.png",
+    "image_file_path": "Image/Enemies/426.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/426.png",
+    "names": [
+      {
+        "en": "Ghost Richard I",
+        "ja": "ゴースト・リチャード1世",
+        "zh": "Ghost Richard I"
+      }
+    ],
+    "enemy_types": [
+      426,
+      567,
+      900,
+      915,
+      917,
+      923,
+      933,
+      939,
+      948,
+      962,
+      977,
+      1147,
+      1157,
+      1162
+    ]
+  },
+  {
+    "id": 427,
+    "filename": "427.png",
+    "image_file_path": "Image/Enemies/427.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/427.png",
+    "names": [
+      {
+        "en": "Ghost Albert Einstein",
+        "ja": "ゴースト・アインシュタイン",
+        "zh": "Ghost Albert Einstein"
+      }
+    ],
+    "enemy_types": [
+      427,
+      449,
+      458,
+      471,
+      590,
+      607,
+      894,
+      901,
+      903,
+      909,
+      916,
+      929,
+      934,
+      945,
+      949,
+      951,
+      964,
+      966,
+      975,
+      982,
+      988,
+      991,
+      997,
+      1143,
+      1146,
+      1155,
+      1161,
+      1179
+    ]
+  },
+  {
+    "id": 428,
+    "filename": "428.png",
+    "image_file_path": "Image/Enemies/428.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/428.png",
+    "names": [
+      {
+        "en": "Ghost Abe no Seimei",
+        "ja": "ゴースト・安倍晴明",
+        "zh": "Ghost Abe no Seimei"
+      }
+    ],
+    "enemy_types": [
+      428,
+      902,
+      918,
+      943,
+      1173
+    ]
+  },
+  {
+    "id": 429,
+    "filename": "429.png",
+    "image_file_path": "Image/Enemies/429.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/429.png",
+    "names": [
+      {
+        "en": "Ghost Joan of Arc",
+        "ja": "ゴースト・ジャンヌ・ダルク",
+        "zh": "Ghost Joan of Arc"
+      }
+    ],
+    "enemy_types": [
+      429,
+      678,
+      971,
+      973,
+      1142
+    ]
+  },
+  {
+    "id": 430,
+    "filename": "430.png",
+    "image_file_path": "Image/Enemies/430.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/430.png",
+    "names": [
+      {
+        "en": "Ghost Trưng Sisters",
+        "ja": "ゴースト・チュン姉妹",
+        "zh": "Ghost Trưng Sisters"
+      }
+    ],
+    "enemy_types": [
+      430,
+      583,
+      770,
+      771,
+      772
+    ]
+  },
+  {
+    "id": 431,
+    "filename": "431.png",
+    "image_file_path": "Image/Enemies/431.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/431.png",
+    "names": [
+      {
+        "en": "Ghost Lakshmi Bai",
+        "ja": "ゴースト・ラクシュミー・バーイ",
+        "zh": "Ghost Lakshmi Bai"
+      }
+    ],
+    "enemy_types": [
+      431,
+      581,
+      790,
+      812,
+      813,
+      814,
+      825,
+      1089,
+      1091,
+      1092,
+      1095,
+      1096,
+      1098,
+      1100,
+      1101,
+      1104,
+      1108,
+      1109
+    ]
+  },
+  {
+    "id": 432,
+    "filename": "432.png",
+    "image_file_path": "Image/Enemies/432.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/432.png",
+    "names": [
+      {
+        "en": "Ghost Diao Chan",
+        "ja": "ゴースト・貂蝉",
+        "zh": "Ghost Diao Chan"
+      }
+    ],
+    "enemy_types": [
+      432,
+      674,
+      800,
+      801,
+      802,
+      816,
+      826,
+      1086,
+      1088
+    ]
+  },
+  {
+    "id": 433,
+    "filename": "433.png",
+    "image_file_path": "Image/Enemies/433.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/433.png",
+    "names": [
+      {
+        "en": "Ghost Cleopatra",
+        "ja": "ゴースト・クレオパトラ",
+        "zh": "Ghost Cleopatra"
+      }
+    ],
+    "enemy_types": [
+      433,
+      501,
+      992,
+      993,
+      994
+    ]
+  },
+  {
+    "id": 434,
+    "filename": "434.png",
+    "image_file_path": "Image/Enemies/434.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/434.png",
+    "names": [
+      {
+        "en": "Ghost Ono no Komachi",
+        "ja": "ゴースト・小野小町",
+        "zh": "Ghost Ono no Komachi"
+      }
+    ],
+    "enemy_types": [
+      434,
+      798,
+      842,
+      911,
+      979,
+      1090,
+      1093,
+      1103,
+      1105
+    ]
+  },
+  {
+    "id": 435,
+    "filename": "435.png",
+    "image_file_path": "Image/Enemies/435.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/435.png",
+    "names": [
+      {
+        "en": "Ghost Yang Guifei",
+        "ja": "ゴースト・楊貴妃",
+        "zh": "Ghost Yang Guifei"
+      }
+    ],
+    "enemy_types": [
+      435,
+      576
+    ]
+  },
+  {
+    "id": 436,
+    "filename": "436.png",
+    "image_file_path": "Image/Enemies/436.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/436.png",
+    "names": [
+      {
+        "en": "Ghost Kondo Isami",
+        "ja": "ゴースト・近藤勇",
+        "zh": "Ghost Kondo Isami"
+      }
+    ],
+    "enemy_types": [
+      436,
+      520,
+      522,
+      530,
+      588,
+      589,
+      599,
+      849,
+      857,
+      880,
+      890,
+      891,
+      892,
+      950,
+      959,
+      1116,
+      1119,
+      1125,
+      1134,
+      1135
+    ]
+  },
+  {
+    "id": 437,
+    "filename": "437.png",
+    "image_file_path": "Image/Enemies/437.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/437.png",
+    "names": [
+      {
+        "en": "Ghost Soji Okita",
+        "ja": "ゴースト・沖田総司",
+        "zh": "Ghost Soji Okita"
+      }
+    ],
+    "enemy_types": [
+      437,
+      521,
+      524,
+      859,
+      1118,
+      1121
+    ]
+  },
+  {
+    "id": 438,
+    "filename": "438.png",
+    "image_file_path": "Image/Enemies/438.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/438.png",
+    "names": [
+      {
+        "en": "Ghost Hijikata Toshizo",
+        "ja": "ゴースト・土方歳三",
+        "zh": "Ghost Hijikata Toshizo"
+      }
+    ],
+    "enemy_types": [
+      438,
+      523
+    ]
+  },
+  {
+    "id": 439,
+    "filename": "439.png",
+    "image_file_path": "Image/Enemies/439.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/439.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 440,
+    "filename": "440.png",
+    "image_file_path": "Image/Enemies/440.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/440.png",
+    "names": [
+      {
+        "en": "Ghost Ludwig van Beethoven",
+        "ja": "ゴースト・バッハ",
+        "zh": "Ghost Johann Sebastian Bach"
+      },
+      {
+        "en": "Ghost Johann Sebastian Bach",
+        "ja": "ゴースト・バッハ",
+        "zh": "Ghost Johann Sebastian Bach"
+      }
+    ],
+    "enemy_types": [
+      440,
+      913
+    ]
+  },
+  {
+    "id": 441,
+    "filename": "441.png",
+    "image_file_path": "Image/Enemies/441.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/441.png",
+    "names": [
+      {
+        "en": "Ghost Johann Sebastian Bach",
+        "ja": "ゴースト・モーツァルト",
+        "zh": "Ghost Wolfgang Amadeus Mozart"
+      },
+      {
+        "en": "Ghost Wolfgang Amadeus Mozart",
+        "ja": "ゴースト・モーツァルト",
+        "zh": "Ghost Wolfgang Amadeus Mozart"
+      }
+    ],
+    "enemy_types": [
+      441,
+      834
+    ]
+  },
+  {
+    "id": 442,
+    "filename": "442.png",
+    "image_file_path": "Image/Enemies/442.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/442.png",
+    "names": [
+      {
+        "en": "Ghost Emperor Nero",
+        "ja": "ゴースト・皇帝ネロ",
+        "zh": "Ghost Emperor Nero"
+      }
+    ],
+    "enemy_types": [
+      442,
+      673,
+      827,
+      829
+    ]
+  },
+  {
+    "id": 443,
+    "filename": "443.png",
+    "image_file_path": "Image/Enemies/443.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/443.png",
+    "names": [
+      {
+        "en": "Ghost Charles the Great",
+        "ja": "ゴースト・カール大帝",
+        "zh": "Ghost Charles the Great"
+      }
+    ],
+    "enemy_types": [
+      443,
+      503,
+      534,
+      942
+    ]
+  },
+  {
+    "id": 444,
+    "filename": "444.png",
+    "image_file_path": "Image/Enemies/444.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/444.png",
+    "names": [
+      {
+        "en": "Ghost Julius Caesar",
+        "ja": "ゴースト・カエサル",
+        "zh": "Ghost Julius Caesar"
+      }
+    ],
+    "enemy_types": [
+      444
+    ]
+  },
+  {
+    "id": 445,
+    "filename": "445.png",
+    "image_file_path": "Image/Enemies/445.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/445.png",
+    "names": [
+      {
+        "en": "Ghost Napoleon Bonaparte",
+        "ja": "ゴースト・ナポレオン・ボナパルト",
+        "zh": "Ghost Napoleon Bonaparte"
+      }
+    ],
+    "enemy_types": [
+      445,
+      446,
+      447,
+      472,
+      532,
+      535,
+      921,
+      1002,
+      1003,
+      1042
+    ]
+  },
+  {
+    "id": 446,
+    "filename": "446.png",
+    "image_file_path": "Image/Enemies/446.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/446.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 447,
+    "filename": "447.png",
+    "image_file_path": "Image/Enemies/447.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/447.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 448,
+    "filename": "448.png",
+    "image_file_path": "Image/Enemies/448.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/448.png",
+    "names": [
+      {
+        "en": "Ghost Himiko",
+        "ja": "ゴースト・卑弥呼",
+        "zh": "Ghost Himiko"
+      }
+    ],
+    "enemy_types": [
+      448,
+      457,
+      550,
+      552,
+      582,
+      598,
+      896,
+      897,
+      953,
+      1170,
+      1176,
+      1177
+    ]
+  },
+  {
+    "id": 449,
+    "filename": "449.png",
+    "image_file_path": "Image/Enemies/449.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/449.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 450,
+    "filename": "450.png",
+    "image_file_path": "Image/Enemies/450.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/450.png",
+    "names": [
+      {
+        "en": "Ghost Nobunaga Oda",
+        "ja": "ゴースト・織田信長",
+        "zh": "Ghost Nobunaga Oda"
+      }
+    ],
+    "enemy_types": [
+      450,
+      474,
+      538,
+      930,
+      963,
+      987,
+      996,
+      1168,
+      1169,
+      1180
+    ]
+  },
+  {
+    "id": 451,
+    "filename": "451.png",
+    "image_file_path": "Image/Enemies/451.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/451.png",
+    "names": [
+      {
+        "en": "Ghost Genghis Khan",
+        "ja": "ゴースト・チンギス・ハン",
+        "zh": "Ghost Genghis Khan"
+      }
+    ],
+    "enemy_types": [
+      451,
+      499,
+      529,
+      580,
+      938,
+      1140,
+      1141,
+      1172
+    ]
+  },
+  {
+    "id": 452,
+    "filename": "452.png",
+    "image_file_path": "Image/Enemies/452.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/452.png",
+    "names": [
+      {
+        "en": "Ghost George Washington",
+        "ja": "ゴースト・ジョージ・ワシントン",
+        "zh": "Ghost George Washington"
+      }
+    ],
+    "enemy_types": [
+      452,
+      587,
+      941,
+      956,
+      958,
+      976,
+      1154
+    ]
+  },
+  {
+    "id": 453,
+    "filename": "453.png",
+    "image_file_path": "Image/Enemies/453.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/453.png",
+    "names": [
+      {
+        "en": "Ghost Ryoma Sakamoto",
+        "ja": "ゴースト・坂本龍馬",
+        "zh": "Ghost Ryoma Sakamoto"
+      }
+    ],
+    "enemy_types": [
+      453,
+      680,
+      910,
+      919,
+      920
+    ]
+  },
+  {
+    "id": 454,
+    "filename": "454.png",
+    "image_file_path": "Image/Enemies/454.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/454.png",
+    "names": [
+      {
+        "en": "Ghost Zhang Fei",
+        "ja": "ゴースト・張飛",
+        "zh": "Ghost Zhang Fei"
+      }
+    ],
+    "enemy_types": [
+      454,
+      839
+    ]
+  },
+  {
+    "id": 455,
+    "filename": "455.png",
+    "image_file_path": "Image/Enemies/455.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/455.png",
+    "names": [
+      {
+        "en": "Ghost Liu Bei",
+        "ja": "ゴースト・劉備",
+        "zh": "Ghost Liu Bei"
+      }
+    ],
+    "enemy_types": [
+      455,
+      679,
+      912
+    ]
+  },
+  {
+    "id": 456,
+    "filename": "456.png",
+    "image_file_path": "Image/Enemies/456.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/456.png",
+    "names": [
+      {
+        "en": "Ghost Guan Yu",
+        "ja": "ゴースト・関羽",
+        "zh": "Ghost Guan Yu"
+      }
+    ],
+    "enemy_types": [
+      456
+    ]
+  },
+  {
+    "id": 457,
+    "filename": "457.png",
+    "image_file_path": "Image/Enemies/457.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/457.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 458,
+    "filename": "458.png",
+    "image_file_path": "Image/Enemies/458.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/458.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 459,
+    "filename": "459.png",
+    "image_file_path": "Image/Enemies/459.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/459.png",
+    "names": [
+      {
+        "en": "Ghost Minamoto no Yoshitsune",
+        "ja": "ゴースト・源義経",
+        "zh": "Ghost Minamoto no Yoshitsune"
+      }
+    ],
+    "enemy_types": [
+      459,
+      470,
+      566,
+      600,
+      899,
+      904,
+      908,
+      924,
+      931,
+      940,
+      947,
+      969,
+      974,
+      981,
+      986,
+      1139,
+      1156,
+      1163
+    ]
+  },
+  {
+    "id": 460,
+    "filename": "460.png",
+    "image_file_path": "Image/Enemies/460.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/460.png",
+    "names": [
+      {
+        "en": "Ghost Lancelot",
+        "ja": "ゴースト・ランスロット",
+        "zh": "Ghost Lancelot"
+      }
+    ],
+    "enemy_types": [
+      460,
+      602,
+      604,
+      886
+    ]
+  },
+  {
+    "id": 461,
+    "filename": "461.png",
+    "image_file_path": "Image/Enemies/461.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/461.png",
+    "names": [
+      {
+        "en": "Ghost King Arthur",
+        "ja": "ゴースト・アーサー王",
+        "zh": "Ghost King Arthur"
+      }
+    ],
+    "enemy_types": [
+      461,
+      595,
+      603,
+      952,
+      1144,
+      1145
+    ]
+  },
+  {
+    "id": 462,
+    "filename": "462.png",
+    "image_file_path": "Image/Enemies/462.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/462.png",
+    "names": [
+      {
+        "en": "Ghost Percival",
+        "ja": "ゴースト・パーシヴァル",
+        "zh": "Ghost Percival"
+      }
+    ],
+    "enemy_types": [
+      462,
+      775
+    ]
+  },
+  {
+    "id": 463,
+    "filename": "463.png",
+    "image_file_path": "Image/Enemies/463.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/463.png",
+    "names": [
+      {
+        "en": "Ghost Alexander the Great",
+        "ja": "ゴースト・アレキサンダー",
+        "zh": "Ghost Alexander the Great"
+      }
+    ],
+    "enemy_types": [
+      463,
+      469,
+      528,
+      591,
+      593,
+      594,
+      605,
+      610,
+      905,
+      946,
+      980,
+      983,
+      1000,
+      1043,
+      1138,
+      1158,
+      1167
+    ]
+  },
+  {
+    "id": 464,
+    "filename": "464.png",
+    "image_file_path": "Image/Enemies/464.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/464.png",
+    "names": [
+      {
+        "en": "Ghost Leonardo da Vinci",
+        "ja": "ゴースト・レオナルド・ダ・ビンチ",
+        "zh": "Ghost Leonardo da Vinci"
+      }
+    ],
+    "enemy_types": [
+      464,
+      586,
+      592,
+      608,
+      927,
+      984,
+      985,
+      998,
+      1159
+    ]
+  },
+  {
+    "id": 465,
+    "filename": "465.png",
+    "image_file_path": "Image/Enemies/465.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/465.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 466,
+    "filename": "466.png",
+    "image_file_path": "Image/Enemies/466.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/466.png",
+    "names": [
+      {
+        "en": "Ghost Consort Yu",
+        "ja": "ゴースト・虞美人",
+        "zh": "Ghost Consort Yu"
+      }
+    ],
+    "enemy_types": [
+      466,
+      584,
+      935,
+      954,
+      955,
+      1005,
+      1149,
+      1178
+    ]
+  },
+  {
+    "id": 467,
+    "filename": "467.png",
+    "image_file_path": "Image/Enemies/467.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/467.png",
+    "names": [
+      {
+        "en": "Ghost Cao Cao",
+        "ja": "ゴースト・曹操",
+        "zh": "Ghost Cao Cao"
+      }
+    ],
+    "enemy_types": [
+      467,
+      502,
+      944,
+      965,
+      972
+    ]
+  },
+  {
+    "id": 468,
+    "filename": "468.png",
+    "image_file_path": "Image/Enemies/468.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/468.png",
+    "names": [
+      {
+        "en": "Ghost Qin Shi Huang",
+        "ja": "ゴースト・始皇帝",
+        "zh": "Ghost Qin Shi Huang"
+      }
+    ],
+    "enemy_types": [
+      468,
+      507,
+      536,
+      597,
+      906,
+      1181
+    ]
+  },
+  {
+    "id": 469,
+    "filename": "469.png",
+    "image_file_path": "Image/Enemies/469.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/469.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 470,
+    "filename": "470.png",
+    "image_file_path": "Image/Enemies/470.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/470.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 471,
+    "filename": "471.png",
+    "image_file_path": "Image/Enemies/471.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/471.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 472,
+    "filename": "472.png",
+    "image_file_path": "Image/Enemies/472.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/472.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 473,
+    "filename": "473.png",
+    "image_file_path": "Image/Enemies/473.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/473.png",
+    "names": [
+      {
+        "en": "Ghost Brunhild",
+        "ja": "ゴースト・ブリュンヒルド",
+        "zh": "Ghost Brunhild"
+      }
+    ],
+    "enemy_types": [
+      473,
+      556,
+      609,
+      898,
+      922,
+      960,
+      999,
+      1151,
+      1160
+    ]
+  },
+  {
+    "id": 474,
+    "filename": "474.png",
+    "image_file_path": "Image/Enemies/474.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/474.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 475,
+    "filename": "475.png",
+    "image_file_path": "Image/Enemies/475.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/475.png",
+    "names": [
+      {
+        "en": "Ghost Grigori Rasputin",
+        "ja": "ゴースト・ラスプーチン",
+        "zh": "Ghost Grigori Rasputin"
+      }
+    ],
+    "enemy_types": [
+      475,
+      836,
+      837,
+      838,
+      853,
+      873,
+      926,
+      928
+    ]
+  },
+  {
+    "id": 476,
+    "filename": "476.png",
+    "image_file_path": "Image/Enemies/476.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/476.png",
+    "names": [
+      {
+        "en": "Ghost Taira no Masakado",
+        "ja": "ゴースト・平将門",
+        "zh": "Ghost Taira no Masakado"
+      }
+    ],
+    "enemy_types": [
+      476,
+      554
+    ]
+  },
+  {
+    "id": 477,
+    "filename": "477.png",
+    "image_file_path": "Image/Enemies/477.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/477.png",
+    "names": [
+      {
+        "en": "Ghost Sun Quan",
+        "ja": "ゴースト・孫権",
+        "zh": "Ghost Sun Quan"
+      }
+    ],
+    "enemy_types": [
+      477,
+      549
+    ]
+  },
+  {
+    "id": 478,
+    "filename": "478.png",
+    "image_file_path": "Image/Enemies/478.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/478.png",
+    "names": [
+      {
+        "en": "Ghost Kamehameha I",
+        "ja": "ゴースト・カメハメハ大王",
+        "zh": "Ghost Kamehameha I"
+      }
+    ],
+    "enemy_types": [
+      478
+    ]
+  },
+  {
+    "id": 479,
+    "filename": "479.png",
+    "image_file_path": "Image/Enemies/479.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/479.png",
+    "names": [
+      {
+        "en": "Ghost Charles Darwin",
+        "ja": "ゴースト・ダーウィン",
+        "zh": "Ghost Charles Darwin"
+      }
+    ],
+    "enemy_types": [
+      479,
+      526,
+      558
+    ]
+  },
+  {
+    "id": 480,
+    "filename": "480.png",
+    "image_file_path": "Image/Enemies/480.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/480.png",
+    "names": [
+      {
+        "en": "Ghost Marco Polo",
+        "ja": "ゴースト・マルコ・ポーロ",
+        "zh": "Ghost Marco Polo"
+      }
+    ],
+    "enemy_types": [
+      480,
+      579
+    ]
+  },
+  {
+    "id": 481,
+    "filename": "481.png",
+    "image_file_path": "Image/Enemies/481.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/481.png",
+    "names": [
+      {
+        "en": "Ghost Lü Bu",
+        "ja": "ゴースト・呂布",
+        "zh": "Ghost Lü Bu"
+      }
+    ],
+    "enemy_types": [
+      481,
+      863,
+      864,
+      865,
+      1041
+    ]
+  },
+  {
+    "id": 482,
+    "filename": "482.png",
+    "image_file_path": "Image/Enemies/482.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/482.png",
+    "names": [
+      {
+        "en": "Ghost Marie Curie",
+        "ja": "ゴースト・キュリー夫人",
+        "zh": "Ghost Marie Curie"
+      }
+    ],
+    "enemy_types": [
+      482
+    ]
+  },
+  {
+    "id": 483,
+    "filename": "483.png",
+    "image_file_path": "Image/Enemies/483.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/483.png",
+    "names": [
+      {
+        "en": "Ghost Pyotr Tchaikovsky",
+        "ja": "ゴースト・チャイコフスキー",
+        "zh": "Ghost Pyotr Tchaikovsky"
+      }
+    ],
+    "enemy_types": [
+      483,
+      525,
+      841
+    ]
+  },
+  {
+    "id": 484,
+    "filename": "484.png",
+    "image_file_path": "Image/Enemies/484.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/484.png",
+    "names": [
+      {
+        "en": "Ghost Wang Ki",
+        "ja": "ゴースト・王キ",
+        "zh": "Ghost Wang Ki"
+      }
+    ],
+    "enemy_types": [
+      484,
+      544,
+      545
+    ]
+  },
+  {
+    "id": 485,
+    "filename": "485.png",
+    "image_file_path": "Image/Enemies/485.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/485.png",
+    "names": [
+      {
+        "en": "Ghost Tomoe Gozen",
+        "ja": "ゴースト・巴御前",
+        "zh": "Ghost Tomoe Gozen"
+      }
+    ],
+    "enemy_types": [
+      485,
+      888,
+      889
+    ]
+  },
+  {
+    "id": 486,
+    "filename": "486.png",
+    "image_file_path": "Image/Enemies/486.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/486.png",
+    "names": [
+      {
+        "en": "Ghost Masamune Date",
+        "ja": "ゴースト・伊達政宗",
+        "zh": "Ghost Masamune Date"
+      }
+    ],
+    "enemy_types": [
+      486,
+      517,
+      869
+    ]
+  },
+  {
+    "id": 487,
+    "filename": "487.png",
+    "image_file_path": "Image/Enemies/487.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/487.png",
+    "names": [
+      {
+        "en": "Ghost Billy the Kid",
+        "ja": "ゴースト・ビリー・ザ・キッド",
+        "zh": "Ghost Billy the Kid"
+      }
+    ],
+    "enemy_types": [
+      487,
+      515,
+      541,
+      854,
+      855,
+      856
+    ]
+  },
+  {
+    "id": 488,
+    "filename": "488.png",
+    "image_file_path": "Image/Enemies/488.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/488.png",
+    "names": [
+      {
+        "en": "Ghost Yamato Takeru",
+        "ja": "ゴースト・ヤマトタケル",
+        "zh": "Ghost Yamato Takeru"
+      }
+    ],
+    "enemy_types": [
+      488,
+      551
+    ]
+  },
+  {
+    "id": 489,
+    "filename": "489.png",
+    "image_file_path": "Image/Enemies/489.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/489.png",
+    "names": [
+      {
+        "en": "Ghost Kaishu Katsu",
+        "ja": "ゴースト・勝海舟",
+        "zh": "Ghost Kaishu Katsu"
+      }
+    ],
+    "enemy_types": [
+      489,
+      575,
+      874,
+      957
+    ]
+  },
+  {
+    "id": 490,
+    "filename": "490.png",
+    "image_file_path": "Image/Enemies/490.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/490.png",
+    "names": [
+      {
+        "en": "Ghost Kojiro Sasaki",
+        "ja": "ゴースト・佐々木小次郎",
+        "zh": "Ghost Kojiro Sasaki"
+      }
+    ],
+    "enemy_types": [
+      490,
+      577
+    ]
+  },
+  {
+    "id": 491,
+    "filename": "491.png",
+    "image_file_path": "Image/Enemies/491.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/491.png",
+    "names": [
+      {
+        "en": "Ghost Thomas Edison",
+        "ja": "ゴースト・トーマス・エジソン",
+        "zh": "Ghost Thomas Edison"
+      }
+    ],
+    "enemy_types": [
+      491,
+      561
+    ]
+  },
+  {
+    "id": 492,
+    "filename": "492.png",
+    "image_file_path": "Image/Enemies/492.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/492.png",
+    "names": [
+      {
+        "en": "Ghost Han Xin",
+        "ja": "ゴースト・韓信",
+        "zh": "Ghost Han Xin"
+      }
+    ],
+    "enemy_types": [
+      492,
+      543,
+      883
+    ]
+  },
+  {
+    "id": 493,
+    "filename": "493.png",
+    "image_file_path": "Image/Enemies/493.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/493.png",
+    "names": [
+      {
+        "en": "Ghost Karl Marx",
+        "ja": "ゴースト・マルクス",
+        "zh": "Ghost Karl Marx"
+      }
+    ],
+    "enemy_types": [
+      493
+    ]
+  },
+  {
+    "id": 494,
+    "filename": "494.png",
+    "image_file_path": "Image/Enemies/494.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/494.png",
+    "names": [
+      {
+        "en": "Ghost Calamity Jane",
+        "ja": "ゴースト・カラミティ・ジェーン",
+        "zh": "Ghost Calamity Jane"
+      }
+    ],
+    "enemy_types": [
+      494,
+      540,
+      542
+    ]
+  },
+  {
+    "id": 495,
+    "filename": "495.png",
+    "image_file_path": "Image/Enemies/495.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/495.png",
+    "names": [
+      {
+        "en": "Ghost Florence Nightingale",
+        "ja": "ゴースト・ナイチンゲール",
+        "zh": "Ghost Florence Nightingale"
+      }
+    ],
+    "enemy_types": [
+      495,
+      572,
+      887
+    ]
+  },
+  {
+    "id": 496,
+    "filename": "496.png",
+    "image_file_path": "Image/Enemies/496.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/496.png",
+    "names": [
+      {
+        "en": "Ghost Zhao Yun",
+        "ja": "ゴースト・趙雲",
+        "zh": "Ghost Zhao Yun"
+      }
+    ],
+    "enemy_types": [
+      496
+    ]
+  },
+  {
+    "id": 497,
+    "filename": "497.png",
+    "image_file_path": "Image/Enemies/497.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/497.png",
+    "names": [
+      {
+        "en": "Ghost Jean-Henri Fabre",
+        "ja": "ゴースト・ファーブル",
+        "zh": "Ghost Jean-Henri Fabre"
+      }
+    ],
+    "enemy_types": [
+      497,
+      557,
+      884
+    ]
+  },
+  {
+    "id": 498,
+    "filename": "498.png",
+    "image_file_path": "Image/Enemies/498.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/498.png",
+    "names": [
+      {
+        "en": "Ghost SATOSHI・NAKAMOTO OMEGA CC",
+        "ja": "ゴースト・サトシ・ナカモト OMEGA CC",
+        "zh": "Ghost SATOSHI・NAKAMOTO OMEGA CC"
+      }
+    ],
+    "enemy_types": [
+      498,
+      574,
+      881,
+      882
+    ]
+  },
+  {
+    "id": 499,
+    "filename": "499.png",
+    "image_file_path": "Image/Enemies/499.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/499.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 500,
+    "filename": "500.png",
+    "image_file_path": "Image/Enemies/500.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/500.png",
+    "names": [
+      {
+        "en": "Ghost Tutankhamun",
+        "ja": "ゴースト・ツタンカーメン",
+        "zh": "Ghost Tutankhamun"
+      }
+    ],
+    "enemy_types": [
+      500,
+      601,
+      606,
+      961,
+      978,
+      995,
+      1137
+    ]
+  },
+  {
+    "id": 501,
+    "filename": "501.png",
+    "image_file_path": "Image/Enemies/501.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/501.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 502,
+    "filename": "502.png",
+    "image_file_path": "Image/Enemies/502.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/502.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 503,
+    "filename": "503.png",
+    "image_file_path": "Image/Enemies/503.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/503.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 504,
+    "filename": "504.png",
+    "image_file_path": "Image/Enemies/504.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/504.png",
+    "names": [
+      {
+        "en": "Ghost Marie Antoinette",
+        "ja": "ゴースト・マリー・アントワネット",
+        "zh": "Ghost Marie Antoinette"
+      }
+    ],
+    "enemy_types": [
+      504,
+      578
+    ]
+  },
+  {
+    "id": 505,
+    "filename": "505.png",
+    "image_file_path": "Image/Enemies/505.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/505.png",
+    "names": [
+      {
+        "en": "Ghost Abraham Lincoln",
+        "ja": "ゴースト・エイブラハム・リンカーン",
+        "zh": "Ghost Abraham Lincoln"
+      }
+    ],
+    "enemy_types": [
+      505,
+      565,
+      675,
+      858,
+      876,
+      1113,
+      1131,
+      1133
+    ]
+  },
+  {
+    "id": 506,
+    "filename": "506.png",
+    "image_file_path": "Image/Enemies/506.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/506.png",
+    "names": [
+      {
+        "en": "Ghost Blackbeard",
+        "ja": "ゴースト・黒髭",
+        "zh": "Ghost Blackbeard"
+      }
+    ],
+    "enemy_types": [
+      506,
+      510,
+      845,
+      872,
+      879,
+      1122,
+      1128,
+      1136
+    ]
+  },
+  {
+    "id": 507,
+    "filename": "507.png",
+    "image_file_path": "Image/Enemies/507.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/507.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 508,
+    "filename": "508.png",
+    "image_file_path": "Image/Enemies/508.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/508.png",
+    "names": [
+      {
+        "en": "Ghost Huang Zhong",
+        "ja": "ゴースト・黄忠",
+        "zh": "Ghost Huang Zhong"
+      }
+    ],
+    "enemy_types": [
+      508,
+      779,
+      803
+    ]
+  },
+  {
+    "id": 509,
+    "filename": "509.png",
+    "image_file_path": "Image/Enemies/509.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/509.png",
+    "names": [
+      {
+        "en": "Ghost Yue Fei",
+        "ja": "ゴースト・岳飛",
+        "zh": "Ghost Yue Fei"
+      }
+    ],
+    "enemy_types": [
+      509
+    ]
+  },
+  {
+    "id": 510,
+    "filename": "510.png",
+    "image_file_path": "Image/Enemies/510.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/510.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 511,
+    "filename": "511.png",
+    "image_file_path": "Image/Enemies/511.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/511.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 512,
+    "filename": "512.png",
+    "image_file_path": "Image/Enemies/512.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/512.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 513,
+    "filename": "513.png",
+    "image_file_path": "Image/Enemies/513.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/513.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 514,
+    "filename": "514.png",
+    "image_file_path": "Image/Enemies/514.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/514.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 515,
+    "filename": "515.png",
+    "image_file_path": "Image/Enemies/515.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/515.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 516,
+    "filename": "516.png",
+    "image_file_path": "Image/Enemies/516.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/516.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 517,
+    "filename": "517.png",
+    "image_file_path": "Image/Enemies/517.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/517.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 518,
+    "filename": "518.png",
+    "image_file_path": "Image/Enemies/518.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/518.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 519,
+    "filename": "519.png",
+    "image_file_path": "Image/Enemies/519.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/519.png",
+    "names": [
+      {
+        "en": "Ghost Takeda Shingen",
+        "ja": "ゴースト・武田信玄",
+        "zh": "Ghost Takeda Shingen"
+      }
+    ],
+    "enemy_types": [
+      519,
+      537,
+      848,
+      1117,
+      1127
+    ]
+  },
+  {
+    "id": 520,
+    "filename": "520.png",
+    "image_file_path": "Image/Enemies/520.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/520.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 521,
+    "filename": "521.png",
+    "image_file_path": "Image/Enemies/521.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/521.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 522,
+    "filename": "522.png",
+    "image_file_path": "Image/Enemies/522.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/522.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 523,
+    "filename": "523.png",
+    "image_file_path": "Image/Enemies/523.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/523.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 524,
+    "filename": "524.png",
+    "image_file_path": "Image/Enemies/524.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/524.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 525,
+    "filename": "525.png",
+    "image_file_path": "Image/Enemies/525.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/525.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 526,
+    "filename": "526.png",
+    "image_file_path": "Image/Enemies/526.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/526.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 527,
+    "filename": "527.png",
+    "image_file_path": "Image/Enemies/527.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/527.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 528,
+    "filename": "528.png",
+    "image_file_path": "Image/Enemies/528.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/528.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 529,
+    "filename": "529.png",
+    "image_file_path": "Image/Enemies/529.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/529.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 530,
+    "filename": "530.png",
+    "image_file_path": "Image/Enemies/530.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/530.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 531,
+    "filename": "531.png",
+    "image_file_path": "Image/Enemies/531.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/531.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 532,
+    "filename": "532.png",
+    "image_file_path": "Image/Enemies/532.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/532.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 533,
+    "filename": "533.png",
+    "image_file_path": "Image/Enemies/533.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/533.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 534,
+    "filename": "534.png",
+    "image_file_path": "Image/Enemies/534.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/534.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 535,
+    "filename": "535.png",
+    "image_file_path": "Image/Enemies/535.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/535.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 536,
+    "filename": "536.png",
+    "image_file_path": "Image/Enemies/536.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/536.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 537,
+    "filename": "537.png",
+    "image_file_path": "Image/Enemies/537.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/537.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 538,
+    "filename": "538.png",
+    "image_file_path": "Image/Enemies/538.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/538.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 539,
+    "filename": "539.png",
+    "image_file_path": "Image/Enemies/539.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/539.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 540,
+    "filename": "540.png",
+    "image_file_path": "Image/Enemies/540.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/540.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 541,
+    "filename": "541.png",
+    "image_file_path": "Image/Enemies/541.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/541.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 542,
+    "filename": "542.png",
+    "image_file_path": "Image/Enemies/542.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/542.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 543,
+    "filename": "543.png",
+    "image_file_path": "Image/Enemies/543.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/543.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 544,
+    "filename": "544.png",
+    "image_file_path": "Image/Enemies/544.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/544.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 545,
+    "filename": "545.png",
+    "image_file_path": "Image/Enemies/545.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/545.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 546,
+    "filename": "546.png",
+    "image_file_path": "Image/Enemies/546.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/546.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 547,
+    "filename": "547.png",
+    "image_file_path": "Image/Enemies/547.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/547.png",
+    "names": [
+      {
+        "en": "Ghost Sun Jian",
+        "ja": "ゴースト・孫堅",
+        "zh": "Ghost Sun Jian"
+      }
+    ],
+    "enemy_types": [
+      547,
+      783,
+      784,
+      794,
+      795
+    ]
+  },
+  {
+    "id": 548,
+    "filename": "548.png",
+    "image_file_path": "Image/Enemies/548.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/548.png",
+    "names": [
+      {
+        "en": "Ghost Sun Ce",
+        "ja": "ゴースト・孫策",
+        "zh": "Ghost Sun Ce"
+      }
+    ],
+    "enemy_types": [
+      548,
+      571,
+      672,
+      753,
+      754,
+      761,
+      763,
+      1050,
+      1051,
+      1052,
+      1055,
+      1058
+    ]
+  },
+  {
+    "id": 549,
+    "filename": "549.png",
+    "image_file_path": "Image/Enemies/549.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/549.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 550,
+    "filename": "550.png",
+    "image_file_path": "Image/Enemies/550.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/550.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 551,
+    "filename": "551.png",
+    "image_file_path": "Image/Enemies/551.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/551.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 552,
+    "filename": "552.png",
+    "image_file_path": "Image/Enemies/552.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/552.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 553,
+    "filename": "553.png",
+    "image_file_path": "Image/Enemies/553.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/553.png",
+    "names": [
+      {
+        "en": "Ghost Gennai Hiraga",
+        "ja": "ゴースト・平賀源内",
+        "zh": "Ghost Gennai Hiraga"
+      }
+    ],
+    "enemy_types": [
+      553,
+      555,
+      559,
+      778
+    ]
+  },
+  {
+    "id": 554,
+    "filename": "554.png",
+    "image_file_path": "Image/Enemies/554.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/554.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 555,
+    "filename": "555.png",
+    "image_file_path": "Image/Enemies/555.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/555.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 556,
+    "filename": "556.png",
+    "image_file_path": "Image/Enemies/556.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/556.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 557,
+    "filename": "557.png",
+    "image_file_path": "Image/Enemies/557.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/557.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 558,
+    "filename": "558.png",
+    "image_file_path": "Image/Enemies/558.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/558.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 559,
+    "filename": "559.png",
+    "image_file_path": "Image/Enemies/559.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/559.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 560,
+    "filename": "560.png",
+    "image_file_path": "Image/Enemies/560.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/560.png",
+    "names": [
+      {
+        "en": "Ghost Nikola Tesla",
+        "ja": "ゴースト・ニコラ・テスラ",
+        "zh": "Ghost Nikola Tesla"
+      }
+    ],
+    "enemy_types": [
+      560,
+      850,
+      1120,
+      1126
+    ]
+  },
+  {
+    "id": 561,
+    "filename": "561.png",
+    "image_file_path": "Image/Enemies/561.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/561.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 562,
+    "filename": "562.png",
+    "image_file_path": "Image/Enemies/562.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/562.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 563,
+    "filename": "563.png",
+    "image_file_path": "Image/Enemies/563.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/563.png",
+    "names": [
+      {
+        "en": "Ghost Hans Christian Andersen",
+        "ja": "ゴースト・アンデルセン",
+        "zh": "Ghost Hans Christian Andersen"
+      }
+    ],
+    "enemy_types": [
+      563,
+      730,
+      765
+    ]
+  },
+  {
+    "id": 564,
+    "filename": "564.png",
+    "image_file_path": "Image/Enemies/564.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/564.png",
+    "names": [
+      {
+        "en": "Ghost Aesop",
+        "ja": "ゴースト・イソップ",
+        "zh": "Ghost Aesop"
+      }
+    ],
+    "enemy_types": [
+      564
+    ]
+  },
+  {
+    "id": 565,
+    "filename": "565.png",
+    "image_file_path": "Image/Enemies/565.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/565.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 566,
+    "filename": "566.png",
+    "image_file_path": "Image/Enemies/566.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/566.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 567,
+    "filename": "567.png",
+    "image_file_path": "Image/Enemies/567.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/567.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 568,
+    "filename": "568.png",
+    "image_file_path": "Image/Enemies/568.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/568.png",
+    "names": [
+      {
+        "en": "Ghost Mori Ranmaru",
+        "ja": "ゴースト・森蘭丸",
+        "zh": "Ghost Mori Ranmaru"
+      }
+    ],
+    "enemy_types": [
+      568
+    ]
+  },
+  {
+    "id": 569,
+    "filename": "569.png",
+    "image_file_path": "Image/Enemies/569.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/569.png",
+    "names": [
+      {
+        "en": "Ghost Akechi Mitsuhide",
+        "ja": "ゴースト・明智光秀",
+        "zh": "Ghost Akechi Mitsuhide"
+      }
+    ],
+    "enemy_types": [
+      569,
+      764
+    ]
+  },
+  {
+    "id": 570,
+    "filename": "570.png",
+    "image_file_path": "Image/Enemies/570.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/570.png",
+    "names": [
+      {
+        "en": "Ghost D'Artagnan",
+        "ja": "ゴースト・ダルタニャン",
+        "zh": "Ghost D'Artagnan"
+      }
+    ],
+    "enemy_types": [
+      570
+    ]
+  },
+  {
+    "id": 571,
+    "filename": "571.png",
+    "image_file_path": "Image/Enemies/571.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/571.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 572,
+    "filename": "572.png",
+    "image_file_path": "Image/Enemies/572.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/572.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 573,
+    "filename": "573.png",
+    "image_file_path": "Image/Enemies/573.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/573.png",
+    "names": [
+      {
+        "en": "Ghost Saigō Takamori",
+        "ja": "ゴースト・西郷隆盛",
+        "zh": "Ghost Saigō Takamori"
+      }
+    ],
+    "enemy_types": [
+      573,
+      870,
+      871
+    ]
+  },
+  {
+    "id": 574,
+    "filename": "574.png",
+    "image_file_path": "Image/Enemies/574.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/574.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 575,
+    "filename": "575.png",
+    "image_file_path": "Image/Enemies/575.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/575.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 576,
+    "filename": "576.png",
+    "image_file_path": "Image/Enemies/576.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/576.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 577,
+    "filename": "577.png",
+    "image_file_path": "Image/Enemies/577.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/577.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 578,
+    "filename": "578.png",
+    "image_file_path": "Image/Enemies/578.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/578.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 579,
+    "filename": "579.png",
+    "image_file_path": "Image/Enemies/579.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/579.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 580,
+    "filename": "580.png",
+    "image_file_path": "Image/Enemies/580.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/580.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 581,
+    "filename": "581.png",
+    "image_file_path": "Image/Enemies/581.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/581.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 582,
+    "filename": "582.png",
+    "image_file_path": "Image/Enemies/582.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/582.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 583,
+    "filename": "583.png",
+    "image_file_path": "Image/Enemies/583.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/583.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 584,
+    "filename": "584.png",
+    "image_file_path": "Image/Enemies/584.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/584.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 585,
+    "filename": "585.png",
+    "image_file_path": "Image/Enemies/585.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/585.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 586,
+    "filename": "586.png",
+    "image_file_path": "Image/Enemies/586.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/586.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 587,
+    "filename": "587.png",
+    "image_file_path": "Image/Enemies/587.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/587.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 588,
+    "filename": "588.png",
+    "image_file_path": "Image/Enemies/588.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/588.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 589,
+    "filename": "589.png",
+    "image_file_path": "Image/Enemies/589.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/589.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 590,
+    "filename": "590.png",
+    "image_file_path": "Image/Enemies/590.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/590.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 591,
+    "filename": "591.png",
+    "image_file_path": "Image/Enemies/591.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/591.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 592,
+    "filename": "592.png",
+    "image_file_path": "Image/Enemies/592.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/592.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 593,
+    "filename": "593.png",
+    "image_file_path": "Image/Enemies/593.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/593.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 594,
+    "filename": "594.png",
+    "image_file_path": "Image/Enemies/594.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/594.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 595,
+    "filename": "595.png",
+    "image_file_path": "Image/Enemies/595.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/595.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 596,
+    "filename": "596.png",
+    "image_file_path": "Image/Enemies/596.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/596.png",
+    "names": [
+      {
+        "en": "Ghost Zhuge Liang",
+        "ja": "ゴースト・諸葛亮",
+        "zh": "Ghost Zhuge Liang"
+      }
+    ],
+    "enemy_types": [
+      596,
+      1175
+    ]
+  },
+  {
+    "id": 597,
+    "filename": "597.png",
+    "image_file_path": "Image/Enemies/597.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/597.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 598,
+    "filename": "598.png",
+    "image_file_path": "Image/Enemies/598.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/598.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 599,
+    "filename": "599.png",
+    "image_file_path": "Image/Enemies/599.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/599.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 600,
+    "filename": "600.png",
+    "image_file_path": "Image/Enemies/600.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/600.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 601,
+    "filename": "601.png",
+    "image_file_path": "Image/Enemies/601.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/601.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 602,
+    "filename": "602.png",
+    "image_file_path": "Image/Enemies/602.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/602.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 603,
+    "filename": "603.png",
+    "image_file_path": "Image/Enemies/603.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/603.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 604,
+    "filename": "604.png",
+    "image_file_path": "Image/Enemies/604.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/604.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 605,
+    "filename": "605.png",
+    "image_file_path": "Image/Enemies/605.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/605.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 606,
+    "filename": "606.png",
+    "image_file_path": "Image/Enemies/606.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/606.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 607,
+    "filename": "607.png",
+    "image_file_path": "Image/Enemies/607.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/607.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 608,
+    "filename": "608.png",
+    "image_file_path": "Image/Enemies/608.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/608.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 609,
+    "filename": "609.png",
+    "image_file_path": "Image/Enemies/609.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/609.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 610,
+    "filename": "610.png",
+    "image_file_path": "Image/Enemies/610.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/610.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 611,
+    "filename": "611.png",
+    "image_file_path": "Image/Enemies/611.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/611.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 612,
+    "filename": "612.png",
+    "image_file_path": "Image/Enemies/612.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/612.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 613,
+    "filename": "613.png",
+    "image_file_path": "Image/Enemies/613.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/613.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 614,
+    "filename": "614.png",
+    "image_file_path": "Image/Enemies/614.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/614.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 615,
+    "filename": "615.png",
+    "image_file_path": "Image/Enemies/615.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/615.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 616,
+    "filename": "616.png",
+    "image_file_path": "Image/Enemies/616.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/616.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 617,
+    "filename": "617.png",
+    "image_file_path": "Image/Enemies/617.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/617.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 618,
+    "filename": "618.png",
+    "image_file_path": "Image/Enemies/618.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/618.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 619,
+    "filename": "619.png",
+    "image_file_path": "Image/Enemies/619.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/619.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 620,
+    "filename": "620.png",
+    "image_file_path": "Image/Enemies/620.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/620.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 621,
+    "filename": "621.png",
+    "image_file_path": "Image/Enemies/621.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/621.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 622,
+    "filename": "622.png",
+    "image_file_path": "Image/Enemies/622.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/622.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 623,
+    "filename": "623.png",
+    "image_file_path": "Image/Enemies/623.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/623.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 624,
+    "filename": "624.png",
+    "image_file_path": "Image/Enemies/624.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/624.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 625,
+    "filename": "625.png",
+    "image_file_path": "Image/Enemies/625.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/625.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 626,
+    "filename": "626.png",
+    "image_file_path": "Image/Enemies/626.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/626.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 627,
+    "filename": "627.png",
+    "image_file_path": "Image/Enemies/627.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/627.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 628,
+    "filename": "628.png",
+    "image_file_path": "Image/Enemies/628.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/628.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 629,
+    "filename": "629.png",
+    "image_file_path": "Image/Enemies/629.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/629.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 630,
+    "filename": "630.png",
+    "image_file_path": "Image/Enemies/630.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/630.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 631,
+    "filename": "631.png",
+    "image_file_path": "Image/Enemies/631.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/631.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 632,
+    "filename": "632.png",
+    "image_file_path": "Image/Enemies/632.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/632.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 633,
+    "filename": "633.png",
+    "image_file_path": "Image/Enemies/633.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/633.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 634,
+    "filename": "634.png",
+    "image_file_path": "Image/Enemies/634.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/634.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 635,
+    "filename": "635.png",
+    "image_file_path": "Image/Enemies/635.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/635.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 636,
+    "filename": "636.png",
+    "image_file_path": "Image/Enemies/636.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/636.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 637,
+    "filename": "637.png",
+    "image_file_path": "Image/Enemies/637.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/637.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 638,
+    "filename": "638.png",
+    "image_file_path": "Image/Enemies/638.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/638.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 639,
+    "filename": "639.png",
+    "image_file_path": "Image/Enemies/639.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/639.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 640,
+    "filename": "640.png",
+    "image_file_path": "Image/Enemies/640.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/640.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 641,
+    "filename": "641.png",
+    "image_file_path": "Image/Enemies/641.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/641.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 642,
+    "filename": "642.png",
+    "image_file_path": "Image/Enemies/642.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/642.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 643,
+    "filename": "643.png",
+    "image_file_path": "Image/Enemies/643.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/643.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 644,
+    "filename": "644.png",
+    "image_file_path": "Image/Enemies/644.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/644.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 645,
+    "filename": "645.png",
+    "image_file_path": "Image/Enemies/645.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/645.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 646,
+    "filename": "646.png",
+    "image_file_path": "Image/Enemies/646.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/646.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 647,
+    "filename": "647.png",
+    "image_file_path": "Image/Enemies/647.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/647.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 648,
+    "filename": "648.png",
+    "image_file_path": "Image/Enemies/648.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/648.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 649,
+    "filename": "649.png",
+    "image_file_path": "Image/Enemies/649.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/649.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 650,
+    "filename": "650.png",
+    "image_file_path": "Image/Enemies/650.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/650.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 651,
+    "filename": "651.png",
+    "image_file_path": "Image/Enemies/651.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/651.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 652,
+    "filename": "652.png",
+    "image_file_path": "Image/Enemies/652.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/652.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 653,
+    "filename": "653.png",
+    "image_file_path": "Image/Enemies/653.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/653.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 654,
+    "filename": "654.png",
+    "image_file_path": "Image/Enemies/654.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/654.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 655,
+    "filename": "655.png",
+    "image_file_path": "Image/Enemies/655.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/655.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 656,
+    "filename": "656.png",
+    "image_file_path": "Image/Enemies/656.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/656.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 657,
+    "filename": "657.png",
+    "image_file_path": "Image/Enemies/657.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/657.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 658,
+    "filename": "658.png",
+    "image_file_path": "Image/Enemies/658.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/658.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 659,
+    "filename": "659.png",
+    "image_file_path": "Image/Enemies/659.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/659.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 660,
+    "filename": "660.png",
+    "image_file_path": "Image/Enemies/660.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/660.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 661,
+    "filename": "661.png",
+    "image_file_path": "Image/Enemies/661.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/661.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 662,
+    "filename": "662.png",
+    "image_file_path": "Image/Enemies/662.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/662.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 663,
+    "filename": "663.png",
+    "image_file_path": "Image/Enemies/663.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/663.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 664,
+    "filename": "664.png",
+    "image_file_path": "Image/Enemies/664.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/664.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 665,
+    "filename": "665.png",
+    "image_file_path": "Image/Enemies/665.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/665.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 666,
+    "filename": "666.png",
+    "image_file_path": "Image/Enemies/666.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/666.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 667,
+    "filename": "667.png",
+    "image_file_path": "Image/Enemies/667.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/667.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 668,
+    "filename": "668.png",
+    "image_file_path": "Image/Enemies/668.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/668.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 669,
+    "filename": "669.png",
+    "image_file_path": "Image/Enemies/669.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/669.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 670,
+    "filename": "670.png",
+    "image_file_path": "Image/Enemies/670.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/670.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 671,
+    "filename": "671.png",
+    "image_file_path": "Image/Enemies/671.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/671.png",
+    "names": [
+      {
+        "en": "COVID-19",
+        "ja": "COVID-19",
+        "zh": "COVID-19"
+      }
+    ],
+    "enemy_types": [
+      671,
+      682
+    ]
+  },
+  {
+    "id": 672,
+    "filename": "672.png",
+    "image_file_path": "Image/Enemies/672.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/672.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 673,
+    "filename": "673.png",
+    "image_file_path": "Image/Enemies/673.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/673.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 674,
+    "filename": "674.png",
+    "image_file_path": "Image/Enemies/674.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/674.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 675,
+    "filename": "675.png",
+    "image_file_path": "Image/Enemies/675.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/675.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 676,
+    "filename": "676.png",
+    "image_file_path": "Image/Enemies/676.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/676.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 677,
+    "filename": "677.png",
+    "image_file_path": "Image/Enemies/677.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/677.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 678,
+    "filename": "678.png",
+    "image_file_path": "Image/Enemies/678.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/678.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 679,
+    "filename": "679.png",
+    "image_file_path": "Image/Enemies/679.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/679.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 680,
+    "filename": "680.png",
+    "image_file_path": "Image/Enemies/680.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/680.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 681,
+    "filename": "681.png",
+    "image_file_path": "Image/Enemies/681.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/681.png",
+    "names": [
+      {
+        "en": "Chameleon-passion",
+        "ja": "カメレオン パッション",
+        "zh": "Chameleon-passion"
+      }
+    ],
+    "enemy_types": [
+      681
+    ]
+  },
+  {
+    "id": 682,
+    "filename": "682.png",
+    "image_file_path": "Image/Enemies/682.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/682.png",
+    "names": [],
+    "enemy_types": []
+  },
+  {
+    "id": 683,
+    "filename": "683.png",
+    "image_file_path": "Image/Enemies/683.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/683.png",
+    "names": [
+      {
+        "en": "Ghost Inō Tadataka",
+        "ja": "ゴースト・伊能忠敬",
+        "zh": "Ghost Inō Tadataka"
+      }
+    ],
+    "enemy_types": [
+      683
+    ]
+  },
+  {
+    "id": 684,
+    "filename": "684.png",
+    "image_file_path": "Image/Enemies/684.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/684.png",
+    "names": [
+      {
+        "en": "Ghost Arthur Conan Doyle",
+        "ja": "ゴースト・コナン・ドイル",
+        "zh": "Ghost Arthur Conan Doyle"
+      }
+    ],
+    "enemy_types": [
+      684,
+      689,
+      705
+    ]
+  },
+  {
+    "id": 685,
+    "filename": "685.png",
+    "image_file_path": "Image/Enemies/685.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/685.png",
+    "names": [
+      {
+        "en": "Ghost Ernest Thompson Seton",
+        "ja": "ゴースト・シートン",
+        "zh": "Ghost Ernest Thompson Seton"
+      }
+    ],
+    "enemy_types": [
+      685,
+      694,
+      695,
+      701
+    ]
+  },
+  {
+    "id": 686,
+    "filename": "686.png",
+    "image_file_path": "Image/Enemies/686.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/686.png",
+    "names": [
+      {
+        "en": "Ghost David",
+        "ja": "ゴースト・ダビデ",
+        "zh": "Ghost David"
+      }
+    ],
+    "enemy_types": [
+      686,
+      700
+    ]
+  },
+  {
+    "id": 687,
+    "filename": "687.png",
+    "image_file_path": "Image/Enemies/687.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/687.png",
+    "names": [
+      {
+        "en": "Ghost Fukuzawa Yukichi",
+        "ja": "ゴースト・福沢諭吉",
+        "zh": "Ghost Fukuzawa Yukichi"
+      }
+    ],
+    "enemy_types": [
+      687,
+      691,
+      699
+    ]
+  },
+  {
+    "id": 688,
+    "filename": "688.png",
+    "image_file_path": "Image/Enemies/688.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/688.png",
+    "names": [
+      {
+        "en": "Ghost Sun Shangxiang",
+        "ja": "ゴースト・孫尚香",
+        "zh": "Ghost Sun Shangxiang"
+      }
+    ],
+    "enemy_types": [
+      688,
+      698
+    ]
+  },
+  {
+    "id": 690,
+    "filename": "690.png",
+    "image_file_path": "Image/Enemies/690.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/690.png",
+    "names": [
+      {
+        "en": "Ghost Blaise Pascal",
+        "ja": "ゴースト・パスカル",
+        "zh": "Ghost Blaise Pascal"
+      }
+    ],
+    "enemy_types": [
+      690
+    ]
+  },
+  {
+    "id": 692,
+    "filename": "692.png",
+    "image_file_path": "Image/Enemies/692.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/692.png",
+    "names": [
+      {
+        "en": "Ghost Xiahou Dun",
+        "ja": "ゴースト・張遼",
+        "zh": "Ghost Xiahou Dun"
+      }
+    ],
+    "enemy_types": [
+      692,
+      693,
+      703,
+      707,
+      708,
+      709,
+      740
+    ]
+  },
+  {
+    "id": 696,
+    "filename": "696.png",
+    "image_file_path": "Image/Enemies/696.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/696.png",
+    "names": [
+      {
+        "en": "Ghost Izumo no Okuni",
+        "ja": "ゴースト・出雲阿国",
+        "zh": "Ghost Izumo no Okuni"
+      }
+    ],
+    "enemy_types": [
+      696,
+      734,
+      735,
+      736,
+      1057,
+      1064,
+      1069,
+      1082
+    ]
+  },
+  {
+    "id": 697,
+    "filename": "697.png",
+    "image_file_path": "Image/Enemies/697.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/697.png",
+    "names": [
+      {
+        "en": "Ghost Kaihime",
+        "ja": "ゴースト・甲斐姫",
+        "zh": "Ghost Kaihime"
+      }
+    ],
+    "enemy_types": [
+      697,
+      702,
+      706
+    ]
+  },
+  {
+    "id": 704,
+    "filename": "704.png",
+    "image_file_path": "Image/Enemies/704.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/704.png",
+    "names": [
+      {
+        "en": "Ghost Plato",
+        "ja": "ゴースト・プラトン",
+        "zh": "Ghost Plato"
+      }
+    ],
+    "enemy_types": [
+      704,
+      716,
+      717,
+      732,
+      733,
+      1078
+    ]
+  },
+  {
+    "id": 710,
+    "filename": "710.png",
+    "image_file_path": "Image/Enemies/710.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/710.png",
+    "names": [
+      {
+        "en": "Ghost MCH Warrior",
+        "ja": "ゴースト・MCHウォーリアー",
+        "zh": "Ghost MCH Warrior"
+      }
+    ],
+    "enemy_types": [
+      712
+    ]
+  },
+  {
+    "id": 711,
+    "filename": "711.png",
+    "image_file_path": "Image/Enemies/711.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/711.png",
+    "names": [
+      {
+        "en": "Ghost Pythagoras",
+        "ja": "ゴースト・ピタゴラス",
+        "zh": "Ghost Pythagoras"
+      }
+    ],
+    "enemy_types": [
+      711
+    ]
+  },
+  {
+    "id": 712,
+    "filename": "712.png",
+    "image_file_path": "Image/Enemies/712.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/712.png",
+    "names": [
+      {
+        "en": "Ghost MCH Artist",
+        "ja": "ゴースト・MCHアーティスト",
+        "zh": "Ghost MCH Artist"
+      }
+    ],
+    "enemy_types": [
+      710
+    ]
+  },
+  {
+    "id": 713,
+    "filename": "713.png",
+    "image_file_path": "Image/Enemies/713.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/713.png",
+    "names": [
+      {
+        "en": "Ghost Ikkyu",
+        "ja": "ゴースト・一休",
+        "zh": "Ghost Ikkyu"
+      }
+    ],
+    "enemy_types": [
+      713,
+      728
+    ]
+  },
+  {
+    "id": 714,
+    "filename": "714.png",
+    "image_file_path": "Image/Enemies/714.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/714.png",
+    "names": [
+      {
+        "en": "Ghost Erwin Schrödinger",
+        "ja": "ゴースト・シュレディンガー",
+        "zh": "Ghost Erwin Schrödinger"
+      }
+    ],
+    "enemy_types": [
+      714,
+      1056,
+      1070,
+      1074,
+      1075,
+      1076
+    ]
+  },
+  {
+    "id": 715,
+    "filename": "715.png",
+    "image_file_path": "Image/Enemies/715.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/715.png",
+    "names": [
+      {
+        "en": "Ghost Sarutahiko",
+        "ja": "ゴースト・猿田彦",
+        "zh": "Ghost Sarutahiko"
+      }
+    ],
+    "enemy_types": [
+      715,
+      745
+    ]
+  },
+  {
+    "id": 718,
+    "filename": "718.png",
+    "image_file_path": "Image/Enemies/718.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/718.png",
+    "names": [
+      {
+        "en": "Ghost Kintaro",
+        "ja": "ゴースト・金太郎",
+        "zh": "Ghost Kintaro"
+      }
+    ],
+    "enemy_types": [
+      718,
+      749,
+      1062,
+      1071
+    ]
+  },
+  {
+    "id": 722,
+    "filename": "722.png",
+    "image_file_path": "Image/Enemies/722.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/722.png",
+    "names": [
+      {
+        "en": "Ghost Xu Chu",
+        "ja": "ゴースト・許褚",
+        "zh": "Ghost Xu Chu"
+      }
+    ],
+    "enemy_types": [
+      722
+    ]
+  },
+  {
+    "id": 725,
+    "filename": "725.png",
+    "image_file_path": "Image/Enemies/725.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/725.png",
+    "names": [
+      {
+        "en": "Ghost Wright Brothers",
+        "ja": "ゴースト・ライト兄弟",
+        "zh": "Ghost Wright Brothers"
+      }
+    ],
+    "enemy_types": [
+      725,
+      726,
+      727,
+      1068,
+      1077
+    ]
+  },
+  {
+    "id": 729,
+    "filename": "729.png",
+    "image_file_path": "Image/Enemies/729.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/729.png",
+    "names": [
+      {
+        "en": "Ghost Montesquieu",
+        "ja": "ゴースト・モンテスキュー",
+        "zh": "Ghost Montesquieu"
+      }
+    ],
+    "enemy_types": [
+      729,
+      1080
+    ]
+  },
+  {
+    "id": 731,
+    "filename": "731.png",
+    "image_file_path": "Image/Enemies/731.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/731.png",
+    "names": [
+      {
+        "en": "Ghost Salome",
+        "ja": "ゴースト・サロメ",
+        "zh": "Ghost Salome"
+      }
+    ],
+    "enemy_types": [
+      731,
+      757
+    ]
+  },
+  {
+    "id": 737,
+    "filename": "737.png",
+    "image_file_path": "Image/Enemies/737.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/737.png",
+    "names": [
+      {
+        "en": "Ghost Fyodor Dostoevsky",
+        "ja": "ゴースト・ドストエフスキー",
+        "zh": "Ghost Fyodor Dostoevsky"
+      }
+    ],
+    "enemy_types": [
+      737,
+      738
+    ]
+  },
+  {
+    "id": 739,
+    "filename": "739.png",
+    "image_file_path": "Image/Enemies/739.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/739.png",
+    "names": [
+      {
+        "en": "Ghost Montgomery",
+        "ja": "ゴースト・モンゴメリ",
+        "zh": "Ghost Montgomery"
+      }
+    ],
+    "enemy_types": [
+      739
+    ]
+  },
+  {
+    "id": 741,
+    "filename": "741.png",
+    "image_file_path": "Image/Enemies/741.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/741.png",
+    "names": [
+      {
+        "en": "Ghost Higuchi Ichiyō",
+        "ja": "ゴースト・樋口一葉",
+        "zh": "Ghost Higuchi Ichiyō"
+      }
+    ],
+    "enemy_types": [
+      741,
+      742,
+      1073
+    ]
+  },
+  {
+    "id": 743,
+    "filename": "743.png",
+    "image_file_path": "Image/Enemies/743.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/743.png",
+    "names": [
+      {
+        "en": "Ghost Goethe",
+        "ja": "ゴースト・ゲーテ",
+        "zh": "Ghost Goethe"
+      }
+    ],
+    "enemy_types": [
+      743,
+      1053,
+      1072
+    ]
+  },
+  {
+    "id": 744,
+    "filename": "744.png",
+    "image_file_path": "Image/Enemies/744.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/744.png",
+    "names": [
+      {
+        "en": "Ghost Toyotomi Hideyoshi",
+        "ja": "ゴースト・豊臣秀吉",
+        "zh": "Ghost Toyotomi Hideyoshi"
+      }
+    ],
+    "enemy_types": [
+      744,
+      750,
+      751
+    ]
+  },
+  {
+    "id": 755,
+    "filename": "755.png",
+    "image_file_path": "Image/Enemies/755.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/755.png",
+    "names": [
+      {
+        "en": "Ghost SATOSHI・NAKAMOTO ALPHA CC",
+        "ja": "ゴースト・サトシ・ナカモト ALPHA CC",
+        "zh": "Ghost SATOSHI・NAKAMOTO ALPHA CC"
+      }
+    ],
+    "enemy_types": [
+      755,
+      756
+    ]
+  },
+  {
+    "id": 758,
+    "filename": "758.png",
+    "image_file_path": "Image/Enemies/758.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/758.png",
+    "names": [
+      {
+        "en": "Ghost Takasugi Shinsaku",
+        "ja": "ゴースト・高杉晋作",
+        "zh": "Ghost Takasugi Shinsaku"
+      }
+    ],
+    "enemy_types": [
+      758,
+      759,
+      760
+    ]
+  },
+  {
+    "id": 762,
+    "filename": "762.png",
+    "image_file_path": "Image/Enemies/762.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/762.png",
+    "names": [
+      {
+        "en": "Ghost Lady Chacha",
+        "ja": "ゴースト・茶々",
+        "zh": "Ghost Lady Chacha"
+      }
+    ],
+    "enemy_types": [
+      762
+    ]
+  },
+  {
+    "id": 767,
+    "filename": "767.png",
+    "image_file_path": "Image/Enemies/767.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/767.png",
+    "names": [
+      {
+        "en": "Ghost Jack the Ripper",
+        "ja": "ゴースト・ジャックザリッパー",
+        "zh": "Ghost Jack the Ripper"
+      }
+    ],
+    "enemy_types": [
+      767,
+      768,
+      769
+    ]
+  },
+  {
+    "id": 774,
+    "filename": "774.png",
+    "image_file_path": "Image/Enemies/774.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/774.png",
+    "names": [
+      {
+        "en": "Ghost Goemon Ishikawa",
+        "ja": "ゴースト・石川五右衛門",
+        "zh": "Ghost Goemon Ishikawa"
+      }
+    ],
+    "enemy_types": [
+      774
+    ]
+  },
+  {
+    "id": 776,
+    "filename": "776.png",
+    "image_file_path": "Image/Enemies/776.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/776.png",
+    "names": [
+      {
+        "en": "Ghost Ivan the Terrible",
+        "ja": "ゴースト・イワン雷帝",
+        "zh": "Ghost Ivan the Terrible"
+      }
+    ],
+    "enemy_types": [
+      776,
+      788,
+      811,
+      1102
+    ]
+  },
+  {
+    "id": 777,
+    "filename": "777.png",
+    "image_file_path": "Image/Enemies/777.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/777.png",
+    "names": [
+      {
+        "en": "Ghost Jiang Ziya",
+        "ja": "ゴースト・太公望",
+        "zh": "Ghost Jiang Ziya"
+      }
+    ],
+    "enemy_types": [
+      777,
+      809
+    ]
+  },
+  {
+    "id": 780,
+    "filename": "780.png",
+    "image_file_path": "Image/Enemies/780.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/780.png",
+    "names": [
+      {
+        "en": "Ghost Pocahontas",
+        "ja": "ゴースト・ポカホンタス",
+        "zh": "Ghost Pocahontas"
+      }
+    ],
+    "enemy_types": [
+      780,
+      781,
+      805,
+      1094,
+      1112
+    ]
+  },
+  {
+    "id": 782,
+    "filename": "782.png",
+    "image_file_path": "Image/Enemies/782.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/782.png",
+    "names": [
+      {
+        "en": "Ghost Benkei",
+        "ja": "ゴースト・武蔵坊弁慶",
+        "zh": "Ghost Benkei"
+      }
+    ],
+    "enemy_types": [
+      782
+    ]
+  },
+  {
+    "id": 785,
+    "filename": "785.png",
+    "image_file_path": "Image/Enemies/785.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/785.png",
+    "names": [
+      {
+        "en": "Ghost ETHEREMON-RED",
+        "ja": "ゴースト・ETHEREMON-RED",
+        "zh": "Ghost ETHEREMON-RED"
+      }
+    ],
+    "enemy_types": [
+      785,
+      787
+    ]
+  },
+  {
+    "id": 786,
+    "filename": "786.png",
+    "image_file_path": "Image/Enemies/786.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/786.png",
+    "names": [
+      {
+        "en": "Ghost ETHEREMON-BLUE",
+        "ja": "ゴースト・ETHEREMON-BLUE",
+        "zh": "Ghost ETHEREMON-BLUE"
+      }
+    ],
+    "enemy_types": [
+      786
+    ]
+  },
+  {
+    "id": 789,
+    "filename": "789.png",
+    "image_file_path": "Image/Enemies/789.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/789.png",
+    "names": [
+      {
+        "en": "Ghost Hanzo Hattori",
+        "ja": "ゴースト・服部半蔵",
+        "zh": "Ghost Hanzo Hattori"
+      }
+    ],
+    "enemy_types": [
+      789,
+      793,
+      810,
+      824,
+      1087,
+      1106,
+      1107
+    ]
+  },
+  {
+    "id": 791,
+    "filename": "791.png",
+    "image_file_path": "Image/Enemies/791.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/791.png",
+    "names": [
+      {
+        "en": "Ghost Sanada Yukimura",
+        "ja": "ゴースト・真田幸村",
+        "zh": "Ghost Sanada Yukimura"
+      }
+    ],
+    "enemy_types": [
+      791,
+      843
+    ]
+  },
+  {
+    "id": 792,
+    "filename": "792.png",
+    "image_file_path": "Image/Enemies/792.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/792.png",
+    "names": [
+      {
+        "en": "Ghost Isaac Newton",
+        "ja": "ゴースト・ニュートン",
+        "zh": "Ghost Isaac Newton"
+      }
+    ],
+    "enemy_types": [
+      792
+    ]
+  },
+  {
+    "id": 796,
+    "filename": "796.png",
+    "image_file_path": "Image/Enemies/796.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/796.png",
+    "names": [
+      {
+        "en": "Ghost Mary Read",
+        "ja": "ゴースト・メアリ・リード",
+        "zh": "Ghost Mary Read"
+      }
+    ],
+    "enemy_types": [
+      796,
+      806,
+      807,
+      808,
+      817
+    ]
+  },
+  {
+    "id": 797,
+    "filename": "797.png",
+    "image_file_path": "Image/Enemies/797.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/797.png",
+    "names": [
+      {
+        "en": "Ghost Raffaello Santi",
+        "ja": "ゴースト・ラファエロ",
+        "zh": "Ghost Raffaello Santi"
+      }
+    ],
+    "enemy_types": [
+      797,
+      799
+    ]
+  },
+  {
+    "id": 804,
+    "filename": "804.png",
+    "image_file_path": "Image/Enemies/804.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/804.png",
+    "names": [
+      {
+        "en": "Ghost Sarutobi Sasuke",
+        "ja": "ゴースト・猿飛佐助",
+        "zh": "Ghost Sarutobi Sasuke"
+      }
+    ],
+    "enemy_types": [
+      804,
+      1097,
+      1099,
+      1110
+    ]
+  },
+  {
+    "id": 815,
+    "filename": "815.png",
+    "image_file_path": "Image/Enemies/815.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/815.png",
+    "names": [
+      {
+        "en": "Ghost Christopher Columbus",
+        "ja": "ゴースト・コロンブス",
+        "zh": "Ghost Christopher Columbus"
+      }
+    ],
+    "enemy_types": [
+      815
+    ]
+  },
+  {
+    "id": 818,
+    "filename": "818.png",
+    "image_file_path": "Image/Enemies/818.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/818.png",
+    "names": [
+      {
+        "en": "Ghost Belle Starr",
+        "ja": "ゴースト・ベル・スター",
+        "zh": "Ghost Belle Starr"
+      }
+    ],
+    "enemy_types": [
+      818,
+      819,
+      820
+    ]
+  },
+  {
+    "id": 821,
+    "filename": "821.png",
+    "image_file_path": "Image/Enemies/821.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/821.png",
+    "names": [
+      {
+        "en": "Ghost Magellan",
+        "ja": "ゴースト・マゼラン",
+        "zh": "Ghost Magellan"
+      }
+    ],
+    "enemy_types": [
+      821
+    ]
+  },
+  {
+    "id": 822,
+    "filename": "822.png",
+    "image_file_path": "Image/Enemies/822.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/822.png",
+    "names": [
+      {
+        "en": "Ghost Amakusa Shirō",
+        "ja": "ゴースト・天草四郎",
+        "zh": "Ghost Amakusa Shirō"
+      }
+    ],
+    "enemy_types": [
+      822,
+      823
+    ]
+  },
+  {
+    "id": 828,
+    "filename": "828.png",
+    "image_file_path": "Image/Enemies/828.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/828.png",
+    "names": [
+      {
+        "en": "Ghost Robin Hood",
+        "ja": "ゴースト・ロビンフッド",
+        "zh": "Ghost Robin Hood"
+      }
+    ],
+    "enemy_types": [
+      828
+    ]
+  },
+  {
+    "id": 830,
+    "filename": "830.png",
+    "image_file_path": "Image/Enemies/830.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/830.png",
+    "names": [
+      {
+        "en": "Ghost Anne Bonny",
+        "ja": "ゴースト・アン・ボニー",
+        "zh": "Ghost Anne Bonny"
+      }
+    ],
+    "enemy_types": [
+      830,
+      832
+    ]
+  },
+  {
+    "id": 831,
+    "filename": "831.png",
+    "image_file_path": "Image/Enemies/831.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/831.png",
+    "names": [
+      {
+        "en": "Ghost William Shakespeare",
+        "ja": "ゴースト・シェイクスピア",
+        "zh": "Ghost William Shakespeare"
+      }
+    ],
+    "enemy_types": [
+      831
+    ]
+  },
+  {
+    "id": 844,
+    "filename": "844.png",
+    "image_file_path": "Image/Enemies/844.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/844.png",
+    "names": [
+      {
+        "en": "Ghost Hannibal",
+        "ja": "ゴースト・ハンニバル",
+        "zh": "Ghost Hannibal"
+      }
+    ],
+    "enemy_types": [
+      844
+    ]
+  },
+  {
+    "id": 885,
+    "filename": "885.png",
+    "image_file_path": "Image/Enemies/885.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/885.png",
+    "names": [
+      {
+        "en": "Ghost Astro boy",
+        "ja": "ゴースト・鉄腕アトム",
+        "zh": "Ghost Astro boy"
+      }
+    ],
+    "enemy_types": [
+      885,
+      1129
+    ]
+  },
+  {
+    "id": 893,
+    "filename": "893.png",
+    "image_file_path": "Image/Enemies/893.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/893.png",
+    "names": [
+      {
+        "en": "Ghost Xiang Yu",
+        "ja": "ゴースト・項羽",
+        "zh": "Ghost Xiang Yu"
+      }
+    ],
+    "enemy_types": [
+      893,
+      914,
+      925,
+      967,
+      968,
+      970,
+      989,
+      1006,
+      1148,
+      1150
+    ]
+  },
+  {
+    "id": 895,
+    "filename": "895.png",
+    "image_file_path": "Image/Enemies/895.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/895.png",
+    "names": [
+      {
+        "en": "Ghost Hokusai",
+        "ja": "ゴースト・葛飾北斎",
+        "zh": "Ghost Hokusai"
+      }
+    ],
+    "enemy_types": [
+      895,
+      932,
+      937,
+      990,
+      1001,
+      1152,
+      1174
+    ]
+  }
+]

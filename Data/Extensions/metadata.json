@@ -1,0 +1,15 @@
+{
+  "source_url": "https://www.mycryptoheroes.net/ja/dictionary/extensions",
+  "fetched_at": "2026-04-29T05:02:15.799Z",
+  "login_required_for_public_master_data": false,
+  "note": "The public extension dictionary page embeds extension, active skill, aura, and image URL master data in window.__NUXT__; wallet login is not required for these public records.",
+  "total_extension_master_records": 1825,
+  "dictionary_visible_records": 974,
+  "image_count": 1825,
+  "image_download_failures": [],
+  "category_counts": {
+    "legacy": 830,
+    "modern": 144,
+    "replica": 851
+  }
+}

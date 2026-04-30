@@ -1,24 +1,22 @@
-# mycryptoheroes-effects
+# Data/Effects/GoldChest
 
-[My Crypto Heroes](https://www.mycryptoheroes.net/) のクエスト画面で使われている **紙吹雪エフェクト** と **金宝箱モーダル** を、フレームワーク非依存の素のHTML/CSS/JSで再現した実装集です。
+My Crypto Heroes のクエスト画面で表示される **金宝箱ドロップ演出**（紙吹雪エフェクト + 金宝箱モーダル）を、フレームワーク非依存の素のHTML/CSS/JSで再現した実装です。
 
-ターン制タクティクスゲームなど、自作ゲームにレアドロップ演出を組み込みたい開発者向けのリファレンス実装として公開しています。
+このフォルダは、リポジトリの上位フォルダ `Data/Effects/` に既に存在する `battle_effect_sprites.json`（Action欄スプライト）や `cutins.json`（カットイン演出）と並ぶ、もう一つの「ゲーム内エフェクト演出資産」として位置付けています。
 
-## デモ
+## 何が入っているか
 
-`demo/index.html` をブラウザで開くと、以下が試せます。
-
-- 紙吹雪の Start / Stop / Pause / Remove
-- 金宝箱モーダルの表示（紙吹雪あり / なし）
-- パラメータ（粒子数・速度・透明度・グラデーション）のリアルタイム調整
-
-## 特徴
-
-- **外部ライブラリ不要** — Canvas に直接描画。npm/CDNへの依存ゼロ
-- **マイクリ実装を忠実に再現** — 12色の固定パレット、粒子は四角ではなく「線分」、`Math.sin/cos` による揺らぎ
-- **2KB台の軽量実装** — minify前で約8KB、minify後はさらに小さい
-- **ESC キーでモーダル閉じ・aria属性付き** — アクセシビリティ配慮済み
-- **モジュール export 対応** — `module.exports` でも `window.Confetti` でも使える
+| パス | 内容 |
+|------|------|
+| `src/confetti.js` | 紙吹雪エフェクト本体（Canvas描画、外部依存なし） |
+| `src/gold-chest-modal.js` | 金宝箱モーダル本体（背景暗転 + アイコン + Tweetボタン） |
+| `demo/index.html` | 動作確認用のデモページ |
+| `assets/treasure-chest.svg` | 宝箱アイコンのフォールバックSVG (CC0) |
+| `docs/confetti.md` | 紙吹雪APIの詳細仕様 |
+| `docs/gold-chest-modal.md` | 金宝箱モーダルAPIの詳細仕様 |
+| `docs/analysis.md` | マイクリのJSバンドルから実装を抽出した経緯 |
+| `docs/customization.md` | レアリティ別バリエーション・色変更などの応用例 |
+| `docs/integration.md` | Unity / React / Vue への組み込み手順 |
 
 ## クイックスタート
 
@@ -31,50 +29,39 @@
 
 これだけで紙吹雪付きの金宝箱モーダルが表示されます。
 
-## ファイル構成
+## デモを試す
 
-```
-mycryptoheroes/
-├── README.md                     ← このファイル
-├── src/
-│   ├── confetti.js               ← 紙吹雪エフェクト本体
-│   └── gold-chest-modal.js       ← 金宝箱モーダル本体
-├── demo/
-│   └── index.html                ← デモページ
-├── assets/
-│   └── treasure-chest.svg        ← 宝箱アイコン (フォールバック用)
-└── docs/
-    ├── confetti.md               ← 紙吹雪のAPI詳細
-    ├── gold-chest-modal.md       ← モーダルのAPI詳細
-    ├── analysis.md               ← マイクリ実装の解析メモ
-    ├── customization.md          ← カスタマイズ例集
-    └── integration.md            ← 自ゲームへの組み込み手順
-```
+`demo/index.html` をブラウザで直接開くと、Start/Stop/Pauseの操作、パラメータ調整スライダーで挙動を確認できます。`file://` でも動作します。
 
-## ドキュメント
+## マイクリから抽出した値
 
-- [紙吹雪エフェクトのAPI](docs/confetti.md) — `Confetti.start()` などの詳細
-- [金宝箱モーダルのAPI](docs/gold-chest-modal.md) — `GoldChestModal.show()` のオプション
-- [マイクリ実装の解析メモ](docs/analysis.md) — どこからこの実装を抽出したかの経緯
-- [カスタマイズ例](docs/customization.md) — 色変更・スプライト紙吹雪・自作ゲームでの応用
-- [自ゲームへの組み込み手順](docs/integration.md) — Unity / React / Vue で使う場合
+| 項目 | 値 | 出典 |
+|------|-----|------|
+| 紙吹雪 maxCount | 120 | quest.js (module 2653) |
+| 紙吹雪 speed | 2 | 同上 |
+| 紙吹雪 frameInterval | 15ms | 同上 |
+| カラーパレット | 12色固定 (DodgerBlue, OliveDrab, Gold, ...) | 同上 |
+| 金色グラデ | `linear-gradient(to left top, #ffe766, #998100)` | quest.js (module 2919, .goldChest__icon) |
+| モーダル背景 | `#2a2d34` | 同上 |
+| 宝箱アイコン | Font Awesome Pro `fal treasure-chest` | quest.186f36a.js |
+| Tweet文 | "I just dropped a gold chest!" | quest.js |
+| Tweetハッシュタグ | "MCH,MyCryptoHeroes" | 同上 |
 
-## ブラウザサポート
+詳しい解析プロセスは [docs/analysis.md](docs/analysis.md) を参照。
 
-Canvas API と `requestAnimationFrame` が動けばOK。実質的に IE11 以降の全モダンブラウザで動作します（IE11 用の polyfill 含む）。
+## 宝箱アイコンについて
 
-## ライセンスと免責
+オリジナルの実装は Font Awesome Pro の `treasure-chest` アイコンを使用していますが、Font Awesome Pro の SVG はライセンス購読者の自プロジェクト内利用に限定されているため、本リポジトリには **CC0 のフォールバック SVG** のみを `assets/treasure-chest.svg` として同梱しています。
 
-このリポジトリのコード自体は **MIT License** で公開しています。
+Font Awesome Pro のライセンスを保有している場合は、`GoldChestModal.show({ iconSvg: ... })` オプションで自分のローカルにある SVG を差し込んでください。詳細は [docs/gold-chest-modal.md](docs/gold-chest-modal.md) を参照。
 
-ただし、以下の点に注意してください。
+## ライセンス
 
-- **アルゴリズム自体** は My Crypto Heroes のクライアントサイドJSから抽出・再構成したものです。同様のロジックは [confetti.js](https://github.com/davidpsalter/confetti) など複数のオープンソース実装が存在し、当該実装も同系統のシンプルなCanvas紙吹雪です。商用利用については各自で判断してください。
-- **金宝箱の宝箱アイコン** は元実装では Font Awesome Pro の `treasure-chest` を使用しています。このリポジトリには代替として CC0 のシンプルなSVGを同梱しています。Font Awesome Pro を使用する場合はライセンス購入が必要です。
-- **My Crypto Heroes** は double jump.tokyo Inc. および MCH Co., Ltd. の作品です。本リポジトリは公式とは無関係の研究・教育目的の実装です。
+このフォルダのコードは、リポジトリルートの [LICENSE](../../../LICENSE)（MIT）に従います。
 
-## 作者
+`assets/treasure-chest.svg` は CC0 (Public Domain) の自作SVGです。
 
-[@bearko](https://github.com/bearko)
+## 注意事項
 
-ターン制タクティクスゲームを開発中。マイクリのリスペクトを込めて、自作ゲームに同じテイストの演出を組み込むため抽出しました。
+- **ロジック**: 紙吹雪のアルゴリズム自体は Canvas に細い線分を描画するシンプルなもので、同系統のオープンソース実装（[davidpsalter/confetti](https://github.com/davidpsalter/confetti) など）が複数存在します。本実装はマイクリで使われている「具体的なパラメータ値」を保存することに価値があります。
+- **画像/演出の利用**: 本フォルダには **マイクリの画像アセットそのもの** は含まれていません（含まれているのはCC0のフォールバックSVGのみ）。リポジトリ内の Image/* に格納されているマイクリ画像との利用については、ルートREADMEの「画像利用ガイドライン要約」セクションに従ってください。

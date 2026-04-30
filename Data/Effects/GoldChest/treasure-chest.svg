@@ -1,0 +1,10 @@
+<!--
+  treasure-chest.svg
+  汎用の宝箱SVG（フォールバック用）
+  Font Awesome Pro の treasure-chest が使えない環境向けに同梱。
+  ライセンス: CC0 (Public Domain) - 自作のシンプルなアウトラインアイコン
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="currentColor" aria-label="treasure chest">
+  <path d="M8 24c0-4.4 3.6-8 8-8h32c4.4 0 8 3.6 8 8v4H8v-4zm0 8h20v6h8v-6h20v20c0 2.2-1.8 4-4 4H12c-2.2 0-4-1.8-4-4V32zm22 4v4h4v-4h-4z"/>
+  <path d="M16 16V12c0-2.2 1.8-4 4-4h24c2.2 0 4 1.8 4 4v4h-4v-4H20v4h-4z"/>
+</svg>

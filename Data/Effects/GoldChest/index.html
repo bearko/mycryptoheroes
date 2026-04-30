@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MCH Effects Demo - Gold Chest & Confetti</title>
+    <style>
+        * { box-sizing: border-box; }
+        body {
+            margin: 0;
+            min-height: 100vh;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Sans", "Meiryo", sans-serif;
+            background: #1d1e21;
+            color: #fdfdfd;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+        }
+        .container {
+            max-width: 640px;
+            width: 100%;
+        }
+        h1 {
+            font-size: 1.6rem;
+            margin: 0 0 0.5rem;
+        }
+        p.lead {
+            color: #999;
+            margin: 0 0 2rem;
+            line-height: 1.6;
+        }
+        .panel {
+            background: #2f333d;
+            border-radius: 8px;
+            padding: 1.5rem;
+            margin-bottom: 1rem;
+        }
+        .panel h2 {
+            font-size: 1rem;
+            margin: 0 0 1rem;
+            color: #ccc;
+        }
+        .button-row {
+            display: flex;
+            gap: 0.75rem;
+            flex-wrap: wrap;
+        }
+        button {
+            padding: 0.7rem 1.4rem;
+            border: 1px solid #fdfdfd;
+            border-radius: 4px;
+            background: transparent;
+            color: #fdfdfd;
+            font-size: 0.95rem;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        button:hover {
+            background: rgba(255,255,255,0.1);
+        }
+        button.primary {
+            background: linear-gradient(to left top, #ffe766, #998100);
+            color: #303030;
+            border-color: transparent;
+        }
+        .config-row {
+            display: grid;
+            grid-template-columns: 1fr 2fr 60px;
+            gap: 0.75rem;
+            align-items: center;
+            margin-bottom: 0.5rem;
+            font-size: 0.85rem;
+        }
+        .config-row label {
+            color: #999;
+        }
+        input[type="range"] {
+            width: 100%;
+        }
+        .value {
+            font-family: monospace;
+            text-align: right;
+            color: #ffe766;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎉 MCH Effects Demo</h1>
+        <p class="lead">
+            My Crypto Heroes のクエスト画面で使われている紙吹雪エフェクトと金宝箱モーダルのデモです。<br>
+            ボタンを押すとそれぞれの演出が確認できます。
+        </p>
+
+        <div class="panel">
+            <h2>1. 紙吹雪のみ（Confetti）</h2>
+            <div class="button-row">
+                <button onclick="Confetti.start()">Start</button>
+                <button onclick="Confetti.stop()">Stop</button>
+                <button onclick="Confetti.togglePause()">Pause / Resume</button>
+                <button onclick="Confetti.remove()">Remove</button>
+            </div>
+        </div>
+
+        <div class="panel">
+            <h2>2. 金宝箱モーダル（Gold Chest）</h2>
+            <div class="button-row">
+                <button class="primary" onclick="showGoldChest()">クエストクリア！金箱ドロップ演出</button>
+                <button onclick="showGoldChestNoConfetti()">紙吹雪なし</button>
+            </div>
+        </div>
+
+        <div class="panel">
+            <h2>3. パラメータ調整</h2>
+            <div class="config-row">
+                <label for="maxCount">maxCount</label>
+                <input type="range" id="maxCount" min="20" max="300" value="120" step="10">
+                <span class="value" id="maxCountVal">120</span>
+            </div>
+            <div class="config-row">
+                <label for="speed">speed</label>
+                <input type="range" id="speed" min="1" max="10" value="2" step="1">
+                <span class="value" id="speedVal">2</span>
+            </div>
+            <div class="config-row">
+                <label for="alpha">alpha</label>
+                <input type="range" id="alpha" min="0.1" max="1" value="1" step="0.1">
+                <span class="value" id="alphaVal">1.0</span>
+            </div>
+            <div class="config-row">
+                <label for="gradient">gradient</label>
+                <input type="checkbox" id="gradient">
+                <span class="value" id="gradientVal">off</span>
+            </div>
+            <div class="button-row" style="margin-top: 1rem;">
+                <button onclick="applyConfigAndStart()">設定を反映して再生</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="../src/confetti.js"></script>
+    <script src="../src/gold-chest-modal.js"></script>
+    <script>
+        function showGoldChest() {
+            GoldChestModal.show({
+                tweetUrl: 'https://github.com/bearko/mycryptoheroes',
+                tweetText: 'I just dropped a gold chest! 🎉',
+                tweetHashtags: 'MCH,MyCryptoHeroes'
+            });
+        }
+
+        function showGoldChestNoConfetti() {
+            GoldChestModal.show({ confetti: false });
+        }
+
+        // パラメータ調整
+        var maxCountInput = document.getElementById('maxCount');
+        var speedInput = document.getElementById('speed');
+        var alphaInput = document.getElementById('alpha');
+        var gradientInput = document.getElementById('gradient');
+
+        maxCountInput.addEventListener('input', function () {
+            document.getElementById('maxCountVal').textContent = this.value;
+        });
+        speedInput.addEventListener('input', function () {
+            document.getElementById('speedVal').textContent = this.value;
+        });
+        alphaInput.addEventListener('input', function () {
+            document.getElementById('alphaVal').textContent = parseFloat(this.value).toFixed(1);
+        });
+        gradientInput.addEventListener('change', function () {
+            document.getElementById('gradientVal').textContent = this.checked ? 'on' : 'off';
+        });
+
+        function applyConfigAndStart() {
+            Confetti.maxCount = parseInt(maxCountInput.value, 10);
+            Confetti.speed = parseInt(speedInput.value, 10);
+            Confetti.alpha = parseFloat(alphaInput.value);
+            Confetti.gradient = gradientInput.checked;
+            Confetti.remove();
+            setTimeout(function () { Confetti.start(); }, 50);
+        }
+    </script>
+</body>
+</html>

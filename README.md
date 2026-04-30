@@ -161,3 +161,40 @@ node scripts/fetch_battle_cutin_assets.js
 ```
 
 一部レプリカ画像URLはCDNで直接 503 になることがあります。該当ヒーローは同名の元ヒーロー画像URLへフォールバックして `Image/Heroes/[ID].png` として保存し、`metadata.json` の `image_download_fallbacks` に記録します。
+
+
+# ルート README.md への追記用スニペット
+
+このファイルは `git push` には含めません。
+既存の `README.md` の末尾に、以下のセクションをコピペで追記してください。
+
+挿入位置の推奨は「## 再取得方法」セクションの直後、または READMEの一番下です。
+
+---
+
+```markdown
+## 金宝箱ドロップ演出（紙吹雪エフェクト + モーダル）
+
+クエスト画面で金宝箱がドロップした時の演出を、フレームワーク非依存の素のHTML/CSS/JSで再現した実装を `Data/Effects/GoldChest/` に格納しています。
+
+`Data/Effects/battle_effect_sprites.json`（Action欄スプライト）と `cutins.json`（パッシブ・勝敗カットイン）と並ぶ、ゲーム内エフェクト演出資産の一つです。
+
+* `Data/Effects/GoldChest/README.md`: 概要と使い方。
+* `Data/Effects/GoldChest/src/confetti.js`: 紙吹雪エフェクト本体（Canvas描画、外部依存なし）。
+* `Data/Effects/GoldChest/src/gold-chest-modal.js`: 金宝箱モーダル本体。
+* `Data/Effects/GoldChest/demo/index.html`: 動作確認用デモページ。`file://` で直接開けます。
+* `Data/Effects/GoldChest/docs/`: API仕様、マイクリJSの解析メモ、Unity/Reactへの組み込み手順など。
+
+紙吹雪のパラメータ（粒子数120、速度2、12色固定パレット）と金色グラデーション（`linear-gradient(to left top, #ffe766, #998100)`）はマイクリのクライアントサイドJSから抽出した値をそのまま使用しています。詳細な抽出プロセスは `Data/Effects/GoldChest/docs/analysis.md` を参照してください。
+```
+
+---
+
+## なぜこの位置に入れるか
+
+リポジトリ既存の `Data/Effects/` には以下が既に存在します：
+
+- `Data/Effects/battle_effect_sprites.json` — Action欄スプライト一覧
+- `Data/Effects/cutins.json` — カットインCSS/ジングル一覧
+
+つまり「ゲーム内エフェクト演出を整理する場所」としてのフォルダが既に確立されているため、その下位に `GoldChest/` として並べるのが構造的に自然です。Style/Cutins と同じレベルに新規フォルダを作るより、Data/Effects 内に入れたほうが「演出系資産」という共通テーマが揃います。

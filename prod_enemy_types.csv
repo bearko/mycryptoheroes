@@ -1,0 +1,939 @@
+exec,enemyType,name_en,name_ja,name_zh,param_hp,param_phy,param_int,param_agi,trend_hp,trend_phy,trend_int,trend_agi,actives,passive,image
+FALSE,101,Creeper-short,クリーパー ショート,Creeper-short,8,4,4,4,42,36,16,26,4001/4001/4003,0,101.png
+FALSE,102,Creeper-tall,クリーパー トール,Creeper-tall,9,5,5,5,39,37,17,27,4003/4003/4003,0,102.png
+FALSE,103,Creeper-grande,クリーパー グランデ,Creeper-grande,9,5,5,5,39,27,27,27,4003/4010/4010,0,103.png
+FALSE,104,Creeper-venti,クリーパー ヴェンティ,Creeper-venti,10,6,6,6,39,37,17,27,4003/4005/4005,4016,104.png
+FALSE,105,Creeper-macchiato,クリーパー マキアート,Creeper-macchiato,9,5,5,5,39,37,17,27,4003/4003/4003,0,105.png
+FALSE,106,Creeper-frappuccino,クリーパー フラペチーノ,Creeper-frappuccino,16,12,12,12,39,37,17,27,4003/4012/4012,0,106.png
+FALSE,111,Elk Cloner-short,エルククローナ ショート,Elk Cloner-short,5,7,4,4,30,24,42,24,4002/4002/4004,0,111.png
+FALSE,112,Elk Cloner-tall,エルククローナ トール,Elk Cloner-tall,6,8,5,5,30,25,40,25,4002/4004/4004,0,112.png
+FALSE,113,Elk Cloner-grande,エルククローナ グランデ,Elk Cloner-grande,6,8,5,5,30,25,40,25,4002/4013/4013,0,113.png
+FALSE,114,Elk Cloner-venti,エルククローナ ヴェンティ,Elk Cloner-venti,7,9,6,6,32,25,38,25,4004/4006/4006,4016,114.png
+FALSE,115,Elk Cloner-macchiato,エルククローナ マキアート,Elk Cloner-macchiato,6,8,5,5,30,25,40,25,4004/4004/4004,0,115.png
+FALSE,116,Elk Cloner-frappuccino,エルククローナ フラペチーノ,Elk Cloner-frappuccino,13,15,12,12,32,27,34,27,4004/4015/4015,0,116.png
+FALSE,121,Heartbleed-short,ハートブリード ショート,Heartbleed-short,5,4,7,4,30,24,42,24,4001/4001/4003,0,121.png
+FALSE,122,Heartbleed-tall,ハートブリード トール,Heartbleed-tall,6,5,8,5,30,25,40,25,4003/4003/4003,0,122.png
+FALSE,123,Heartbleed-grande,ハートブリード グランデ,Heartbleed-grande,6,5,8,5,30,25,40,25,4003/4010/4010,0,123.png
+FALSE,124,Heartbleed-venti,ハートブリード ヴェンティ,Heartbleed-venti,7,6,9,6,32,25,38,25,4003/4005/4005,4017,124.png
+FALSE,125,Heartbleed-macchiato,ハートブリード マキアート,Heartbleed-macchiato,6,5,8,5,30,25,40,25,4003/4003/4003,0,125.png
+FALSE,126,Heartbleed-frappuccino,ハートブリード フラペチーノ,Heartbleed-frappuccino,13,12,15,12,32,27,34,27,4003/4012/4012,0,126.png
+FALSE,131,Melissa-short,メリッサ ショート,Melissa-short,6,4,6,4,36,24,36,24,4002/4002/4007,0,131.png
+FALSE,132,Melissa-tall,メリッサ トール,Melissa-tall,7,5,7,5,35,25,35,25,4002/4007/4007,0,132.png
+FALSE,133,Melissa-grande,メリッサ グランデ,Melissa-grande,7,5,7,5,35,25,35,25,4002/4013/4013,0,133.png
+FALSE,134,Melissa-venti,メリッサ ヴェンティ,Melissa-venti,8,6,8,6,36,25,34,25,4004/4006/4006,4017,134.png
+FALSE,135,Melissa-macchiato,メリッサ マキアート,Melissa-macchiato,7,5,7,5,35,25,35,25,4004/4004/4004,0,135.png
+FALSE,136,Melissa-frappuccino,メリッサ フラペチーノ,Melissa-frappuccino,14,12,14,12,34,27,32,27,4004/4014/4014,0,136.png
+FALSE,137,Melissa-grande,メリッサ グランデ,Melissa-grande,7,5,7,5,35,25,35,25,4004/4008/4008,0,133.png
+FALSE,138,Melissa-venti,メリッサ ヴェンティ,Melissa-venti,8,6,8,6,36,25,34,25,4004/4008/4006,4009,134.png
+FALSE,141,Creeper-tall doppio,クリーパー トール ドッピオ,Creeper-tall doppio,9,5,5,5,39,37,17,27,4003/4003/4003,0,141.png
+FALSE,142,Melissa-tall doppio,メリッサ トール ドッピオ,Melissa-tall doppio,7,5,7,5,35,25,35,25,4002/4007/4007,0,142.png
+FALSE,143,Creeper-grande doppio,クリーパー グランデ ドッピオ,Creeper-grande doppio,9,5,5,5,39,27,27,27,4003/4010/4010,0,143.png
+FALSE,144,Melissa-grande doppio,メリッサ グランデ ドッピオ,Melissa-grande doppio,7,5,7,5,35,25,35,25,4004/4008/4008,0,144.png
+FALSE,145,Creeper-venti doppio,クリーパー ヴェンティ ドッピオ,Creeper-venti doppio,10,6,6,6,39,37,17,27,4003/4005/4005,4016,145.png
+FALSE,146,Melissa-venti doppio,メリッサ ヴェンティ ドッピオ,Melissa-venti doppio,8,6,8,6,36,25,34,25,4004/4008/4006,4009,146.png
+FALSE,147,Creeper-frappuccino doppio,クリーパー フラペチーノ ドッピオ,Creeper-frappuccino doppio,16,12,12,12,39,37,17,27,4003/4012/4012,0,147.png
+FALSE,148,Melissa-frappuccino doppio,メリッサ フラペチーノ ドッピオ,Melissa-frappuccino doppio,14,12,14,12,34,27,32,27,4004/4014/4014,0,148.png
+FALSE,149,Elk Cloner-tall doppio,エルククローナ トール ドッピオ,Elk Cloner-tall doppio,6,8,5,5,30,25,40,25,4002/4004/4004,0,149.png
+FALSE,150,Elk Cloner-grande doppio,エルククローナ グランデ ドッピオ,Elk Cloner-grande doppio,6,8,5,5,30,25,40,25,4002/4013/4013,0,150.png
+FALSE,151,Elk Cloner-venti doppio,エルククローナ ヴェンティ ドッピオ,Elk Cloner-venti doppio,7,9,6,6,32,25,38,25,4004/4006/4006,4009,151.png
+FALSE,152,Elk Cloner-frappuccino doppio,エルククローナ フラペチーノ ドッピオ,Elk Cloner-frappuccino doppio,13,15,12,12,32,27,34,27,4004/4015/4015,0,152.png
+FALSE,153,Heartbleed-tall doppio,ハートブリード トール ドッピオ,Heartbleed-tall doppio,6,5,8,5,30,25,40,25,4003/4003/4003,0,153.png
+FALSE,154,Heartbleed-grande doppio,ハートブリード グランデ ドッピオ,Heartbleed-grande doppio,6,5,8,5,30,25,40,25,4003/4010/4010,0,154.png
+FALSE,155,Heartbleed-venti doppio,ハートブリード ヴェンティ ドッピオ,Heartbleed-venti doppio,7,6,9,6,32,25,38,25,4003/4005/4005,4016,155.png
+FALSE,156,Heartbleed-frappuccino doppio,ハートブリード フラペチーノ ドッピオ,Heartbleed-frappuccino doppio,13,12,15,12,32,27,34,27,4003/4012/4012,0,156.png
+FALSE,161,Byte Bandit-short,バイトバンディット ショート,Byte Bandit-short,11,6,2,5,26,43,14,36,4018/4001/4001,0,161.png
+FALSE,162,Byte Bandit-tall,バイトバンディット トール,Byte Bandit-tall,15,7,3,5,30,42,18,30,4001/4001/4018,0,162.png
+FALSE,163,Byte Bandit-grande,バイトバンディット グランデ,Byte Bandit-grande,9,7,3,7,18,42,18,42,4018/4001/4018,0,163.png
+FALSE,164,Byte Bandit-venti,バイトバンディット ヴェンティ,Byte Bandit-venti,16,10,3,7,25,47,14,33,4003/4018/4005,4020,164.png
+FALSE,165,Byte Bandit-macchiato,バイトバンディット マキアート,Byte Bandit-macchiato,15,7,3,5,30,42,18,30,4019/4001/4001,4020,165.png
+FALSE,166,Byte Bandit-frappuccino,バイトバンディット フラペチーノ,Byte Bandit-frappuccino,19,19,5,13,18,53,14,36,4019/4001/4003,4020,166.png
+FALSE,167,Byte Bandit-tall doppio,バイトバンディット トール ドッピオ,Byte Bandit-tall doppio,15,7,3,5,30,42,18,30,4003/4003/4018,0,167.png
+FALSE,168,Byte Bandit-grande doppio,バイトバンディット グランデ ドッピオ,Byte Bandit-grande doppio,9,7,3,7,18,42,18,42,4019/4003/4019,0,168.png
+FALSE,169,Byte Bandit-venti doppio,バイトバンディット ヴェンティ ドッピオ,Byte Bandit-venti doppio,16,10,3,5,27,51,15,26,4005/4018/4005,4020,169.png
+FALSE,170,Byte Bandit-frappuccino doppio,バイトバンディット フラペチーノ ドッピオ,Byte Bandit-frappuccino doppio,19,19,5,13,18,53,14,36,4019/4003/4003,4020,170.png
+FALSE,171,ディープ・ヨシュカ,ディープ・ヨシュカ,ディープ・ヨシュカ,20000000,1,1,1,30,30,30,30,4021/4022/4023,0,171.png
+FALSE,181,Bagle-short,ベーグル ショート,Bagle-short,18,3,5,3,42,21,36,21,4002/4002/4002,0,181.png
+FALSE,182,Bagle-tall,ベーグル トール,Bagle-tall,21,4,6,3,42,24,36,18,4004/4006/4004,4024,182.png
+FALSE,183,Bagle-grande,ベーグル グランデ,Bagle-grande,15,4,6,5,30,24,36,30,4013/4006/4013,4024,183.png
+FALSE,184,Bagle-venti,ベーグル ヴェンティ,Bagle-venti,21,4,9,5,34,19,43,24,4006/4006/4006,4025,184.png
+FALSE,185,Bagle-macchiato,ベーグル マキアート,Bagle-macchiato,21,4,6,3,42,24,36,18,4006/4004/4006,4025,185.png
+FALSE,186,Bagle-frappuccino,ベーグル フラペチーノ,Bagle-frappuccino,24,6,18,11,22,17,50,31,4004/4004/4006,4026,186.png
+FALSE,172,ディープ・ヨシュカ,ディープ・ヨシュカ チョコラート,ディープ・ヨシュカ チョコラート,50000000,1,1,1,30,30,30,30,4021/4022/4023,4027,172.png
+FALSE,310,Creeper-short,クリーパー ショート,Creeper-short,8,4,4,4,42,36,16,26,4001/4001/4005,0,101.png
+FALSE,311,Creeper-tall,クリーパー トール,Creeper-tall,9,5,5,5,39,37,17,27,4003/4003/4005,0,102.png
+FALSE,312,Creeper-grande,クリーパー グランデ,Creeper-grande,9,5,5,5,39,27,27,27,4010/4003/4003,0,103.png
+FALSE,313,Creeper-venti,クリーパー ヴェンティ,Creeper-venti,10,6,6,6,39,37,17,27,4005/4003/4005,4016,104.png
+FALSE,314,Creeper-macchiato,クリーパー マキアート,Creeper-macchiato,9,5,5,5,39,37,17,27,4010/4010/4005,0,105.png
+FALSE,315,Creeper-frappuccino,クリーパー フラペチーノ,Creeper-frappuccino,16,12,12,12,39,37,17,27,4005/4003/4005,0,106.png
+FALSE,316,Creeper-tall doppio,クリーパー トール ドッピオ,Creeper-tall doppio,9,5,5,5,39,37,17,27,4003/4003/4005,0,141.png
+FALSE,317,Creeper-grande doppio,クリーパー グランデ ドッピオ,Creeper-grande doppio,9,5,5,5,39,27,27,27,4011/4003/4003,0,143.png
+FALSE,318,Creeper-venti doppio,クリーパー ヴェンティ ドッピオ,Creeper-venti doppio,10,6,6,6,39,37,17,27,4005/4003/4005,4016,145.png
+FALSE,319,Creeper-frappuccino doppio,クリーパー フラペチーノ ドッピオ,Creeper-frappuccino doppio,16,12,12,12,39,37,17,27,4005/4003/4005,0,147.png
+FALSE,320,Elk Cloner-short,エルククローナ ショート,Elk Cloner-short,5,7,4,4,30,24,42,24,4002/4002/4004,0,111.png
+FALSE,321,Elk Cloner-tall,エルククローナ トール,Elk Cloner-tall,6,8,5,5,30,25,40,25,4002/4004/4004,0,112.png
+FALSE,322,Elk Cloner-grande,エルククローナ グランデ,Elk Cloner-grande,6,8,5,5,30,25,40,25,4013/4013/4002,0,113.png
+FALSE,323,Elk Cloner-venti,エルククローナ ヴェンティ,Elk Cloner-venti,7,9,6,6,32,25,38,25,4004/4006/4006,4017,114.png
+FALSE,324,Elk Cloner-macchiato,エルククローナ マキアート,Elk Cloner-macchiato,6,8,5,5,30,25,40,25,4004/4004/4004,0,115.png
+FALSE,325,Elk Cloner-frappuccino,エルククローナ フラペチーノ,Elk Cloner-frappuccino,13,15,12,12,32,27,34,27,4015/4015/4004,0,116.png
+FALSE,326,Elk Cloner-tall doppio,エルククローナ トール ドッピオ,Elk Cloner-tall doppio,6,8,5,5,30,25,40,25,4002/4004/4004,0,149.png
+FALSE,327,Elk Cloner-grande doppio,エルククローナ グランデ ドッピオ,Elk Cloner-grande doppio,6,8,5,5,30,25,40,25,4013/4013/4002,0,150.png
+FALSE,328,Elk Cloner-venti doppio,エルククローナ ヴェンティ ドッピオ,Elk Cloner-venti doppio,7,9,6,6,32,25,38,25,4004/4006/4006,4017,151.png
+FALSE,329,Elk Cloner-frappuccino doppio,エルククローナ フラペチーノ ドッピオ,Elk Cloner-frappuccino doppio,13,15,12,12,32,27,34,27,4015/4015/4004,0,152.png
+FALSE,330,Heartbleed-short,ハートブリード ショート,Heartbleed-short,5,4,7,4,30,24,42,24,4010/4001/4001,0,121.png
+FALSE,331,Heartbleed-tall,ハートブリード トール,Heartbleed-tall,6,5,8,5,30,25,40,25,4010/4003/4003,0,122.png
+FALSE,332,Heartbleed-grande,ハートブリード グランデ,Heartbleed-grande,6,5,8,5,30,25,40,25,4010/4005/4010,0,123.png
+FALSE,333,Heartbleed-venti,ハートブリード ヴェンティ,Heartbleed-venti,7,6,9,6,32,25,38,25,4010/4005/4005,4016,124.png
+FALSE,334,Heartbleed-macchiato,ハートブリード マキアート,Heartbleed-macchiato,6,5,8,5,30,25,40,25,4010/4003/4003,0,125.png
+FALSE,335,Heartbleed-frappuccino,ハートブリード フラペチーノ,Heartbleed-frappuccino,13,12,15,12,32,27,34,27,4012/4012/4003,0,126.png
+FALSE,336,Heartbleed-tall doppio,ハートブリード トール ドッピオ,Heartbleed-tall doppio,6,5,8,5,30,25,40,25,4011/4003/4003,0,153.png
+FALSE,337,Heartbleed-grande doppio,ハートブリード グランデ ドッピオ,Heartbleed-grande doppio,6,5,8,5,30,25,40,25,4012/4005/4010,0,154.png
+FALSE,338,Heartbleed-venti doppio,ハートブリード ヴェンティ ドッピオ,Heartbleed-venti doppio,7,6,9,6,32,25,38,25,4011/4005/4005,4016,155.png
+FALSE,339,Heartbleed-frappuccino doppio,ハートブリード フラペチーノ ドッピオ,Heartbleed-frappuccino doppio,13,12,15,12,32,27,34,27,4012/4012/4010,0,156.png
+FALSE,340,Melissa-short,メリッサ ショート,Melissa-short,6,4,6,4,36,24,36,24,4002/4002/4007,0,131.png
+FALSE,341,Melissa-tall,メリッサ トール,Melissa-tall,7,5,7,5,35,25,35,25,4002/4002/4007,0,132.png
+FALSE,342,Melissa-grande,メリッサ グランデ,Melissa-grande,7,5,7,5,35,25,35,25,4013/4013/4002,0,133.png
+FALSE,343,Melissa-venti,メリッサ ヴェンティ,Melissa-venti,8,6,8,6,36,25,34,25,4004/4006/4006,4017,134.png
+FALSE,344,Melissa-macchiato,メリッサ マキアート,Melissa-macchiato,7,5,7,5,35,25,35,25,4004/4004/4004,0,135.png
+FALSE,345,Melissa-frappuccino,メリッサ フラペチーノ,Melissa-frappuccino,14,12,14,12,34,27,32,27,4004/4004/4014,0,136.png
+FALSE,346,Melissa-tall doppio,メリッサ トール ドッピオ,Melissa-tall doppio,7,5,7,5,35,25,35,25,4002/4004/4007,0,142.png
+FALSE,347,Melissa-grande doppio,メリッサ グランデ ドッピオ,Melissa-grande doppio,7,5,7,5,35,25,35,25,4004/4006/4008,0,144.png
+FALSE,348,Melissa-venti doppio,メリッサ ヴェンティ ドッピオ,Melissa-venti doppio,8,6,8,6,36,25,34,25,4004/4008/4006,4009,146.png
+FALSE,349,Melissa-frappuccino doppio,メリッサ フラペチーノ ドッピオ,Melissa-frappuccino doppio,14,12,14,12,34,27,32,27,4014/4004/4004,0,148.png
+FALSE,350,Byte Bandit-short,バイトバンディット ショート,Byte Bandit-short,11,6,2,5,26,43,14,36,4018/4001/4001,0,161.png
+FALSE,351,Byte Bandit-tall,バイトバンディット トール,Byte Bandit-tall,15,7,3,5,30,42,18,30,4018/4001/4001,0,162.png
+FALSE,352,Byte Bandit-grande,バイトバンディット グランデ,Byte Bandit-grande,9,7,3,7,18,42,18,42,4018/4001/4018,0,163.png
+FALSE,353,Byte Bandit-venti,バイトバンディット ヴェンティ,Byte Bandit-venti,16,10,3,7,25,47,14,33,4018/4003/4005,4020,164.png
+FALSE,354,Byte Bandit-macchiato,バイトバンディット マキアート,Byte Bandit-macchiato,15,7,3,5,30,42,18,30,4019/4001/4001,0,165.png
+FALSE,355,Byte Bandit-frappuccino,バイトバンディット フラペチーノ,Byte Bandit-frappuccino,19,19,5,13,18,53,14,36,4019/4001/4003,0,166.png
+FALSE,356,Byte Bandit-tall doppio,バイトバンディット トール ドッピオ,Byte Bandit-tall doppio,15,7,3,5,30,42,18,30,4019/4003/4003,0,167.png
+FALSE,357,Byte Bandit-grande doppio,バイトバンディット グランデ ドッピオ,Byte Bandit-grande doppio,9,7,3,7,18,42,18,42,4018/4003/4018,0,168.png
+FALSE,358,Byte Bandit-venti doppio,バイトバンディット ヴェンティ ドッピオ,Byte Bandit-venti doppio,16,10,3,5,27,51,15,26,4018/4003/4005,4020,169.png
+FALSE,359,Byte Bandit-frappuccino doppio,バイトバンディット フラペチーノ ドッピオ,Byte Bandit-frappuccino doppio,19,19,5,13,18,53,14,36,4019/4003/4003,0,170.png
+FALSE,360,Bagle-short,ベーグル ショート,Bagle-short,18,3,5,3,42,21,36,21,4002/4002/4002,0,181.png
+FALSE,361,Bagle-tall,ベーグル トール,Bagle-tall,21,4,6,3,42,24,36,18,4004/4004/4004,4024,182.png
+FALSE,362,Bagle-grande,ベーグル グランデ,Bagle-grande,15,4,6,5,30,24,36,30,4013/4004/4013,4024,183.png
+FALSE,363,Bagle-venti,ベーグル ヴェンティ,Bagle-venti,21,4,9,5,34,19,43,24,4006/4004/4006,4025,184.png
+FALSE,364,Bagle-macchiato,ベーグル マキアート,Bagle-macchiato,21,4,6,3,42,24,36,18,4004/4004/4004,4025,185.png
+FALSE,365,Bagle-frappuccino,ベーグル フラペチーノ,Bagle-frappuccino,24,6,18,11,22,17,50,31,4004/4004/4006,4026,186.png
+FALSE,366,Bagle-tall doppio,ベーグル トール ドッピオ,Bagle-tall doppio,21,4,6,3,42,24,36,18,4004/4004/4004,4024,366.png
+FALSE,367,Bagle-grande doppio,ベーグル グランデ ドッピオ,Bagle-grande doppio,15,4,6,5,30,24,36,30,4013/4004/4013,4024,367.png
+FALSE,368,Bagle-venti doppio,ベーグル ヴェンティ ドッピオ,Bagle-venti doppio,21,4,9,5,34,19,43,24,4006/4004/4006,4025,368.png
+FALSE,369,Bagle-frappuccino doppio,ベーグル フラペチーノ ドッピオ,Bagle-frappuccino doppio,24,6,18,11,22,17,50,31,4004/4004/4006,4026,369.png
+FALSE,370,Heisei Yoshka,ヘイセイ・ヨシュカ,Heisei Yoshka,35000000,1,1,1,30,30,30,30,4028/4029/4030,0,370.png
+FALSE,371,Monsoon Yoshka,モンスーン・ヨシュカ,Monsoon Yoshka,70000000,1,1,1,30,30,30,30,4021/4022/4033,4032,371.png
+FALSE,372,Puli Beast,プーリー・ビースト,Puli Beast,35000000,1,1,1,30,30,30,30,4034/4035/4036,4037,372.png
+FALSE,373,Dark Lord Fao,覚醒魔王ファオ ,Dark Lord Fao,66666666,300,300,1,30,30,30,30,4038/4039/4040,4041,373.png
+FALSE,374,Halloween Puli,ハロウィン・プーリー,Halloween Puli,71031031,1,1,1,30,30,30,30,4042/4043/4044,4045,374.png
+FALSE,375,Cascade-short,カスケード ショート,Cascade-short,8,4,4,4,44,36,14,26,4001/4001/4005,0,375.png
+FALSE,376,Cascade-tall,カスケード トール,Cascade-tall,9,5,5,5,41,37,15,27,4003/4003/4005,4046,376.png
+FALSE,377,Cascade-grande,カスケード グランデ,Cascade-grande,9,5,5,5,41,27,25,27,4010/4003/4003,4048,377.png
+FALSE,378,Cascade-venti,カスケード ヴェンティ,Cascade-venti,10,6,6,6,41,37,15,27,4005/4003/4005,4047,378.png
+FALSE,379,Cascade-macchiato,カスケード マキアート,Cascade-macchiato,9,5,5,5,41,37,15,27,4010/4010/4005,0,379.png
+FALSE,380,Cascade-frappuccino,カスケード フラペチーノ,Cascade-frappuccino,16,12,12,12,41,37,15,27,4005/4003/4005,0,380.png
+FALSE,381,Cascade-tall doppio,カスケード トール ドッピオ,Cascade-tall doppio,9,5,5,5,41,37,15,27,4003/4003/4005,4046,381.png
+FALSE,382,Cascade-grande doppio,カスケード グランデ ドッピオ,Cascade-grande doppio,9,5,5,5,41,27,25,27,4011/4003/4003,4048,382.png
+FALSE,383,Cascade-venti doppio,カスケード ヴェンティ ドッピオ,Cascade-venti doppio,10,6,6,6,41,37,15,27,4005/4003/4005,4047,383.png
+FALSE,384,Cascade-macchiato doppio,カスケード マキアート ドッピオ,Cascade-macchiato doppio,16,12,12,12,41,37,15,27,4005/4003/4005,0,384.png
+FALSE,385,Cascade-frappuccino doppio,カスケード フラペチーノ ドッピオ,Cascade-frappuccino doppio,16,12,12,12,41,37,15,27,4005/4003/4005,0,385.png
+FALSE,386,Rabbit-short,ラビット ショート,Rabbit-short,5,7,4,4,32,22,42,24,4002/4002/4004,0,386.png
+FALSE,387,Rabbit-tall,ラビット トール,Rabbit-tall,6,8,5,5,32,23,40,25,4002/4004/4004,4046,387.png
+FALSE,388,Rabbit-grande,ラビット グランデ,Rabbit-grande,6,8,5,5,32,23,40,25,4013/4013/4002,4048,388.png
+FALSE,389,Rabbit-venti,ラビット ヴェンティ,Rabbit-venti,7,9,6,6,34,23,38,25,4004/4006/4006,4047,389.png
+FALSE,390,Rabbit-macchiato,ラビット マキアート,Rabbit-macchiato,6,8,5,5,32,23,40,25,4004/4004/4004,0,390.png
+FALSE,391,Rabbit-frappuccino,ラビット フラペチーノ,Rabbit-frappuccino,13,15,12,12,34,25,34,27,4015/4015/4004,0,391.png
+FALSE,392,Rabbit-tall doppio,ラビット トール ドッピオ,Rabbit-tall doppio,6,8,5,5,32,23,40,25,4002/4004/4004,4046,392.png
+FALSE,393,Rabbit-grande doppio,ラビット グランデ ドッピオ,Rabbit-grande doppio,6,8,5,5,32,23,40,25,4013/4013/4002,4048,393.png
+FALSE,394,Rabbit-venti doppio,ラビット ヴェンティ ドッピオ,Rabbit-venti doppio,7,9,6,6,34,23,38,25,4004/4006/4006,4047,394.png
+FALSE,395,Rabbit-macchiato doppio,ラビット マキアート ドッピオ,Rabbit-macchiato doppio,13,15,12,12,34,25,34,27,4015/4015/4004,0,395.png
+FALSE,396,Rabbit-frappuccino doppio,ラビット フラペチーノ ドッピオ,Rabbit-frappuccino doppio,13,15,12,12,34,25,34,27,4015/4015/4004,0,396.png
+FALSE,397,Love letter-short,ラブレター ショート,Love letter-short,5,4,7,4,32,24,40,24,4010/4001/4001,0,397.png
+FALSE,398,Love letter-tall,ラブレター トール,Love letter-tall,6,5,8,5,32,25,38,25,4010/4005/4010,4046,398.png
+FALSE,399,Love letter-grande,ラブレター グランデ,Love letter-grande,7,6,9,6,34,25,36,25,4010/4005/4005,4048,399.png
+FALSE,400,Love letter-venti,ラブレター ヴェンティ,Love letter-venti,6,5,8,5,32,25,38,25,4010/4003/4003,4047,400.png
+FALSE,401,Love letter-macchiato,ラブレター マキアート,Love letter-macchiato,13,12,15,12,34,27,32,27,4012/4012/4003,0,401.png
+FALSE,402,Love letter-frappuccino,ラブレター フラペチーノ,Love letter-frappuccino,6,5,8,5,32,25,38,25,4011/4003/4003,0,402.png
+FALSE,403,Love letter-tall doppio,ラブレター トール ドッピオ,Love letter-tall doppio,6,5,8,5,32,25,38,25,4012/4005/4010,4046,403.png
+FALSE,404,Love letter-grande doppio,ラブレター グランデ ドッピオ,Love letter-grande doppio,7,6,9,6,34,25,36,25,4011/4005/4005,4048,404.png
+FALSE,405,Love letter-venti doppio,ラブレター ヴェンティ ドッピオ,Love letter-venti doppio,13,12,15,12,34,27,32,27,4012/4012/4010,4047,405.png
+FALSE,406,Love letter-macchiato doppio,ラブレター マキアート ドッピオ,Love letter-macchiato doppio,13,12,15,12,34,27,32,27,4012/4012/4003,0,406.png
+FALSE,407,Love letter-frappuccino doppio,ラブレター フラペチーノ ドッピオ,Love letter-frappuccino doppio,6,5,8,5,32,25,38,25,4011/4003/4003,0,407.png
+FALSE,408,Chameleon-short,カメレオン ショート,Chameleon-short,6,4,6,4,38,22,36,24,4002/4002/4007,0,408.png
+FALSE,409,Chameleon-tall,カメレオン トール,Chameleon-tall,7,5,7,5,37,23,35,25,4002/4002/4007,4046,409.png
+FALSE,410,Chameleon-grande,カメレオン グランデ,Chameleon-grande,7,5,7,5,37,23,35,25,4013/4013/4002,4048,410.png
+FALSE,411,Chameleon-venti,カメレオン ヴェンティ,Chameleon-venti,8,6,8,6,38,23,34,25,4004/4006/4006,4047,411.png
+FALSE,412,Chameleon-macchiato,カメレオン マキアート,Chameleon-macchiato,7,5,7,5,37,23,35,25,4004/4004/4004,0,412.png
+FALSE,413,Chameleon-frappuccino,カメレオン フラペチーノ,Chameleon-frappuccino,14,12,14,12,36,25,32,27,4004/4004/4014,0,413.png
+FALSE,414,Chameleon-tall doppio,カメレオン トール ドッピオ,Chameleon-tall doppio,7,5,7,5,37,23,35,25,4002/4004/4007,4046,414.png
+FALSE,415,Chameleon-grande doppio,カメレオン グランデ ドッピオ,Chameleon-grande doppio,7,5,7,5,37,23,35,25,4004/4006/4008,4048,415.png
+FALSE,416,Chameleon-venti doppio,カメレオン ヴェンティ ドッピオ,Chameleon-venti doppio,8,6,8,6,38,23,34,25,4004/4008/4006,4047,416.png
+FALSE,417,Chameleon-macchiato doppio,カメレオン マキアート ドッピオ,Chameleon-macchiato doppio,14,12,14,12,36,25,32,27,4014/4004/4004,0,417.png
+FALSE,418,Chameleon-frappuccino doppio,カメレオン フラペチーノ ドッピオ,Chameleon-frappuccino doppio,14,12,14,12,36,25,32,27,4004/4004/4014,0,418.png
+FALSE,419,Pluto,プルートウ,Pluto,80000000,1,1,1,30,30,30,30,4049/4050/4051,4052,419.png
+FALSE,420,Deep Yoshka Cioccolato 2020,ディープ・ヨシュカ チョコラート 2020,Deep Yoshka Cioccolato 2020,50000000,1,1,1,30,30,30,30,4065/4022/4023,4027,420.png
+FALSE,421,Ghost Brothers Grimm,ゴースト・グリム兄弟,Ghost Brothers Grimm,263,43,66,66,42,18,30,30,3004/2376/2392,1042,421.png
+FALSE,422,Ghost Tokugawa Yoshinobu,ゴースト・徳川慶喜,Ghost Tokugawa Yoshinobu,247,28,103,49,39,13,46,22,3004/2338/2338,1083,422.png
+FALSE,423,Ghost Ludwig van Beethoven,ゴースト・ベートーヴェン,Ghost Ludwig van Beethoven,261,49,150,74,30,16,50,24,2240/2016/3001,1008,423.png
+FALSE,424,Ghost Vincent van Gogh,ゴースト・ゴッホ,Ghost Vincent van Gogh,264,35,162,74,31,11,54,24,2240/2016/3001,1065,424.png
+FALSE,425,Ghost Uesugi Kenshin,ゴースト・上杉謙信,Ghost Uesugi Kenshin,258,48,141,84,29,17,47,27,2240/2016/3104,1114,425.png
+FALSE,426,Ghost Richard I,ゴースト・リチャード1世,Ghost Richard I,909,192,50,94,30,53,12,25,2619/2469/3103,1151,426.png
+FALSE,427,Ghost Albert Einstein,ゴースト・アインシュタイン,Ghost Albert Einstein,957,35,189,128,24,10,52,34,2639/2027/3008,1030,427.png
+FALSE,428,Ghost Abe no Seimei,ゴースト・安倍晴明,Ghost Abe no Seimei,716,82,124,95,39,23,33,25,2623/2453/3008,1136,428.png
+FALSE,429,Ghost Joan of Arc,ゴースト・ジャンヌ・ダルク,Ghost Joan of Arc,535,90,56,79,55,26,16,23,2103/2103/3119,1027,429.png
+FALSE,430,Ghost Trưng Sisters,ゴースト・チュン姉妹,Ghost Trưng Sisters,447,71,71,44,55,27,24,14,2264/2264/3119,1130,430.png
+FALSE,431,Ghost Lakshmi Bai,ゴースト・ラクシュミー・バーイ,Ghost Lakshmi Bai,296,196,31,48,32,63,10,15,2003/2003/3119,1145,431.png
+FALSE,432,Ghost Diao Chan,ゴースト・貂蝉,Ghost Diao Chan,150,36,138,79,20,16,54,30,2241/2017/3001,1070,432.png
+FALSE,433,Ghost Cleopatra,ゴースト・クレオパトラ,Ghost Cleopatra,438,29,113,134,42,9,32,37,2288/2090/3109,11086,433.png
+FALSE,434,Ghost Ono no Komachi,ゴースト・小野小町,Ghost Ono no Komachi,152,13,157,81,22,5,61,32,2169/2169/3109,1125,434.png
+FALSE,435,Ghost Yang Guifei,ゴースト・楊貴妃,Ghost Yang Guifei,191,42,150,71,25,15,54,26,2571/2571/3109,11043,435.png
+FALSE,436,Ghost Kondo Isami,ゴースト・近藤勇,Ghost Kondo Isami,210,153,25,79,27,57,9,27,2065/2065/3002,1126,436.png
+FALSE,437,Ghost Soji Okita,ゴースト・沖田総司,Ghost Soji Okita,145,131,44,104,18,49,15,38,2695/2065/3002,1033,437.png
+FALSE,438,Ghost Hijikata Toshizo,ゴースト・土方歳三,Ghost Hijikata Toshizo,197,157,30,93,23,56,9,32,2064/2065/3002,11087,438.png
+FALSE,439,Ghost Ludwig van Beethoven,ゴースト・ベートーヴェン,Ghost Ludwig van Beethoven,257,49,175,111,20,16,50,34,2639/2621/4058,1008,423.png
+FALSE,440,Ghost Ludwig van Beethoven,ゴースト・バッハ,Ghost Johann Sebastian Bach,363,47,152,140,34,14,35,37,2679/2655/4058,1057,440.png
+FALSE,441,Ghost Johann Sebastian Bach,ゴースト・モーツァルト,Ghost Wolfgang Amadeus Mozart,398,26,105,136,41,8,32,39,2631/2671/4058,1101,441.png
+FALSE,442,Ghost Emperor Nero,ゴースト・皇帝ネロ,Ghost Emperor Nero,344,41,144,39,42,16,50,12,2240/2079/4059,1040,442.png
+FALSE,443,Ghost Charles the Great,ゴースト・カール大帝,Ghost Charles the Great,346,151,110,163,26,35,24,35,2461/2601/4058,1084,443.png
+FALSE,444,Ghost Julius Caesar,ゴースト・カエサル,Ghost Julius Caesar,332,64,98,90,38,23,31,28,2240/2382/4057,11081,444.png
+FALSE,445,Ghost Napoleon Bonaparte,ゴースト・ナポレオン・ボナパルト,Ghost Napoleon Bonaparte,328,56,200,98,29,15,52,24,2015/2335/3001,1002,445.png
+FALSE,446,Ghost Napoleon Bonaparte,ゴースト・ナポレオン・ボナパルト,Ghost Napoleon Bonaparte,208,56,221,116,18,15,57,30,2015/2015/3008,1002,445.png
+FALSE,447,Ghost Napoleon Bonaparte,ゴースト・ナポレオン・ボナパルト,Ghost Napoleon Bonaparte,448,56,181,76,40,15,46,19,2239/2335/3001,1002,445.png
+FALSE,448,Ghost Himiko,ゴースト・卑弥呼,Ghost Himiko,386,61,188,62,36,18,50,16,2335/2078/3008,1055,448.png
+FALSE,449,Ghost Albert Einstein,ゴースト・アインシュタイン,Ghost Albert Einstein,312,35,186,113,30,10,51,29,2526/3104/2027,1030,427.png
+FALSE,450,Ghost Nobunaga Oda,ゴースト・織田信長,Ghost Nobunaga Oda,309,186,54,120,27,50,13,30,2518/2003/3002,1001,450.png
+FALSE,451,Ghost Genghis Khan,ゴースト・チンギス・ハン,Ghost Genghis Khan,268,188,39,124,25,52,10,33,2227/2679/4057,1058,451.png
+FALSE,452,Ghost George Washington,ゴースト・ジョージ・ワシントン,Ghost George Washington,280,62,197,89,26,18,52,24,2078/2015/4058,1004,452.png
+FALSE,453,Ghost Ryoma Sakamoto,ゴースト・坂本龍馬,Ghost Ryoma Sakamoto,330,52,165,113,31,16,44,29,2239/2323/4059,1028,453.png
+FALSE,454,Ghost Zhang Fei,ゴースト・張飛,Ghost Zhang Fei,405,170,47,29,43,54,14,9,2156/2647/4057,1006,454.png
+FALSE,455,Ghost Liu Bei,ゴースト・劉備,Ghost Liu Bei,292,134,149,84,24,33,39,24,2167/2004/4058,1029,455.png
+FALSE,456,Ghost Guan Yu,ゴースト・関羽,Ghost Guan Yu,292,158,49,93,26,51,14,29,2561/2687/4059,11128,456.png
+FALSE,457,Ghost Himiko,ゴースト・卑弥呼,Ghost Himiko,386,61,188,62,36,18,50,16,2335/2078/3001,1055,448.png
+FALSE,458,Ghost Albert Einstein,ゴースト・アインシュタイン,Ghost Albert Einstein,312,48,188,98,30,14,50,26,2015/2577/3001,1030,427.png
+FALSE,459,Ghost Minamoto no Yoshitsune,ゴースト・源義経,Ghost Minamoto no Yoshitsune,344,176,33,116,32,48,9,31,2469/2469/3119,1113,459.png
+FALSE,460,Ghost Lancelot,ゴースト・ランスロット,Ghost Lancelot,304,152,44,101,32,45,13,30,2003/2518/4059,1155,460.png
+FALSE,461,Ghost King Arthur,ゴースト・アーサー王,Ghost King Arthur,387,145,34,114,38,41,9,32,2003/2103/4057,1026,461.png
+FALSE,462,Ghost Percival,ゴースト・パーシヴァル,Ghost Percival,445,114,61,51,49,38,18,15,2003/2335/4058,1123,462.png
+FALSE,463,Ghost Alexander the Great,ゴースト・アレキサンダー,Ghost Alexander the Great,188,58,167,97,20,20,51,29,2015/2016/3001,1111,463.png
+FALSE,464,Ghost Leonardo da Vinci,ゴースト・レオナルド・ダ・ビンチ,Ghost Leonardo da Vinci,335,51,208,71,32,14,56,18,2078/2526/3001,1005,464.png
+FALSE,465,Ghost Ludwig van Beethoven,ゴースト・ベートーヴェン,Ghost Ludwig van Beethoven,157,46,166,91,19,17,55,29,2016/2016/3001,1008,423.png
+FALSE,466,Ghost Consort Yu,ゴースト・虞美人,Ghost Consort Yu,388,191,62,90,27,53,16,24,2663/2663/3114,1150,466.png
+FALSE,467,Ghost Cao Cao,ゴースト・曹操,Ghost Cao Cao,536,147,71,70,47,38,18,17,2622/2143/4057,4053,467.png
+FALSE,468,Ghost Qin Shi Huang,ゴースト・始皇帝,Ghost Qin Shi Huang,519,33,97,163,46,9,24,41,2051/2389/4059,1112,468.png
+FALSE,469,Ghost Alexander the Great,ゴースト・アレキサンダー,Ghost Alexander the Great,248,145,68,144,24,40,17,39,2131/2131/3002,1111,463.png
+FALSE,470,Ghost Minamoto no Yoshitsune,ゴースト・源義経,Ghost Minamoto no Yoshitsune,396,136,36,136,38,37,8,37,2039/2131/3119,1113,459.png
+FALSE,471,Ghost Albert Einstein,ゴースト・アインシュタイン,Ghost Albert Einstein,238,35,192,131,22,10,53,35,2015/2027/3008,1030,427.png
+FALSE,472,Ghost Napoleon Bonaparte,ゴースト・ナポレオン・ボナパルト,Ghost Napoleon Bonaparte,1475,116,220,208,31,15,49,25,2585/2620/4058,4054,445.png
+FALSE,473,Ghost Brunhild,ゴースト・ブリュンヒルド,Ghost Brunhild,639,167,39,114,24,52,11,33,2593/2413/4059,11134,473.png
+FALSE,474,Ghost Nobunaga Oda,ゴースト・織田信長,Ghost Nobunaga Oda,1488,235,54,88,28,58,13,21,2619/2063/4057,4055,450.png
+FALSE,475,Ghost Grigori Rasputin,ゴースト・ラスプーチン,Ghost Grigori Rasputin,847,139,245,234,40,13,47,20,2079/2079/3114,1156,475.png
+FALSE,476,Ghost Taira no Masakado,ゴースト・平将門,Ghost Taira no Masakado,224,207,34,114,24,54,9,33,2063/2131/3002,4056,476.png
+FALSE,477,Ghost Sun Quan,ゴースト・孫権,Ghost Sun Quan,703,221,76,98,23,40,26,31,2543/2543/4057,11596,477.png
+FALSE,478,Ghost Kamehameha I,ゴースト・カメハメハ大王,Ghost Kamehameha I,703,70,220,124,23,21,37,39,2300/2179/4058,11060,478.png
+FALSE,479,Ghost Charles Darwin,ゴースト・ダーウィン,Ghost Charles Darwin,843,60,238,87,36,18,40,26,2577/2577/4058,11091,479.png
+FALSE,480,Ghost Marco Polo,ゴースト・マルコ・ポーロ,Ghost Marco Polo,694,57,262,98,22,19,50,29,2167/2168/4058,11013,480.png
+FALSE,481,Ghost Lü Bu,ゴースト・呂布,Ghost Lü Bu,880,295,35,42,39,59,11,11,2155/2155/4057,11047,481.png
+FALSE,482,Ghost Marie Curie,ゴースト・キュリー夫人,Ghost Marie Curie,764,57,247,89,29,19,45,27,2091/2577/4059,11591,482.png
+FALSE,483,Ghost Pyotr Tchaikovsky,ゴースト・チャイコフスキー,Ghost Pyotr Tchaikovsky,682,40,322,92,22,13,54,31,2016/2016/4058,1034,483.png
+FALSE,484,Ghost Wang Ki,ゴースト・王キ,Ghost Wang Ki,832,294,39,70,38,48,11,23,2144/2144/4057,11035,484.png
+FALSE,485,Ghost Tomoe Gozen,ゴースト・巴御前,Ghost Tomoe Gozen,755,320,29,116,27,52,7,34,2143/2143/4057,11067,485.png
+FALSE,486,Ghost Masamune Date,ゴースト・伊達政宗,Ghost Masamune Date,787,301,163,92,19,44,30,27,2063/2015/4058,1014,486.png
+FALSE,487,Ghost Billy the Kid,ゴースト・ビリー・ザ・キッド,Ghost Billy the Kid,778,37,300,136,20,14,42,44,2324/2324/4058,1011,487.png
+FALSE,488,Ghost Yamato Takeru,ゴースト・ヤマトタケル,Ghost Yamato Takeru,877,301,40,92,32,56,12,20,2004/2004/4059,11094,488.png
+FALSE,489,Ghost Kaishu Katsu,ゴースト・勝海舟,Ghost Kaishu Katsu,840,359,249,76,27,36,33,24,2511/2511/4059,1010,489.png
+FALSE,490,Ghost Kojiro Sasaki,ゴースト・佐々木小次郎,Ghost Kojiro Sasaki,766,339,35,151,18,45,10,47,2215/2064/4057,1009,490.png
+FALSE,491,Ghost Thomas Edison,ゴースト・トーマス・エジソン,Ghost Thomas Edison,839,47,334,88,25,14,55,26,2015/2015/4058,1012,491.png
+FALSE,492,Ghost Han Xin,ゴースト・韓信,Ghost Han Xin,999,306,51,116,21,51,14,34,2601/2601/4057,11142,492.png
+FALSE,493,Ghost Karl Marx,ゴースト・マルクス,Ghost Karl Marx,852,56,334,47,27,19,60,14,2078/2276/4058,11032,493.png
+FALSE,494,Ghost Calamity Jane,ゴースト・カラミティ・ジェーン,Ghost Calamity Jane,892,33,309,58,36,14,50,20,2528/2528/4058,11062,494.png
+FALSE,495,Ghost Florence Nightingale,ゴースト・ナイチンゲール,Ghost Florence Nightingale,731,145,182,92,34,27,33,26,2397/2453/3110,1007,495.png
+FALSE,496,Ghost Zhao Yun,ゴースト・趙雲,Ghost Zhao Yun,565,231,38,79,38,49,10,23,3115/2373/2373,11069,496.png
+FALSE,497,Ghost Jean-Henri Fabre,ゴースト・ファーブル,Ghost Jean-Henri Fabre,698,44,231,68,30,14,57,19,2569/2569/3114,1154,497.png
+FALSE,498,Ghost SATOSHI・NAKAMOTO OMEGA CC,ゴースト・サトシ・ナカモト OMEGA CC,Ghost SATOSHI・NAKAMOTO OMEGA CC,812,132,28,69,53,41,7,19,2039/2373/3119,1120,498.png
+FALSE,499,Ghost Genghis Khan,ゴースト・チンギス・ハン,Ghost Genghis Khan,502,127,48,89,25,46,17,32,2552/2552/3008,1058,451.png
+FALSE,500,Ghost Tutankhamun,ゴースト・ツタンカーメン,Ghost Tutankhamun,707,223,49,65,56,35,13,16,2039/2039/3119,1135,500.png
+FALSE,501,Ghost Cleopatra,ゴースト・クレオパトラ,Ghost Cleopatra,776,39,301,202,39,6,45,30,2550/2639/3001,11086,433.png
+FALSE,502,Ghost Cao Cao,ゴースト・曹操,Ghost Cao Cao,607,352,137,254,26,46,17,31,2623/2469/3002,1003,467.png
+FALSE,503,Ghost Charles the Great,ゴースト・カール大帝,Ghost Charles the Great,550,90,309,239,28,13,45,34,2639/2381/3001,1084,443.png
+FALSE,504,Ghost Marie Antoinette,ゴースト・マリー・アントワネット,Ghost Marie Antoinette,543,78,223,81,27,26,42,25,2360/2360/4058,11031,504.png
+FALSE,505,Ghost Abraham Lincoln,ゴースト・エイブラハム・リンカーン,Ghost Abraham Lincoln,673,44,499,65,29,13,59,19,2078/2078/4058,1118,505.png
+FALSE,506,Ghost Blackbeard,ゴースト・黒髭,Ghost Blackbeard,652,104,66,288,35,29,18,38,2051/2623/4059,1127,506.png
+FALSE,507,Ghost Qin Shi Huang,ゴースト・始皇帝,Ghost Qin Shi Huang,904,573,594,71,29,20,52,19,2275/2275/4058,4060,468.png
+FALSE,508,Ghost Huang Zhong,ゴースト・黄忠,Ghost Huang Zhong,474,245,63,142,9,48,19,44,2131/2131/3103,1066,508.png
+FALSE,509,Ghost Yue Fei,ゴースト・岳飛,Ghost Yue Fei,440,192,51,81,28,50,16,26,2144/2156/3103,11072,509.png
+FALSE,510,Ghost Blackbeard,ゴースト・黒髭,Ghost Blackbeard,641,201,29,116,39,35,9,37,2519/2040/3003,1127,506.png
+FALSE,511,Ghost Vincent van Gogh,ゴースト・ゴッホ,Ghost Vincent van Gogh,458,32,238,89,30,12,49,29,3004/2091/2092,1065,424.png
+FALSE,512,Ghost Ludwig van Beethoven,ゴースト・ベートーヴェン,Ghost Ludwig van Beethoven,430,49,245,93,26,16,49,29,3004/2028/2527,1008,423.png
+FALSE,513,Ghost Uesugi Kenshin,ゴースト・上杉謙信,Ghost Uesugi Kenshin,500,48,261,84,24,17,52,27,2016/2079/3002,1114,425.png
+FALSE,514,Ghost Vincent van Gogh,ゴースト・ゴッホ,Ghost Vincent van Gogh,515,32,263,92,25,12,54,29,2091/2016/3002,1065,424.png
+FALSE,515,Ghost Billy the Kid,ゴースト・ビリー・ザ・キッド,Ghost Billy the Kid,543,37,255,86,28,14,51,27,2527/2016/3002,1011,487.png
+FALSE,516,Ghost Vincent van Gogh,ゴースト・ゴッホ,Ghost Vincent van Gogh,570,32,248,93,30,12,49,29,2091/2091/3002,1065,424.png
+FALSE,517,Ghost Masamune Date,ゴースト・伊達政宗,Ghost Masamune Date,675,151,175,82,43,26,24,27,2091/2348/3002,1014,486.png
+FALSE,518,Ghost Uesugi Kenshin,ゴースト・上杉謙信,Ghost Uesugi Kenshin,662,48,228,67,40,17,41,22,2240/2240/3002,1114,425.png
+FALSE,519,Ghost Takeda Shingen,ゴースト・武田信玄,Ghost Takeda Shingen,579,235,48,87,31,45,17,27,2414/2470/3002,1078,519.png
+FALSE,520,Ghost Kondo Isami,ゴースト・近藤勇,Ghost Kondo Isami,573,239,28,105,31,47,8,34,2519/2470/3002,1126,436.png
+FALSE,521,Ghost Soji Okita,ゴースト・沖田総司,Ghost Soji Okita,546,235,47,98,29,46,14,31,2470/2470/3002,1033,437.png
+FALSE,522,Ghost Kondo Isami,ゴースト・近藤勇,Ghost Kondo Isami,322,115,28,113,37,38,8,37,2519/2103/3002,1126,436.png
+FALSE,523,Ghost Hijikata Toshizo,ゴースト・土方歳三,Ghost Hijikata Toshizo,249,165,30,81,28,57,9,26,2064/2004/3002,1087,438.png
+FALSE,524,Ghost Soji Okita,ゴースト・沖田総司,Ghost Soji Okita,353,83,47,115,40,29,14,37,2252/2252/3002,1033,437.png
+FALSE,525,Ghost Pyotr Tchaikovsky,ゴースト・チャイコフスキー,Ghost Pyotr Tchaikovsky,382,40,222,92,22,13,54,31,2016/2016/3002,1034,483.png
+FALSE,526,Ghost Charles Darwin,ゴースト・ダーウィン,Ghost Charles Darwin,549,109,67,105,29,35,22,34,2240/2240/3002,1091,479.png
+FALSE,527,Ghost Vincent van Gogh,ゴースト・ゴッホ,Ghost Vincent van Gogh,570,118,81,74,30,40,26,24,2091/2091/3002,1065,424.png
+FALSE,528,Ghost Alexander the Great,ゴースト・アレキサンダー,Ghost Alexander the Great,579,138,68,140,27,38,17,38,2518/2561/3002,1111,463.png
+FALSE,529,Ghost Genghis Khan,ゴースト・チンギス・ハン,Ghost Genghis Khan,713,118,39,145,39,33,10,38,2251/2251/3002,1058,451.png
+FALSE,530,Ghost Kondo Isami,ゴースト・近藤勇,Ghost Kondo Isami,686,139,28,103,39,42,8,31,2251/2413/3002,1126,436.png
+FALSE,531,Ghost Ludwig van Beethoven,ゴースト・ベートーヴェン,Ghost Ludwig van Beethoven,592,49,186,80,32,16,48,24,2527/2381/3001,1008,423.png
+FALSE,532,Ghost Napoleon Bonaparte,ゴースト・ナポレオン・ボナパルト,Ghost Napoleon Bonaparte,713,56,251,119,36,15,40,29,2526/2287/3104,1002,445.png
+FALSE,533,Ghost Vincent van Gogh,ゴースト・ゴッホ,Ghost Vincent van Gogh,591,38,184,100,31,10,49,30,2090/2090/3008,1065,424.png
+FALSE,534,Ghost Charles the Great,ゴースト・カール大帝,Ghost Charles the Great,574,67,192,159,26,20,32,42,2389/2389/3008,1084,443.png
+FALSE,535,Ghost Napoleon Bonaparte,ゴースト・ナポレオン・ボナパルト,Ghost Napoleon Bonaparte,696,63,325,140,30,13,48,29,2526/2526/3104,1002,445.png
+FALSE,536,Ghost Qin Shi Huang,ゴースト・始皇帝,Ghost Qin Shi Huang,724,33,232,153,40,9,31,40,2389/2389/3104,1112,468.png
+FALSE,537,Ghost Takeda Shingen,ゴースト・武田信玄,Ghost Takeda Shingen,726,67,341,149,30,13,48,29,2251/2251/3104,1078,519.png
+FALSE,538,Ghost Nobunaga Oda,ゴースト・織田信長,Ghost Nobunaga Oda,574,67,222,159,26,20,32,42,2003/2003/3008,1001,450.png
+FALSE,539,Ghost Uesugi Kenshin,ゴースト・上杉謙信,Ghost Uesugi Kenshin,664,36,222,166,40,9,31,40,2526/2526/3104,1114,425.png
+FALSE,540,Ghost Calamity Jane,ゴースト・カラミティ・ジェーン,Ghost Calamity Jane,610,39,246,111,32,12,44,32,2639/2671/3001,1062,494.png
+FALSE,541,Ghost Billy the Kid,ゴースト・ビリー・ザ・キッド,Ghost Billy the Kid,619,40,267,86,32,13,50,25,2679/2679/3105,1011,487.png
+FALSE,542,Ghost Calamity Jane,ゴースト・カラミティ・ジェーン,Ghost Calamity Jane,658,39,226,115,37,12,38,33,2639/2631/3001,1062,494.png
+FALSE,543,Ghost Han Xin,ゴースト・韓信,Ghost Han Xin,486,178,48,33,33,61,15,11,2004/2004/3002,1142,492.png
+FALSE,544,Ghost Wang Ki,ゴースト・王キ,Ghost Wang Ki,440,174,39,73,36,52,11,21,2647/2695/3002,1035,484.png
+FALSE,545,Ghost Wang Ki,ゴースト・王キ,Ghost Wang Ki,440,174,39,73,36,52,11,21,2695/2647/3002,1035,484.png
+FALSE,546,Ghost Uesugi Kenshin,ゴースト・上杉謙信,Ghost Uesugi Kenshin,764,36,222,166,40,9,31,40,2585/2585/3104,1114,425.png
+FALSE,547,Ghost Sun Jian,ゴースト・孫堅,Ghost Sun Jian,505,282,29,74,28,54,10,28,2471/2471/3002,1082,547.png
+FALSE,548,Ghost Sun Ce,ゴースト・孫策,Ghost Sun Ce,537,298,20,52,33,60,7,20,2471/2471/3002,1157,548.png
+FALSE,549,Ghost Sun Quan,ゴースト・孫権,Ghost Sun Quan,652,292,45,94,36,43,14,27,2647/2647/3002,1056,477.png
+FALSE,550,Ghost Himiko,ゴースト・卑弥呼,Ghost Himiko,600,110,137,75,30,32,37,21,2570/2469/3105,1055,448.png
+FALSE,551,Ghost Yamato Takeru,ゴースト・ヤマトタケル,Ghost Yamato Takeru,591,161,43,98,30,50,11,29,2695/2647/3105,1094,488.png
+FALSE,552,Ghost Himiko,ゴースト・卑弥呼,Ghost Himiko,600,88,137,97,30,27,37,26,2570/2437/3105,1055,448.png
+FALSE,553,Ghost Gennai Hiraga,ゴースト・平賀源内,Ghost Gennai Hiraga,523,43,265,70,26,15,57,22,2679/2016/3002,1038,553.png
+FALSE,554,Ghost Taira no Masakado,ゴースト・平将門,Ghost Taira no Masakado,662,226,58,59,42,41,18,19,2192/2594/3002,1109,476.png
+FALSE,555,Ghost Gennai Hiraga,ゴースト・平賀源内,Ghost Gennai Hiraga,575,43,271,51,32,15,56,17,2079/2679/3002,1038,553.png
+FALSE,556,Ghost Brunhild,ゴースト・ブリュンヒルド,Ghost Brunhild,589,248,29,86,33,51,8,28,2004/2103/3002,11134,473.png
+FALSE,557,Ghost Jean-Henri Fabre,ゴースト・ファーブル,Ghost Jean-Henri Fabre,524,70,250,69,25,24,49,22,2624/2570/3004,1154,497.png
+FALSE,558,Ghost Charles Darwin,ゴースト・ダーウィン,Ghost Charles Darwin,716,31,70,189,42,10,21,47,2655/2655/3004,11091,479.png
+FALSE,559,Ghost Gennai Hiraga,ゴースト・平賀源内,Ghost Gennai Hiraga,547,38,346,70,20,17,56,27,2017/2017/3104,1038,553.png
+FALSE,560,Ghost Nikola Tesla,ゴースト・ニコラ・テスラ,Ghost Nikola Tesla,577,143,155,86,35,23,31,31,2423/2423/3007,1146,560.png
+FALSE,561,Ghost Thomas Edison,ゴースト・トーマス・エジソン,Ghost Thomas Edison,599,42,242,44,38,16,51,15,2080/2080/3106,1012,491.png
+FALSE,562,Ghost Brothers Grimm,ゴースト・グリム兄弟,Ghost Brothers Grimm,620,37,63,200,36,14,21,49,2216/2052/3104,1042,421.png
+FALSE,563,Ghost Hans Christian Andersen,ゴースト・アンデルセン,Ghost Hans Christian Andersen,505,24,245,107,21,10,51,38,2570/2324/3007,1115,563.png
+FALSE,564,Ghost Aesop,ゴースト・イソップ,Ghost Aesop,637,229,39,36,43,49,16,12,2679/2206/3106,1129,564.png
+FALSE,565,Ghost Abraham Lincoln,ゴースト・エイブラハム・リンカーン,Ghost Abraham Lincoln,337,56,142,71,36,18,45,21,2336/2577/3008,1118,505.png
+FALSE,566,Ghost Minamoto no Yoshitsune,ゴースト・源義経,Ghost Minamoto no Yoshitsune,316,163,33,138,29,46,9,36,2469/2413/3008,1113,459.png
+FALSE,567,Ghost Richard I,ゴースト・リチャード1世,Ghost Richard I,282,172,50,124,27,48,12,33,2469/2413/3008,1151,426.png
+FALSE,568,Ghost Mori Ranmaru,ゴースト・森蘭丸,Ghost Mori Ranmaru,803,45,230,77,23,15,58,24,2569/2569/3103,1063,568.png
+FALSE,569,Ghost Akechi Mitsuhide,ゴースト・明智光秀,Ghost Akechi Mitsuhide,761,193,194,133,20,34,33,33,2155/2325/3108,1103,569.png
+FALSE,570,Ghost D'Artagnan,ゴースト・ダルタニャン,Ghost D'Artagnan,419,240,82,125,14,48,17,41,2312/2663/3112,1037,570.png
+FALSE,571,Ghost Sun Ce,ゴースト・孫策,Ghost Sun Ce,445,253,80,77,21,62,7,30,2606/2606/3112,1157,548.png
+FALSE,572,Ghost Florence Nightingale,ゴースト・ナイチンゲール,Ghost Florence Nightingale,469,211,203,93,20,38,33,29,2543/2543/3101,1007,495.png
+FALSE,573,Ghost Saigō Takamori,ゴースト・西郷隆盛,Ghost Saigō Takamori,649,57,237,71,37,18,43,22,2240/2299/3001,1140,573.png
+FALSE,574,Ghost SATOSHI・NAKAMOTO OMEGA CC,ゴースト・サトシ・ナカモト OMEGA CC,Ghost SATOSHI・NAKAMOTO OMEGA CC,607,203,59,99,35,35,19,31,2477/2477/3111,1120,498.png
+FALSE,575,Ghost Kaishu Katsu,ゴースト・勝海舟,Ghost Kaishu Katsu,540,209,99,76,27,36,33,24,2511/2511/3111,1010,489.png
+FALSE,576,Ghost Yang Guifei,ゴースト・楊貴妃,Ghost Yang Guifei,435,86,299,69,15,26,59,20,2275/2275/3104,1043,435.png
+FALSE,577,Ghost Kojiro Sasaki,ゴースト・佐々木小次郎,Ghost Kojiro Sasaki,466,213,35,196,18,33,10,59,2215/2215/3114,1009,490.png
+FALSE,578,Ghost Marie Antoinette,ゴースト・マリー・アントワネット,Ghost Marie Antoinette,551,47,241,127,26,14,42,38,2299/2299/3110,1031,504.png
+FALSE,579,Ghost Marco Polo,ゴースト・マルコ・ポーロ,Ghost Marco Polo,644,222,51,75,39,42,15,24,2228/2264/3120,1013,480.png
+FALSE,580,Ghost Genghis Khan,ゴースト・チンギス・ハン,Ghost Genghis Khan,643,229,39,157,33,35,10,42,2695/2631/3107,1058,451.png
+FALSE,581,Ghost Lakshmi Bai,ゴースト・ラクシュミー・バーイ,Ghost Lakshmi Bai,685,222,31,106,33,43,10,34,2228/2052/3116,1145,431.png
+FALSE,582,Ghost Himiko,ゴースト・卑弥呼,Ghost Himiko,662,64,334,68,30,17,55,18,2569/2624/3120,1055,448.png
+FALSE,583,Ghost Trưng Sisters,ゴースト・チュン姉妹,Ghost Trưng Sisters,661,192,171,104,34,30,24,32,2639/2421/3107,1130,430.png
+FALSE,584,Ghost Consort Yu,ゴースト・虞美人,Ghost Consort Yu,657,306,62,109,29,47,16,28,2663/2437/3116,1150,466.png
+FALSE,585,Ghost Ludwig van Beethoven,ゴースト・ベートーヴェン,Ghost Ludwig van Beethoven,534,49,251,82,27,16,50,27,2422/2016/3008,1008,423.png
+FALSE,586,Ghost Leonardo da Vinci,ゴースト・レオナルド・ダ・ビンチ,Ghost Leonardo da Vinci,564,47,275,90,27,15,51,27,2422/2016/3008,1005,464.png
+FALSE,587,Ghost George Washington,ゴースト・ジョージ・ワシントン,Ghost George Washington,583,62,254,90,29,18,46,27,2422/3008/2016,1004,452.png
+FALSE,588,Ghost Kondo Isami,ゴースト・近藤勇,Ghost Kondo Isami,518,231,28,181,26,44,8,42,2519/2602/3008,1126,436.png
+FALSE,589,Ghost Kondo Isami,ゴースト・近藤勇,Ghost Kondo Isami,518,231,28,181,26,44,8,42,2602/3008/2519,1126,436.png
+FALSE,590,Ghost Albert Einstein,ゴースト・アインシュタイン,Ghost Albert Einstein,728,32,207,90,43,11,47,19,2527/2586/3008,1030,427.png
+FALSE,591,Ghost Alexander the Great,ゴースト・アレキサンダー,Ghost Alexander the Great,548,65,286,106,24,18,50,28,2015/2015/3001,1111,463.png
+FALSE,592,Ghost Leonardo da Vinci,ゴースト・レオナルド・ダ・ビンチ,Ghost Leonardo da Vinci,495,51,314,111,19,14,58,29,2015/2015/3001,1005,464.png
+FALSE,593,Ghost Alexander the Great,ゴースト・アレキサンダー,Ghost Alexander the Great,248,90,158,209,24,26,28,42,2518/3002/2027,1111,463.png
+FALSE,594,Ghost Alexander the Great,ゴースト・アレキサンダー,Ghost Alexander the Great,348,180,68,209,24,37,17,42,2518/2311/3002,1111,463.png
+FALSE,595,Ghost King Arthur,ゴースト・アーサー王,Ghost King Arthur,1014,167,34,101,38,47,9,26,2003/3103/2373,1026,461.png
+FALSE,596,Ghost Zhuge Liang,ゴースト・諸葛亮,Ghost Zhuge Liang,632,29,184,75,35,9,54,22,2570/2570/3008,1085,596.png
+FALSE,597,Ghost Qin Shi Huang,ゴースト・始皇帝,Ghost Qin Shi Huang,674,33,165,80,39,9,49,23,2570/2570/3104,1112,468.png
+FALSE,598,Ghost Himiko,ゴースト・卑弥呼,Ghost Himiko,592,61,291,72,29,18,53,20,2569/2570/3104,1055,448.png
+FALSE,599,Ghost Kondo Isami,ゴースト・近藤勇,Ghost Kondo Isami,536,254,28,139,24,48,8,40,2518/2445/3002,1126,436.png
+FALSE,600,Ghost Minamoto no Yoshitsune,ゴースト・源義経,Ghost Minamoto no Yoshitsune,696,253,36,118,38,43,8,31,2251/2003/3002,1113,459.png
+FALSE,601,Ghost Tutankhamun,ゴースト・ツタンカーメン,Ghost Tutankhamun,580,251,49,146,26,42,13,39,2413/2518/3002,1135,500.png
+FALSE,602,Ghost Lancelot,ゴースト・ランスロット,Ghost Lancelot,723,219,128,212,44,35,23,18,2623/2039/3114,1155,460.png
+FALSE,603,Ghost King Arthur,ゴースト・アーサー王,Ghost King Arthur,1121,279,200,219,30,49,9,32,2695/2003/3002,1026,461.png
+FALSE,604,Ghost Lancelot,ゴースト・ランスロット,Ghost Lancelot,753,309,94,145,47,32,13,28,2647/2647/3114,1155,460.png
+FALSE,605,Ghost Alexander the Great,ゴースト・アレキサンダー,Ghost Alexander the Great,648,242,168,187,24,39,17,40,2518/2445/3002,1111,463.png
+FALSE,606,Ghost Tutankhamun,ゴースト・ツタンカーメン,Ghost Tutankhamun,1186,223,149,155,45,35,13,27,2251/2251/3002,1135,500.png
+FALSE,607,Ghost Albert Einstein,ゴースト・アインシュタイン,Ghost Albert Einstein,1012,35,352,192,30,10,56,24,2526/2015/3104,1030,427.png
+FALSE,608,Ghost Leonardo da Vinci,ゴースト・レオナルド・ダ・ビンチ,Ghost Leonardo da Vinci,1105,191,325,180,38,14,47,21,2421/2239/3001,1005,464.png
+FALSE,609,Ghost Brunhild,ゴースト・ブリュンヒルド,Ghost Brunhild,1239,267,169,214,24,52,11,33,2593/2413/3002,11134,473.png
+FALSE,610,Ghost Alexander the Great,ゴースト・アレキサンダー,Ghost Alexander the Great,648,195,236,206,24,18,50,28,2015/2015/3001,1111,463.png
+FALSE,611,Creeper-short,クリーパー ショート,Creeper-short,8,4,4,4,42,36,16,26,4001/4001/4005,0,101.png
+FALSE,612,Creeper-tall,クリーパー トール,Creeper-tall,9,5,5,5,39,37,17,27,4003/4003/4005,0,102.png
+FALSE,613,Creeper-grande,クリーパー グランデ,Creeper-grande,9,5,5,5,39,27,27,27,4010/4003/4003,0,103.png
+FALSE,614,Creeper-venti,クリーパー ヴェンティ,Creeper-venti,10,6,6,6,39,37,17,27,4005/4003/4005,4016,104.png
+FALSE,615,Creeper-macchiato,クリーパー マキアート,Creeper-macchiato,9,5,5,5,39,37,17,27,4010/4010/4005,0,105.png
+FALSE,616,Creeper-frappuccino,クリーパー フラペチーノ,Creeper-frappuccino,16,12,12,12,39,37,17,27,4005/4003/4005,0,106.png
+FALSE,617,Creeper-tall doppio,クリーパー トール ドッピオ,Creeper-tall doppio,9,5,5,5,39,37,17,27,4003/4003/4005,4061,141.png
+FALSE,618,Creeper-grande doppio,クリーパー グランデ ドッピオ,Creeper-grande doppio,9,5,5,5,39,27,27,27,4011/4003/4003,4063,143.png
+FALSE,619,Creeper-venti doppio,クリーパー ヴェンティ ドッピオ,Creeper-venti doppio,10,6,6,6,39,37,17,27,4005/4003/4005,4064,145.png
+FALSE,620,Creeper-frappuccino doppio,クリーパー フラペチーノ ドッピオ,Creeper-frappuccino doppio,16,12,12,12,39,37,17,27,4005/4003/4005,4064,147.png
+FALSE,621,Elk Cloner-short,エルククローナ ショート,Elk Cloner-short,5,7,4,4,30,24,42,24,4002/4002/4004,0,111.png
+FALSE,622,Elk Cloner-tall,エルククローナ トール,Elk Cloner-tall,6,8,5,5,30,25,40,25,4002/4004/4004,0,112.png
+FALSE,623,Elk Cloner-grande,エルククローナ グランデ,Elk Cloner-grande,6,8,5,5,30,25,40,25,4013/4013/4002,0,113.png
+FALSE,624,Elk Cloner-venti,エルククローナ ヴェンティ,Elk Cloner-venti,7,9,6,6,32,25,38,25,4004/4006/4006,4017,114.png
+FALSE,625,Elk Cloner-macchiato,エルククローナ マキアート,Elk Cloner-macchiato,6,8,5,5,30,25,40,25,4004/4004/4004,0,115.png
+FALSE,626,Elk Cloner-frappuccino,エルククローナ フラペチーノ,Elk Cloner-frappuccino,13,15,12,12,32,27,34,27,4015/4015/4004,0,116.png
+FALSE,627,Elk Cloner-tall doppio,エルククローナ トール ドッピオ,Elk Cloner-tall doppio,6,8,5,5,30,25,40,25,4002/4004/4004,4062,149.png
+FALSE,628,Elk Cloner-grande doppio,エルククローナ グランデ ドッピオ,Elk Cloner-grande doppio,6,8,5,5,30,25,40,25,4013/4013/4002,4063,150.png
+FALSE,629,Elk Cloner-venti doppio,エルククローナ ヴェンティ ドッピオ,Elk Cloner-venti doppio,7,9,6,6,32,25,38,25,4004/4006/4006,4064,151.png
+FALSE,630,Elk Cloner-frappuccino doppio,エルククローナ フラペチーノ ドッピオ,Elk Cloner-frappuccino doppio,13,15,12,12,32,27,34,27,4015/4015/4004,4064,152.png
+FALSE,631,Heartbleed-short,ハートブリード ショート,Heartbleed-short,5,4,7,4,30,24,42,24,4010/4001/4001,0,121.png
+FALSE,632,Heartbleed-tall,ハートブリード トール,Heartbleed-tall,6,5,8,5,30,25,40,25,4010/4003/4003,0,122.png
+FALSE,633,Heartbleed-grande,ハートブリード グランデ,Heartbleed-grande,6,5,8,5,30,25,40,25,4010/4005/4010,0,123.png
+FALSE,634,Heartbleed-venti,ハートブリード ヴェンティ,Heartbleed-venti,7,6,9,6,32,25,38,25,4010/4005/4005,4016,124.png
+FALSE,635,Heartbleed-macchiato,ハートブリード マキアート,Heartbleed-macchiato,6,5,8,5,30,25,40,25,4010/4003/4003,0,125.png
+FALSE,636,Heartbleed-frappuccino,ハートブリード フラペチーノ,Heartbleed-frappuccino,13,12,15,12,32,27,34,27,4012/4012/4003,0,126.png
+FALSE,637,Heartbleed-tall doppio,ハートブリード トール ドッピオ,Heartbleed-tall doppio,6,5,8,5,30,25,40,25,4011/4003/4003,4061,153.png
+FALSE,638,Heartbleed-grande doppio,ハートブリード グランデ ドッピオ,Heartbleed-grande doppio,6,5,8,5,30,25,40,25,4012/4005/4010,4063,154.png
+FALSE,639,Heartbleed-venti doppio,ハートブリード ヴェンティ ドッピオ,Heartbleed-venti doppio,7,6,9,6,32,25,38,25,4011/4005/4005,4064,155.png
+FALSE,640,Heartbleed-frappuccino doppio,ハートブリード フラペチーノ ドッピオ,Heartbleed-frappuccino doppio,13,12,15,12,32,27,34,27,4012/4012/4010,4064,156.png
+FALSE,641,Melissa-short,メリッサ ショート,Melissa-short,6,4,6,4,36,24,36,24,4002/4002/4007,0,131.png
+FALSE,642,Melissa-tall,メリッサ トール,Melissa-tall,7,5,7,5,35,25,35,25,4002/4002/4007,0,132.png
+FALSE,643,Melissa-grande,メリッサ グランデ,Melissa-grande,7,5,7,5,35,25,35,25,4013/4013/4002,0,133.png
+FALSE,644,Melissa-venti,メリッサ ヴェンティ,Melissa-venti,8,6,8,6,36,25,34,25,4004/4006/4006,4017,134.png
+FALSE,645,Melissa-macchiato,メリッサ マキアート,Melissa-macchiato,7,5,7,5,35,25,35,25,4004/4004/4004,0,135.png
+FALSE,646,Melissa-frappuccino,メリッサ フラペチーノ,Melissa-frappuccino,14,12,14,12,34,27,32,27,4004/4004/4014,0,136.png
+FALSE,647,Melissa-tall doppio,メリッサ トール ドッピオ,Melissa-tall doppio,7,5,7,5,35,25,35,25,4002/4004/4007,4062,142.png
+FALSE,648,Melissa-grande doppio,メリッサ グランデ ドッピオ,Melissa-grande doppio,7,5,7,5,35,25,35,25,4004/4006/4008,4063,144.png
+FALSE,649,Melissa-venti doppio,メリッサ ヴェンティ ドッピオ,Melissa-venti doppio,8,6,8,6,36,25,34,25,4004/4008/4006,4064,146.png
+FALSE,650,Melissa-frappuccino doppio,メリッサ フラペチーノ ドッピオ,Melissa-frappuccino doppio,14,12,14,12,34,27,32,27,4014/4004/4004,4064,148.png
+FALSE,651,Byte Bandit-short,バイトバンディット ショート,Byte Bandit-short,11,6,2,5,26,43,14,36,4018/4001/4001,0,161.png
+FALSE,652,Byte Bandit-tall,バイトバンディット トール,Byte Bandit-tall,15,7,3,5,30,42,18,30,4018/4001/4001,0,162.png
+FALSE,653,Byte Bandit-grande,バイトバンディット グランデ,Byte Bandit-grande,9,7,3,7,18,42,18,42,4018/4001/4018,0,163.png
+FALSE,654,Byte Bandit-venti,バイトバンディット ヴェンティ,Byte Bandit-venti,16,10,3,7,25,47,14,33,4018/4003/4005,4020,164.png
+FALSE,655,Byte Bandit-macchiato,バイトバンディット マキアート,Byte Bandit-macchiato,15,7,3,5,30,42,18,30,4019/4001/4001,0,165.png
+FALSE,656,Byte Bandit-frappuccino,バイトバンディット フラペチーノ,Byte Bandit-frappuccino,19,19,5,13,18,53,14,36,4019/4001/4003,0,166.png
+FALSE,657,Byte Bandit-tall doppio,バイトバンディット トール ドッピオ,Byte Bandit-tall doppio,15,7,3,5,30,42,18,30,4019/4003/4003,4061,167.png
+FALSE,658,Byte Bandit-grande doppio,バイトバンディット グランデ ドッピオ,Byte Bandit-grande doppio,9,7,3,7,18,42,18,42,4018/4003/4018,4063,168.png
+FALSE,659,Byte Bandit-venti doppio,バイトバンディット ヴェンティ ドッピオ,Byte Bandit-venti doppio,16,10,3,5,27,51,15,26,4018/4003/4005,4064,169.png
+FALSE,660,Byte Bandit-frappuccino doppio,バイトバンディット フラペチーノ ドッピオ,Byte Bandit-frappuccino doppio,19,19,5,13,18,53,14,36,4019/4003/4003,4064,170.png
+FALSE,661,Bagle-short,ベーグル ショート,Bagle-short,18,3,5,3,42,21,36,21,4002/4002/4002,0,181.png
+FALSE,662,Bagle-tall,ベーグル トール,Bagle-tall,21,4,6,3,42,24,36,18,4004/4004/4004,4024,182.png
+FALSE,663,Bagle-grande,ベーグル グランデ,Bagle-grande,15,4,6,5,30,24,36,30,4013/4004/4013,4024,183.png
+FALSE,664,Bagle-venti,ベーグル ヴェンティ,Bagle-venti,21,4,9,5,34,19,43,24,4006/4004/4006,4025,184.png
+FALSE,665,Bagle-macchiato,ベーグル マキアート,Bagle-macchiato,21,4,6,3,42,24,36,18,4004/4004/4004,4025,185.png
+FALSE,666,Bagle-frappuccino,ベーグル フラペチーノ,Bagle-frappuccino,24,6,18,11,22,17,50,31,4004/4004/4006,4026,186.png
+FALSE,667,Bagle-tall doppio,ベーグル トール ドッピオ,Bagle-tall doppio,21,4,6,3,42,24,36,18,4004/4004/4004,4024,366.png
+FALSE,668,Bagle-grande doppio,ベーグル グランデ ドッピオ,Bagle-grande doppio,15,4,6,5,30,24,36,30,4013/4004/4013,4063,367.png
+FALSE,669,Bagle-venti doppio,ベーグル ヴェンティ ドッピオ,Bagle-venti doppio,21,4,9,5,34,19,43,24,4006/4004/4006,4064,368.png
+FALSE,670,Bagle-frappuccino doppio,ベーグル フラペチーノ ドッピオ,Bagle-frappuccino doppio,24,6,18,11,22,17,50,31,4004/4004/4006,4026,369.png
+FALSE,671,COVID-19,COVID-19,COVID-19,61190000,190,190,190,30,30,30,30,4066/4067/4068,4069,671.png
+FALSE,672,Ghost Sun Ce,ゴースト・孫策,Ghost Sun Ce,138,130,20,67,22,61,7,30,2607/2607/3002,1157,548.png
+FALSE,673,Ghost Emperor Nero,ゴースト・皇帝ネロ,Ghost Emperor Nero,265,112,54,49,36,44,21,19,2471/2471/3124,11040,442.png
+FALSE,674,Ghost Diao Chan,ゴースト・貂蝉,Ghost Diao Chan,139,38,156,94,18,15,55,32,2016/2422/3001,1070,432.png
+FALSE,675,Ghost Abraham Lincoln,ゴースト・エイブラハム・リンカーン,Ghost Abraham Lincoln,218,41,158,87,26,14,52,28,2016/2422/3001,1118,505.png
+FALSE,676,Chameleon-frappuccino doppio,カメレオン フラペチーノ ドッピオ,Chameleon-frappuccino doppio,295,118,28,91,36,44,8,32,2064/2040/3129,1092,418.png
+FALSE,677,Chameleon-frappuccino doppio,カメレオン フラペチーノ ドッピオ,Chameleon-frappuccino doppio,305,55,52,119,39,21,18,42,2633/2633/3121,1164,418.png
+FALSE,678,Ghost Joan of Arc,ゴースト・ジャンヌ・ダルク,Ghost Joan of Arc,433,122,106,67,40,34,28,18,2719/2623/3125,1027,429.png
+FALSE,679,Ghost Liu Bei,ゴースト・劉備,Ghost Liu Bei,277,130,149,69,26,37,40,17,2729/2729/3125,1029,455.png
+FALSE,680,Ghost Ryoma Sakamoto,ゴースト・坂本龍馬,Ghost Ryoma Sakamoto,209,136,164,70,20,37,44,19,2397/2397/3125,1028,453.png
+FALSE,681,Chameleon-passion,カメレオン パッション,Chameleon-passion,444,1,1,144,67,2,5,46,4070/4071/4071,4072,681.png
+FALSE,682,COVID-19,COVID-19,COVID-19,55190000,190,190,190,30,30,30,30,4066/4067/4068,4069,671.png
+FALSE,683,Ghost Inō Tadataka,ゴースト・伊能忠敬,Ghost Inō Tadataka,492,20,188,188,36,4,40,40,2423/2423/3008,1161,683.png
+FALSE,684,Ghost Arthur Conan Doyle,ゴースト・コナン・ドイル,Ghost Arthur Conan Doyle,510,25,212,153,37,6,45,32,2423/2080/3008,1104,684.png
+FALSE,685,Ghost Ernest Thompson Seton,ゴースト・シートン,Ghost Ernest Thompson Seton,747,66,69,142,57,16,15,32,2633/2633/3130,1160,685.png
+FALSE,686,Ghost David,ゴースト・ダビデ,Ghost David,576,74,166,182,38,15,32,35,2423/2423/3008,1077,686.png
+FALSE,687,Ghost Fukuzawa Yukichi,ゴースト・福沢諭吉,Ghost Fukuzawa Yukichi,351,65,264,124,25,14,55,26,2423/3008/2423,1052,687.png
+FALSE,688,Ghost Sun Shangxiang,ゴースト・孫尚香,Ghost Sun Shangxiang,393,211,79,150,28,45,16,31,2595/2415/3002,1068,688.png
+FALSE,689,Ghost Arthur Conan Doyle,ゴースト・コナン・ドイル,Ghost Arthur Conan Doyle,420,25,223,138,32,6,51,31,2528/2528/3001,1104,684.png
+FALSE,690,Ghost Blaise Pascal,ゴースト・パスカル,Ghost Blaise Pascal,288,38,250,132,23,9,58,30,2017/2017/3003,1071,690.png
+FALSE,691,Ghost Fukuzawa Yukichi,ゴースト・福沢諭吉,Ghost Fukuzawa Yukichi,294,65,322,152,7,14,68,31,2017/2017/3003,1052,687.png
+FALSE,692,Ghost Xiahou Dun,ゴースト・張遼,Ghost Xiahou Dun,393,296,77,122,26,57,14,23,2595/2471/3123,1159,692.png
+FALSE,693,Ghost Xiahou Dun,ゴースト・張遼,Ghost Xiahou Dun,312,181,62,179,24,42,14,40,2415/2415/3129,1159,692.png
+FALSE,694,Ghost Ernest Thompson Seton,ゴースト・シートン,Ghost Ernest Thompson Seton,462,66,179,127,36,16,40,28,3004/2641/2391,1160,685.png
+FALSE,695,Ghost Ernest Thompson Seton,ゴースト・シートン,Ghost Ernest Thompson Seton,474,266,212,90,27,44,35,14,2423/2017/3001,1160,685.png
+FALSE,696,Ghost Izumo no Okuni,ゴースト・出雲阿国,Ghost Izumo no Okuni,534,200,59,133,38,43,12,27,2697/2313/3002,1137,696.png
+FALSE,697,Ghost Kaihime,ゴースト・甲斐姫,Ghost Kaihime,249,223,45,175,19,51,11,39,2005/2313/3002,1106,697.png
+FALSE,698,Ghost Sun Shangxiang,ゴースト・孫尚香,Ghost Sun Shangxiang,693,155,64,120,49,33,13,25,2265/2253/3002,1068,688.png
+FALSE,699,Ghost Fukuzawa Yukichi,ゴースト・福沢諭吉,Ghost Fukuzawa Yukichi,351,65,264,174,23,13,51,33,2423/3008/2423,1052,687.png
+FALSE,700,Ghost David,ゴースト・ダビデ,Ghost David,489,217,67,167,32,43,13,32,2005/2595/3002,1077,686.png
+FALSE,701,Ghost Ernest Thompson Seton,ゴースト・シートン,Ghost Ernest Thompson Seton,747,66,69,142,57,16,15,32,2633/2633/3008,1160,685.png
+FALSE,702,Ghost Kaihime,ゴースト・甲斐姫,Ghost Kaihime,435,223,45,146,32,48,9,31,2471/2471/3119,1106,697.png
+FALSE,703,Ghost Xiahou Dun,ゴースト・張遼,Ghost Xiahou Dun,396,311,62,121,26,60,11,23,2471/2471/3119,1159,692.png
+FALSE,704,Ghost Plato,ゴースト・プラトン,Ghost Plato,408,296,64,124,27,58,12,23,2471/2415/3123,1144,704.png
+FALSE,705,Ghost Arthur Conan Doyle,ゴースト・コナン・ドイル,Ghost Arthur Conan Doyle,594,25,69,234,46,6,15,53,2633/2633/3008,1104,684.png
+FALSE,706,Ghost Kaihime,ゴースト・甲斐姫,Ghost Kaihime,336,223,45,150,26,51,10,33,2471/2471/3119,1106,697.png
+FALSE,707,Ghost Xiahou Dun,ゴースト・張遼,Ghost Xiahou Dun,318,207,62,234,21,41,12,46,2415/2696/3008,1159,692.png
+FALSE,708,Ghost Xiahou Dun,ゴースト・張遼,Ghost Xiahou Dun,318,205,62,234,21,41,12,46,2414/2697/3008,1159,692.png
+FALSE,709,Ghost Xiahou Dun,ゴースト・張遼,Ghost Xiahou Dun,312,195,62,234,21,40,12,47,2415/2697/3008,1159,692.png
+FALSE,710,Ghost MCH Artist,ゴースト・MCHアーティスト,Ghost MCH Artist,378,53,241,75,31,13,58,18,2570/2570/3125,1019,712.png
+FALSE,711,Ghost Pythagoras,ゴースト・ピタゴラス,Ghost Pythagoras,513,194,194,302,24,27,27,42,2624/2624/3130,1165,711.png
+FALSE,712,Ghost MCH Warrior,ゴースト・MCHウォーリアー,Ghost MCH Warrior,600,255,42,127,39,49,8,24,2755/2755/3128,1017,710.png
+FALSE,713,Ghost Ikkyu,ゴースト・一休,Ghost Ikkyu,468,72,235,140,32,15,46,27,2092/2029/3001,1132,713.png
+FALSE,714,Ghost Erwin Schrödinger,ゴースト・シュレディンガー,Ghost Erwin Schrödinger,492,31,274,131,33,7,54,26,2017/2080/3001,1053,714.png
+FALSE,715,Ghost Sarutahiko,ゴースト・猿田彦,Ghost Sarutahiko,588,66,328,160,32,11,52,25,2080/2017/3001,1149,715.png
+FALSE,716,Ghost Plato,ゴースト・プラトン,Ghost Plato,450,261,64,110,31,54,13,22,2471/2471/3123,1144,704.png
+FALSE,717,Ghost Plato,ゴースト・プラトン,Ghost Plato,450,261,64,110,31,54,13,22,2471/2471/3123,1144,704.png
+FALSE,718,Ghost Kintaro,ゴースト・金太郎,Ghost Kintaro,813,266,20,234,42,40,3,35,2471/2471/3123,1100,718.png
+FALSE,719,Ghost Brothers Grimm,ゴースト・グリム兄弟,Ghost Brothers Grimm,504,35,332,85,33,7,64,16,2080/2080/3001,1042,421.png
+FALSE,720,Ghost Brothers Grimm,ゴースト・グリム兄弟,Ghost Brothers Grimm,558,35,264,155,35,7,49,29,2528/2528/3001,1042,421.png
+FALSE,721,Ghost Brothers Grimm,ゴースト・グリム兄弟,Ghost Brothers Grimm,804,35,282,85,48,7,50,15,2080/2080/3001,1042,421.png
+FALSE,722,Ghost Xu Chu,ゴースト・許褚,Ghost Xu Chu,885,308,51,134,45,47,8,20,2064/2606/3128,1080,722.png
+FALSE,723,Ghost Tokugawa Yoshinobu,ゴースト・徳川慶喜,Ghost Tokugawa Yoshinobu,567,57,225,110,40,12,46,22,2337/2337/3004,1083,422.png
+FALSE,724,Ghost Tokugawa Yoshinobu,ゴースト・徳川慶喜,Ghost Tokugawa Yoshinobu,567,57,225,110,40,12,46,22,2337/2337/3004,1083,422.png
+FALSE,725,Ghost Wright Brothers,ゴースト・ライト兄弟,Ghost Wright Brothers,420,47,257,193,27,9,48,36,2017/2017/3122,1016,725.png
+FALSE,726,Ghost Wright Brothers,ゴースト・ライト兄弟,Ghost Wright Brothers,420,47,257,193,27,9,48,36,2017/2017/3114,1016,725.png
+FALSE,727,Ghost Wright Brothers,ゴースト・ライト兄弟,Ghost Wright Brothers,420,47,257,193,27,9,48,36,2017/2017/3114,1016,725.png
+FALSE,728,Ghost Ikkyu,ゴースト・一休,Ghost Ikkyu,630,72,384,54,35,12,64,9,2241/2241/3122,1132,713.png
+FALSE,729,Ghost Montesquieu,ゴースト・モンテスキュー,Ghost Montesquieu,447,51,278,159,29,10,52,29,2641/2641/3122,1089,729.png
+FALSE,730,Ghost Hans Christian Andersen,ゴースト・アンデルセン,Ghost Hans Christian Andersen,582,46,314,116,35,9,56,20,2241/2241/3122,1115,563.png
+FALSE,731,Ghost Salome,ゴースト・サロメ,Ghost Salome,684,208,43,191,41,38,7,34,2697/2313/3002,1119,731.png
+FALSE,732,Ghost Plato,ゴースト・プラトン,Ghost Plato,321,346,64,153,20,62,11,27,2697/2313/3002,1144,704.png
+FALSE,733,Ghost Plato,ゴースト・プラトン,Ghost Plato,321,346,64,153,20,62,11,27,2697/2313/3002,1144,704.png
+FALSE,734,Ghost Izumo no Okuni,ゴースト・出雲阿国,Ghost Izumo no Okuni,579,313,59,105,35,57,10,18,2697/2697/3002,1137,696.png
+FALSE,735,Ghost Izumo no Okuni,ゴースト・出雲阿国,Ghost Izumo no Okuni,579,313,59,105,35,57,10,18,2697/2697/3002,1137,696.png
+FALSE,736,Ghost Izumo no Okuni,ゴースト・出雲阿国,Ghost Izumo no Okuni,534,319,59,114,32,58,10,20,2697/2606/3002,1137,696.png
+FALSE,737,Ghost Fyodor Dostoevsky,ゴースト・ドストエフスキー,Ghost Fyodor Dostoevsky,849,500,134,396,26,46,12,36,2665/2665/3129,1170,737.png
+FALSE,738,Ghost Fyodor Dostoevsky,ゴースト・ドストエフスキー,Ghost Fyodor Dostoevsky,849,500,134,396,26,46,12,36,2665/2665/3129,1170,737.png
+FALSE,739,Ghost Montgomery,ゴースト・モンゴメリ,Ghost Montgomery,429,435,259,133,18,54,32,16,2241/2017/3122,1139,739.png
+FALSE,740,Ghost Xiahou Dun,ゴースト・張遼,Ghost Xiahou Dun,630,423,62,167,30,59,8,23,2562/2562/3121,1159,692.png
+FALSE,741,Ghost Higuchi Ichiyō,ゴースト・樋口一葉,Ghost Higuchi Ichiyō,465,39,311,183,28,7,54,31,3004/2571/2454,1152,741.png
+FALSE,742,Ghost Higuchi Ichiyō,ゴースト・樋口一葉,Ghost Higuchi Ichiyō,465,39,211,283,28,7,36,49,3004/2454/2571,1152,741.png
+FALSE,743,Ghost Goethe,ゴースト・ゲーテ,Ghost Goethe,822,57,103,136,58,12,22,28,2633/2633/3008,1141,743.png
+FALSE,744,Ghost Toyotomi Hideyoshi,ゴースト・豊臣秀吉,Ghost Toyotomi Hideyoshi,543,63,80,306,35,12,15,58,2673/2633/3114,1124,744.png
+FALSE,745,Ghost Sarutahiko,ゴースト・猿田彦,Ghost Sarutahiko,420,66,609,173,18,8,73,21,2640/2391/3114,1149,715.png
+FALSE,746,Ghost Brothers Grimm,ゴースト・グリム兄弟,Ghost Brothers Grimm,504,379,210,113,24,53,28,15,2471/2471/3004,1042,421.png
+FALSE,747,Ghost Tokugawa Yoshinobu,ゴースト・徳川慶喜,Ghost Tokugawa Yoshinobu,594,57,168,160,41,12,35,32,3004/2633/2337,1083,422.png
+FALSE,748,Ghost Tokugawa Yoshinobu,ゴースト・徳川慶喜,Ghost Tokugawa Yoshinobu,567,57,225,110,40,12,46,22,3004/2337/2337,1083,422.png
+FALSE,749,Ghost Kintaro,ゴースト・金太郎,Ghost Kintaro,711,351,35,114,39,58,5,18,2595/2471/3121,1100,718.png
+FALSE,750,Ghost Toyotomi Hideyoshi,ゴースト・豊臣秀吉,Ghost Toyotomi Hideyoshi,567,164,51,249,35,31,9,45,3121/2253/2471,1124,744.png
+FALSE,751,Ghost Toyotomi Hideyoshi,ゴースト・豊臣秀吉,Ghost Toyotomi Hideyoshi,441,192,51,263,28,35,9,48,3121/2415/2471,1124,744.png
+FALSE,752,Ghost Brothers Grimm,ゴースト・グリム兄弟,Ghost Brothers Grimm,546,35,353,100,33,7,63,17,2423/2080/3001,1042,421.png
+FALSE,753,Ghost Sun Ce,ゴースト・孫策,Ghost Sun Ce,678,282,35,127,41,51,6,22,2697/2697/3002,1157,548.png
+FALSE,754,Ghost Sun Ce,ゴースト・孫策,Ghost Sun Ce,417,368,50,113,25,66,9,20,2697/2595/3002,1157,548.png
+FALSE,755,Ghost SATOSHI・NAKAMOTO ALPHA CC,ゴースト・サトシ・ナカモト ALPHA CC,Ghost SATOSHI・NAKAMOTO ALPHA CC,600,211,85,180,36,38,15,31,3129/2756/2721,1122,755.png
+FALSE,756,Ghost SATOSHI・NAKAMOTO ALPHA CC,ゴースト・サトシ・ナカモト ALPHA CC,Ghost SATOSHI・NAKAMOTO ALPHA CC,600,222,85,180,35,39,15,31,3129/2756/2579,1122,755.png
+FALSE,757,Ghost Salome,ゴースト・サロメ,Ghost Salome,564,263,64,234,31,42,10,37,2756/2756/3123,1119,731.png
+FALSE,758,Ghost Takasugi Shinsaku,ゴースト・高杉晋作,Ghost Takasugi Shinsaku,516,284,111,236,26,43,16,35,2313/2313/3130,1108,758.png
+FALSE,759,Ghost Takasugi Shinsaku,ゴースト・高杉晋作,Ghost Takasugi Shinsaku,516,284,111,236,26,43,16,35,2313/2313/3120,1108,758.png
+FALSE,760,Ghost Takasugi Shinsaku,ゴースト・高杉晋作,Ghost Takasugi Shinsaku,516,284,111,236,26,43,16,35,2313/2313/3106,1108,758.png
+FALSE,761,Ghost Sun Ce,ゴースト・孫策,Ghost Sun Ce,654,333,35,168,35,53,6,26,2115/2446/3121,1157,548.png
+FALSE,762,Ghost Lady Chacha,ゴースト・茶々,Ghost Lady Chacha,399,68,455,165,20,10,66,24,2028/3004/2528,1097,762.png
+FALSE,763,Ghost Sun Ce,ゴースト・孫策,Ghost Sun Ce,754,326,35,167,39,51,5,25,2115/2606/3103,1157,548.png
+FALSE,764,Ghost Akechi Mitsuhide,ゴースト・明智光秀,Ghost Akechi Mitsuhide,642,57,373,159,32,9,56,23,3003/2641/2641,1103,569.png
+FALSE,765,Ghost Hans Christian Andersen,ゴースト・アンデルセン,Ghost Hans Christian Andersen,660,46,354,116,36,8,58,18,3003/2528/2017,1115,563.png
+FALSE,766,Ghost Tokugawa Yoshinobu,ゴースト・徳川慶喜,Ghost Tokugawa Yoshinobu,567,57,500,99,27,8,71,14,2241/3003/2241,1083,422.png
+FALSE,767,Ghost Jack the Ripper,ゴースト・ジャックザリッパー,Ghost Jack the Ripper,666,999,999,666,10,42,41,27,3114/2053/2206,1024,767.png
+FALSE,768,Ghost Jack the Ripper,ゴースト・ジャックザリッパー,Ghost Jack the Ripper,666,999,999,666,10,42,41,27,3114/2052/2206,1024,767.png
+FALSE,769,Ghost Jack the Ripper,ゴースト・ジャックザリッパー,Ghost Jack the Ripper,666,999,999,666,10,42,41,27,3114/2053/2206,1024,767.png
+FALSE,770,Ghost Trưng Sisters,ゴースト・チュン姉妹,Ghost Trưng Sisters,651,566,581,111,18,46,47,9,2665/2665/3008,1130,430.png
+FALSE,771,Ghost Trưng Sisters,ゴースト・チュン姉妹,Ghost Trưng Sisters,651,566,581,180,17,44,46,13,2665/2665/3122,1130,430.png
+FALSE,772,Ghost Trưng Sisters,ゴースト・チュン姉妹,Ghost Trưng Sisters,651,566,581,111,18,46,47,9,2665/2665/3008,1130,430.png
+FALSE,773,Ghost Brothers Grimm,ゴースト・グリム兄弟,Ghost Brothers Grimm,831,35,273,117,48,6,47,19,2016/2240/3001,1042,421.png
+FALSE,774,Ghost Goemon Ishikawa,ゴースト・石川五右衛門,Ghost Goemon Ishikawa,813,238,86,155,44,39,13,24,2594/2594/3002,1049,774.png
+FALSE,775,Ghost Percival,ゴースト・パーシヴァル,Ghost Percival,888,284,32,188,45,43,4,28,2414/2414/3103,1123,462.png
+FALSE,776,Ghost Ivan the Terrible,ゴースト・イワン雷帝,Ghost Ivan the Terrible,810,90,238,148,44,15,38,23,2016/2360/3001,1054,776.png
+FALSE,777,Ghost Jiang Ziya,ゴースト・太公望,Ghost Jiang Ziya,630,70,339,123,34,12,55,19,2016/2016/3001,1039,777.png
+FALSE,778,Ghost Gennai Hiraga,ゴースト・平賀源内,Ghost Gennai Hiraga,603,82,274,171,34,13,45,28,2076/2016/3001,1038,553.png
+FALSE,779,Ghost Huang Zhong,ゴースト・黄忠,Ghost Huang Zhong,834,234,112,182,42,35,16,27,2470/2040/3008,1066,508.png
+FALSE,780,Ghost Pocahontas,ゴースト・ポカホンタス,Ghost Pocahontas,744,55,246,201,40,9,39,32,3004/2091/2091,1079,780.png
+FALSE,781,Ghost Pocahontas,ゴースト・ポカホンタス,Ghost Pocahontas,882,77,233,156,47,13,36,24,2336/3004/2578,1079,780.png
+FALSE,782,Ghost Benkei,ゴースト・武蔵坊弁慶,Ghost Benkei,699,262,40,215,38,42,6,34,2312/2312/3103,1064,782.png
+FALSE,783,Ghost Sun Jian,ゴースト・孫堅,Ghost Sun Jian,696,308,72,168,36,48,11,25,2696/2594/3002,1082,547.png
+FALSE,784,Ghost Sun Jian,ゴースト・孫堅,Ghost Sun Jian,651,294,55,184,35,48,8,29,2696/2696/3002,1082,547.png
+FALSE,785,Ghost ETHEREMON-RED,ゴースト・ETHEREMON-RED,Ghost ETHEREMON-RED,999,999,150,240,24,70,10,16,2240/2337/3119,1015,785.png
+FALSE,786,Ghost ETHEREMON-BLUE,ゴースト・ETHEREMON-BLUE,Ghost ETHEREMON-BLUE,999,150,999,259,23,11,69,17,2648/2470/3006,1022,786.png
+FALSE,787,Ghost ETHEREMON-RED,ゴースト・ETHEREMON-RED,Ghost ETHEREMON-RED,999,999,140,245,24,70,9,17,2240/2337/3119,1015,785.png
+FALSE,788,Ghost Ivan the Terrible,ゴースト・イワン雷帝,Ghost Ivan the Terrible,909,57,271,115,49,10,43,18,3125/2016/2079,1054,776.png
+FALSE,789,Ghost Hanzo Hattori,ゴースト・服部半蔵,Ghost Hanzo Hattori,849,82,237,148,46,14,37,23,2079/2422/3001,1041,789.png
+FALSE,790,Ghost Lakshmi Bai,ゴースト・ラクシュミー・バーイ,Ghost Lakshmi Bai,720,300,57,153,39,48,9,24,2696/2696/3102,1145,431.png
+FALSE,791,Ghost Sanada Yukimura,ゴースト・真田幸村,Ghost Sanada Yukimura,801,256,48,179,43,41,8,28,2470/2648/3123,1092,791.png
+FALSE,792,Ghost Isaac Newton,ゴースト・ニュートン,Ghost Isaac Newton,786,240,141,157,40,36,21,23,2624/2470/3123,1171,792.png
+FALSE,793,Ghost Hanzo Hattori,ゴースト・服部半蔵,Ghost Hanzo Hattori,669,82,258,187,36,14,41,29,2640/2640/3122,1041,789.png
+FALSE,794,Ghost Sun Jian,ゴースト・孫堅,Ghost Sun Jian,900,228,55,167,48,37,9,26,2264/2414/3002,1082,547.png
+FALSE,795,Ghost Sun Jian,ゴースト・孫堅,Ghost Sun Jian,801,244,55,184,43,40,8,29,2696/2252/3002,1082,547.png
+FALSE,796,Ghost Mary Read,ゴースト・メアリ・リード,Ghost Mary Read,846,235,72,161,46,38,11,25,2470/2594/3103,1102,796.png
+FALSE,797,Ghost Raffaello Santi,ゴースト・ラファエロ,Ghost Raffaello Santi,612,46,310,286,29,7,44,40,2016/2422/3117,1158,797.png
+FALSE,798,Ghost Ono no Komachi,ゴースト・小野小町,Ghost Ono no Komachi,1026,26,276,206,49,4,38,29,2240/2240/3117,1125,434.png
+FALSE,799,Ghost Raffaello Santi,ゴースト・ラファエロ,Ghost Raffaello Santi,531,46,334,293,25,7,47,41,2640/2640/3117,1158,797.png
+FALSE,800,Ghost Diao Chan,ゴースト・貂蝉,Ghost Diao Chan,633,87,328,160,33,13,50,24,2240/2016/3122,1070,432.png
+FALSE,801,Ghost Diao Chan,ゴースト・貂蝉,Ghost Diao Chan,636,97,298,160,34,15,46,25,2240/2016/3122,1070,432.png
+FALSE,802,Ghost Diao Chan,ゴースト・貂蝉,Ghost Diao Chan,633,76,318,160,34,12,49,25,2240/2016/3122,1070,432.png
+FALSE,803,Ghost Huang Zhong,ゴースト・黄忠,Ghost Huang Zhong,834,234,112,122,45,38,18,19,3129/2040/2470,1066,508.png
+FALSE,804,Ghost Sarutobi Sasuke,ゴースト・猿飛佐助,Ghost Sarutobi Sasuke,1038,88,58,258,56,14,9,41,3008/2632/2632,1143,804.png
+FALSE,805,Ghost Pocahontas,ゴースト・ポカホンタス,Ghost Pocahontas,780,77,200,213,42,13,31,34,3004/2578/2390,1079,780.png
+FALSE,806,Ghost Mary Read,ゴースト・メアリ・リード,Ghost Mary Read,846,315,55,144,43,48,8,21,2004/2470/3002,1102,796.png
+FALSE,807,Ghost Mary Read,ゴースト・メアリ・リード,Ghost Mary Read,849,302,55,160,43,46,8,23,2470/2470/3002,1102,796.png
+FALSE,808,Ghost Mary Read,ゴースト・メアリ・リード,Ghost Mary Read,801,285,55,193,41,43,8,28,2470/2414/3002,1102,796.png
+FALSE,809,Ghost Jiang Ziya,ゴースト・太公望,Ghost Jiang Ziya,777,70,309,108,42,12,49,17,2016/2422/3001,1039,777.png
+FALSE,810,Ghost Hanzo Hattori,ゴースト・服部半蔵,Ghost Hanzo Hattori,702,82,267,163,38,14,42,26,2016/2079/3001,1041,789.png
+FALSE,811,Ghost Ivan the Terrible,ゴースト・イワン雷帝,Ghost Ivan the Terrible,1011,57,237,115,55,9,38,18,2240/2016/3001,1054,776.png
+FALSE,812,Ghost Lakshmi Bai,ゴースト・ラクシュミー・バーイ,Ghost Lakshmi Bai,618,376,57,161,31,57,8,24,2755/2755/3123,1145,431.png
+FALSE,813,Ghost Lakshmi Bai,ゴースト・ラクシュミー・バーイ,Ghost Lakshmi Bai,618,376,57,161,31,57,8,24,2755/2755/3123,1145,431.png
+FALSE,814,Ghost Lakshmi Bai,ゴースト・ラクシュミー・バーイ,Ghost Lakshmi Bai,720,334,57,169,36,51,8,25,2696/2414/3123,1145,431.png
+FALSE,815,Ghost Christopher Columbus,ゴースト・コロンブス,Ghost Christopher Columbus,1089,147,68,154,60,24,11,25,2594/2633/3008,1163,815.png
+FALSE,816,Ghost Diao Chan,ゴースト・貂蝉,Ghost Diao Chan,834,77,135,242,46,13,22,39,2288/2633/3008,1070,432.png
+FALSE,817,Ghost Mary Read,ゴースト・メアリ・リード,Ghost Mary Read,747,381,55,161,36,55,7,22,2004/2064/3002,1102,796.png
+FALSE,818,Ghost Belle Starr,ゴースト・ベル・スター,Ghost Belle Starr,780,71,311,168,39,11,46,24,2079/2640/3125,1131,818.png
+FALSE,819,Ghost Belle Starr,ゴースト・ベル・スター,Ghost Belle Starr,882,71,305,160,43,10,44,23,2079/2527/3122,1131,818.png
+FALSE,820,Ghost Belle Starr,ゴースト・ベル・スター,Ghost Belle Starr,795,71,281,169,41,11,43,25,2422/2016/3001,1131,818.png
+FALSE,821,Ghost Magellan,ゴースト・マゼラン,Ghost Magellan,1047,245,81,208,48,33,11,28,2593/2415/3123,1133,821.png
+FALSE,822,Ghost Amakusa Shirō,ゴースト・天草四郎,Ghost Amakusa Shirō,909,83,501,120,37,10,59,14,2767/3004/2586,1046,822.png
+FALSE,823,Ghost Amakusa Shirō,ゴースト・天草四郎,Ghost Amakusa Shirō,909,83,501,120,37,10,59,14,2767/3104/2586,1046,822.png
+FALSE,824,Ghost Hanzo Hattori,ゴースト・服部半蔵,Ghost Hanzo Hattori,804,82,233,163,44,13,37,26,2240/2016/3122,1041,789.png
+FALSE,825,Ghost Lakshmi Bai,ゴースト・ラクシュミー・バーイ,Ghost Lakshmi Bai,765,284,74,137,41,46,12,21,2696/2594/3123,1145,431.png
+FALSE,826,Ghost Diao Chan,ゴースト・貂蝉,Ghost Diao Chan,678,77,302,145,37,12,48,23,2422/2079/3122,1070,432.png
+FALSE,827,Ghost Emperor Nero,ゴースト・皇帝ネロ,Ghost Emperor Nero,873,180,998,236,21,13,70,16,2277/2705/3125,1040,442.png
+FALSE,828,Ghost Robin Hood,ゴースト・ロビンフッド,Ghost Robin Hood,714,61,255,263,35,9,38,38,2382/2527/3001,1095,828.png
+FALSE,829,Ghost Emperor Nero,ゴースト・皇帝ネロ,Ghost Emperor Nero,873,170,999,236,21,13,70,16,2277/2705/3125,1040,442.png
+FALSE,830,Ghost Anne Bonny,ゴースト・アン・ボニー,Ghost Anne Bonny,801,55,317,261,36,8,42,34,2382/2324/3001,1116,830.png
+FALSE,831,Ghost William Shakespeare,ゴースト・シェイクスピア,Ghost William Shakespeare,999,159,999,597,20,9,57,34,2624/2624/3005,1107,831.png
+FALSE,832,Ghost Anne Bonny,ゴースト・アン・ボニー,Ghost Anne Bonny,948,55,317,162,45,8,45,22,2422/2382/3001,1116,830.png
+FALSE,833,Ghost Ludwig van Beethoven,ゴースト・ベートーヴェン,Ghost Ludwig van Beethoven,624,95,377,176,30,14,52,24,2016/2016/3001,1008,423.png
+FALSE,834,Ghost Wolfgang Amadeus Mozart,ゴースト・モーツァルト,Ghost Wolfgang Amadeus Mozart,771,349,374,180,27,37,38,18,2016/2422/3001,1101,441.png
+FALSE,835,Ghost Uesugi Kenshin,ゴースト・上杉謙信,Ghost Uesugi Kenshin,711,97,363,163,34,14,50,22,2016/2079/3001,1114,425.png
+FALSE,836,Ghost Grigori Rasputin,ゴースト・ラスプーチン,Ghost Grigori Rasputin,1251,177,83,269,53,23,10,34,2052/2052/3129,1156,475.png
+FALSE,837,Ghost Grigori Rasputin,ゴースト・ラスプーチン,Ghost Grigori Rasputin,1251,177,83,269,53,23,10,34,2052/2052/3129,1156,475.png
+FALSE,838,Ghost Grigori Rasputin,ゴースト・ラスプーチン,Ghost Grigori Rasputin,1251,177,83,269,53,23,10,34,2052/2052/3122,1156,475.png
+FALSE,839,Ghost Zhang Fei,ゴースト・張飛,Ghost Zhang Fei,1617,311,88,176,59,34,9,18,2519/2252/3002,1006,454.png
+FALSE,840,Ghost Ludwig van Beethoven,ゴースト・ベートーヴェン,Ghost Ludwig van Beethoven,624,95,327,176,31,15,48,26,2016/2016/3104,1008,423.png
+FALSE,841,Ghost Pyotr Tchaikovsky,ゴースト・チャイコフスキー,Ghost Pyotr Tchaikovsky,810,78,311,151,40,12,46,22,2016/2527/3104,1034,483.png
+FALSE,842,Ghost Ono no Komachi,ゴースト・小野小町,Ghost Ono no Komachi,624,26,338,170,34,5,54,27,2016/2016/3001,1125,434.png
+FALSE,843,Ghost Sanada Yukimura,ゴースト・真田幸村,Ghost Sanada Yukimura,1053,300,48,351,41,34,5,40,3002/2632/2632,1092,791.png
+FALSE,844,Ghost Hannibal,ゴースト・ハンニバル,Ghost Hannibal,744,116,304,346,30,14,36,40,2079/2079/3001,1164,844.png
+FALSE,845,Ghost Blackbeard,ゴースト・黒髭,Ghost Blackbeard,828,243,110,235,39,34,15,32,2519/2578/3114,1127,506.png
+FALSE,846,Ghost Vincent van Gogh,ゴースト・ゴッホ,Ghost Vincent van Gogh,825,67,274,248,39,9,38,34,3004/2656/2028,1065,424.png
+FALSE,847,Ghost Ludwig van Beethoven,ゴースト・ベートーヴェン,Ghost Ludwig van Beethoven,708,95,344,189,33,14,47,26,3004/2570/2028,1008,423.png
+FALSE,848,Ghost Takeda Shingen,ゴースト・武田信玄,Ghost Takeda Shingen,1203,194,97,222,53,26,12,29,2519/2252/3123,1078,519.png
+FALSE,849,Ghost Kondo Isami,ゴースト・近藤勇,Ghost Kondo Isami,1197,299,51,165,53,40,6,21,2470/2414/3123,1126,436.png
+FALSE,850,Ghost Nikola Tesla,ゴースト・ニコラ・テスラ,Ghost Nikola Tesla,1029,280,62,229,46,36,8,30,2696/2414/3123,1146,560.png
+FALSE,851,Ghost Ludwig van Beethoven,ゴースト・ベートーヴェン,Ghost Ludwig van Beethoven,924,117,266,173,43,17,36,24,3003/2554/2578,1008,423.png
+FALSE,852,Ghost Vincent van Gogh,ゴースト・ゴッホ,Ghost Vincent van Gogh,837,67,290,228,39,10,40,31,3003/2336/2028,1065,424.png
+FALSE,853,Ghost Grigori Rasputin,ゴースト・ラスプーチン,Ghost Grigori Rasputin,936,77,238,237,44,11,33,32,3004/2527/2028,1156,475.png
+FALSE,854,Ghost Billy the Kid,ゴースト・ビリー・ザ・キッド,Ghost Billy the Kid,954,94,350,265,38,11,41,30,2300/2324/3001,1011,487.png
+FALSE,855,Ghost Billy the Kid,ゴースト・ビリー・ザ・キッド,Ghost Billy the Kid,957,92,363,268,37,11,42,30,2300/2324/3001,1011,487.png
+FALSE,856,Ghost Billy the Kid,ゴースト・ビリー・ザ・キッド,Ghost Billy the Kid,954,82,353,263,38,10,41,31,2300/2324/3001,1011,487.png
+FALSE,857,Ghost Kondo Isami,ゴースト・近藤勇,Ghost Kondo Isami,894,282,68,216,42,40,9,29,2594/2414/3002,1126,436.png
+FALSE,858,Ghost Abraham Lincoln,ゴースト・エイブラハム・リンカーン,Ghost Abraham Lincoln,747,82,310,219,35,12,43,30,2422/2016/3001,1118,505.png
+FALSE,859,Ghost Soji Okita,ゴースト・沖田総司,Ghost Soji Okita,855,318,88,223,38,42,11,29,2696/2252/3002,1033,437.png
+FALSE,860,Ghost Ludwig van Beethoven,ゴースト・ベートーヴェン,Ghost Ludwig van Beethoven,924,95,266,145,46,14,39,21,3003/2240/2091,1008,423.png
+FALSE,861,Ghost Vincent van Gogh,ゴースト・ゴッホ,Ghost Vincent van Gogh,1089,67,257,327,43,8,31,38,3003/2672/2028,1065,424.png
+FALSE,862,Ghost Tokugawa Yoshinobu,ゴースト・徳川慶喜,Ghost Tokugawa Yoshinobu,954,57,277,154,48,9,41,22,3003/2632/2336,1083,422.png
+FALSE,863,Ghost Lü Bu,ゴースト・呂布,Ghost Lü Bu,987,336,67,174,44,45,8,23,2004/2004/3002,1047,481.png
+FALSE,864,Ghost Lü Bu,ゴースト・呂布,Ghost Lü Bu,942,322,67,207,42,43,8,27,2696/2004/3002,1047,481.png
+FALSE,865,Ghost Lü Bu,ゴースト・呂布,Ghost Lü Bu,891,339,67,207,40,45,8,27,2064/2004/3002,1047,481.png
+FALSE,866,Ghost Uesugi Kenshin,ゴースト・上杉謙信,Ghost Uesugi Kenshin,1242,123,207,188,54,16,26,24,3003/2336/4083,1114,425.png
+FALSE,867,Ghost Vincent van Gogh,ゴースト・ゴッホ,Ghost Vincent van Gogh,570,67,324,333,25,9,43,43,3003/2028/2632,1065,424.png
+FALSE,868,Ghost Ludwig van Beethoven,ゴースト・ベートーヴェン,Ghost Ludwig van Beethoven,873,95,351,195,38,12,45,25,3003/2091/4091,1008,423.png
+FALSE,869,Ghost Masamune Date,ゴースト・伊達政宗,Ghost Masamune Date,1056,307,544,428,26,23,40,31,2064/2064/3001,1014,486.png
+FALSE,870,Ghost Saigō Takamori,ゴースト・西郷隆盛,Ghost Saigō Takamori,909,331,286,154,34,37,32,17,2336/4086/3008,1140,573.png
+FALSE,871,Ghost Saigō Takamori,ゴースト・西郷隆盛,Ghost Saigō Takamori,909,121,376,164,38,16,46,20,2422/2578/3003,1140,573.png
+FALSE,872,Ghost Blackbeard,ゴースト・黒髭,Ghost Blackbeard,945,271,55,273,42,36,7,35,2519/2454/3114,1127,506.png
+FALSE,873,Ghost Grigori Rasputin,ゴースト・ラスプーチン,Ghost Grigori Rasputin,924,77,83,346,46,11,12,51,2656/2632/3114,1156,475.png
+FALSE,874,Ghost Kaishu Katsu,ゴースト・勝海舟,Ghost Kaishu Katsu,987,112,329,244,39,14,39,28,3004/2028/2028,1010,489.png
+FALSE,875,Ghost Uesugi Kenshin,ゴースト・上杉謙信,Ghost Uesugi Kenshin,1059,97,321,211,44,12,39,25,4088/2422/3001,1114,425.png
+FALSE,876,Ghost Abraham Lincoln,ゴースト・エイブラハム・リンカーン,Ghost Abraham Lincoln,699,82,384,183,32,12,52,24,4088/2079/3001,1118,505.png
+FALSE,877,Ghost Ludwig van Beethoven,ゴースト・ベートーヴェン,Ghost Ludwig van Beethoven,624,95,368,207,29,13,50,28,4088/2016/3001,1008,423.png
+FALSE,878,Ghost Ludwig van Beethoven,ゴースト・ベートーヴェン,Ghost Ludwig van Beethoven,723,95,383,145,34,13,53,20,2079/2168/3125,1008,423.png
+FALSE,879,Ghost Blackbeard,ゴースト・黒髭,Ghost Blackbeard,744,254,155,307,31,32,19,38,2519/2696/3007,1127,506.png
+FALSE,880,Ghost Kondo Isami,ゴースト・近藤勇,Ghost Kondo Isami,747,288,151,276,31,36,19,34,2519/2519/3002,1126,436.png
+FALSE,881,Ghost SATOSHI・NAKAMOTO OMEGA CC,ゴースト・サトシ・ナカモト OMEGA CC,Ghost SATOSHI・NAKAMOTO OMEGA CC,897,339,48,228,40,45,6,29,2454/2632/3129,1120,498.png
+FALSE,882,Ghost SATOSHI・NAKAMOTO OMEGA CC,ゴースト・サトシ・ナカモト OMEGA CC,Ghost SATOSHI・NAKAMOTO OMEGA CC,897,339,48,228,40,45,6,29,2454/2632/3129,1120,498.png
+FALSE,883,Ghost Han Xin,ゴースト・韓信,Ghost Han Xin,1248,427,92,215,44,45,9,22,2647/2647/3123,1142,492.png
+FALSE,884,Ghost Jean-Henri Fabre,ゴースト・ファーブル,Ghost Jean-Henri Fabre,678,385,338,265,23,38,33,26,2570/2632/3127,1154,497.png
+FALSE,885,Ghost Astro boy,ゴースト・鉄腕アトム,Ghost Astro boy,1077,303,80,168,48,40,10,22,2696/2004/3114,1148,885.png
+FALSE,886,Ghost Lancelot,ゴースト・ランスロット,Ghost Lancelot,1512,120,82,208,67,16,10,27,2656/2454/3114,1155,460.png
+FALSE,887,Ghost Florence Nightingale,ゴースト・ナイチンゲール,Ghost Florence Nightingale,1218,555,333,220,33,44,26,17,2656/2632/3008,1007,495.png
+FALSE,888,Ghost Tomoe Gozen,ゴースト・巴御前,Ghost Tomoe Gozen,1029,481,349,239,30,41,29,20,2156/3114/2593,1067,485.png
+FALSE,889,Ghost Tomoe Gozen,ゴースト・巴御前,Ghost Tomoe Gozen,1029,481,349,239,30,41,29,20,2115/3114/2156,1067,485.png
+FALSE,890,Ghost Kondo Isami,ゴースト・近藤勇,Ghost Kondo Isami,951,326,71,234,41,42,8,29,2519/2252/3002,1126,436.png
+FALSE,891,Ghost Kondo Isami,ゴースト・近藤勇,Ghost Kondo Isami,948,341,81,221,40,43,10,27,2519/2252/3002,1126,436.png
+FALSE,892,Ghost Kondo Isami,ゴースト・近藤勇,Ghost Kondo Isami,948,320,91,221,40,41,12,27,2519/2252/3002,1126,436.png
+FALSE,893,Ghost Xiang Yu,ゴースト・項羽,Ghost Xiang Yu,951,417,71,175,39,52,8,21,4086/4086/3120,1168,893.png
+FALSE,894,Ghost Albert Einstein,ゴースト・アインシュタイン,Ghost Albert Einstein,981,105,346,200,41,13,42,24,2126/4080/3122,1030,427.png
+FALSE,895,Ghost Hokusai,ゴースト・葛飾北斎,Ghost Hokusai,936,52,409,207,39,6,50,25,4077/4077/3122,1167,895.png
+FALSE,896,Ghost Himiko,ゴースト・卑弥呼,Ghost Himiko,888,119,427,138,37,15,52,16,2569/2569/3125,1055,448.png
+FALSE,897,Ghost Himiko,ゴースト・卑弥呼,Ghost Himiko,888,119,427,138,37,15,52,16,2569/2569/3125,1055,448.png
+FALSE,898,Ghost Brunhild,ゴースト・ブリュンヒルド,Ghost Brunhild,900,319,71,210,40,43,10,27,2593/2413/3002,1134,473.png
+FALSE,899,Ghost Minamoto no Yoshitsune,ゴースト・源義経,Ghost Minamoto no Yoshitsune,1149,254,88,281,46,31,10,33,2051/2719/3130,1113,459.png
+FALSE,900,Ghost Richard I,ゴースト・リチャード1世,Ghost Richard I,831,371,89,243,34,46,11,29,3129/2687/2561,1151,426.png
+FALSE,901,Ghost Albert Einstein,ゴースト・アインシュタイン,Ghost Albert Einstein,567,67,290,282,28,10,42,40,2179/2027/3008,1030,427.png
+FALSE,902,Ghost Abe no Seimei,ゴースト・安倍晴明,Ghost Abe no Seimei,1341,94,218,221,55,12,26,27,2631/2631/3008,1136,428.png
+FALSE,903,Ghost Albert Einstein,ゴースト・アインシュタイン,Ghost Albert Einstein,1134,93,363,144,47,12,44,17,3125/2335/2577,1030,427.png
+FALSE,904,Ghost Minamoto no Yoshitsune,ゴースト・源義経,Ghost Minamoto no Yoshitsune,939,363,62,242,39,45,7,29,3127/2687/2469,1113,459.png
+FALSE,905,Ghost Alexander the Great,ゴースト・アレキサンダー,Ghost Alexander the Great,783,223,449,297,26,22,44,28,2015/2167/3104,1111,463.png
+FALSE,906,Ghost Qin Shi Huang,ゴースト・始皇帝,Ghost Qin Shi Huang,1170,62,326,152,51,8,42,19,2078/2421/3104,1112,468.png
+FALSE,907,Ghost Vincent van Gogh,ゴースト・ゴッホ,Ghost Vincent van Gogh,864,67,345,150,41,10,48,21,3104/2015/2239,1065,424.png
+FALSE,908,Ghost Minamoto no Yoshitsune,ゴースト・源義経,Ghost Minamoto no Yoshitsune,1068,281,62,281,44,35,7,34,2518/3129/2039,1113,459.png
+FALSE,909,Ghost Albert Einstein,ゴースト・アインシュタイン,Ghost Albert Einstein,906,93,364,219,38,12,44,26,3125/2027/2577,1030,427.png
+FALSE,910,Ghost Ryoma Sakamoto,ゴースト・坂本龍馬,Ghost Ryoma Sakamoto,1029,104,263,270,42,13,32,33,2639/2453/3008,1028,453.png
+FALSE,911,Ghost Ono no Komachi,ゴースト・小野小町,Ghost Ono no Komachi,1041,52,356,181,45,7,45,23,2631/2577/3001,1125,434.png
+FALSE,912,Ghost Liu Bei,ゴースト・劉備,Ghost Liu Bei,834,249,242,211,35,31,29,25,2623/3127/2719,1029,455.png
+FALSE,913,Ghost Johann Sebastian Bach,ゴースト・バッハ,Ghost Johann Sebastian Bach,942,92,312,262,39,11,38,32,3125/2381/2671,1057,440.png
+FALSE,914,Ghost Xiang Yu,ゴースト・項羽,Ghost Xiang Yu,1182,239,71,276,49,30,8,33,2453/2687/3130,1168,893.png
+FALSE,915,Ghost Richard I,ゴースト・リチャード1世,Ghost Richard I,1014,246,89,307,42,31,10,37,3129/2518/2039,1151,426.png
+FALSE,916,Ghost Albert Einstein,ゴースト・アインシュタイン,Ghost Albert Einstein,1095,67,289,257,45,9,35,31,2335/3127/2179,1030,427.png
+FALSE,917,Ghost Richard I,ゴースト・リチャード1世,Ghost Richard I,942,382,165,219,35,43,18,24,3129/2155/2719,1151,426.png
+FALSE,918,Ghost Abe no Seimei,ゴースト・安倍晴明,Ghost Abe no Seimei,969,94,206,207,47,14,30,29,2453/2671/3008,1136,428.png
+FALSE,919,Ghost Ryoma Sakamoto,ゴースト・坂本龍馬,Ghost Ryoma Sakamoto,858,130,295,219,37,17,38,28,3004/2027/2577,1028,453.png
+FALSE,920,Ghost Ryoma Sakamoto,ゴースト・坂本龍馬,Ghost Ryoma Sakamoto,1086,130,294,194,45,16,36,23,3003/2577/2335,1028,453.png
+FALSE,921,Ghost Napoleon Bonaparte,ゴースト・ナポレオン・ボナパルト,Ghost Napoleon Bonaparte,798,305,532,251,24,27,47,22,3104/2027/2381,1002,445.png
+FALSE,922,Ghost Brunhild,ゴースト・ブリュンヒルド,Ghost Brunhild,750,319,71,210,36,45,10,29,2593/2413/3103,1134,473.png
+FALSE,923,Ghost Richard I,ゴースト・リチャード1世,Ghost Richard I,1242,270,89,207,51,34,10,25,2039/3002/2373,1151,426.png
+FALSE,924,Ghost Minamoto no Yoshitsune,ゴースト・源義経,Ghost Minamoto no Yoshitsune,843,331,112,256,35,41,13,31,2003/2601/3002,1113,459.png
+FALSE,925,Ghost Xiang Yu,ゴースト・項羽,Ghost Xiang Yu,1140,296,71,234,47,37,8,28,2469/3002/2251,1168,893.png
+FALSE,926,Ghost Grigori Rasputin,ゴースト・ラスプーチン,Ghost Grigori Rasputin,915,177,309,209,37,21,37,25,2015/2078/3122,1156,475.png
+FALSE,927,Ghost Leonardo da Vinci,ゴースト・レオナルド・ダ・ビンチ,Ghost Leonardo da Vinci,981,196,403,205,35,21,43,21,2015/2015/3122,1005,464.png
+FALSE,928,Ghost Grigori Rasputin,ゴースト・ラスプーチン,Ghost Grigori Rasputin,915,177,309,209,37,21,37,25,2015/2078/3122,1156,475.png
+FALSE,929,Ghost Albert Einstein,ゴースト・アインシュタイン,Ghost Albert Einstein,867,117,327,245,36,14,40,30,2090/2027/3008,1030,427.png
+FALSE,930,Ghost Nobunaga Oda,ゴースト・織田信長,Ghost Nobunaga Oda,873,399,96,218,35,48,11,26,2518/2003/3002,1001,450.png
+FALSE,931,Ghost Minamoto no Yoshitsune,ゴースト・源義経,Ghost Minamoto no Yoshitsune,957,380,62,219,40,47,7,26,2063/2373/3114,1113,459.png
+FALSE,932,Ghost Hokusai,ゴースト・葛飾北斎,Ghost Hokusai,1158,52,294,248,48,7,35,30,2655/2381/3008,1167,895.png
+FALSE,933,Ghost Richard I,ゴースト・リチャード1世,Ghost Richard I,942,382,115,169,39,47,14,20,3129/2003/2719,1151,426.png
+FALSE,934,Ghost Albert Einstein,ゴースト・アインシュタイン,Ghost Albert Einstein,870,93,288,207,40,13,39,28,2631/3008/2577,1030,427.png
+FALSE,935,Ghost Consort Yu,ゴースト・虞美人,Ghost Consort Yu,912,381,114,181,38,47,13,22,2469/3129/2687,1150,466.png
+FALSE,936,Ghost Vincent van Gogh,ゴースト・ゴッホ,Ghost Vincent van Gogh,846,117,301,250,36,15,38,31,2671/3004/2639,1065,424.png
+FALSE,937,Ghost Hokusai,ゴースト・葛飾北斎,Ghost Hokusai,1245,52,319,194,51,7,39,23,2631/3008/2526,1167,895.png
+FALSE,938,Ghost Genghis Khan,ゴースト・チンギス・ハン,Ghost Genghis Khan,816,420,71,267,32,49,8,31,2469/2413/3123,1058,451.png
+FALSE,939,Ghost Richard I,ゴースト・リチャード1世,Ghost Richard I,789,377,89,251,33,47,10,30,2695/2413/3123,1151,426.png
+FALSE,940,Ghost Minamoto no Yoshitsune,ゴースト・源義経,Ghost Minamoto no Yoshitsune,900,363,62,255,37,45,7,31,2469/2413/3123,1113,459.png
+FALSE,941,Ghost George Washington,ゴースト・ジョージ・ワシントン,Ghost George Washington,891,120,304,260,37,15,37,31,3125/2671/2027,1004,452.png
+FALSE,942,Ghost Charles the Great,ゴースト・カール大帝,Ghost Charles the Great,906,158,362,158,37,20,44,19,2577/3004/2526,1084,443.png
+FALSE,943,Ghost Abe no Seimei,ゴースト・安倍晴明,Ghost Abe no Seimei,1182,120,280,186,49,15,34,22,2655/3125/2577,1136,428.png
+FALSE,944,Ghost Cao Cao,ゴースト・曹操,Ghost Cao Cao,1014,334,129,180,42,41,15,22,2687/2003/3002,1003,467.png
+FALSE,945,Ghost Albert Einstein,ゴースト・アインシュタイン,Ghost Albert Einstein,981,67,327,257,41,8,40,31,2335/2027/3004,1030,427.png
+FALSE,946,Ghost Alexander the Great,ゴースト・アレキサンダー,Ghost Alexander the Great,783,337,123,259,32,42,15,31,2518/2063/3002,1111,463.png
+FALSE,947,Ghost Minamoto no Yoshitsune,ゴースト・源義経,Ghost Minamoto no Yoshitsune,714,255,125,262,33,35,17,35,2623/2453/3129,1113,459.png
+FALSE,948,Ghost Richard I,ゴースト・リチャード1世,Ghost Richard I,885,378,89,218,37,47,10,26,3129/2687/2469,1151,426.png
+FALSE,949,Ghost Albert Einstein,ゴースト・アインシュタイン,Ghost Albert Einstein,756,93,364,219,33,12,47,28,3004/2027/2577,1030,427.png
+FALSE,950,Ghost Kondo Isami,ゴースト・近藤勇,Ghost Kondo Isami,861,374,151,188,35,45,18,22,2003/2063/3002,1126,436.png
+FALSE,951,Ghost Albert Einstein,ゴースト・アインシュタイン,Ghost Albert Einstein,1134,93,313,194,47,12,38,23,2335/2577/3008,1030,427.png
+FALSE,952,Ghost King Arthur,ゴースト・アーサー王,Ghost King Arthur,915,439,163,223,33,47,17,23,3126/2003/2695,1026,461.png
+FALSE,953,Ghost Himiko,ゴースト・卑弥呼,Ghost Himiko,888,119,377,188,37,14,46,23,2569/2569/3125,1055,448.png
+FALSE,954,Ghost Consort Yu,ゴースト・虞美人,Ghost Consort Yu,852,363,114,218,35,45,14,26,2663/2663/3126,1150,466.png
+FALSE,955,Ghost Consort Yu,ゴースト・虞美人,Ghost Consort Yu,852,364,113,219,35,45,14,26,2663/2663/3127,1150,466.png
+FALSE,956,Ghost George Washington,ゴースト・ジョージ・ワシントン,Ghost George Washington,1137,146,202,254,47,18,24,31,3125/2631/2577,1004,452.png
+FALSE,957,Ghost Kaishu Katsu,ゴースト・勝海舟,Ghost Kaishu Katsu,897,112,289,250,38,15,36,31,3003/2671/2639,1010,489.png
+FALSE,958,Ghost George Washington,ゴースト・ジョージ・ワシントン,Ghost George Washington,987,182,241,229,41,22,29,28,2090/2719/3008,1004,452.png
+FALSE,959,Ghost Kondo Isami,ゴースト・近藤勇,Ghost Kondo Isami,804,343,151,238,33,41,18,28,2518/2695/3002,1126,436.png
+FALSE,960,Ghost Brunhild,ゴースト・ブリュンヒルド,Ghost Brunhild,750,319,171,260,30,39,20,31,2593/2413/3002,1134,473.png
+FALSE,961,Ghost Tutankhamun,ゴースト・ツタンカーメン,Ghost Tutankhamun,894,343,191,248,34,38,21,27,2695/2561/3002,1135,500.png
+FALSE,962,Ghost Richard I,ゴースト・リチャード1世,Ghost Richard I,924,345,115,212,38,43,14,25,3129/2687/2719,1151,426.png
+FALSE,963,Ghost Nobunaga Oda,ゴースト・織田信長,Ghost Nobunaga Oda,1098,399,96,243,40,44,10,26,3129/2039/2601,1001,450.png
+FALSE,964,Ghost Albert Einstein,ゴースト・アインシュタイン,Ghost Albert Einstein,981,67,351,234,41,8,43,28,3125/2335/2534,1030,427.png
+FALSE,965,Ghost Cao Cao,ゴースト・曹操,Ghost Cao Cao,1146,333,129,187,45,39,15,21,2155/2373/3002,1003,467.png
+FALSE,966,Ghost Albert Einstein,ゴースト・アインシュタイン,Ghost Albert Einstein,867,130,277,234,38,17,35,30,2623/2179/3001,1030,427.png
+FALSE,967,Ghost Xiang Yu,ゴースト・項羽,Ghost Xiang Yu,915,314,71,240,40,41,9,30,2143/2601/3002,1168,893.png
+FALSE,968,Ghost Xiang Yu,ゴースト・項羽,Ghost Xiang Yu,915,315,71,289,38,39,8,35,2413/2413/3123,1168,893.png
+FALSE,969,Ghost Minamoto no Yoshitsune,ゴースト・源義経,Ghost Minamoto no Yoshitsune,957,332,62,267,40,41,7,32,2469/2469/3123,1113,459.png
+FALSE,970,Ghost Xiang Yu,ゴースト・項羽,Ghost Xiang Yu,915,333,71,271,38,41,8,33,2695/2413/3123,1168,893.png
+FALSE,971,Ghost Joan of Arc,ゴースト・ジャンヌ・ダルク,Ghost Joan of Arc,1140,108,297,245,45,13,34,28,2167/2421/3008,1027,429.png
+FALSE,972,Ghost Cao Cao,ゴースト・曹操,Ghost Cao Cao,975,352,129,175,40,44,15,21,2003/2695/3004,1003,467.png
+FALSE,973,Ghost Joan of Arc,ゴースト・ジャンヌ・ダルク,Ghost Joan of Arc,1200,108,384,138,47,13,44,16,2078/2078/3003,1027,429.png
+FALSE,974,Ghost Minamoto no Yoshitsune,ゴースト・源義経,Ghost Minamoto no Yoshitsune,1068,306,62,256,44,38,7,31,2601/2039/3002,1113,459.png
+FALSE,975,Ghost Albert Einstein,ゴースト・アインシュタイン,Ghost Albert Einstein,981,67,339,245,41,8,41,30,2090/2389/3127,1030,427.png
+FALSE,976,Ghost George Washington,ゴースト・ジョージ・ワシントン,Ghost George Washington,1176,120,265,204,48,15,33,24,2287/2335/3008,1004,452.png
+FALSE,977,Ghost Richard I,ゴースト・リチャード1世,Ghost Richard I,903,383,89,207,37,47,11,25,2003/2003/3129,1151,426.png
+FALSE,978,Ghost Tutankhamun,ゴースト・ツタンカーメン,Ghost Tutankhamun,834,418,91,193,35,51,11,23,2063/2695/3002,1135,500.png
+FALSE,979,Ghost Ono no Komachi,ゴースト・小野小町,Ghost Ono no Komachi,924,64,319,245,40,9,40,31,3001/2534/2359,1125,434.png
+FALSE,980,Ghost Alexander the Great,ゴースト・アレキサンダー,Ghost Alexander the Great,783,375,223,271,28,40,24,28,2131/2131/3002,1111,463.png
+FALSE,981,Ghost Minamoto no Yoshitsune,ゴースト・源義経,Ghost Minamoto no Yoshitsune,1182,293,62,234,49,36,7,28,2003/2039/3002,1113,459.png
+FALSE,982,Ghost Albert Einstein,ゴースト・アインシュタイン,Ghost Albert Einstein,795,167,364,182,33,21,44,22,2335/2078/3008,1030,427.png
+FALSE,983,Ghost Alexander the Great,ゴースト・アレキサンダー,Ghost Alexander the Great,783,123,449,247,29,14,50,27,2015/2167/3122,1111,463.png
+FALSE,984,Ghost Leonardo da Vinci,ゴースト・レオナルド・ダ・ビンチ,Ghost Leonardo da Vinci,945,96,403,167,39,12,49,20,2015/2078/3122,1005,464.png
+FALSE,985,Ghost Leonardo da Vinci,ゴースト・レオナルド・ダ・ビンチ,Ghost Leonardo da Vinci,831,96,403,205,34,12,49,25,2015/2015/3122,1005,464.png
+FALSE,986,Ghost Minamoto no Yoshitsune,ゴースト・源義経,Ghost Minamoto no Yoshitsune,978,330,88,236,40,41,11,28,3114/2687/2719,1113,459.png
+FALSE,987,Ghost Nobunaga Oda,ゴースト・織田信長,Ghost Nobunaga Oda,984,399,134,193,38,46,15,21,3129/2203/2601,1001,450.png
+FALSE,988,Ghost Albert Einstein,ゴースト・アインシュタイン,Ghost Albert Einstein,1038,67,289,276,43,9,35,33,3125/2090/2671,1030,427.png
+FALSE,989,Ghost Xiang Yu,ゴースト・項羽,Ghost Xiang Yu,1020,336,71,234,42,42,8,28,4085/2687/3120,1168,893.png
+FALSE,990,Ghost Hokusai,ゴースト・葛飾北斎,Ghost Hokusai,1206,52,332,194,50,7,40,23,2631/2078/3008,1167,895.png
+FALSE,991,Ghost Albert Einstein,ゴースト・アインシュタイン,Ghost Albert Einstein,831,137,295,269,34,17,36,33,4092/4093/3008,1030,427.png
+FALSE,992,Ghost Cleopatra,ゴースト・クレオパトラ,Ghost Cleopatra,1392,120,192,264,54,14,22,30,4083/4083/3114,1086,433.png
+FALSE,993,Ghost Cleopatra,ゴースト・クレオパトラ,Ghost Cleopatra,1527,84,167,270,60,10,19,31,4083/3114/2631,1086,433.png
+FALSE,994,Ghost Cleopatra,ゴースト・クレオパトラ,Ghost Cleopatra,1392,110,202,266,54,13,23,30,4083/4083/3114,1086,433.png
+FALSE,995,Ghost Tutankhamun,ゴースト・ツタンカーメン,Ghost Tutankhamun,891,387,141,155,37,48,17,18,2003/2063/3002,1135,500.png
+FALSE,996,Ghost Nobunaga Oda,ゴースト・織田信長,Ghost Nobunaga Oda,1116,380,146,256,39,40,15,26,2695/2518/3002,1001,450.png
+FALSE,997,Ghost Albert Einstein,ゴースト・アインシュタイン,Ghost Albert Einstein,906,143,314,269,36,17,36,31,3004/2577/2027,1030,427.png
+FALSE,998,Ghost Leonardo da Vinci,ゴースト・レオナルド・ダ・ビンチ,Ghost Leonardo da Vinci,795,196,403,217,30,22,44,24,2015/2078/3001,1005,464.png
+FALSE,999,Ghost Brunhild,ゴースト・ブリュンヒルド,Ghost Brunhild,750,369,171,260,29,43,19,29,2593/2413/3002,1134,473.png
+FALSE,1000,Ghost Alexander the Great,ゴースト・アレキサンダー,Ghost Alexander the Great,783,323,399,247,26,32,38,24,2015/2015/3001,1111,463.png
+FALSE,1001,Ghost Hokusai,ゴースト・葛飾北斎,Ghost Hokusai,1128,252,395,257,36,23,37,24,2015/2015/3129,1167,895.png
+FALSE,1002,Ghost Napoleon Bonaparte,ゴースト・ナポレオン・ボナパルト,Ghost Napoleon Bonaparte,939,305,354,282,30,30,34,26,4084/4080/3122,1002,445.png
+FALSE,1003,Ghost Napoleon Bonaparte,ゴースト・ナポレオン・ボナパルト,Ghost Napoleon Bonaparte,939,305,354,282,30,30,34,26,4080/4084/3125,1002,445.png
+FALSE,1004,Ghost Liu Bang,ゴースト・劉邦,Ghost Liu Bang,1329,206,173,284,49,23,18,30,2051/2631/3114,1169,1004.png
+FALSE,1005,Ghost Consort Yu,ゴースト・虞美人,Ghost Consort Yu,852,414,214,238,30,44,22,24,2663/2663/3008,1150,466.png
+FALSE,1006,Ghost Xiang Yu,ゴースト・項羽,Ghost Xiang Yu,1053,309,190,250,39,34,20,27,2593/4081/3123,1168,893.png
+FALSE,1007,Shin Deep-Yoshka,真・ディープ・ヨシュカ,Shin Deep-Yoshka,99999999,500,999,120,30,30,30,30,4073/4074/4075,4076,171.png
+FALSE,1011,Byte Bandit-short,バイトバンディット ショート,Byte Bandit-short,11,6,2,5,26,43,14,36,4018/4001/4001,0,161.png
+FALSE,1012,Byte Bandit-tall,バイトバンディット トール,Byte Bandit-tall,15,7,3,5,30,42,18,30,4018/4001/4001,0,162.png
+FALSE,1013,Byte Bandit-grande,バイトバンディット グランデ,Byte Bandit-grande,9,7,3,7,18,42,18,42,4018/4001/4018,0,163.png
+FALSE,1014,Byte Bandit-venti,バイトバンディット ヴェンティ,Byte Bandit-venti,16,10,3,7,25,47,14,33,4018/3123/4005,4020,164.png
+FALSE,1015,Byte Bandit-macchiato,バイトバンディット マキアート,Byte Bandit-macchiato,15,7,3,5,30,42,18,30,4019/4001/4001,0,165.png
+FALSE,1016,Byte Bandit-frappuccino,バイトバンディット フラペチーノ,Byte Bandit-frappuccino,19,19,5,13,18,53,14,36,4019/4001/3123,0,166.png
+FALSE,1017,Byte Bandit-tall doppio,バイトバンディット トール ドッピオ,Byte Bandit-tall doppio,15,7,3,5,30,42,18,30,4019/3123/3123,4061,167.png
+FALSE,1018,Byte Bandit-grande doppio,バイトバンディット グランデ ドッピオ,Byte Bandit-grande doppio,9,7,3,7,18,42,18,42,4018/3123/4018,4063,168.png
+FALSE,1019,Byte Bandit-venti doppio,バイトバンディット ヴェンティ ドッピオ,Byte Bandit-venti doppio,16,10,3,5,27,51,15,26,4018/3123/4005,4064,169.png
+FALSE,1020,Byte Bandit-frappuccino doppio,バイトバンディット フラペチーノ ドッピオ,Byte Bandit-frappuccino doppio,19,19,5,13,18,53,14,36,4019/3123/3123,4064,170.png
+FALSE,1021,Bagle-short,ベーグル ショート,Bagle-short,18,3,5,3,42,21,36,21,4002/4002/4002,0,181.png
+FALSE,1022,Bagle-tall,ベーグル トール,Bagle-tall,21,4,6,3,42,24,36,18,4004/4004/4004,4024,182.png
+FALSE,1023,Bagle-grande,ベーグル グランデ,Bagle-grande,15,4,6,5,30,24,36,30,4013/4004/4013,4024,183.png
+FALSE,1024,Bagle-venti,ベーグル ヴェンティ,Bagle-venti,21,4,9,5,34,19,43,24,3122/4004/3122,4025,184.png
+FALSE,1025,Bagle-macchiato,ベーグル マキアート,Bagle-macchiato,21,4,6,3,42,24,36,18,4004/4004/4004,4025,185.png
+FALSE,1026,Bagle-frappuccino,ベーグル フラペチーノ,Bagle-frappuccino,24,6,18,11,22,17,50,31,4004/4004/3122,4026,186.png
+FALSE,1027,Bagle-tall doppio,ベーグル トール ドッピオ,Bagle-tall doppio,21,4,6,3,42,24,36,18,4004/4004/4004,4024,366.png
+FALSE,1028,Bagle-grande doppio,ベーグル グランデ ドッピオ,Bagle-grande doppio,15,4,6,5,30,24,36,30,4013/4004/4013,4063,367.png
+FALSE,1029,Bagle-venti doppio,ベーグル ヴェンティ ドッピオ,Bagle-venti doppio,21,4,9,5,34,19,43,24,3122/4004/3122,4064,368.png
+FALSE,1030,Bagle-frappuccino doppio,ベーグル フラペチーノ ドッピオ,Bagle-frappuccino doppio,24,6,18,11,22,17,50,31,4004/4004/3122,4026,369.png
+FALSE,1031,Heartbleed-short,ハートブリード ショート,Heartbleed-short,5,7,4,4,30,42,24,24,4095/4001/4001,0,121.png
+FALSE,1032,Heartbleed-tall,ハートブリード トール,Heartbleed-tall,6,8,5,5,30,40,25,25,4095/4003/4003,0,122.png
+FALSE,1033,Heartbleed-grande,ハートブリード グランデ,Heartbleed-grande,6,8,5,5,30,40,25,25,4095/4005/4095,0,123.png
+FALSE,1034,Heartbleed-venti,ハートブリード ヴェンティ,Heartbleed-venti,7,9,6,6,32,38,25,25,4095/4005/4005,4016,124.png
+FALSE,1035,Heartbleed-macchiato,ハートブリード マキアート,Heartbleed-macchiato,6,8,5,5,30,40,25,25,4095/4003/4003,0,125.png
+FALSE,1036,Heartbleed-frappuccino,ハートブリード フラペチーノ,Heartbleed-frappuccino,13,15,12,12,32,34,27,27,4097/4097/4003,0,126.png
+FALSE,1037,Heartbleed-tall doppio,ハートブリード トール ドッピオ,Heartbleed-tall doppio,6,8,5,5,30,40,25,25,4096/4003/4003,4061,153.png
+FALSE,1038,Heartbleed-grande doppio,ハートブリード グランデ ドッピオ,Heartbleed-grande doppio,6,8,5,5,30,40,25,25,4097/4005/4095,4063,154.png
+FALSE,1039,Heartbleed-venti doppio,ハートブリード ヴェンティ ドッピオ,Heartbleed-venti doppio,7,9,6,6,32,38,25,25,4096/4005/4005,4064,155.png
+FALSE,1040,Heartbleed-frappuccino doppio,ハートブリード フラペチーノ ドッピオ,Heartbleed-frappuccino doppio,13,15,12,12,32,34,27,27,4097/4097/4095,4064,156.png
+FALSE,1041,Ghost Lü Bu,ゴースト・呂布,Ghost Lü Bu,1034,300,34,200,45,38,11,26,2052/3114/2155,1047,481.png
+FALSE,1042,Ghost Napoleon Bonaparte,ゴースト・ナポレオン・ボナパルト,Ghost Napoleon Bonaparte,900,43,210,220,19,13,56,32,2015/2015/3122,1002,445.png
+FALSE,1043,Ghost Alexander the Great,ゴースト・アレキサンダー,Ghost Alexander the Great,450,220,124,245,36,26,17,41,2051/3114/2311,1111,463.png
+FALSE,1044,Slime,スライム希少種,Slime,11,4,6,5,20,37,33,30,4098/4098/4098,4099,1044.png
+FALSE,1045,Slime,スライム,Slime,8,3,5,3,32,35,32,21,4098/4098/4098,0,1045.png
+FALSE,1046,Slime,スライム,Slime,10,4,6,3,32,40,30,18,4098/4098/4098,4099,1045.png
+FALSE,1047,Ghost Brothers Grimm,ゴースト・グリム兄弟,Ghost Brothers Grimm,594,35,282,85,40,7,57,16,2080/2080/3001,1042,421.png
+FALSE,1048,Ghost Brothers Grimm,ゴースト・グリム兄弟,Ghost Brothers Grimm,648,35,264,85,44,7,53,16,2528/2528/3001,1042,421.png
+FALSE,1049,Ghost Brothers Grimm,ゴースト・グリム兄弟,Ghost Brothers Grimm,594,35,282,85,40,7,57,16,2080/2080/3001,1042,421.png
+FALSE,1050,Ghost Sun Ce,ゴースト・孫策,Ghost Sun Ce,540,256,31,104,38,54,7,21,2795/2698/3002,1157,548.png
+FALSE,1051,Ghost Sun Ce,ゴースト・孫策,Ghost Sun Ce,483,275,32,103,34,58,7,21,2795/2698/3002,1157,548.png
+FALSE,1052,Ghost Sun Ce,ゴースト・孫策,Ghost Sun Ce,507,257,25,120,36,54,5,25,2795/3128/2314,1157,548.png
+FALSE,1053,Ghost Goethe,ゴースト・ゲーテ,Ghost Goethe,903,57,89,122,64,13,18,25,2456/2456/3008,1141,743.png
+FALSE,1054,Ghost Benjamin Franklin,ゴースト・ベンジャミン・フランクリン,Ghost Benjamin Franklin,444,206,111,104,32,44,23,21,2698/2698/3002,1178,1054.png
+FALSE,1055,Ghost Sun Ce,ゴースト・孫策,Ghost Sun Ce,573,226,28,126,41,48,5,26,2698/2254/3002,1157,548.png
+FALSE,1056,Ghost Erwin Schrödinger,ゴースト・シュレディンガー,Ghost Erwin Schrödinger,585,17,228,134,41,4,47,28,2835/2835/3001,1053,714.png
+FALSE,1057,Ghost Izumo no Okuni,ゴースト・出雲阿国,Ghost Izumo no Okuni,606,162,94,116,43,34,19,24,2899/2314/3002,1137,696.png
+FALSE,1058,Ghost Sun Ce,ゴースト・孫策,Ghost Sun Ce,480,258,31,125,34,54,6,26,2006/2314/3103,1157,548.png
+FALSE,1059,Ghost Brothers Grimm,ゴースト・グリム兄弟,Ghost Brothers Grimm,711,33,207,100,50,7,43,20,2242/2242/3003,1042,421.png
+FALSE,1060,Ghost Brothers Grimm,ゴースト・グリム兄弟,Ghost Brothers Grimm,741,31,199,100,52,7,41,20,2242/2242/3003,1042,421.png
+FALSE,1061,Ghost Brothers Grimm,ゴースト・グリム兄弟,Ghost Brothers Grimm,762,31,192,100,53,7,40,20,2242/2242/3003,1042,421.png
+FALSE,1062,Ghost Kintaro,ゴースト・金太郎,Ghost Kintaro,555,209,18,162,39,44,4,33,3129/2891/2891,1100,718.png
+FALSE,1063,Ghost Hua Mulan,ゴースト・花木蘭,Ghost Hua Mulan,639,239,39,87,45,49,8,18,3129/2795/2795,1173,1063.png
+FALSE,1064,Ghost Izumo no Okuni,ゴースト・出雲阿国,Ghost Izumo no Okuni,750,211,45,72,52,44,10,14,2795/2795/3128,1137,696.png
+FALSE,1065,Ghost Brothers Grimm,ゴースト・グリム兄弟,Ghost Brothers Grimm,546,79,183,137,38,17,37,28,3004/2674/2899,1042,421.png
+FALSE,1066,Ghost Spartacus,ゴースト・スパルタクス,Ghost Spartacus,1047,66,33,127,73,14,7,26,3124/2634/2634,1020,1066.png
+FALSE,1067,Ghost Benjamin Franklin,ゴースト・ベンジャミン・フランクリン,Ghost Benjamin Franklin,378,203,180,64,27,43,37,13,3004/2899/2899,1178,1054.png
+FALSE,1068,Ghost Wright Brothers,ゴースト・ライト兄弟,Ghost Wright Brothers,561,55,200,141,39,11,41,29,2835/2835/3122,1016,725.png
+FALSE,1069,Ghost Izumo no Okuni,ゴースト・出雲阿国,Ghost Izumo no Okuni,684,165,55,135,47,34,12,27,2416/2416/3123,1137,696.png
+FALSE,1070,Ghost Erwin Schrödinger,ゴースト・シュレディンガー,Ghost Erwin Schrödinger,594,37,217,131,41,8,45,26,2835/2642/3122,1053,714.png
+FALSE,1071,Ghost Kintaro,ゴースト・金太郎,Ghost Kintaro,618,231,32,115,43,48,6,23,3129/2795/2722,1100,718.png
+FALSE,1072,Ghost Goethe,ゴースト・ゲーテ,Ghost Goethe,897,50,96,139,62,11,19,28,3004/2634/2634,1141,743.png
+FALSE,1073,Ghost Higuchi Ichiyō,ゴースト・樋口一葉,Ghost Higuchi Ichiyō,543,57,178,166,38,12,36,34,3004/2456/2580,1152,741.png
+FALSE,1074,Ghost Erwin Schrödinger,ゴースト・シュレディンガー,Ghost Erwin Schrödinger,846,43,106,149,59,9,22,30,2943/2943/3122,1053,714.png
+FALSE,1075,Ghost Erwin Schrödinger,ゴースト・シュレディンガー,Ghost Erwin Schrödinger,810,33,117,161,56,7,24,33,2943/2943/3122,1053,714.png
+FALSE,1076,Ghost Erwin Schrödinger,ゴースト・シュレディンガー,Ghost Erwin Schrödinger,786,59,118,139,55,13,24,28,2943/2943/3122,1053,714.png
+FALSE,1077,Ghost Wright Brothers,ゴースト・ライト兄弟,Ghost Wright Brothers,591,43,189,152,41,9,39,31,2835/2835/3001,1016,725.png
+FALSE,1078,Ghost Plato,ゴースト・プラトン,Ghost Plato,579,203,76,110,40,42,16,22,2596/2650/3123,1144,704.png
+FALSE,1079,Ghost Brothers Grimm,ゴースト・グリム兄弟,Ghost Brothers Grimm,519,50,222,134,36,11,46,27,2642/3122/2919,1042,421.png
+FALSE,1080,Ghost Montesquieu,ゴースト・モンテスキュー,Ghost Montesquieu,546,42,223,140,38,9,45,28,2835/2835/3122,1089,729.png
+FALSE,1081,Ghost Benjamin Franklin,ゴースト・ベンジャミン・フランクリン,Ghost Benjamin Franklin,636,87,215,73,44,18,44,14,2835/2835/3122,1178,1054.png
+FALSE,1082,Ghost Izumo no Okuni,ゴースト・出雲阿国,Ghost Izumo no Okuni,729,181,58,105,50,38,11,21,2596/2416/3128,1137,696.png
+FALSE,1083,Ghost Brothers Grimm,ゴースト・グリム兄弟,Ghost Brothers Grimm,642,34,186,154,44,7,38,31,3003/2392/2384,1042,421.png
+FALSE,1084,Ghost Benjamin Franklin,ゴースト・ベンジャミン・フランクリン,Ghost Benjamin Franklin,384,169,226,49,27,36,47,10,3004/2278/2400,1178,1054.png
+FALSE,1085,Ghost Spartacus,ゴースト・スパルタクス,Ghost Spartacus,1113,57,35,119,77,12,7,24,2634/2634/3114,1020,1066.png
+FALSE,1086,Ghost Diao Chan,ゴースト・貂蝉,Ghost Diao Chan,504,64,275,164,31,11,49,29,2834/2834/3122,1070,432.png
+FALSE,1087,Ghost Hanzo Hattori,ゴースト・服部半蔵,Ghost Hanzo Hattori,687,77,221,144,41,14,40,25,2834/2834/3122,1041,789.png
+FALSE,1088,Ghost Diao Chan,ゴースト・貂蝉,Ghost Diao Chan,522,61,275,159,32,11,49,28,2834/2834/3122,1070,432.png
+FALSE,1089,Ghost Lakshmi Bai,ゴースト・ラクシュミー・バーイ,Ghost Lakshmi Bai,675,289,42,119,40,52,7,21,2794/2794/3002,1145,431.png
+FALSE,1090,Ghost Ono no Komachi,ゴースト・小野小町,Ghost Ono no Komachi,942,21,131,209,56,4,23,37,3004/2633/2633,1125,434.png
+FALSE,1091,Ghost Lakshmi Bai,ゴースト・ラクシュミー・バーイ,Ghost Lakshmi Bai,714,284,42,111,43,51,7,19,2794/2794/3002,1145,431.png
+FALSE,1092,Ghost Lakshmi Bai,ゴースト・ラクシュミー・バーイ,Ghost Lakshmi Bai,648,232,111,116,39,42,19,20,3129/2625/2721,1145,431.png
+FALSE,1093,Ghost Ono no Komachi,ゴースト・小野小町,Ghost Ono no Komachi,597,100,257,119,36,18,45,21,3004/2579/2898,1125,434.png
+FALSE,1094,Ghost Pocahontas,ゴースト・ポカホンタス,Ghost Pocahontas,576,115,224,146,35,21,39,25,2337/3004/2898,1079,780.png
+FALSE,1095,Ghost Lakshmi Bai,ゴースト・ラクシュミー・バーイ,Ghost Lakshmi Bai,705,292,49,106,42,52,8,18,3129/2794/2794,1145,431.png
+FALSE,1096,Ghost Lakshmi Bai,ゴースト・ラクシュミー・バーイ,Ghost Lakshmi Bai,663,297,52,112,39,53,9,19,3121/2794/2794,1145,431.png
+FALSE,1097,Ghost Sarutobi Sasuke,ゴースト・猿飛佐助,Ghost Sarutobi Sasuke,819,88,82,239,49,15,14,42,3114/2633/2673,1143,804.png
+FALSE,1098,Ghost Lakshmi Bai,ゴースト・ラクシュミー・バーイ,Ghost Lakshmi Bai,732,269,44,124,43,48,8,21,2794/2794/3130,1145,431.png
+FALSE,1099,Ghost Sarutobi Sasuke,ゴースト・猿飛佐助,Ghost Sarutobi Sasuke,819,85,61,260,49,16,10,45,3114/2633/2633,1143,804.png
+FALSE,1100,Ghost Lakshmi Bai,ゴースト・ラクシュミー・バーイ,Ghost Lakshmi Bai,738,279,57,97,44,49,10,17,2794/2794/3008,1145,431.png
+FALSE,1101,Ghost Lakshmi Bai,ゴースト・ラクシュミー・バーイ,Ghost Lakshmi Bai,663,263,44,156,39,47,7,27,2649/2415/3123,1145,431.png
+FALSE,1102,Ghost Ivan the Terrible,ゴースト・イワン雷帝,Ghost Ivan the Terrible,1113,47,79,185,66,9,13,32,3114/2633/2633,1054,776.png
+FALSE,1103,Ghost Ono no Komachi,ゴースト・小野小町,Ghost Ono no Komachi,702,10,300,138,42,2,52,24,2641/2834/3122,1125,434.png
+FALSE,1104,Ghost Lakshmi Bai,ゴースト・ラクシュミー・バーイ,Ghost Lakshmi Bai,561,268,68,162,33,47,12,28,2697/2697/3123,1145,431.png
+FALSE,1105,Ghost Ono no Komachi,ゴースト・小野小町,Ghost Ono no Komachi,708,18,296,135,42,4,51,23,2834/2834/3122,1125,434.png
+FALSE,1106,Ghost Hanzo Hattori,ゴースト・服部半蔵,Ghost Hanzo Hattori,735,66,219,155,43,12,38,27,2834/2834/3122,1041,789.png
+FALSE,1107,Ghost Hanzo Hattori,ゴースト・服部半蔵,Ghost Hanzo Hattori,558,176,163,162,33,31,28,28,2898/2898/3008,1041,789.png
+FALSE,1108,Ghost Lakshmi Bai,ゴースト・ラクシュミー・バーイ,Ghost Lakshmi Bai,654,262,42,165,39,46,7,28,2697/2697/3002,1145,431.png
+FALSE,1109,Ghost Lakshmi Bai,ゴースト・ラクシュミー・バーイ,Ghost Lakshmi Bai,645,274,42,156,38,48,7,27,2697/2697/3002,1145,431.png
+FALSE,1110,Ghost Sarutobi Sasuke,ゴースト・猿飛佐助,Ghost Sarutobi Sasuke,594,182,123,163,36,33,22,29,3129/2899/2721,1143,804.png
+FALSE,1111,Ghost Matsuo Bashō,ゴースト・松尾芭蕉,Ghost Matsuo Bashō,786,86,102,234,46,16,17,41,2657/3004/2633,1059,1111.png
+FALSE,1112,Ghost Pocahontas,ゴースト・ポカホンタス,Ghost Pocahontas,684,93,208,155,40,17,36,27,3004/2579/2579,1079,780.png
+FALSE,1113,Ghost Abraham Lincoln,ゴースト・エイブラハム・リンカーン,Ghost Abraham Lincoln,642,88,315,149,34,14,49,23,2834/2016/3122,1118,505.png
+FALSE,1114,Ghost Ludwig van Beethoven,ゴースト・ベートーヴェン,Ghost Ludwig van Beethoven,801,83,299,119,42,13,47,18,2833/2834/3104,1008,423.png
+FALSE,1115,Ghost Uesugi Kenshin,ゴースト・上杉謙信,Ghost Uesugi Kenshin,774,83,256,175,41,13,39,27,2834/2422/3001,1114,425.png
+FALSE,1116,Ghost Kondo Isami,ゴースト・近藤勇,Ghost Kondo Isami,822,312,34,175,42,47,5,26,2470/2414/3123,1126,436.png
+FALSE,1117,Ghost Takeda Shingen,ゴースト・武田信玄,Ghost Takeda Shingen,978,194,97,179,50,30,14,26,2470/2632/3123,1078,519.png
+FALSE,1118,Ghost Soji Okita,ゴースト・沖田総司,Ghost Soji Okita,726,269,71,212,37,41,10,32,2470/2414/3123,1033,437.png
+FALSE,1119,Ghost Kondo Isami,ゴースト・近藤勇,Ghost Kondo Isami,771,262,112,150,40,40,17,23,2624/2794/3002,1126,436.png
+FALSE,1120,Ghost Nikola Tesla,ゴースト・ニコラ・テスラ,Ghost Nikola Tesla,783,297,65,172,40,45,10,25,2793/2793/3002,1146,560.png
+FALSE,1121,Ghost Soji Okita,ゴースト・沖田総司,Ghost Soji Okita,768,289,70,184,39,44,10,27,2793/2793/3002,1033,437.png
+FALSE,1122,Ghost Blackbeard,ゴースト・黒髭,Ghost Blackbeard,918,153,52,272,47,24,8,41,3114/2455/2519,1127,506.png
+FALSE,1123,Ghost Ludwig van Beethoven,ゴースト・ベートーヴェン,Ghost Ludwig van Beethoven,744,80,229,228,38,13,35,34,3004/2028/2673,1008,423.png
+FALSE,1124,Ghost Vincent van Gogh,ゴースト・ゴッホ,Ghost Vincent van Gogh,918,70,193,214,47,11,30,32,3004/2657/2672,1065,424.png
+FALSE,1125,Ghost Kondo Isami,ゴースト・近藤勇,Ghost Kondo Isami,714,267,58,242,36,40,8,36,2696/2519/3123,1126,436.png
+FALSE,1126,Ghost Nikola Tesla,ゴースト・ニコラ・テスラ,Ghost Nikola Tesla,675,260,108,212,34,39,16,31,2414/2897/3123,1146,560.png
+FALSE,1127,Ghost Takeda Shingen,ゴースト・武田信玄,Ghost Takeda Shingen,924,156,79,244,47,24,12,37,2520/2632/3008,1078,519.png
+FALSE,1128,Ghost Blackbeard,ゴースト・黒髭,Ghost Blackbeard,846,174,70,280,42,26,11,41,2519/2656/3129,1127,506.png
+FALSE,1129,Ghost Astro boy,ゴースト・鉄腕アトム,Ghost Astro boy,846,193,129,202,42,29,19,30,3129/2632/2624,1148,885.png
+FALSE,1130,Ghost Zhou Yu,ゴースト・周瑜,Ghost Zhou Yu,927,111,242,144,47,16,36,21,3004/2672/2578,1172,1130.png
+FALSE,1131,Ghost Abraham Lincoln,ゴースト・エイブラハム・リンカーン,Ghost Abraham Lincoln,666,102,326,153,34,16,48,22,2016/2079/3001,1118,505.png
+FALSE,1132,Ghost Ludwig van Beethoven,ゴースト・ベートーヴェン,Ghost Ludwig van Beethoven,603,77,342,179,31,12,51,26,2016/2016/3001,1008,423.png
+FALSE,1133,Ghost Abraham Lincoln,ゴースト・エイブラハム・リンカーン,Ghost Abraham Lincoln,714,91,312,158,36,14,47,23,2422/2016/3001,1118,505.png
+FALSE,1134,Ghost Kondo Isami,ゴースト・近藤勇,Ghost Kondo Isami,816,316,51,165,41,48,7,24,2470/2446/3123,1126,436.png
+FALSE,1135,Ghost Kondo Isami,ゴースト・近藤勇,Ghost Kondo Isami,867,299,51,165,44,45,7,24,2470/2414/3123,1126,436.png
+FALSE,1136,Ghost Blackbeard,ゴースト・黒髭,Ghost Blackbeard,1131,126,55,246,57,19,8,36,2632/2632/3114,1127,506.png
+FALSE,1137,Ghost Tutankhamun,ゴースト・ツタンカーメン,Ghost Tutankhamun,1089,326,72,164,48,42,9,21,2251/2003/3002,1135,500.png
+FALSE,1138,Ghost Alexander the Great,ゴースト・アレキサンダー,Ghost Alexander the Great,708,275,119,277,32,37,15,36,2518/2446/3002,1111,463.png
+FALSE,1139,Ghost Minamoto no Yoshitsune,ゴースト・源義経,Ghost Minamoto no Yoshitsune,789,339,52,233,36,46,7,31,2064/2562/3002,1113,459.png
+FALSE,1140,Ghost Genghis Khan,ゴースト・チンギス・ハン,Ghost Genghis Khan,906,312,60,249,40,41,7,32,2469/2647/3123,1058,451.png
+FALSE,1141,Ghost Genghis Khan,ゴースト・チンギス・ハン,Ghost Genghis Khan,900,316,54,257,39,41,7,33,2469/2647/3123,1058,451.png
+FALSE,1142,Ghost Joan of Arc,ゴースト・ジャンヌ・ダルク,Ghost Joan of Arc,1056,214,234,109,47,29,30,14,2897/2729/3122,1027,429.png
+FALSE,1143,Ghost Albert Einstein,ゴースト・アインシュタイン,Ghost Albert Einstein,1026,70,292,240,44,9,37,30,3125/2090/2824,1030,427.png
+FALSE,1144,Ghost King Arthur,ゴースト・アーサー王,Ghost King Arthur,903,357,50,240,39,45,6,30,2003/2063/3002,1026,461.png
+FALSE,1145,Ghost King Arthur,ゴースト・アーサー王,Ghost King Arthur,897,345,64,240,38,44,8,30,2003/2063/3002,1026,461.png
+FALSE,1146,Ghost Albert Einstein,ゴースト・アインシュタイン,Ghost Albert Einstein,1146,73,304,174,50,9,39,22,2335/2824/3003,1030,427.png
+FALSE,1147,Ghost Richard I,ゴースト・リチャード1世,Ghost Richard I,957,354,73,201,41,45,9,25,2469/2469/3123,1151,426.png
+FALSE,1148,Ghost Xiang Yu,ゴースト・項羽,Ghost Xiang Yu,1086,302,66,205,47,39,8,26,2647/2413/3130,1168,893.png
+FALSE,1149,Ghost Consort Yu,ゴースト・虞美人,Ghost Consort Yu,852,328,104,236,36,42,13,29,2413/2413/3123,1150,466.png
+FALSE,1150,Ghost Xiang Yu,ゴースト・項羽,Ghost Xiang Yu,951,330,61,244,40,42,8,30,2695/2413/3123,1168,893.png
+FALSE,1151,Ghost Brunhild,ゴースト・ブリュンヒルド,Ghost Brunhild,897,347,53,173,42,48,7,23,2593/2003/3123,1134,473.png
+FALSE,1152,Ghost Hokusai,ゴースト・葛飾北斎,Ghost Hokusai,1374,44,155,254,61,6,20,33,2632/2631/3004,1167,895.png
+FALSE,1153,Ghost Nasu no Yoichi,ゴースト・那須与一,Ghost Nasu no Yoichi,1014,326,71,166,46,43,9,22,2155/2848/3126,1175,1153.png
+FALSE,1154,Ghost George Washington,ゴースト・ジョージ・ワシントン,Ghost George Washington,1044,104,310,174,45,14,39,22,2527/2381/3001,1004,452.png
+FALSE,1155,Ghost Albert Einstein,ゴースト・アインシュタイン,Ghost Albert Einstein,984,81,270,271,42,10,34,34,2671/2027/3008,1030,427.png
+FALSE,1156,Ghost Minamoto no Yoshitsune,ゴースト・源義経,Ghost Minamoto no Yoshitsune,1005,302,42,249,44,39,5,32,2793/2687/3002,1113,459.png
+FALSE,1157,Ghost Richard I,ゴースト・リチャード1世,Ghost Richard I,1008,275,74,309,41,34,8,37,2783/2608/3002,1151,426.png
+FALSE,1158,Ghost Alexander the Great,ゴースト・アレキサンダー,Ghost Alexander the Great,753,92,371,207,33,12,49,26,2620/2015/3001,1111,463.png
+FALSE,1159,Ghost Leonardo da Vinci,ゴースト・レオナルド・ダ・ビンチ,Ghost Leonardo da Vinci,1110,93,338,155,47,12,42,19,2832/2421/3001,1005,464.png
+FALSE,1160,Ghost Brunhild,ゴースト・ブリュンヒルド,Ghost Brunhild,822,322,53,226,38,45,7,30,2593/2413/3002,1134,473.png
+FALSE,1161,Ghost Albert Einstein,ゴースト・アインシュタイン,Ghost Albert Einstein,1104,73,343,196,46,9,42,23,2782/3008/2577,1030,427.png
+FALSE,1162,Ghost Richard I,ゴースト・リチャード1世,Ghost Richard I,957,329,79,211,41,43,10,26,3126/2469/2470,1151,426.png
+FALSE,1163,Ghost Minamoto no Yoshitsune,ゴースト・源義経,Ghost Minamoto no Yoshitsune,1059,238,46,301,46,31,5,38,2696/2631/3129,1113,459.png
+FALSE,1164,Ghost Wu Zetian,ゴースト・武則天,Ghost Wu Zetian,1044,66,284,187,48,9,38,25,2833/2833/3003,1180,1164.png
+FALSE,1165,Ghost Vasco da Gama,ゴースト・ヴァスコ・ダ・ガマ,Ghost Vasco da Gama,1317,27,27,240,72,5,4,39,2656/2632/3125,1183,1165.png
+FALSE,1166,Ghost Wu Zetian,ゴースト・武則天,Ghost Wu Zetian,1035,74,307,155,47,11,41,21,2527/2527/3003,1180,1164.png
+FALSE,1167,Ghost Alexander the Great,ゴースト・アレキサンダー,Ghost Alexander the Great,789,293,102,276,34,38,13,35,2063/3002/2518,1111,463.png
+FALSE,1168,Ghost Nobunaga Oda,ゴースト・織田信長,Ghost Nobunaga Oda,975,444,79,160,39,53,9,19,2619/2754/3002,1001,450.png
+FALSE,1169,Ghost Nobunaga Oda,ゴースト・織田信長,Ghost Nobunaga Oda,957,423,76,164,39,52,9,20,2003/2754/3002,1001,450.png
+FALSE,1170,Ghost Himiko,ゴースト・卑弥呼,Ghost Himiko,1047,100,375,117,45,13,48,14,2570/2526/3008,1055,448.png
+FALSE,1171,Ghost Nasu no Yoichi,ゴースト・那須与一,Ghost Nasu no Yoichi,897,275,71,250,41,37,9,33,2518/2561/3002,1175,1153.png
+FALSE,1172,Ghost Genghis Khan,ゴースト・チンギス・ハン,Ghost Genghis Khan,879,340,61,265,37,43,7,33,2561/2561/3002,1058,451.png
+FALSE,1173,Ghost Abe no Seimei,ゴースト・安倍晴明,Ghost Abe no Seimei,948,81,350,173,42,11,45,22,2016/2739/3008,1136,428.png
+FALSE,1174,Ghost Hokusai,ゴースト・葛飾北斎,Ghost Hokusai,1125,38,315,182,50,6,41,23,2833/2359/3008,1167,895.png
+FALSE,1175,Ghost Zhuge Liang,ゴースト・諸葛亮,Ghost Zhuge Liang,1038,41,370,203,44,5,46,25,2832/2639/3008,1085,596.png
+FALSE,1176,Ghost Himiko,ゴースト・卑弥呼,Ghost Himiko,948,99,394,152,40,13,49,18,2569/2569/3125,1055,448.png
+FALSE,1177,Ghost Himiko,ゴースト・卑弥呼,Ghost Himiko,924,109,372,152,40,14,47,19,2569/2569/3104,1055,448.png
+FALSE,1178,Ghost Consort Yu,ゴースト・虞美人,Ghost Consort Yu,864,365,127,151,38,47,16,19,2663/2664/3002,1150,466.png
+FALSE,1179,Ghost Albert Einstein,ゴースト・アインシュタイン,Ghost Albert Einstein,978,67,380,183,41,9,48,22,2832/2015/3104,1030,427.png
+FALSE,1180,Ghost Nobunaga Oda,ゴースト・織田信長,Ghost Nobunaga Oda,1011,355,115,175,42,43,14,21,2695/2593/3002,1001,450.png
+FALSE,1181,Ghost Qin Shi Huang,ゴースト・始皇帝,Ghost Qin Shi Huang,1113,62,341,184,47,8,42,23,2832/2015/3001,1112,468.png
+FALSE,1182,Shin Deep-Yoshka,真・ディープ・ヨシュカ,Shin Deep-Yoshka,99999999,500,500,999,30,30,30,30,4101/4102/4103,4100,171.png
+FALSE,1183,Deep-Yoshka Flag,ディープ・ヨシュカ　フラッグ,Deep-Yoshka Flag,400000000,450,450,999,30,30,30,30,4105/4106/4107,4104,1183.png
+FALSE,1184,Deep-Yoshka Flag,ディープ・ヨシュカ　フラッグ,Deep-Yoshka Flag,400000000,250,250,700,30,30,30,30,4109/4110/4111,4108,1183.png
+FALSE,1185,Deep-Yoshka Flag,ディープ・ヨシュカ　フラッグ,Deep-Yoshka Flag,500000000,250,250,700,30,30,30,30,4109/4113/4114,4112,1183.png
+FALSE,1186,Deep-Yoshka Flag,ディープ・ヨシュカ　フラッグ,Deep-Yoshka Flag,500000000,555,555,5,30,30,30,30,4120/4121/4122,4119,1183.png
+FALSE,1187,Deep-Yoshka Flag,ディープ・ヨシュカ　フラッグ,Deep-Yoshka Flag,500000000,200,500,100,30,30,30,30,4124/4125/4126,4123,1183.png
+FALSE,1188,Fao Phantom,ファオ・ファントム,Fao Phantom,500000000,700,80,151,30,30,30,30,4128/4128/4129,4127,373.png
+FALSE,1189,yamap,yamap,yamap,50000000,200,500,100,30,30,30,30,4124/4125/4126,4123,1189.png
+FALSE,1190,Dark Fish King,闇魚王,Dark Fish King,50000000,700,80,151,30,30,30,30,4128/4128/4129,4127,1190.png

@@ -12,9 +12,12 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 - `Data/Extensions/extensions.csv`: エクステンション主要項目のCSV。
 - `Data/Extensions/metadata.json`: エクステンション取得元、件数、ウォレットログイン要否、画像取得結果。
 - `Image/Extensions/*.png`: エクステンション画像。ファイル名は `Image/Extensions/[ID].png` です。
-- `Data/Enemies/enemy_images.json`: 000〜999を総当たりして取得できたエネミー画像の一覧。
-- `Data/Enemies/metadata.json`: エネミー画像の取得元、総当たり範囲、取得件数。
-- `Image/Enemies/*.png`: 有効なエネミー画像 488 件。ファイル名は取得元と同じ3桁PNGです。
+- `Data/Enemies/enemies.json`: 公式CSVをもとにした全エネミーマスタ 938 件のJSON。
+- `Data/Enemies/enemies.csv`: エネミー主要項目のCSV。
+- `Data/Enemies/enemy_skills.json`: 公式CSVをもとにしたエネミースキル 1912 件のJSON。
+- `Data/Enemies/enemy_images.json`: エネミー画像とenemyTypeの紐づけ一覧。
+- `Data/Enemies/metadata.json`: 公式CSV、画像紐づけ、欠損スキルIDなどの補足。
+- `Image/Enemies/*.png`: 有効なエネミー画像 502 件。公式CSV参照画像と既存取得済み画像を保持しています。
 - `Data/Backgrounds/backgrounds.json`: バトル背景などに使う背景画像 37 件の一覧。
 - `Data/Backgrounds/metadata.json`: 背景画像の件数、重複グループ、利用許可に関する補足。
 - `Image/Backgrounds/*.png`: 背景画像。ファイル名はアップロード時の名前を維持しています。
@@ -37,6 +40,8 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 `heroes.json` には、ヒーロー名、ID、画像パス、Max Level Stats（HP/PHY/INT/AGI）、Passiveスキル名と内容、Attribute、Rarity、勢力、Enchantを収録しています。
 
 `extensions.json` には、エクステンション名、ID、画像パス、シリーズ、Rarity、Legacy/Modern区分、Max Level Stats（HP/PHY/INT/AGI）、Active Skill名と内容、Aura情報を収録しています。
+
+`enemies.json` には、エネミー名、ID、画像パス、基礎パラメーター（HP/PHY/INT/AGI）、成長値、Active Skill、Passive Skillを収録しています。画像は `image` ファイル名で `Image/Enemies` と紐づけています。
 
 ## ゲーム開発での使い方
 
@@ -151,6 +156,7 @@ Node.js で以下を実行すると、JSON/CSV/画像を再生成します。
 node scripts/fetch_heroes.js
 node scripts/fetch_extensions.js
 node scripts/fetch_enemy_images.js
+python3 scripts/generate_enemy_database.py
 node scripts/fetch_icons.js
 node scripts/generate_background_manifest.js
 node scripts/generate_battle_icon_manifest.js

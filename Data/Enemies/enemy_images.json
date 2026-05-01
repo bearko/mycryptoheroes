@@ -1,5 +1,26 @@
 [
   {
+    "id": 1004,
+    "filename": "1004.png",
+    "image_file_path": "Image/Enemies/1004.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/1004.png",
+    "names": [
+      {
+        "en": "Ghost Liu Bang",
+        "ja": "ゴースト・劉邦",
+        "zh": "Ghost Liu Bang"
+      }
+    ],
+    "enemy_types": [
+      1004
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9054,
+    "sha256": "c617d448efe2c712b5a709b0a0bcf0317d2f3b927a90eeb78ad72a45a25ae6c0"
+  },
+  {
     "id": 101,
     "filename": "101.png",
     "image_file_path": "Image/Enemies/101.png",
@@ -15,7 +36,12 @@
       101,
       310,
       611
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7007,
+    "sha256": "41aafdb59dd532691d6569431f65749399de28875372596e3adc39d82af6679d"
   },
   {
     "id": 102,
@@ -33,7 +59,12 @@
       102,
       311,
       612
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7962,
+    "sha256": "bfe8c01b70c5a83d5f1c10fe11aa00b588d1425cf2a649d174a8760f5951701d"
   },
   {
     "id": 103,
@@ -51,7 +82,12 @@
       103,
       312,
       613
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8640,
+    "sha256": "24e067651064b614b77f7d7e5c455bb210e023884a4ff2c3179c898bf62289a1"
   },
   {
     "id": 104,
@@ -69,7 +105,55 @@
       104,
       313,
       614
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10549,
+    "sha256": "439f760539707456a911c97174daf07e0d96461897b4096a3df709c38234d7eb"
+  },
+  {
+    "id": 1044,
+    "filename": "1044.png",
+    "image_file_path": "Image/Enemies/1044.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/1044.png",
+    "names": [
+      {
+        "en": "Slime",
+        "ja": "スライム希少種",
+        "zh": "Slime"
+      }
+    ],
+    "enemy_types": [
+      1044
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 6662,
+    "sha256": "0dd6478c9af195fcd880534d1bdde672fbc8c0e436d740d0ee481775420aebe5"
+  },
+  {
+    "id": 1045,
+    "filename": "1045.png",
+    "image_file_path": "Image/Enemies/1045.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/1045.png",
+    "names": [
+      {
+        "en": "Slime",
+        "ja": "スライム",
+        "zh": "Slime"
+      }
+    ],
+    "enemy_types": [
+      1045,
+      1046
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7212,
+    "sha256": "e8f8be8b865b87e1d0a8d46b0da567f0a3736024fb40f3e43e843a3f9f30cc11"
   },
   {
     "id": 105,
@@ -87,7 +171,36 @@
       105,
       314,
       615
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7448,
+    "sha256": "8f3cf5f9aa59c0ed91bf7846dd46c648e8a586044219d68cc0264ac21f02e3ef"
+  },
+  {
+    "id": 1054,
+    "filename": "1054.png",
+    "image_file_path": "Image/Enemies/1054.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/1054.png",
+    "names": [
+      {
+        "en": "Ghost Benjamin Franklin",
+        "ja": "ゴースト・ベンジャミン・フランクリン",
+        "zh": "Ghost Benjamin Franklin"
+      }
+    ],
+    "enemy_types": [
+      1054,
+      1067,
+      1081,
+      1084
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9413,
+    "sha256": "3534e51a3aeabc41c62ca8c7d187c493ab3b4fe5549df6903701715a6d909117"
   },
   {
     "id": 106,
@@ -105,7 +218,55 @@
       106,
       315,
       616
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9262,
+    "sha256": "46badc79fb5b76a179a960b7a414a176ed1ac316580356b822ddd4c8fc4d1aeb"
+  },
+  {
+    "id": 1063,
+    "filename": "1063.png",
+    "image_file_path": "Image/Enemies/1063.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/1063.png",
+    "names": [
+      {
+        "en": "Ghost Hua Mulan",
+        "ja": "ゴースト・花木蘭",
+        "zh": "Ghost Hua Mulan"
+      }
+    ],
+    "enemy_types": [
+      1063
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8835,
+    "sha256": "a6f5ca6c4ad78b2852d2f31555ce60384245ea41b6758ad0f3b49153ec7e4ffd"
+  },
+  {
+    "id": 1066,
+    "filename": "1066.png",
+    "image_file_path": "Image/Enemies/1066.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/1066.png",
+    "names": [
+      {
+        "en": "Ghost Spartacus",
+        "ja": "ゴースト・スパルタクス",
+        "zh": "Ghost Spartacus"
+      }
+    ],
+    "enemy_types": [
+      1066,
+      1085
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9523,
+    "sha256": "90e8f6490e0c32afb899d6e18052d78b3054026b0ff8cf687139031a15fb0cc8"
   },
   {
     "id": 111,
@@ -123,7 +284,33 @@
       111,
       320,
       621
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 4995,
+    "sha256": "4f42fc01adb1ee9d903bd4b33b59ea70e7c3ae582db12020c63be0a9fb6c560f"
+  },
+  {
+    "id": 1111,
+    "filename": "1111.png",
+    "image_file_path": "Image/Enemies/1111.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/1111.png",
+    "names": [
+      {
+        "en": "Ghost Matsuo Bashō",
+        "ja": "ゴースト・松尾芭蕉",
+        "zh": "Ghost Matsuo Bashō"
+      }
+    ],
+    "enemy_types": [
+      1111
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7404,
+    "sha256": "5ada33fca59d5d47c3010d3bbf8e21e1f0443b49e99c952bef782bbacef60a55"
   },
   {
     "id": 112,
@@ -141,7 +328,12 @@
       112,
       321,
       622
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9090,
+    "sha256": "463a41585c5329b0262021eff1f1b25299c47615b6a5355cb16bcc3d2963ecbf"
   },
   {
     "id": 113,
@@ -159,7 +351,33 @@
       113,
       322,
       623
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8739,
+    "sha256": "c15c36bf4306bdeefc1b068dae901010e16d4b30de6e380f8b35a52911d64814"
+  },
+  {
+    "id": 1130,
+    "filename": "1130.png",
+    "image_file_path": "Image/Enemies/1130.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/1130.png",
+    "names": [
+      {
+        "en": "Ghost Zhou Yu",
+        "ja": "ゴースト・周瑜",
+        "zh": "Ghost Zhou Yu"
+      }
+    ],
+    "enemy_types": [
+      1130
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8913,
+    "sha256": "55345d5ec5ab6ddb4344c6b3c7292128d45719c3cf312b329fba8f06818208d6"
   },
   {
     "id": 114,
@@ -177,7 +395,12 @@
       114,
       323,
       624
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10943,
+    "sha256": "d49d019689750650c8e2af8d5cc0fe29d3be39d0e7b93a9a297b25a557a72dfc"
   },
   {
     "id": 115,
@@ -195,7 +418,34 @@
       115,
       324,
       625
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 5125,
+    "sha256": "89525d3162432597d2e67cd340866ab7f7b9b5b44d60400b6e10fab7fa6ec04d"
+  },
+  {
+    "id": 1153,
+    "filename": "1153.png",
+    "image_file_path": "Image/Enemies/1153.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/1153.png",
+    "names": [
+      {
+        "en": "Ghost Nasu no Yoichi",
+        "ja": "ゴースト・那須与一",
+        "zh": "Ghost Nasu no Yoichi"
+      }
+    ],
+    "enemy_types": [
+      1153,
+      1171
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9509,
+    "sha256": "86da759d958ae2cd2d5cb37b4170564b4a3b850b8c375bf32d7343076906ea5b"
   },
   {
     "id": 116,
@@ -213,7 +463,122 @@
       116,
       325,
       626
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9168,
+    "sha256": "0f2e8a38fda4588c2384b73847aa3bdfdac50467fa75d583a8a5a9322e6e5889"
+  },
+  {
+    "id": 1164,
+    "filename": "1164.png",
+    "image_file_path": "Image/Enemies/1164.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/1164.png",
+    "names": [
+      {
+        "en": "Ghost Wu Zetian",
+        "ja": "ゴースト・武則天",
+        "zh": "Ghost Wu Zetian"
+      }
+    ],
+    "enemy_types": [
+      1164,
+      1166
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8138,
+    "sha256": "4cad48a1ccb1354bc89a3d74b7b9658d88dcab93b32a0e4fe81a28c43e08d4e0"
+  },
+  {
+    "id": 1165,
+    "filename": "1165.png",
+    "image_file_path": "Image/Enemies/1165.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/1165.png",
+    "names": [
+      {
+        "en": "Ghost Vasco da Gama",
+        "ja": "ゴースト・ヴァスコ・ダ・ガマ",
+        "zh": "Ghost Vasco da Gama"
+      }
+    ],
+    "enemy_types": [
+      1165
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9949,
+    "sha256": "5f96871f9b4ce42588ecd2c546f6e8118c64d29a1b023bd4523b313d9414e5f5"
+  },
+  {
+    "id": 1183,
+    "filename": "1183.png",
+    "image_file_path": "Image/Enemies/1183.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/1183.png",
+    "names": [
+      {
+        "en": "Deep-Yoshka Flag",
+        "ja": "ディープ・ヨシュカ　フラッグ",
+        "zh": "Deep-Yoshka Flag"
+      }
+    ],
+    "enemy_types": [
+      1183,
+      1184,
+      1185,
+      1186,
+      1187
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 128,
+    "height": 128,
+    "size_bytes": 30604,
+    "sha256": "8797710bcdc8b4ac579746e64d4a1ec7029a782182a162e812df2510ef317bf4"
+  },
+  {
+    "id": 1189,
+    "filename": "1189.png",
+    "image_file_path": "Image/Enemies/1189.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/1189.png",
+    "names": [
+      {
+        "en": "yamap",
+        "ja": "yamap",
+        "zh": "yamap"
+      }
+    ],
+    "enemy_types": [
+      1189
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 1280,
+    "height": 1280,
+    "size_bytes": 633241,
+    "sha256": "c4e0449c54d2f7c2d3161c7dfa32028d50b681966a52f6f67f4f30c7c4a52977"
+  },
+  {
+    "id": 1190,
+    "filename": "1190.png",
+    "image_file_path": "Image/Enemies/1190.png",
+    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/1190.png",
+    "names": [
+      {
+        "en": "Dark Fish King",
+        "ja": "闇魚王",
+        "zh": "Dark Fish King"
+      }
+    ],
+    "enemy_types": [
+      1190
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 1104,
+    "height": 1104,
+    "size_bytes": 1145099,
+    "sha256": "e35e78741b1bcb47c6b90c615445a65a8659097a481d86eb0475806f564696c1"
   },
   {
     "id": 121,
@@ -232,7 +597,12 @@
       330,
       631,
       1031
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9210,
+    "sha256": "4cf476cc5b78bdcc89986bffd1628e330005b306c50f6c94e52510392671f17f"
   },
   {
     "id": 122,
@@ -251,7 +621,12 @@
       331,
       632,
       1032
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11149,
+    "sha256": "f85d037304c2e10da8d24f47189dc531e5f9e9e5a96dc7857dbeec2a67cb4ec4"
   },
   {
     "id": 123,
@@ -270,7 +645,12 @@
       332,
       633,
       1033
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11588,
+    "sha256": "86c77768f0c24c178a814d7e7bc1dad28d7c94387f3c65617bc1dc42b21cf9a0"
   },
   {
     "id": 124,
@@ -289,7 +669,12 @@
       333,
       634,
       1034
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 12355,
+    "sha256": "3ace255cdb25dbb7899d27b5f63853d56ef8152ce88d3dbfa75ff572c0cbc37e"
   },
   {
     "id": 125,
@@ -308,7 +693,12 @@
       334,
       635,
       1035
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9263,
+    "sha256": "f27039be60c79deb5546a251f4514e5a329242009abcf5c63807871c711fce51"
   },
   {
     "id": 126,
@@ -327,7 +717,12 @@
       335,
       636,
       1036
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 12072,
+    "sha256": "360014fc03da9de150119b6e09e0c69f7ea299fe6c6101e3878dcd1c1d7fc93c"
   },
   {
     "id": 131,
@@ -345,7 +740,12 @@
       131,
       340,
       641
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9084,
+    "sha256": "9770b5334bfaa6c0208a7de3a36f751bcb093d5bf4e0dd1a20a5affbdf950ce9"
   },
   {
     "id": 132,
@@ -363,7 +763,12 @@
       132,
       341,
       642
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11264,
+    "sha256": "fe4efbfad03867c4ab0e40bd288404f30f468d669801f64371fcc5223972abae"
   },
   {
     "id": 133,
@@ -382,7 +787,12 @@
       137,
       342,
       643
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11716,
+    "sha256": "e7be50fcd2438c7c2c82900c6a011804f32763de4b5d441fc9a446d95e2202e8"
   },
   {
     "id": 134,
@@ -401,7 +811,12 @@
       138,
       343,
       644
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 13657,
+    "sha256": "fae68c4f12b087f99bdebf080f969147e60c316ab0655f6cb8bc81f999b87b26"
   },
   {
     "id": 135,
@@ -419,7 +834,12 @@
       135,
       344,
       645
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9470,
+    "sha256": "45f61962e1632991110686d9d00c71e548498e556706aed86c1b0c57469b78c7"
   },
   {
     "id": 136,
@@ -437,7 +857,12 @@
       136,
       345,
       646
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 12282,
+    "sha256": "878d0911ff9d2e6fbadffdba6dc8b1faaa37402f63cc46aac1bebbab1382e81b"
   },
   {
     "id": 137,
@@ -445,7 +870,12 @@
     "image_file_path": "Image/Enemies/137.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/137.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11716,
+    "sha256": "e7be50fcd2438c7c2c82900c6a011804f32763de4b5d441fc9a446d95e2202e8"
   },
   {
     "id": 138,
@@ -453,7 +883,12 @@
     "image_file_path": "Image/Enemies/138.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/138.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 13657,
+    "sha256": "fae68c4f12b087f99bdebf080f969147e60c316ab0655f6cb8bc81f999b87b26"
   },
   {
     "id": 141,
@@ -471,7 +906,12 @@
       141,
       316,
       617
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8167,
+    "sha256": "d40d4f11d573d61aba12426d42f780e9973cf346bb73f7f5aa3c115ddfbd90a6"
   },
   {
     "id": 142,
@@ -489,7 +929,12 @@
       142,
       346,
       647
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11379,
+    "sha256": "bb3416a04605f7863d953b8abe2cb1e89bf10a614b2ac25be35de51cb01f14a0"
   },
   {
     "id": 143,
@@ -507,7 +952,12 @@
       143,
       317,
       618
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8812,
+    "sha256": "7791b341905cebc46eeec6ca7214062e803c9f4d57ff9a85ed4dffb95c67edd9"
   },
   {
     "id": 144,
@@ -525,7 +975,12 @@
       144,
       347,
       648
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11811,
+    "sha256": "593a28633a1a752834f077648d5b94cfccbd750b6b6fe50b48520965d8adcc8b"
   },
   {
     "id": 145,
@@ -543,7 +998,12 @@
       145,
       318,
       619
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10752,
+    "sha256": "fd44ae595971410cc677282b14dc80caea0a359c28feb88a8aea47486ee4fb43"
   },
   {
     "id": 146,
@@ -561,7 +1021,12 @@
       146,
       348,
       649
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 13828,
+    "sha256": "db423f29c6d50784130b6cf9f81693e44b4cb737ccea9a8877370b472b02cc35"
   },
   {
     "id": 147,
@@ -579,7 +1044,12 @@
       147,
       319,
       620
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9150,
+    "sha256": "960d4c73c3628ced64bb8260e374f90bb11b60dd44c1ca50273f57151b920181"
   },
   {
     "id": 148,
@@ -597,7 +1067,12 @@
       148,
       349,
       650
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 12172,
+    "sha256": "1236f358bc377b3487b2152dc77e95b55e53f097900bf4c7fa5add9d1904e772"
   },
   {
     "id": 149,
@@ -615,7 +1090,12 @@
       149,
       326,
       627
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9156,
+    "sha256": "a3a9afb447f00b104c7c332225131ccddb2875259e9f8bcf942a8eff1994e029"
   },
   {
     "id": 150,
@@ -633,7 +1113,12 @@
       150,
       327,
       628
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8763,
+    "sha256": "417b19d2136fcb2736764d800528174eca95952d0e86885213df99c5dfe56c1c"
   },
   {
     "id": 151,
@@ -651,7 +1136,12 @@
       151,
       328,
       629
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11011,
+    "sha256": "afeb3e099be8ab50c26bcd98aa727a93539d528ada4299ce5160e133a30607be"
   },
   {
     "id": 152,
@@ -669,7 +1159,12 @@
       152,
       329,
       630
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9077,
+    "sha256": "44d5b5a99ab3fce71db5f40454f130418421ee477788f699a6c668cc89503a9e"
   },
   {
     "id": 153,
@@ -688,7 +1183,12 @@
       336,
       637,
       1037
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11472,
+    "sha256": "b6f9190c3d69243e6220ee402e32ac4124f16a1dcb7b532f58bc4ca04df65fd9"
   },
   {
     "id": 154,
@@ -707,7 +1207,12 @@
       337,
       638,
       1038
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11942,
+    "sha256": "920a3bfa2d653a0ac2cae06e2ed4fbf809de082e0857d4e49303c43907543e10"
   },
   {
     "id": 155,
@@ -726,7 +1231,12 @@
       338,
       639,
       1039
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 12569,
+    "sha256": "3dd67298293fe0915fed27a8f36a00b4b4ae0a0e66e6ad9f8ced8551cb8be793"
   },
   {
     "id": 156,
@@ -745,7 +1255,12 @@
       339,
       640,
       1040
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 12083,
+    "sha256": "f43f2cd9a4eac5fa6976fa81c2138a8c405c3e48192cfbef57826fa33a21620d"
   },
   {
     "id": 161,
@@ -764,7 +1279,12 @@
       350,
       651,
       1011
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 6664,
+    "sha256": "55772554b92ce0670c8c8f6e47a10006fc2f856ee61ce943564843d6c105bd55"
   },
   {
     "id": 162,
@@ -783,7 +1303,12 @@
       351,
       652,
       1012
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8148,
+    "sha256": "97133ede62ef6bb68cb5d6ac9a6c77865b436c9a64dc9cb2a9828b543941cde4"
   },
   {
     "id": 163,
@@ -802,7 +1327,12 @@
       352,
       653,
       1013
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8461,
+    "sha256": "95120200a16126285b21bbee9a4b6f88915ea723117ebf4d1bfd2aa4c112505f"
   },
   {
     "id": 164,
@@ -821,7 +1351,12 @@
       353,
       654,
       1014
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10046,
+    "sha256": "8b7b2c876af36ee6f079bb89db5ed9e5c64c089221443d78c6cb571698794b2d"
   },
   {
     "id": 165,
@@ -840,7 +1375,12 @@
       354,
       655,
       1015
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 6716,
+    "sha256": "6bcd259a9d11b6e2b9c1ab938d1c76ad9b2b38289437309a5e9df180e1e5d766"
   },
   {
     "id": 166,
@@ -859,7 +1399,12 @@
       355,
       656,
       1016
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8896,
+    "sha256": "5375bcac9d07ad8dc70e1e7b7c7e1e9bd6d74bc4e9b471105979ddab12517c98"
   },
   {
     "id": 167,
@@ -878,7 +1423,12 @@
       356,
       657,
       1017
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8194,
+    "sha256": "88f244cee45f329b4a540c4d50dbd3fa178ee0f54f3e980f302a89a09d2bde08"
   },
   {
     "id": 168,
@@ -897,7 +1447,12 @@
       357,
       658,
       1018
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8555,
+    "sha256": "3f58ff30055210976aa6091891e4f73e713e9498cd57e17eaf88361a8ff969a3"
   },
   {
     "id": 169,
@@ -916,7 +1471,12 @@
       358,
       659,
       1019
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10151,
+    "sha256": "bba1017e5bfdeef86c7476cdd458471ed5e2210c0dc5db19e1747d6cbb6b408b"
   },
   {
     "id": 170,
@@ -935,7 +1495,12 @@
       359,
       660,
       1020
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8982,
+    "sha256": "aeec2625f7b56ada8ca79fcd58941c41b170e1ff3d0c17fa941d3dfde14d3f0c"
   },
   {
     "id": 171,
@@ -958,7 +1523,12 @@
       171,
       1007,
       1182
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 128,
+    "height": 128,
+    "size_bytes": 25270,
+    "sha256": "afcb3602dba54af79fd796709cc86b746a7fe5bb525afbc55ec20d34e35e086c"
   },
   {
     "id": 172,
@@ -974,7 +1544,12 @@
     ],
     "enemy_types": [
       172
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 128,
+    "height": 128,
+    "size_bytes": 24994,
+    "sha256": "259d84b8d48e4c079d13b5b6167c5abe2bf05b01fe0ad94a7a2ff49cdc9f3405"
   },
   {
     "id": 181,
@@ -993,7 +1568,12 @@
       360,
       661,
       1021
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7515,
+    "sha256": "0e54fce42c6d41a6d20857e0a24e435bca542efc8feaa3a2c1c0aae9c9f92966"
   },
   {
     "id": 182,
@@ -1012,7 +1592,12 @@
       361,
       662,
       1022
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8762,
+    "sha256": "a3ca4aa180fb326946d1ee8e9ca0d0fc35006fd33ab095cf339b58a9a46b25af"
   },
   {
     "id": 183,
@@ -1031,7 +1616,12 @@
       362,
       663,
       1023
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8979,
+    "sha256": "570eda6c4fb1d89758f7a33b9492369312e55151ef61028c89ee7eca7cfb611d"
   },
   {
     "id": 184,
@@ -1050,7 +1640,12 @@
       363,
       664,
       1024
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10108,
+    "sha256": "6a345efaeddcfb5f813a023ec1d88b88f4d810828a9a2cb9354c8e26538d171c"
   },
   {
     "id": 185,
@@ -1069,7 +1664,12 @@
       364,
       665,
       1025
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7801,
+    "sha256": "378bd14ce6fc818d693a7793bf4524df08dec7849be958baaa1565ebb1e64def"
   },
   {
     "id": 186,
@@ -1088,7 +1688,12 @@
       365,
       666,
       1026
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9678,
+    "sha256": "50a78f9d79ae80eb264afdae9399b0761708fd8bf8fb02ce57f6d78c083c8f67"
   },
   {
     "id": 310,
@@ -1096,7 +1701,12 @@
     "image_file_path": "Image/Enemies/310.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/310.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7007,
+    "sha256": "41aafdb59dd532691d6569431f65749399de28875372596e3adc39d82af6679d"
   },
   {
     "id": 311,
@@ -1104,7 +1714,12 @@
     "image_file_path": "Image/Enemies/311.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/311.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7962,
+    "sha256": "bfe8c01b70c5a83d5f1c10fe11aa00b588d1425cf2a649d174a8760f5951701d"
   },
   {
     "id": 312,
@@ -1112,7 +1727,12 @@
     "image_file_path": "Image/Enemies/312.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/312.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8640,
+    "sha256": "24e067651064b614b77f7d7e5c455bb210e023884a4ff2c3179c898bf62289a1"
   },
   {
     "id": 313,
@@ -1120,7 +1740,12 @@
     "image_file_path": "Image/Enemies/313.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/313.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10549,
+    "sha256": "439f760539707456a911c97174daf07e0d96461897b4096a3df709c38234d7eb"
   },
   {
     "id": 314,
@@ -1128,7 +1753,12 @@
     "image_file_path": "Image/Enemies/314.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/314.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7448,
+    "sha256": "8f3cf5f9aa59c0ed91bf7846dd46c648e8a586044219d68cc0264ac21f02e3ef"
   },
   {
     "id": 315,
@@ -1136,7 +1766,12 @@
     "image_file_path": "Image/Enemies/315.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/315.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9262,
+    "sha256": "46badc79fb5b76a179a960b7a414a176ed1ac316580356b822ddd4c8fc4d1aeb"
   },
   {
     "id": 316,
@@ -1144,7 +1779,12 @@
     "image_file_path": "Image/Enemies/316.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/316.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8167,
+    "sha256": "d40d4f11d573d61aba12426d42f780e9973cf346bb73f7f5aa3c115ddfbd90a6"
   },
   {
     "id": 317,
@@ -1152,7 +1792,12 @@
     "image_file_path": "Image/Enemies/317.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/317.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8812,
+    "sha256": "7791b341905cebc46eeec6ca7214062e803c9f4d57ff9a85ed4dffb95c67edd9"
   },
   {
     "id": 318,
@@ -1160,7 +1805,12 @@
     "image_file_path": "Image/Enemies/318.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/318.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10752,
+    "sha256": "fd44ae595971410cc677282b14dc80caea0a359c28feb88a8aea47486ee4fb43"
   },
   {
     "id": 319,
@@ -1168,7 +1818,12 @@
     "image_file_path": "Image/Enemies/319.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/319.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9150,
+    "sha256": "960d4c73c3628ced64bb8260e374f90bb11b60dd44c1ca50273f57151b920181"
   },
   {
     "id": 320,
@@ -1176,7 +1831,12 @@
     "image_file_path": "Image/Enemies/320.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/320.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 4995,
+    "sha256": "4f42fc01adb1ee9d903bd4b33b59ea70e7c3ae582db12020c63be0a9fb6c560f"
   },
   {
     "id": 321,
@@ -1184,7 +1844,12 @@
     "image_file_path": "Image/Enemies/321.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/321.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9090,
+    "sha256": "463a41585c5329b0262021eff1f1b25299c47615b6a5355cb16bcc3d2963ecbf"
   },
   {
     "id": 322,
@@ -1192,7 +1857,12 @@
     "image_file_path": "Image/Enemies/322.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/322.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8739,
+    "sha256": "c15c36bf4306bdeefc1b068dae901010e16d4b30de6e380f8b35a52911d64814"
   },
   {
     "id": 323,
@@ -1200,7 +1870,12 @@
     "image_file_path": "Image/Enemies/323.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/323.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10943,
+    "sha256": "d49d019689750650c8e2af8d5cc0fe29d3be39d0e7b93a9a297b25a557a72dfc"
   },
   {
     "id": 324,
@@ -1208,7 +1883,12 @@
     "image_file_path": "Image/Enemies/324.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/324.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 5125,
+    "sha256": "89525d3162432597d2e67cd340866ab7f7b9b5b44d60400b6e10fab7fa6ec04d"
   },
   {
     "id": 325,
@@ -1216,7 +1896,12 @@
     "image_file_path": "Image/Enemies/325.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/325.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9168,
+    "sha256": "0f2e8a38fda4588c2384b73847aa3bdfdac50467fa75d583a8a5a9322e6e5889"
   },
   {
     "id": 326,
@@ -1224,7 +1909,12 @@
     "image_file_path": "Image/Enemies/326.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/326.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9156,
+    "sha256": "a3a9afb447f00b104c7c332225131ccddb2875259e9f8bcf942a8eff1994e029"
   },
   {
     "id": 327,
@@ -1232,7 +1922,12 @@
     "image_file_path": "Image/Enemies/327.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/327.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8763,
+    "sha256": "417b19d2136fcb2736764d800528174eca95952d0e86885213df99c5dfe56c1c"
   },
   {
     "id": 328,
@@ -1240,7 +1935,12 @@
     "image_file_path": "Image/Enemies/328.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/328.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11011,
+    "sha256": "afeb3e099be8ab50c26bcd98aa727a93539d528ada4299ce5160e133a30607be"
   },
   {
     "id": 329,
@@ -1248,7 +1948,12 @@
     "image_file_path": "Image/Enemies/329.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/329.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9077,
+    "sha256": "44d5b5a99ab3fce71db5f40454f130418421ee477788f699a6c668cc89503a9e"
   },
   {
     "id": 330,
@@ -1256,7 +1961,12 @@
     "image_file_path": "Image/Enemies/330.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/330.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9210,
+    "sha256": "4cf476cc5b78bdcc89986bffd1628e330005b306c50f6c94e52510392671f17f"
   },
   {
     "id": 331,
@@ -1264,7 +1974,12 @@
     "image_file_path": "Image/Enemies/331.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/331.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11149,
+    "sha256": "f85d037304c2e10da8d24f47189dc531e5f9e9e5a96dc7857dbeec2a67cb4ec4"
   },
   {
     "id": 332,
@@ -1272,7 +1987,12 @@
     "image_file_path": "Image/Enemies/332.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/332.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11588,
+    "sha256": "86c77768f0c24c178a814d7e7bc1dad28d7c94387f3c65617bc1dc42b21cf9a0"
   },
   {
     "id": 333,
@@ -1280,7 +2000,12 @@
     "image_file_path": "Image/Enemies/333.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/333.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 12355,
+    "sha256": "3ace255cdb25dbb7899d27b5f63853d56ef8152ce88d3dbfa75ff572c0cbc37e"
   },
   {
     "id": 334,
@@ -1288,7 +2013,12 @@
     "image_file_path": "Image/Enemies/334.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/334.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9263,
+    "sha256": "f27039be60c79deb5546a251f4514e5a329242009abcf5c63807871c711fce51"
   },
   {
     "id": 335,
@@ -1296,7 +2026,12 @@
     "image_file_path": "Image/Enemies/335.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/335.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 12072,
+    "sha256": "360014fc03da9de150119b6e09e0c69f7ea299fe6c6101e3878dcd1c1d7fc93c"
   },
   {
     "id": 336,
@@ -1304,7 +2039,12 @@
     "image_file_path": "Image/Enemies/336.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/336.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11472,
+    "sha256": "b6f9190c3d69243e6220ee402e32ac4124f16a1dcb7b532f58bc4ca04df65fd9"
   },
   {
     "id": 337,
@@ -1312,7 +2052,12 @@
     "image_file_path": "Image/Enemies/337.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/337.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11942,
+    "sha256": "920a3bfa2d653a0ac2cae06e2ed4fbf809de082e0857d4e49303c43907543e10"
   },
   {
     "id": 338,
@@ -1320,7 +2065,12 @@
     "image_file_path": "Image/Enemies/338.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/338.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 12569,
+    "sha256": "3dd67298293fe0915fed27a8f36a00b4b4ae0a0e66e6ad9f8ced8551cb8be793"
   },
   {
     "id": 339,
@@ -1328,7 +2078,12 @@
     "image_file_path": "Image/Enemies/339.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/339.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 12083,
+    "sha256": "f43f2cd9a4eac5fa6976fa81c2138a8c405c3e48192cfbef57826fa33a21620d"
   },
   {
     "id": 340,
@@ -1336,7 +2091,12 @@
     "image_file_path": "Image/Enemies/340.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/340.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9084,
+    "sha256": "9770b5334bfaa6c0208a7de3a36f751bcb093d5bf4e0dd1a20a5affbdf950ce9"
   },
   {
     "id": 341,
@@ -1344,7 +2104,12 @@
     "image_file_path": "Image/Enemies/341.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/341.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11264,
+    "sha256": "fe4efbfad03867c4ab0e40bd288404f30f468d669801f64371fcc5223972abae"
   },
   {
     "id": 342,
@@ -1352,7 +2117,12 @@
     "image_file_path": "Image/Enemies/342.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/342.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11716,
+    "sha256": "e7be50fcd2438c7c2c82900c6a011804f32763de4b5d441fc9a446d95e2202e8"
   },
   {
     "id": 343,
@@ -1360,7 +2130,12 @@
     "image_file_path": "Image/Enemies/343.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/343.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 13657,
+    "sha256": "fae68c4f12b087f99bdebf080f969147e60c316ab0655f6cb8bc81f999b87b26"
   },
   {
     "id": 344,
@@ -1368,7 +2143,12 @@
     "image_file_path": "Image/Enemies/344.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/344.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9470,
+    "sha256": "45f61962e1632991110686d9d00c71e548498e556706aed86c1b0c57469b78c7"
   },
   {
     "id": 345,
@@ -1376,7 +2156,12 @@
     "image_file_path": "Image/Enemies/345.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/345.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 12282,
+    "sha256": "878d0911ff9d2e6fbadffdba6dc8b1faaa37402f63cc46aac1bebbab1382e81b"
   },
   {
     "id": 346,
@@ -1384,7 +2169,12 @@
     "image_file_path": "Image/Enemies/346.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/346.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11379,
+    "sha256": "bb3416a04605f7863d953b8abe2cb1e89bf10a614b2ac25be35de51cb01f14a0"
   },
   {
     "id": 347,
@@ -1392,7 +2182,12 @@
     "image_file_path": "Image/Enemies/347.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/347.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11811,
+    "sha256": "593a28633a1a752834f077648d5b94cfccbd750b6b6fe50b48520965d8adcc8b"
   },
   {
     "id": 348,
@@ -1400,7 +2195,12 @@
     "image_file_path": "Image/Enemies/348.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/348.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 13828,
+    "sha256": "db423f29c6d50784130b6cf9f81693e44b4cb737ccea9a8877370b472b02cc35"
   },
   {
     "id": 349,
@@ -1408,7 +2208,12 @@
     "image_file_path": "Image/Enemies/349.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/349.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 12172,
+    "sha256": "1236f358bc377b3487b2152dc77e95b55e53f097900bf4c7fa5add9d1904e772"
   },
   {
     "id": 350,
@@ -1416,7 +2221,12 @@
     "image_file_path": "Image/Enemies/350.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/350.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 6664,
+    "sha256": "55772554b92ce0670c8c8f6e47a10006fc2f856ee61ce943564843d6c105bd55"
   },
   {
     "id": 351,
@@ -1424,7 +2234,12 @@
     "image_file_path": "Image/Enemies/351.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/351.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8148,
+    "sha256": "97133ede62ef6bb68cb5d6ac9a6c77865b436c9a64dc9cb2a9828b543941cde4"
   },
   {
     "id": 352,
@@ -1432,7 +2247,12 @@
     "image_file_path": "Image/Enemies/352.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/352.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8461,
+    "sha256": "95120200a16126285b21bbee9a4b6f88915ea723117ebf4d1bfd2aa4c112505f"
   },
   {
     "id": 353,
@@ -1440,7 +2260,12 @@
     "image_file_path": "Image/Enemies/353.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/353.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10046,
+    "sha256": "8b7b2c876af36ee6f079bb89db5ed9e5c64c089221443d78c6cb571698794b2d"
   },
   {
     "id": 354,
@@ -1448,7 +2273,12 @@
     "image_file_path": "Image/Enemies/354.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/354.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 6716,
+    "sha256": "6bcd259a9d11b6e2b9c1ab938d1c76ad9b2b38289437309a5e9df180e1e5d766"
   },
   {
     "id": 355,
@@ -1456,7 +2286,12 @@
     "image_file_path": "Image/Enemies/355.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/355.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8896,
+    "sha256": "5375bcac9d07ad8dc70e1e7b7c7e1e9bd6d74bc4e9b471105979ddab12517c98"
   },
   {
     "id": 356,
@@ -1464,7 +2299,12 @@
     "image_file_path": "Image/Enemies/356.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/356.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8194,
+    "sha256": "88f244cee45f329b4a540c4d50dbd3fa178ee0f54f3e980f302a89a09d2bde08"
   },
   {
     "id": 357,
@@ -1472,7 +2312,12 @@
     "image_file_path": "Image/Enemies/357.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/357.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8555,
+    "sha256": "3f58ff30055210976aa6091891e4f73e713e9498cd57e17eaf88361a8ff969a3"
   },
   {
     "id": 358,
@@ -1480,7 +2325,12 @@
     "image_file_path": "Image/Enemies/358.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/358.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10151,
+    "sha256": "bba1017e5bfdeef86c7476cdd458471ed5e2210c0dc5db19e1747d6cbb6b408b"
   },
   {
     "id": 359,
@@ -1488,7 +2338,12 @@
     "image_file_path": "Image/Enemies/359.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/359.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8982,
+    "sha256": "aeec2625f7b56ada8ca79fcd58941c41b170e1ff3d0c17fa941d3dfde14d3f0c"
   },
   {
     "id": 360,
@@ -1496,7 +2351,12 @@
     "image_file_path": "Image/Enemies/360.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/360.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7515,
+    "sha256": "0e54fce42c6d41a6d20857e0a24e435bca542efc8feaa3a2c1c0aae9c9f92966"
   },
   {
     "id": 361,
@@ -1504,7 +2364,12 @@
     "image_file_path": "Image/Enemies/361.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/361.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8762,
+    "sha256": "a3ca4aa180fb326946d1ee8e9ca0d0fc35006fd33ab095cf339b58a9a46b25af"
   },
   {
     "id": 362,
@@ -1512,7 +2377,12 @@
     "image_file_path": "Image/Enemies/362.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/362.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8979,
+    "sha256": "570eda6c4fb1d89758f7a33b9492369312e55151ef61028c89ee7eca7cfb611d"
   },
   {
     "id": 363,
@@ -1520,7 +2390,12 @@
     "image_file_path": "Image/Enemies/363.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/363.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10108,
+    "sha256": "6a345efaeddcfb5f813a023ec1d88b88f4d810828a9a2cb9354c8e26538d171c"
   },
   {
     "id": 364,
@@ -1528,7 +2403,12 @@
     "image_file_path": "Image/Enemies/364.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/364.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7801,
+    "sha256": "378bd14ce6fc818d693a7793bf4524df08dec7849be958baaa1565ebb1e64def"
   },
   {
     "id": 365,
@@ -1536,7 +2416,12 @@
     "image_file_path": "Image/Enemies/365.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/365.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9678,
+    "sha256": "50a78f9d79ae80eb264afdae9399b0761708fd8bf8fb02ce57f6d78c083c8f67"
   },
   {
     "id": 366,
@@ -1554,7 +2439,12 @@
       366,
       667,
       1027
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9036,
+    "sha256": "5d6e1e0535e29ad9d5371c733cee47e26be6b6c0caff9b23864a5910cc2b9de9"
   },
   {
     "id": 367,
@@ -1572,7 +2462,12 @@
       367,
       668,
       1028
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9254,
+    "sha256": "25803ce1b5ffbb01a127820499e5a82fdb71edbddc10bdd7d71e421d23adecb7"
   },
   {
     "id": 368,
@@ -1590,7 +2485,12 @@
       368,
       669,
       1029
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10221,
+    "sha256": "1d969ead303c64ed639651408fb822aa69fd53a607eec8af43c34bca0d7c8dc1"
   },
   {
     "id": 369,
@@ -1608,7 +2508,12 @@
       369,
       670,
       1030
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9737,
+    "sha256": "541e29681e32a47038b423f55350aebab3259fd67e9acab94f53cab1ac48ae20"
   },
   {
     "id": 370,
@@ -1624,7 +2529,12 @@
     ],
     "enemy_types": [
       370
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 128,
+    "height": 128,
+    "size_bytes": 32816,
+    "sha256": "03e74a714f0831eb4252c46040ac6a010db04b46540c7202e9f0aae422163d09"
   },
   {
     "id": 371,
@@ -1640,7 +2550,12 @@
     ],
     "enemy_types": [
       371
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 128,
+    "height": 128,
+    "size_bytes": 31355,
+    "sha256": "18b60ec9d2dac3b3ce2a8c8a6912c1ea45139c5cee0393eb38972f926de587d2"
   },
   {
     "id": 372,
@@ -1656,7 +2571,12 @@
     ],
     "enemy_types": [
       372
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 128,
+    "height": 128,
+    "size_bytes": 9805,
+    "sha256": "270771a9f721e3efa915fb05fcd2d5b58d04d29836fffd92001c74e5701824cb"
   },
   {
     "id": 373,
@@ -1678,7 +2598,12 @@
     "enemy_types": [
       373,
       1188
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 128,
+    "height": 128,
+    "size_bytes": 41076,
+    "sha256": "93c94ee4277184071d13f5025708228a598747d2cbdf89cf4b85884d6daaa4f8"
   },
   {
     "id": 374,
@@ -1694,7 +2619,12 @@
     ],
     "enemy_types": [
       374
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 128,
+    "height": 128,
+    "size_bytes": 40207,
+    "sha256": "4cc6141b0498b8a660483e2e4432d939e050140b72bea60411c04f629ed1175f"
   },
   {
     "id": 375,
@@ -1710,7 +2640,12 @@
     ],
     "enemy_types": [
       375
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7080,
+    "sha256": "9dd2bfadcf55f0905dd9ea5d2fa824280e53be607b928a1deb11505e2d9eb8d4"
   },
   {
     "id": 376,
@@ -1726,7 +2661,12 @@
     ],
     "enemy_types": [
       376
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9569,
+    "sha256": "f290b4fb58846cd8f54a31a0e75918526db31279bf0ed4d785b1e310363320c3"
   },
   {
     "id": 377,
@@ -1742,7 +2682,12 @@
     ],
     "enemy_types": [
       377
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9568,
+    "sha256": "c3aa6fd9da124ef132b8a9ea82ac93cac2cb146224669ac1c2644e4118e3ac6b"
   },
   {
     "id": 378,
@@ -1758,7 +2703,12 @@
     ],
     "enemy_types": [
       378
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10608,
+    "sha256": "49d372d8d189678ee3fef5728a93a7f86b414f0478455de59944dbd258e17330"
   },
   {
     "id": 379,
@@ -1774,7 +2724,12 @@
     ],
     "enemy_types": [
       379
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7389,
+    "sha256": "274962611921de42b9e660581dfa8ddadf53b024b2ffe7306c42f0b95863a13f"
   },
   {
     "id": 380,
@@ -1790,7 +2745,12 @@
     ],
     "enemy_types": [
       380
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10334,
+    "sha256": "ead47cdff9870c624badfdb2fac2239f5fb80abf9c5afd4d53ed6e29fa263898"
   },
   {
     "id": 381,
@@ -1806,7 +2766,12 @@
     ],
     "enemy_types": [
       381
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9682,
+    "sha256": "51d77fce019c32ab320fd9654ddf84c6ecb6d1a3bd05f1a87250a5e2a12f739c"
   },
   {
     "id": 382,
@@ -1822,7 +2787,12 @@
     ],
     "enemy_types": [
       382
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9701,
+    "sha256": "2da3f5837ac4d76341229b2e59a4e17c98de46c241fe9ef085e9b21090142767"
   },
   {
     "id": 383,
@@ -1838,7 +2808,12 @@
     ],
     "enemy_types": [
       383
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10738,
+    "sha256": "4a7b21aa31e727786b18d234701baccf1232252ea70227a7be923f2e32dec3c7"
   },
   {
     "id": 384,
@@ -1854,7 +2829,12 @@
     ],
     "enemy_types": [
       384
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7266,
+    "sha256": "efb6dca50cacb1eefdb89e794d3fb91ecc11dd9fd885243c8c01969f9acbf69c"
   },
   {
     "id": 385,
@@ -1870,7 +2850,12 @@
     ],
     "enemy_types": [
       385
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10233,
+    "sha256": "835a7b0c152bbbb861e663766ac42be932a44a86712d2eac3e9e4e04155a2d03"
   },
   {
     "id": 386,
@@ -1886,7 +2871,12 @@
     ],
     "enemy_types": [
       386
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7452,
+    "sha256": "d3cc7a429f9243b6dd1690ee3ee46ea567f787e5748920fc838a7cd44ae91deb"
   },
   {
     "id": 387,
@@ -1902,7 +2892,12 @@
     ],
     "enemy_types": [
       387
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8349,
+    "sha256": "755c8a6958d0bfe42936862a78887dfc71d8ddc7aacecd2cf793695f56f57fe8"
   },
   {
     "id": 388,
@@ -1918,7 +2913,12 @@
     ],
     "enemy_types": [
       388
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8316,
+    "sha256": "6bf3ea2468a21d773fa33d9d90e9c11a013fcd027d6dbca3a5606e28452c2220"
   },
   {
     "id": 389,
@@ -1934,7 +2934,12 @@
     ],
     "enemy_types": [
       389
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9775,
+    "sha256": "02034cb3e211e42585d835471343a02f2dc4fa09974e5c5e0aeb058902e08ad9"
   },
   {
     "id": 390,
@@ -1950,7 +2955,12 @@
     ],
     "enemy_types": [
       390
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7692,
+    "sha256": "a7daf23bbb1ff6aa3432903c2ca5a822bd3a8ab7b02ce581fc650128fe5ea6d5"
   },
   {
     "id": 391,
@@ -1966,7 +2976,12 @@
     ],
     "enemy_types": [
       391
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8824,
+    "sha256": "221c48d293ef2005e78af4e527b6494c17f74d2b80872d6114ef88845e0b558a"
   },
   {
     "id": 392,
@@ -1982,7 +2997,12 @@
     ],
     "enemy_types": [
       392
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8303,
+    "sha256": "19d8519e437c6bdac3d963fd0234b54861085609c36eba71e126fafe9658cae7"
   },
   {
     "id": 393,
@@ -1998,7 +3018,12 @@
     ],
     "enemy_types": [
       393
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8265,
+    "sha256": "76f9567bb5457d4a471cf2102180c5336369204bb7396908191ba03e05842ff3"
   },
   {
     "id": 394,
@@ -2014,7 +3039,12 @@
     ],
     "enemy_types": [
       394
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9717,
+    "sha256": "f643b2f5cdfc5760723af1ff5ac95e8d423ecc6ebe96472fb0063ff59af37851"
   },
   {
     "id": 395,
@@ -2030,7 +3060,12 @@
     ],
     "enemy_types": [
       395
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7676,
+    "sha256": "8f44fb41adf4d021239af2dbdf827766b309d5c6868a380f32ab9937bf320c03"
   },
   {
     "id": 396,
@@ -2046,7 +3081,12 @@
     ],
     "enemy_types": [
       396
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8823,
+    "sha256": "284a47aa8f2b8d11f8d36ba0ce2417b252c329b8367d736dd9971172ea236dbd"
   },
   {
     "id": 397,
@@ -2062,7 +3102,12 @@
     ],
     "enemy_types": [
       397
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8814,
+    "sha256": "2f90755d85d9d4cfef204e913ef834170c144c1dc6f81d6e750301a8a4cb7e14"
   },
   {
     "id": 398,
@@ -2078,7 +3123,12 @@
     ],
     "enemy_types": [
       398
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9437,
+    "sha256": "666e754d86eb53c380eb6ab971f284ab1edf3aee3d240d3e24f8d268577b6300"
   },
   {
     "id": 399,
@@ -2094,7 +3144,12 @@
     ],
     "enemy_types": [
       399
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10208,
+    "sha256": "651bc73d38bf9b19b88a5a0b5213fae59eed2a1760ee42167a099fa7dc519327"
   },
   {
     "id": 400,
@@ -2110,7 +3165,12 @@
     ],
     "enemy_types": [
       400
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10705,
+    "sha256": "722437f1fa37dc4bdc9b50241b5d65977d9baf39dfb7b4964ebfb24be142df9d"
   },
   {
     "id": 401,
@@ -2126,7 +3186,12 @@
     ],
     "enemy_types": [
       401
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8828,
+    "sha256": "f5669c5aa2feeab0b8c27a1cc344b79e0b585b006986fb70846e14567d422f8e"
   },
   {
     "id": 402,
@@ -2142,7 +3207,12 @@
     ],
     "enemy_types": [
       402
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10632,
+    "sha256": "18d923dd5a24a183ca0bc1a1e9eedf4146c35c1fe2c008cc3e36e2f6c0f0c919"
   },
   {
     "id": 403,
@@ -2158,7 +3228,12 @@
     ],
     "enemy_types": [
       403
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9523,
+    "sha256": "6a555e3e4b4f11a914ddef7e19f55bd60e82b4731b419a2ed1b7fdac8a4815e9"
   },
   {
     "id": 404,
@@ -2174,7 +3249,12 @@
     ],
     "enemy_types": [
       404
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10209,
+    "sha256": "c1f6a465ee24acf0f39549fce341201f4eb37a63e61aff1f139344aa66abc594"
   },
   {
     "id": 405,
@@ -2190,7 +3270,12 @@
     ],
     "enemy_types": [
       405
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10731,
+    "sha256": "cc006f798480975f5d07fa6bba233bc833e1eb399ae6008c3e80f5418f993f30"
   },
   {
     "id": 406,
@@ -2206,7 +3291,12 @@
     ],
     "enemy_types": [
       406
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8752,
+    "sha256": "69ff6b8be1d6e0ee589700c8c19f1c33809cf8b32ecda73609193bfea4c56653"
   },
   {
     "id": 407,
@@ -2222,7 +3312,12 @@
     ],
     "enemy_types": [
       407
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10660,
+    "sha256": "4d713fc5c9bb1d4db1cff4e4fbd8a82c87f20424259325c397efecd60177cab9"
   },
   {
     "id": 408,
@@ -2238,7 +3333,12 @@
     ],
     "enemy_types": [
       408
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7168,
+    "sha256": "95c2844f77186b2b2c4559c1210e0ccdf328944f017e4733ae17b0ab3e1dd09c"
   },
   {
     "id": 409,
@@ -2254,7 +3354,12 @@
     ],
     "enemy_types": [
       409
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9559,
+    "sha256": "7c080ecd26087a0d705465c4956906d42594a7c5b3f46911dac2fb48f7da754c"
   },
   {
     "id": 410,
@@ -2270,7 +3375,12 @@
     ],
     "enemy_types": [
       410
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9789,
+    "sha256": "c30c55af66656451eced8c2817f7821943d0ea2756b5ce561d386e903f406961"
   },
   {
     "id": 411,
@@ -2286,7 +3396,12 @@
     ],
     "enemy_types": [
       411
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11057,
+    "sha256": "14a6b3691d5a4c8016d321c95e45d660989714c9fb7969466f7c97a2a231424b"
   },
   {
     "id": 412,
@@ -2302,7 +3417,12 @@
     ],
     "enemy_types": [
       412
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7532,
+    "sha256": "8aa743ba55be4ec73d2bc12d4a9fd809a8e0b477e78172cd75ef38e67ff273c2"
   },
   {
     "id": 413,
@@ -2318,7 +3438,12 @@
     ],
     "enemy_types": [
       413
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10174,
+    "sha256": "8f54718b1ac0691b59b0bfe0abf29d1ffc47d417eaf7415d3e30c9eec2a0800e"
   },
   {
     "id": 414,
@@ -2334,7 +3459,12 @@
     ],
     "enemy_types": [
       414
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10081,
+    "sha256": "131f24389feaa0528b947730f44cb5b98dafb86e4620dc02d1fd7173fc4ff621"
   },
   {
     "id": 415,
@@ -2350,7 +3480,12 @@
     ],
     "enemy_types": [
       415
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10211,
+    "sha256": "24263f82d2cd997efd9460edbd8edd347aa9860d70c26138732c77e8490cc20e"
   },
   {
     "id": 416,
@@ -2366,7 +3501,12 @@
     ],
     "enemy_types": [
       416
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11592,
+    "sha256": "cd24a71b7f8aa3cb3a5234618ba9fc552e40f17e74b34d09e2cd93546c0bd4d0"
   },
   {
     "id": 417,
@@ -2382,7 +3522,12 @@
     ],
     "enemy_types": [
       417
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7673,
+    "sha256": "4dfadb3a5b93adcac1ab61c0d05b5d51fcdf6f3d840e845aeb858b53c8fbd736"
   },
   {
     "id": 418,
@@ -2400,7 +3545,12 @@
       418,
       676,
       677
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10354,
+    "sha256": "0f4890f6f73971724a3d521878b32e1f0e0c58af05222d1b856ba4e0249d93e1"
   },
   {
     "id": 419,
@@ -2416,7 +3566,12 @@
     ],
     "enemy_types": [
       419
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 128,
+    "height": 128,
+    "size_bytes": 35193,
+    "sha256": "7ea4c1fa77071b3cb6293cadd95d464ebfb60f9ff603feef14647df6b0135b55"
   },
   {
     "id": 420,
@@ -2432,7 +3587,12 @@
     ],
     "enemy_types": [
       420
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 128,
+    "height": 128,
+    "size_bytes": 30405,
+    "sha256": "9e522ff580b5fbd8ecfc83cbc4ac5f25207e870fb7ae5ede80a48a2de8b8106c"
   },
   {
     "id": 421,
@@ -2464,7 +3624,12 @@
       1065,
       1079,
       1083
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10068,
+    "sha256": "ab3c2d231073ff00c942b1d09fa5258636513556f212d1819b70ffb777fef939"
   },
   {
     "id": 422,
@@ -2486,7 +3651,12 @@
       748,
       766,
       862
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8220,
+    "sha256": "993061e7ca66a40a6dffebe55d704dcf1cda124eb5ce50cad288d65405796be3"
   },
   {
     "id": 423,
@@ -2518,7 +3688,12 @@
       1114,
       1123,
       1132
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9753,
+    "sha256": "4f8aeec360bab9b5fe2d68994aeffdb72f2cadea9c475f3b4d0d19735e54d6ca"
   },
   {
     "id": 424,
@@ -2546,7 +3721,12 @@
       907,
       936,
       1124
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9598,
+    "sha256": "7194ef151d1912102388f4b5614f5b5c2989bf4695093882bf2bbb9cea76da62"
   },
   {
     "id": 425,
@@ -2570,7 +3750,12 @@
       866,
       875,
       1115
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9463,
+    "sha256": "3d902266ca2766eb4b80589c918891bd2fe1f9a6549eef7f91273817f9c2ddaa"
   },
   {
     "id": 426,
@@ -2599,7 +3784,12 @@
       1147,
       1157,
       1162
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9621,
+    "sha256": "88cba57253a64bffe57b5fe2e4332ac18a8d9fd7aa08531de0877813a2268b8b"
   },
   {
     "id": 427,
@@ -2642,7 +3832,12 @@
       1155,
       1161,
       1179
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8481,
+    "sha256": "dc9a509345fd639d4d38ce2993cda5f589f02cdf35e4c9218cc6e3bde2caf6eb"
   },
   {
     "id": 428,
@@ -2662,7 +3857,12 @@
       918,
       943,
       1173
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8476,
+    "sha256": "a4514d5188d706be11dbe4df8258c3af6fdf418e06785f442c34713e56cb2dac"
   },
   {
     "id": 429,
@@ -2682,7 +3882,12 @@
       971,
       973,
       1142
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9800,
+    "sha256": "5faada9dc635bc35d85e48e4e2c70455f113cb9d22b6bbda3a5121a73f115ff8"
   },
   {
     "id": 430,
@@ -2702,7 +3907,12 @@
       770,
       771,
       772
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10194,
+    "sha256": "d8389b5d5981dcab974d45f262960e9f560fbef4ff06931e457d862165cbac51"
   },
   {
     "id": 431,
@@ -2735,7 +3945,12 @@
       1104,
       1108,
       1109
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9086,
+    "sha256": "1a3ebd3a14b45d2cabdb07182ec6ae51033497754a7611885af8fea42a40f4a6"
   },
   {
     "id": 432,
@@ -2759,7 +3974,12 @@
       826,
       1086,
       1088
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10319,
+    "sha256": "1990f0815af9e3f9ba9d21c22000f091412ad794d5b559b3e8975611e56121b0"
   },
   {
     "id": 433,
@@ -2779,7 +3999,12 @@
       992,
       993,
       994
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8967,
+    "sha256": "0dc71954de0287384bb306744dd6361b0e751d266a43b0e0469ab67c34dd1add"
   },
   {
     "id": 434,
@@ -2803,7 +4028,12 @@
       1093,
       1103,
       1105
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9173,
+    "sha256": "4a9ca313e550094f8db3fc00f2392f93c1269b4062af8a333cc3a7e944a4df51"
   },
   {
     "id": 435,
@@ -2820,7 +4050,12 @@
     "enemy_types": [
       435,
       576
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8999,
+    "sha256": "769942fe19270a6cd1f4f8749f9788ce98368252cb37401451cc45876bd1e6de"
   },
   {
     "id": 436,
@@ -2855,7 +4090,12 @@
       1125,
       1134,
       1135
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9060,
+    "sha256": "2a40db629527064a8bcfe4579a211fdfc07dab587fcc2fa837658801748cf363"
   },
   {
     "id": 437,
@@ -2876,7 +4116,12 @@
       859,
       1118,
       1121
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8540,
+    "sha256": "1aeef079732ba9d3f08ce8e17c6b0a778eb34508acfec5c7ae21cbce49905539"
   },
   {
     "id": 438,
@@ -2893,7 +4138,12 @@
     "enemy_types": [
       438,
       523
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8576,
+    "sha256": "7153e90030868d7b98a09cac8946032ca565c432df7485a2f2443cc22de91131"
   },
   {
     "id": 439,
@@ -2901,7 +4151,12 @@
     "image_file_path": "Image/Enemies/439.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/439.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9753,
+    "sha256": "4f8aeec360bab9b5fe2d68994aeffdb72f2cadea9c475f3b4d0d19735e54d6ca"
   },
   {
     "id": 440,
@@ -2923,7 +4178,12 @@
     "enemy_types": [
       440,
       913
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10699,
+    "sha256": "ac42b41fcc2dd4776780570c39d2847d53e1e825661b0e4abf839de981b2ec19"
   },
   {
     "id": 441,
@@ -2945,7 +4205,12 @@
     "enemy_types": [
       441,
       834
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8847,
+    "sha256": "7c7aef5a16de85e6e88d03cea3e39115d8f2d12b969e0a6925d3b1fe88ac2a60"
   },
   {
     "id": 442,
@@ -2964,7 +4229,12 @@
       673,
       827,
       829
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9847,
+    "sha256": "bdb94f1e9f5ad90588f9fb022a81402c8492436e90d5ea22ade5605ff1ceaa03"
   },
   {
     "id": 443,
@@ -2983,7 +4253,12 @@
       503,
       534,
       942
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8828,
+    "sha256": "98a5d9ea4d641cf769edd42f4bc26853839ce18b533ad73dda4e7972b3f7292f"
   },
   {
     "id": 444,
@@ -2999,7 +4274,12 @@
     ],
     "enemy_types": [
       444
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8291,
+    "sha256": "a132468e26c818c329f65a3e2ba3969257f21ab26e073a1cccbb4498d5da575c"
   },
   {
     "id": 445,
@@ -3024,7 +4304,12 @@
       1002,
       1003,
       1042
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8899,
+    "sha256": "ff7d21dce71cb2333c4d4e1f2e660881422e5ad73835fa7868bcddb9b27e1e6c"
   },
   {
     "id": 446,
@@ -3032,7 +4317,12 @@
     "image_file_path": "Image/Enemies/446.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/446.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8899,
+    "sha256": "ff7d21dce71cb2333c4d4e1f2e660881422e5ad73835fa7868bcddb9b27e1e6c"
   },
   {
     "id": 447,
@@ -3040,7 +4330,12 @@
     "image_file_path": "Image/Enemies/447.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/447.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8899,
+    "sha256": "ff7d21dce71cb2333c4d4e1f2e660881422e5ad73835fa7868bcddb9b27e1e6c"
   },
   {
     "id": 448,
@@ -3067,7 +4362,12 @@
       1170,
       1176,
       1177
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8988,
+    "sha256": "c2c8b2fa3ef18c0b2ad75a6aff86d34e480299045d6093ccb04d9e484760a7bd"
   },
   {
     "id": 449,
@@ -3075,7 +4375,12 @@
     "image_file_path": "Image/Enemies/449.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/449.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8481,
+    "sha256": "dc9a509345fd639d4d38ce2993cda5f589f02cdf35e4c9218cc6e3bde2caf6eb"
   },
   {
     "id": 450,
@@ -3100,7 +4405,12 @@
       1168,
       1169,
       1180
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8788,
+    "sha256": "c9520795e2c0185ecf40483c80fbde70d85ac2c713a907c10a20c1c45d4be7d8"
   },
   {
     "id": 451,
@@ -3123,7 +4433,12 @@
       1140,
       1141,
       1172
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8594,
+    "sha256": "c4d71a5c7e1233adbddd3bcee97fa2e4fa580d1bfe77ce7e52167e8319473ce9"
   },
   {
     "id": 452,
@@ -3145,7 +4460,12 @@
       958,
       976,
       1154
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9278,
+    "sha256": "12ffd8e46efc4520a84e4e6e0ab1982d14f0e32be3636ebe7dcd7fad5bc02b50"
   },
   {
     "id": 453,
@@ -3165,7 +4485,12 @@
       910,
       919,
       920
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8915,
+    "sha256": "fd6d4a92bd0e2704cde87a2d4fdb1e3cc2ac9797ed365f4dba9f15a43795211c"
   },
   {
     "id": 454,
@@ -3182,7 +4507,12 @@
     "enemy_types": [
       454,
       839
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11083,
+    "sha256": "77d85656e26725996b2f3395457e58ebc609543d9407107f3ba698dc29ef0a06"
   },
   {
     "id": 455,
@@ -3200,7 +4530,12 @@
       455,
       679,
       912
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10065,
+    "sha256": "b7f71b6157d991c0df2ec286223e1c071b1666cd049e59ee81d18acb35cf54b8"
   },
   {
     "id": 456,
@@ -3216,7 +4551,12 @@
     ],
     "enemy_types": [
       456
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10441,
+    "sha256": "1f23d820c6f5fb730b4445fa464ab764e13cf4e97e1d54bffa891147b49fb973"
   },
   {
     "id": 457,
@@ -3224,7 +4564,12 @@
     "image_file_path": "Image/Enemies/457.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/457.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8988,
+    "sha256": "c2c8b2fa3ef18c0b2ad75a6aff86d34e480299045d6093ccb04d9e484760a7bd"
   },
   {
     "id": 458,
@@ -3232,7 +4577,12 @@
     "image_file_path": "Image/Enemies/458.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/458.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8481,
+    "sha256": "dc9a509345fd639d4d38ce2993cda5f589f02cdf35e4c9218cc6e3bde2caf6eb"
   },
   {
     "id": 459,
@@ -3265,7 +4615,12 @@
       1139,
       1156,
       1163
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9262,
+    "sha256": "aa90bc144ce0a589d7f8e3f1b07561544c24a90472d1865191677ad191a3d295"
   },
   {
     "id": 460,
@@ -3284,7 +4639,12 @@
       602,
       604,
       886
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9134,
+    "sha256": "f37f6bdf02538b501dea0e60140718590b8d8906165f38cb9051a43f3b077b0f"
   },
   {
     "id": 461,
@@ -3305,7 +4665,12 @@
       952,
       1144,
       1145
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7749,
+    "sha256": "6cd5fc1d987263404d36f5f5b20576eeae405961ac9e2a339fef5b514a1c0c2d"
   },
   {
     "id": 462,
@@ -3322,7 +4687,12 @@
     "enemy_types": [
       462,
       775
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8400,
+    "sha256": "ebcdfbc457edce8e5dbed19e50c86d1a7b34e9a1cfcc3864e11428350acffb84"
   },
   {
     "id": 463,
@@ -3354,7 +4724,12 @@
       1138,
       1158,
       1167
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8636,
+    "sha256": "a1dcc67fb4729882ad4213fc916e3b29476a46826cc550b8e251889724276f51"
   },
   {
     "id": 464,
@@ -3378,7 +4753,12 @@
       985,
       998,
       1159
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8694,
+    "sha256": "1a340ae881bd5f01a0724729823b8087f84e933bcbb7d9516e47c247f6a40e0c"
   },
   {
     "id": 465,
@@ -3386,7 +4766,12 @@
     "image_file_path": "Image/Enemies/465.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/465.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9753,
+    "sha256": "4f8aeec360bab9b5fe2d68994aeffdb72f2cadea9c475f3b4d0d19735e54d6ca"
   },
   {
     "id": 466,
@@ -3409,7 +4794,12 @@
       1005,
       1149,
       1178
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8860,
+    "sha256": "6e688720bf0502b553eddc4786f8f4d4367cafe754209c8bae860d4732613021"
   },
   {
     "id": 467,
@@ -3429,7 +4819,12 @@
       944,
       965,
       972
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9278,
+    "sha256": "e409c5c9df82c71e9c39369dfacc41427567c1d3c0bffd4c349cc9c745ccfcc8"
   },
   {
     "id": 468,
@@ -3450,7 +4845,12 @@
       597,
       906,
       1181
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8439,
+    "sha256": "1767555d657dd1a41bc69b06fbc3e74da456221747e50acbf2c2dafbe9ea7a88"
   },
   {
     "id": 469,
@@ -3458,7 +4858,12 @@
     "image_file_path": "Image/Enemies/469.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/469.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8636,
+    "sha256": "a1dcc67fb4729882ad4213fc916e3b29476a46826cc550b8e251889724276f51"
   },
   {
     "id": 470,
@@ -3466,7 +4871,12 @@
     "image_file_path": "Image/Enemies/470.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/470.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9262,
+    "sha256": "aa90bc144ce0a589d7f8e3f1b07561544c24a90472d1865191677ad191a3d295"
   },
   {
     "id": 471,
@@ -3474,7 +4884,12 @@
     "image_file_path": "Image/Enemies/471.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/471.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8481,
+    "sha256": "dc9a509345fd639d4d38ce2993cda5f589f02cdf35e4c9218cc6e3bde2caf6eb"
   },
   {
     "id": 472,
@@ -3482,7 +4897,12 @@
     "image_file_path": "Image/Enemies/472.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/472.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9264,
+    "sha256": "fb38254ed1a0c5ff2d2aca1896a28050312db061a5a577cba227744fa21099ac"
   },
   {
     "id": 473,
@@ -3506,7 +4926,12 @@
       999,
       1151,
       1160
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8972,
+    "sha256": "130e0250c8764557a795cdbe2129d46b427a50f8d57852d4d556d3904a6fa07e"
   },
   {
     "id": 474,
@@ -3514,7 +4939,12 @@
     "image_file_path": "Image/Enemies/474.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/474.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9575,
+    "sha256": "359d5be5f075e944dff422165b8b4329c9173a64c39098b20e3a27a937a56e2f"
   },
   {
     "id": 475,
@@ -3537,7 +4967,12 @@
       873,
       926,
       928
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9139,
+    "sha256": "3f82d1221f8dc9690faf6fccab3e63ab5d63d5097e8f68ac950e61baa9061817"
   },
   {
     "id": 476,
@@ -3554,7 +4989,12 @@
     "enemy_types": [
       476,
       554
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9543,
+    "sha256": "cf45e806331a921877990040283c78e9779f6f261b050741cd0508256bc0008d"
   },
   {
     "id": 477,
@@ -3571,7 +5011,12 @@
     "enemy_types": [
       477,
       549
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9057,
+    "sha256": "1b204ba92d7e8e81861e0c232c9a79a8f9660ed8f0f9f49c1d2bfd880f769247"
   },
   {
     "id": 478,
@@ -3587,7 +5032,12 @@
     ],
     "enemy_types": [
       478
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8806,
+    "sha256": "80de0ea61e6f7a5db132272d85357eecebfde2e4f291919403d07801a29169a6"
   },
   {
     "id": 479,
@@ -3605,7 +5055,12 @@
       479,
       526,
       558
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9336,
+    "sha256": "dae44786c4e85212b1e34b9a6e8f34460207bd9fe75d000ea3e91e77f592a664"
   },
   {
     "id": 480,
@@ -3622,7 +5077,12 @@
     "enemy_types": [
       480,
       579
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8458,
+    "sha256": "14176f3b85ccff732168c96200f85d7cde56f0b711307289bada21f7dbede4a4"
   },
   {
     "id": 481,
@@ -3642,7 +5102,12 @@
       864,
       865,
       1041
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10366,
+    "sha256": "ae0cbf4d2e4e28553fd2a17175ef43e360ceee19df25dbec2dbe1d71a5066c6c"
   },
   {
     "id": 482,
@@ -3658,7 +5123,12 @@
     ],
     "enemy_types": [
       482
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8958,
+    "sha256": "9c6f9800932b7a0497e51fbf91d7541ece8ec80e9dce9390687e5e03db146f67"
   },
   {
     "id": 483,
@@ -3676,7 +5146,12 @@
       483,
       525,
       841
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10498,
+    "sha256": "bb7d4ea4a9dd33d47d3734e2868b83590850c4cc7e7cfed2399e57fe19bdaae5"
   },
   {
     "id": 484,
@@ -3694,7 +5169,12 @@
       484,
       544,
       545
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9736,
+    "sha256": "8ae898d3711a002d530f14db7c888287a368a5d031beae28e06a2e8fd6c71631"
   },
   {
     "id": 485,
@@ -3712,7 +5192,12 @@
       485,
       888,
       889
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9027,
+    "sha256": "f8efda59e5ab62502a7acbd2d96cf52bb7f5d5866ff01ce9dd15f36279657208"
   },
   {
     "id": 486,
@@ -3730,7 +5215,12 @@
       486,
       517,
       869
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9495,
+    "sha256": "fe9ab3828a90e3d8c9ba889121c2f8896f860f1e35ca9c6ae5eef59e2d0bc844"
   },
   {
     "id": 487,
@@ -3751,7 +5241,12 @@
       854,
       855,
       856
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7780,
+    "sha256": "b27e2e72bd50633da85228d033bcf67786f6d2a825d6336aec3fe6fec755de16"
   },
   {
     "id": 488,
@@ -3768,7 +5263,12 @@
     "enemy_types": [
       488,
       551
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8741,
+    "sha256": "e8343495b831a1faa2f25b834148de641908406825fd97af3aa6360ec6c6b357"
   },
   {
     "id": 489,
@@ -3787,7 +5287,12 @@
       575,
       874,
       957
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 5488,
+    "sha256": "4d40e851c693f8a7e748076ba382a7ecd88f9f16afc20a5072ff2acd7a37717c"
   },
   {
     "id": 490,
@@ -3804,7 +5309,12 @@
     "enemy_types": [
       490,
       577
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7752,
+    "sha256": "4411d53a7f57f03005cc02b86444bba05f21f9e3b452b6d27101263ddb3319d7"
   },
   {
     "id": 491,
@@ -3821,7 +5331,12 @@
     "enemy_types": [
       491,
       561
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9758,
+    "sha256": "9c56bfa011d5564a76372bb4cbca517324ec06f631e95a1a28e332296dedd47b"
   },
   {
     "id": 492,
@@ -3839,7 +5354,12 @@
       492,
       543,
       883
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9353,
+    "sha256": "c68ffaf3f9438227662ba3dbede9be1f02dbfeece19d90b68964023af18c4b28"
   },
   {
     "id": 493,
@@ -3855,7 +5375,12 @@
     ],
     "enemy_types": [
       493
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9458,
+    "sha256": "4f46ebb9e8996f1a34ab9aa39ecb701dfd73811b567db8c7a0651e054517d6fa"
   },
   {
     "id": 494,
@@ -3873,7 +5398,12 @@
       494,
       540,
       542
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9690,
+    "sha256": "5413f83563d2f5b2540d9ac862943d92ececa1a36017668dbb8205a37a2d64c0"
   },
   {
     "id": 495,
@@ -3891,7 +5421,12 @@
       495,
       572,
       887
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10064,
+    "sha256": "aee30c095378bac49fa296f1c3349304720b74538c00ed0e840271e72f13aeb2"
   },
   {
     "id": 496,
@@ -3907,7 +5442,12 @@
     ],
     "enemy_types": [
       496
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8724,
+    "sha256": "39f90cca61c0e8ae09b4a62e764c64a24a6e0eb8328e8eb5b7913d928b8d7af0"
   },
   {
     "id": 497,
@@ -3925,7 +5465,12 @@
       497,
       557,
       884
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11473,
+    "sha256": "dc5eda9d4b863bb22960cf23ed0bdc14c5f3875fc65b3a3bae950640a0d68e71"
   },
   {
     "id": 498,
@@ -3944,7 +5489,12 @@
       574,
       881,
       882
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8927,
+    "sha256": "d406fcac13a660ea05c19c12fdd170f6b7c32ca70c343c53c367b2d32d050bdb"
   },
   {
     "id": 499,
@@ -3952,7 +5502,12 @@
     "image_file_path": "Image/Enemies/499.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/499.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8594,
+    "sha256": "c4d71a5c7e1233adbddd3bcee97fa2e4fa580d1bfe77ce7e52167e8319473ce9"
   },
   {
     "id": 500,
@@ -3974,7 +5529,12 @@
       978,
       995,
       1137
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8260,
+    "sha256": "6c38330f8eaffab087490f7772e6fe1cf4b670db9ab8a4c741343df978c835e6"
   },
   {
     "id": 501,
@@ -3982,7 +5542,12 @@
     "image_file_path": "Image/Enemies/501.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/501.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8967,
+    "sha256": "0dc71954de0287384bb306744dd6361b0e751d266a43b0e0469ab67c34dd1add"
   },
   {
     "id": 502,
@@ -3990,7 +5555,12 @@
     "image_file_path": "Image/Enemies/502.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/502.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9278,
+    "sha256": "e409c5c9df82c71e9c39369dfacc41427567c1d3c0bffd4c349cc9c745ccfcc8"
   },
   {
     "id": 503,
@@ -3998,7 +5568,12 @@
     "image_file_path": "Image/Enemies/503.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/503.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8828,
+    "sha256": "98a5d9ea4d641cf769edd42f4bc26853839ce18b533ad73dda4e7972b3f7292f"
   },
   {
     "id": 504,
@@ -4015,7 +5590,12 @@
     "enemy_types": [
       504,
       578
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 5723,
+    "sha256": "436efb7440ffbcaad7e4d091227ddeac638a0ff9d97b1ae1b7c31f2ba751f9df"
   },
   {
     "id": 505,
@@ -4038,7 +5618,12 @@
       1113,
       1131,
       1133
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7943,
+    "sha256": "a08311dcfb99c4e61caf12d9c33d9e885736462c4ed2c1477af97853021a4475"
   },
   {
     "id": 506,
@@ -4061,7 +5646,12 @@
       1122,
       1128,
       1136
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8699,
+    "sha256": "959e1be7d78beab78b371652da5a31aac42ca0bd7cddf41f6c1c1a4d69d86563"
   },
   {
     "id": 507,
@@ -4069,7 +5659,12 @@
     "image_file_path": "Image/Enemies/507.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/507.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8681,
+    "sha256": "fb16a9bbe785a91c8923569ed9c3529c865d9d743b1545031395a4b0b7941083"
   },
   {
     "id": 508,
@@ -4087,7 +5682,12 @@
       508,
       779,
       803
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9141,
+    "sha256": "c5b347066d4e718b7ccc3ecdc4ce4df51ff116c6fdca70be7bec1a1813405492"
   },
   {
     "id": 509,
@@ -4103,7 +5703,12 @@
     ],
     "enemy_types": [
       509
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9881,
+    "sha256": "0f6e3b4bbeb3c22e825cc853a96bd534225cc60d427e76280c66c6cc96926284"
   },
   {
     "id": 510,
@@ -4111,7 +5716,12 @@
     "image_file_path": "Image/Enemies/510.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/510.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8699,
+    "sha256": "959e1be7d78beab78b371652da5a31aac42ca0bd7cddf41f6c1c1a4d69d86563"
   },
   {
     "id": 511,
@@ -4119,7 +5729,12 @@
     "image_file_path": "Image/Enemies/511.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/511.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9598,
+    "sha256": "7194ef151d1912102388f4b5614f5b5c2989bf4695093882bf2bbb9cea76da62"
   },
   {
     "id": 512,
@@ -4127,7 +5742,12 @@
     "image_file_path": "Image/Enemies/512.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/512.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9753,
+    "sha256": "4f8aeec360bab9b5fe2d68994aeffdb72f2cadea9c475f3b4d0d19735e54d6ca"
   },
   {
     "id": 513,
@@ -4135,7 +5755,12 @@
     "image_file_path": "Image/Enemies/513.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/513.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9463,
+    "sha256": "3d902266ca2766eb4b80589c918891bd2fe1f9a6549eef7f91273817f9c2ddaa"
   },
   {
     "id": 514,
@@ -4143,7 +5768,12 @@
     "image_file_path": "Image/Enemies/514.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/514.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9598,
+    "sha256": "7194ef151d1912102388f4b5614f5b5c2989bf4695093882bf2bbb9cea76da62"
   },
   {
     "id": 515,
@@ -4151,7 +5781,12 @@
     "image_file_path": "Image/Enemies/515.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/515.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7780,
+    "sha256": "b27e2e72bd50633da85228d033bcf67786f6d2a825d6336aec3fe6fec755de16"
   },
   {
     "id": 516,
@@ -4159,7 +5794,12 @@
     "image_file_path": "Image/Enemies/516.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/516.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9598,
+    "sha256": "7194ef151d1912102388f4b5614f5b5c2989bf4695093882bf2bbb9cea76da62"
   },
   {
     "id": 517,
@@ -4167,7 +5807,12 @@
     "image_file_path": "Image/Enemies/517.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/517.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9495,
+    "sha256": "fe9ab3828a90e3d8c9ba889121c2f8896f860f1e35ca9c6ae5eef59e2d0bc844"
   },
   {
     "id": 518,
@@ -4175,7 +5820,12 @@
     "image_file_path": "Image/Enemies/518.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/518.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9463,
+    "sha256": "3d902266ca2766eb4b80589c918891bd2fe1f9a6549eef7f91273817f9c2ddaa"
   },
   {
     "id": 519,
@@ -4195,7 +5845,12 @@
       848,
       1117,
       1127
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8883,
+    "sha256": "f733cc65dac1d8544126dea458b8c032a7745bf6180edf9428f4d408270c0462"
   },
   {
     "id": 520,
@@ -4203,7 +5858,12 @@
     "image_file_path": "Image/Enemies/520.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/520.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9060,
+    "sha256": "2a40db629527064a8bcfe4579a211fdfc07dab587fcc2fa837658801748cf363"
   },
   {
     "id": 521,
@@ -4211,7 +5871,12 @@
     "image_file_path": "Image/Enemies/521.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/521.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8540,
+    "sha256": "1aeef079732ba9d3f08ce8e17c6b0a778eb34508acfec5c7ae21cbce49905539"
   },
   {
     "id": 522,
@@ -4219,7 +5884,12 @@
     "image_file_path": "Image/Enemies/522.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/522.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9060,
+    "sha256": "2a40db629527064a8bcfe4579a211fdfc07dab587fcc2fa837658801748cf363"
   },
   {
     "id": 523,
@@ -4227,7 +5897,12 @@
     "image_file_path": "Image/Enemies/523.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/523.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8576,
+    "sha256": "7153e90030868d7b98a09cac8946032ca565c432df7485a2f2443cc22de91131"
   },
   {
     "id": 524,
@@ -4235,7 +5910,12 @@
     "image_file_path": "Image/Enemies/524.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/524.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8540,
+    "sha256": "1aeef079732ba9d3f08ce8e17c6b0a778eb34508acfec5c7ae21cbce49905539"
   },
   {
     "id": 525,
@@ -4243,7 +5923,12 @@
     "image_file_path": "Image/Enemies/525.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/525.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10498,
+    "sha256": "bb7d4ea4a9dd33d47d3734e2868b83590850c4cc7e7cfed2399e57fe19bdaae5"
   },
   {
     "id": 526,
@@ -4251,7 +5936,12 @@
     "image_file_path": "Image/Enemies/526.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/526.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9336,
+    "sha256": "dae44786c4e85212b1e34b9a6e8f34460207bd9fe75d000ea3e91e77f592a664"
   },
   {
     "id": 527,
@@ -4259,7 +5949,12 @@
     "image_file_path": "Image/Enemies/527.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/527.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9598,
+    "sha256": "7194ef151d1912102388f4b5614f5b5c2989bf4695093882bf2bbb9cea76da62"
   },
   {
     "id": 528,
@@ -4267,7 +5962,12 @@
     "image_file_path": "Image/Enemies/528.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/528.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8636,
+    "sha256": "a1dcc67fb4729882ad4213fc916e3b29476a46826cc550b8e251889724276f51"
   },
   {
     "id": 529,
@@ -4275,7 +5975,12 @@
     "image_file_path": "Image/Enemies/529.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/529.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8594,
+    "sha256": "c4d71a5c7e1233adbddd3bcee97fa2e4fa580d1bfe77ce7e52167e8319473ce9"
   },
   {
     "id": 530,
@@ -4283,7 +5988,12 @@
     "image_file_path": "Image/Enemies/530.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/530.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9060,
+    "sha256": "2a40db629527064a8bcfe4579a211fdfc07dab587fcc2fa837658801748cf363"
   },
   {
     "id": 531,
@@ -4291,7 +6001,12 @@
     "image_file_path": "Image/Enemies/531.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/531.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9753,
+    "sha256": "4f8aeec360bab9b5fe2d68994aeffdb72f2cadea9c475f3b4d0d19735e54d6ca"
   },
   {
     "id": 532,
@@ -4299,7 +6014,12 @@
     "image_file_path": "Image/Enemies/532.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/532.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8899,
+    "sha256": "ff7d21dce71cb2333c4d4e1f2e660881422e5ad73835fa7868bcddb9b27e1e6c"
   },
   {
     "id": 533,
@@ -4307,7 +6027,12 @@
     "image_file_path": "Image/Enemies/533.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/533.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9598,
+    "sha256": "7194ef151d1912102388f4b5614f5b5c2989bf4695093882bf2bbb9cea76da62"
   },
   {
     "id": 534,
@@ -4315,7 +6040,12 @@
     "image_file_path": "Image/Enemies/534.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/534.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8828,
+    "sha256": "98a5d9ea4d641cf769edd42f4bc26853839ce18b533ad73dda4e7972b3f7292f"
   },
   {
     "id": 535,
@@ -4323,7 +6053,12 @@
     "image_file_path": "Image/Enemies/535.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/535.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8899,
+    "sha256": "ff7d21dce71cb2333c4d4e1f2e660881422e5ad73835fa7868bcddb9b27e1e6c"
   },
   {
     "id": 536,
@@ -4331,7 +6066,12 @@
     "image_file_path": "Image/Enemies/536.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/536.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8439,
+    "sha256": "1767555d657dd1a41bc69b06fbc3e74da456221747e50acbf2c2dafbe9ea7a88"
   },
   {
     "id": 537,
@@ -4339,7 +6079,12 @@
     "image_file_path": "Image/Enemies/537.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/537.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8883,
+    "sha256": "f733cc65dac1d8544126dea458b8c032a7745bf6180edf9428f4d408270c0462"
   },
   {
     "id": 538,
@@ -4347,7 +6092,12 @@
     "image_file_path": "Image/Enemies/538.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/538.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8788,
+    "sha256": "c9520795e2c0185ecf40483c80fbde70d85ac2c713a907c10a20c1c45d4be7d8"
   },
   {
     "id": 539,
@@ -4355,7 +6105,12 @@
     "image_file_path": "Image/Enemies/539.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/539.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9463,
+    "sha256": "3d902266ca2766eb4b80589c918891bd2fe1f9a6549eef7f91273817f9c2ddaa"
   },
   {
     "id": 540,
@@ -4363,7 +6118,12 @@
     "image_file_path": "Image/Enemies/540.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/540.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9690,
+    "sha256": "5413f83563d2f5b2540d9ac862943d92ececa1a36017668dbb8205a37a2d64c0"
   },
   {
     "id": 541,
@@ -4371,7 +6131,12 @@
     "image_file_path": "Image/Enemies/541.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/541.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7780,
+    "sha256": "b27e2e72bd50633da85228d033bcf67786f6d2a825d6336aec3fe6fec755de16"
   },
   {
     "id": 542,
@@ -4379,7 +6144,12 @@
     "image_file_path": "Image/Enemies/542.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/542.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9690,
+    "sha256": "5413f83563d2f5b2540d9ac862943d92ececa1a36017668dbb8205a37a2d64c0"
   },
   {
     "id": 543,
@@ -4387,7 +6157,12 @@
     "image_file_path": "Image/Enemies/543.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/543.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9353,
+    "sha256": "c68ffaf3f9438227662ba3dbede9be1f02dbfeece19d90b68964023af18c4b28"
   },
   {
     "id": 544,
@@ -4395,7 +6170,12 @@
     "image_file_path": "Image/Enemies/544.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/544.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9736,
+    "sha256": "8ae898d3711a002d530f14db7c888287a368a5d031beae28e06a2e8fd6c71631"
   },
   {
     "id": 545,
@@ -4403,7 +6183,12 @@
     "image_file_path": "Image/Enemies/545.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/545.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9736,
+    "sha256": "8ae898d3711a002d530f14db7c888287a368a5d031beae28e06a2e8fd6c71631"
   },
   {
     "id": 546,
@@ -4411,7 +6196,12 @@
     "image_file_path": "Image/Enemies/546.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/546.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9463,
+    "sha256": "3d902266ca2766eb4b80589c918891bd2fe1f9a6549eef7f91273817f9c2ddaa"
   },
   {
     "id": 547,
@@ -4431,7 +6221,12 @@
       784,
       794,
       795
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9110,
+    "sha256": "42b58533069d464df5b230e9a7fae5e0cdff9e11e67478408a757824f7572246"
   },
   {
     "id": 548,
@@ -4458,7 +6253,12 @@
       1052,
       1055,
       1058
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9280,
+    "sha256": "f366420ccaf8afac80cacee28dd8a880832792f8b006ae8e0390682e94dde215"
   },
   {
     "id": 549,
@@ -4466,7 +6266,12 @@
     "image_file_path": "Image/Enemies/549.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/549.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9057,
+    "sha256": "1b204ba92d7e8e81861e0c232c9a79a8f9660ed8f0f9f49c1d2bfd880f769247"
   },
   {
     "id": 550,
@@ -4474,7 +6279,12 @@
     "image_file_path": "Image/Enemies/550.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/550.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8988,
+    "sha256": "c2c8b2fa3ef18c0b2ad75a6aff86d34e480299045d6093ccb04d9e484760a7bd"
   },
   {
     "id": 551,
@@ -4482,7 +6292,12 @@
     "image_file_path": "Image/Enemies/551.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/551.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8741,
+    "sha256": "e8343495b831a1faa2f25b834148de641908406825fd97af3aa6360ec6c6b357"
   },
   {
     "id": 552,
@@ -4490,7 +6305,12 @@
     "image_file_path": "Image/Enemies/552.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/552.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8988,
+    "sha256": "c2c8b2fa3ef18c0b2ad75a6aff86d34e480299045d6093ccb04d9e484760a7bd"
   },
   {
     "id": 553,
@@ -4509,7 +6329,12 @@
       555,
       559,
       778
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8513,
+    "sha256": "d4c7fab48b48d4f6660789a5089f0d354b1fbc95d419e7fe2b51fe79a3f55960"
   },
   {
     "id": 554,
@@ -4517,7 +6342,12 @@
     "image_file_path": "Image/Enemies/554.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/554.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9185,
+    "sha256": "d767b24b3ff83935d80a5d9a1dad8bcf6cd7cdfc0d1431a819770489b435f14d"
   },
   {
     "id": 555,
@@ -4525,7 +6355,12 @@
     "image_file_path": "Image/Enemies/555.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/555.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8513,
+    "sha256": "d4c7fab48b48d4f6660789a5089f0d354b1fbc95d419e7fe2b51fe79a3f55960"
   },
   {
     "id": 556,
@@ -4533,7 +6368,12 @@
     "image_file_path": "Image/Enemies/556.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/556.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8972,
+    "sha256": "130e0250c8764557a795cdbe2129d46b427a50f8d57852d4d556d3904a6fa07e"
   },
   {
     "id": 557,
@@ -4541,7 +6381,12 @@
     "image_file_path": "Image/Enemies/557.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/557.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11473,
+    "sha256": "dc5eda9d4b863bb22960cf23ed0bdc14c5f3875fc65b3a3bae950640a0d68e71"
   },
   {
     "id": 558,
@@ -4549,7 +6394,12 @@
     "image_file_path": "Image/Enemies/558.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/558.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9336,
+    "sha256": "dae44786c4e85212b1e34b9a6e8f34460207bd9fe75d000ea3e91e77f592a664"
   },
   {
     "id": 559,
@@ -4557,7 +6407,12 @@
     "image_file_path": "Image/Enemies/559.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/559.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8513,
+    "sha256": "d4c7fab48b48d4f6660789a5089f0d354b1fbc95d419e7fe2b51fe79a3f55960"
   },
   {
     "id": 560,
@@ -4576,7 +6431,12 @@
       850,
       1120,
       1126
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10709,
+    "sha256": "b42c1984954935730a11937670e049412e2f1b1f5de552b4529472f903d847db"
   },
   {
     "id": 561,
@@ -4584,7 +6444,12 @@
     "image_file_path": "Image/Enemies/561.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/561.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9758,
+    "sha256": "9c56bfa011d5564a76372bb4cbca517324ec06f631e95a1a28e332296dedd47b"
   },
   {
     "id": 562,
@@ -4592,7 +6457,12 @@
     "image_file_path": "Image/Enemies/562.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/562.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10068,
+    "sha256": "ab3c2d231073ff00c942b1d09fa5258636513556f212d1819b70ffb777fef939"
   },
   {
     "id": 563,
@@ -4610,7 +6480,12 @@
       563,
       730,
       765
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9461,
+    "sha256": "74c131da5cf1bf22416b731a200995cdc04a328a7e0167ebd99e5718a7f58d25"
   },
   {
     "id": 564,
@@ -4626,7 +6501,12 @@
     ],
     "enemy_types": [
       564
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9309,
+    "sha256": "207ba73b6f2bb6b5351438020bcb65eb0e593d9b51a3d0ff7605190131707189"
   },
   {
     "id": 565,
@@ -4634,7 +6514,12 @@
     "image_file_path": "Image/Enemies/565.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/565.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7943,
+    "sha256": "a08311dcfb99c4e61caf12d9c33d9e885736462c4ed2c1477af97853021a4475"
   },
   {
     "id": 566,
@@ -4642,7 +6527,12 @@
     "image_file_path": "Image/Enemies/566.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/566.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9262,
+    "sha256": "aa90bc144ce0a589d7f8e3f1b07561544c24a90472d1865191677ad191a3d295"
   },
   {
     "id": 567,
@@ -4650,7 +6540,12 @@
     "image_file_path": "Image/Enemies/567.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/567.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9621,
+    "sha256": "88cba57253a64bffe57b5fe2e4332ac18a8d9fd7aa08531de0877813a2268b8b"
   },
   {
     "id": 568,
@@ -4666,7 +6561,12 @@
     ],
     "enemy_types": [
       568
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8674,
+    "sha256": "a0e5dcd232f35700a5c3b796e24c5197e8a491bff16177f5aca9285cb290b29b"
   },
   {
     "id": 569,
@@ -4683,7 +6583,12 @@
     "enemy_types": [
       569,
       764
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7936,
+    "sha256": "a0b0f232858dd85ff19abd7c39ff260374abc365b59d9fb3bceb614076932e0d"
   },
   {
     "id": 570,
@@ -4699,7 +6604,12 @@
     ],
     "enemy_types": [
       570
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8414,
+    "sha256": "184d01ba38c71ddb986ff50c3d3d2115ae52392bad42de1c52524c226ece77bf"
   },
   {
     "id": 571,
@@ -4707,7 +6617,12 @@
     "image_file_path": "Image/Enemies/571.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/571.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9280,
+    "sha256": "f366420ccaf8afac80cacee28dd8a880832792f8b006ae8e0390682e94dde215"
   },
   {
     "id": 572,
@@ -4715,7 +6630,12 @@
     "image_file_path": "Image/Enemies/572.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/572.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10064,
+    "sha256": "aee30c095378bac49fa296f1c3349304720b74538c00ed0e840271e72f13aeb2"
   },
   {
     "id": 573,
@@ -4733,7 +6653,12 @@
       573,
       870,
       871
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8797,
+    "sha256": "38c7709c9fec362b141efcbf5846c8a4668c49ca08507a623d0c54d87d27b6c6"
   },
   {
     "id": 574,
@@ -4741,7 +6666,12 @@
     "image_file_path": "Image/Enemies/574.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/574.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8927,
+    "sha256": "d406fcac13a660ea05c19c12fdd170f6b7c32ca70c343c53c367b2d32d050bdb"
   },
   {
     "id": 575,
@@ -4749,7 +6679,12 @@
     "image_file_path": "Image/Enemies/575.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/575.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 5488,
+    "sha256": "4d40e851c693f8a7e748076ba382a7ecd88f9f16afc20a5072ff2acd7a37717c"
   },
   {
     "id": 576,
@@ -4757,7 +6692,12 @@
     "image_file_path": "Image/Enemies/576.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/576.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8999,
+    "sha256": "769942fe19270a6cd1f4f8749f9788ce98368252cb37401451cc45876bd1e6de"
   },
   {
     "id": 577,
@@ -4765,7 +6705,12 @@
     "image_file_path": "Image/Enemies/577.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/577.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7752,
+    "sha256": "4411d53a7f57f03005cc02b86444bba05f21f9e3b452b6d27101263ddb3319d7"
   },
   {
     "id": 578,
@@ -4773,7 +6718,12 @@
     "image_file_path": "Image/Enemies/578.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/578.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 5723,
+    "sha256": "436efb7440ffbcaad7e4d091227ddeac638a0ff9d97b1ae1b7c31f2ba751f9df"
   },
   {
     "id": 579,
@@ -4781,7 +6731,12 @@
     "image_file_path": "Image/Enemies/579.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/579.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8458,
+    "sha256": "14176f3b85ccff732168c96200f85d7cde56f0b711307289bada21f7dbede4a4"
   },
   {
     "id": 580,
@@ -4789,7 +6744,12 @@
     "image_file_path": "Image/Enemies/580.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/580.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8594,
+    "sha256": "c4d71a5c7e1233adbddd3bcee97fa2e4fa580d1bfe77ce7e52167e8319473ce9"
   },
   {
     "id": 581,
@@ -4797,7 +6757,12 @@
     "image_file_path": "Image/Enemies/581.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/581.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9086,
+    "sha256": "1a3ebd3a14b45d2cabdb07182ec6ae51033497754a7611885af8fea42a40f4a6"
   },
   {
     "id": 582,
@@ -4805,7 +6770,12 @@
     "image_file_path": "Image/Enemies/582.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/582.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8988,
+    "sha256": "c2c8b2fa3ef18c0b2ad75a6aff86d34e480299045d6093ccb04d9e484760a7bd"
   },
   {
     "id": 583,
@@ -4813,7 +6783,12 @@
     "image_file_path": "Image/Enemies/583.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/583.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10194,
+    "sha256": "d8389b5d5981dcab974d45f262960e9f560fbef4ff06931e457d862165cbac51"
   },
   {
     "id": 584,
@@ -4821,7 +6796,12 @@
     "image_file_path": "Image/Enemies/584.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/584.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8860,
+    "sha256": "6e688720bf0502b553eddc4786f8f4d4367cafe754209c8bae860d4732613021"
   },
   {
     "id": 585,
@@ -4829,7 +6809,12 @@
     "image_file_path": "Image/Enemies/585.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/585.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9753,
+    "sha256": "4f8aeec360bab9b5fe2d68994aeffdb72f2cadea9c475f3b4d0d19735e54d6ca"
   },
   {
     "id": 586,
@@ -4837,7 +6822,12 @@
     "image_file_path": "Image/Enemies/586.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/586.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8694,
+    "sha256": "1a340ae881bd5f01a0724729823b8087f84e933bcbb7d9516e47c247f6a40e0c"
   },
   {
     "id": 587,
@@ -4845,7 +6835,12 @@
     "image_file_path": "Image/Enemies/587.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/587.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9278,
+    "sha256": "12ffd8e46efc4520a84e4e6e0ab1982d14f0e32be3636ebe7dcd7fad5bc02b50"
   },
   {
     "id": 588,
@@ -4853,7 +6848,12 @@
     "image_file_path": "Image/Enemies/588.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/588.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9060,
+    "sha256": "2a40db629527064a8bcfe4579a211fdfc07dab587fcc2fa837658801748cf363"
   },
   {
     "id": 589,
@@ -4861,7 +6861,12 @@
     "image_file_path": "Image/Enemies/589.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/589.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9060,
+    "sha256": "2a40db629527064a8bcfe4579a211fdfc07dab587fcc2fa837658801748cf363"
   },
   {
     "id": 590,
@@ -4869,7 +6874,12 @@
     "image_file_path": "Image/Enemies/590.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/590.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8481,
+    "sha256": "dc9a509345fd639d4d38ce2993cda5f589f02cdf35e4c9218cc6e3bde2caf6eb"
   },
   {
     "id": 591,
@@ -4877,7 +6887,12 @@
     "image_file_path": "Image/Enemies/591.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/591.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8636,
+    "sha256": "a1dcc67fb4729882ad4213fc916e3b29476a46826cc550b8e251889724276f51"
   },
   {
     "id": 592,
@@ -4885,7 +6900,12 @@
     "image_file_path": "Image/Enemies/592.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/592.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8694,
+    "sha256": "1a340ae881bd5f01a0724729823b8087f84e933bcbb7d9516e47c247f6a40e0c"
   },
   {
     "id": 593,
@@ -4893,7 +6913,12 @@
     "image_file_path": "Image/Enemies/593.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/593.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8636,
+    "sha256": "a1dcc67fb4729882ad4213fc916e3b29476a46826cc550b8e251889724276f51"
   },
   {
     "id": 594,
@@ -4901,7 +6926,12 @@
     "image_file_path": "Image/Enemies/594.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/594.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8636,
+    "sha256": "a1dcc67fb4729882ad4213fc916e3b29476a46826cc550b8e251889724276f51"
   },
   {
     "id": 595,
@@ -4909,7 +6939,12 @@
     "image_file_path": "Image/Enemies/595.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/595.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7749,
+    "sha256": "6cd5fc1d987263404d36f5f5b20576eeae405961ac9e2a339fef5b514a1c0c2d"
   },
   {
     "id": 596,
@@ -4926,7 +6961,12 @@
     "enemy_types": [
       596,
       1175
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8794,
+    "sha256": "b4945e4fdd1915e306e132f1e0e59a0bfc24298a65e071add6e4ddd674731279"
   },
   {
     "id": 597,
@@ -4934,7 +6974,12 @@
     "image_file_path": "Image/Enemies/597.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/597.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8439,
+    "sha256": "1767555d657dd1a41bc69b06fbc3e74da456221747e50acbf2c2dafbe9ea7a88"
   },
   {
     "id": 598,
@@ -4942,7 +6987,12 @@
     "image_file_path": "Image/Enemies/598.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/598.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8988,
+    "sha256": "c2c8b2fa3ef18c0b2ad75a6aff86d34e480299045d6093ccb04d9e484760a7bd"
   },
   {
     "id": 599,
@@ -4950,7 +7000,12 @@
     "image_file_path": "Image/Enemies/599.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/599.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9060,
+    "sha256": "2a40db629527064a8bcfe4579a211fdfc07dab587fcc2fa837658801748cf363"
   },
   {
     "id": 600,
@@ -4958,7 +7013,12 @@
     "image_file_path": "Image/Enemies/600.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/600.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9262,
+    "sha256": "aa90bc144ce0a589d7f8e3f1b07561544c24a90472d1865191677ad191a3d295"
   },
   {
     "id": 601,
@@ -4966,7 +7026,12 @@
     "image_file_path": "Image/Enemies/601.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/601.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8260,
+    "sha256": "6c38330f8eaffab087490f7772e6fe1cf4b670db9ab8a4c741343df978c835e6"
   },
   {
     "id": 602,
@@ -4974,7 +7039,12 @@
     "image_file_path": "Image/Enemies/602.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/602.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9134,
+    "sha256": "f37f6bdf02538b501dea0e60140718590b8d8906165f38cb9051a43f3b077b0f"
   },
   {
     "id": 603,
@@ -4982,7 +7052,12 @@
     "image_file_path": "Image/Enemies/603.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/603.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7749,
+    "sha256": "6cd5fc1d987263404d36f5f5b20576eeae405961ac9e2a339fef5b514a1c0c2d"
   },
   {
     "id": 604,
@@ -4990,7 +7065,12 @@
     "image_file_path": "Image/Enemies/604.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/604.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9134,
+    "sha256": "f37f6bdf02538b501dea0e60140718590b8d8906165f38cb9051a43f3b077b0f"
   },
   {
     "id": 605,
@@ -4998,7 +7078,12 @@
     "image_file_path": "Image/Enemies/605.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/605.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8636,
+    "sha256": "a1dcc67fb4729882ad4213fc916e3b29476a46826cc550b8e251889724276f51"
   },
   {
     "id": 606,
@@ -5006,7 +7091,12 @@
     "image_file_path": "Image/Enemies/606.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/606.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8260,
+    "sha256": "6c38330f8eaffab087490f7772e6fe1cf4b670db9ab8a4c741343df978c835e6"
   },
   {
     "id": 607,
@@ -5014,7 +7104,12 @@
     "image_file_path": "Image/Enemies/607.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/607.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8481,
+    "sha256": "dc9a509345fd639d4d38ce2993cda5f589f02cdf35e4c9218cc6e3bde2caf6eb"
   },
   {
     "id": 608,
@@ -5022,7 +7117,12 @@
     "image_file_path": "Image/Enemies/608.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/608.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8694,
+    "sha256": "1a340ae881bd5f01a0724729823b8087f84e933bcbb7d9516e47c247f6a40e0c"
   },
   {
     "id": 609,
@@ -5030,7 +7130,12 @@
     "image_file_path": "Image/Enemies/609.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/609.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8972,
+    "sha256": "130e0250c8764557a795cdbe2129d46b427a50f8d57852d4d556d3904a6fa07e"
   },
   {
     "id": 610,
@@ -5038,7 +7143,12 @@
     "image_file_path": "Image/Enemies/610.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/610.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8636,
+    "sha256": "a1dcc67fb4729882ad4213fc916e3b29476a46826cc550b8e251889724276f51"
   },
   {
     "id": 611,
@@ -5046,7 +7156,12 @@
     "image_file_path": "Image/Enemies/611.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/611.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7007,
+    "sha256": "41aafdb59dd532691d6569431f65749399de28875372596e3adc39d82af6679d"
   },
   {
     "id": 612,
@@ -5054,7 +7169,12 @@
     "image_file_path": "Image/Enemies/612.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/612.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7962,
+    "sha256": "bfe8c01b70c5a83d5f1c10fe11aa00b588d1425cf2a649d174a8760f5951701d"
   },
   {
     "id": 613,
@@ -5062,7 +7182,12 @@
     "image_file_path": "Image/Enemies/613.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/613.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8640,
+    "sha256": "24e067651064b614b77f7d7e5c455bb210e023884a4ff2c3179c898bf62289a1"
   },
   {
     "id": 614,
@@ -5070,7 +7195,12 @@
     "image_file_path": "Image/Enemies/614.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/614.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10549,
+    "sha256": "439f760539707456a911c97174daf07e0d96461897b4096a3df709c38234d7eb"
   },
   {
     "id": 615,
@@ -5078,7 +7208,12 @@
     "image_file_path": "Image/Enemies/615.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/615.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7448,
+    "sha256": "8f3cf5f9aa59c0ed91bf7846dd46c648e8a586044219d68cc0264ac21f02e3ef"
   },
   {
     "id": 616,
@@ -5086,7 +7221,12 @@
     "image_file_path": "Image/Enemies/616.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/616.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9262,
+    "sha256": "46badc79fb5b76a179a960b7a414a176ed1ac316580356b822ddd4c8fc4d1aeb"
   },
   {
     "id": 617,
@@ -5094,7 +7234,12 @@
     "image_file_path": "Image/Enemies/617.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/617.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8167,
+    "sha256": "d40d4f11d573d61aba12426d42f780e9973cf346bb73f7f5aa3c115ddfbd90a6"
   },
   {
     "id": 618,
@@ -5102,7 +7247,12 @@
     "image_file_path": "Image/Enemies/618.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/618.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8812,
+    "sha256": "7791b341905cebc46eeec6ca7214062e803c9f4d57ff9a85ed4dffb95c67edd9"
   },
   {
     "id": 619,
@@ -5110,7 +7260,12 @@
     "image_file_path": "Image/Enemies/619.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/619.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10752,
+    "sha256": "fd44ae595971410cc677282b14dc80caea0a359c28feb88a8aea47486ee4fb43"
   },
   {
     "id": 620,
@@ -5118,7 +7273,12 @@
     "image_file_path": "Image/Enemies/620.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/620.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9150,
+    "sha256": "960d4c73c3628ced64bb8260e374f90bb11b60dd44c1ca50273f57151b920181"
   },
   {
     "id": 621,
@@ -5126,7 +7286,12 @@
     "image_file_path": "Image/Enemies/621.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/621.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 4995,
+    "sha256": "4f42fc01adb1ee9d903bd4b33b59ea70e7c3ae582db12020c63be0a9fb6c560f"
   },
   {
     "id": 622,
@@ -5134,7 +7299,12 @@
     "image_file_path": "Image/Enemies/622.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/622.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9090,
+    "sha256": "463a41585c5329b0262021eff1f1b25299c47615b6a5355cb16bcc3d2963ecbf"
   },
   {
     "id": 623,
@@ -5142,7 +7312,12 @@
     "image_file_path": "Image/Enemies/623.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/623.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8739,
+    "sha256": "c15c36bf4306bdeefc1b068dae901010e16d4b30de6e380f8b35a52911d64814"
   },
   {
     "id": 624,
@@ -5150,7 +7325,12 @@
     "image_file_path": "Image/Enemies/624.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/624.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10943,
+    "sha256": "d49d019689750650c8e2af8d5cc0fe29d3be39d0e7b93a9a297b25a557a72dfc"
   },
   {
     "id": 625,
@@ -5158,7 +7338,12 @@
     "image_file_path": "Image/Enemies/625.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/625.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 5125,
+    "sha256": "89525d3162432597d2e67cd340866ab7f7b9b5b44d60400b6e10fab7fa6ec04d"
   },
   {
     "id": 626,
@@ -5166,7 +7351,12 @@
     "image_file_path": "Image/Enemies/626.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/626.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9168,
+    "sha256": "0f2e8a38fda4588c2384b73847aa3bdfdac50467fa75d583a8a5a9322e6e5889"
   },
   {
     "id": 627,
@@ -5174,7 +7364,12 @@
     "image_file_path": "Image/Enemies/627.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/627.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9156,
+    "sha256": "a3a9afb447f00b104c7c332225131ccddb2875259e9f8bcf942a8eff1994e029"
   },
   {
     "id": 628,
@@ -5182,7 +7377,12 @@
     "image_file_path": "Image/Enemies/628.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/628.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8763,
+    "sha256": "417b19d2136fcb2736764d800528174eca95952d0e86885213df99c5dfe56c1c"
   },
   {
     "id": 629,
@@ -5190,7 +7390,12 @@
     "image_file_path": "Image/Enemies/629.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/629.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11011,
+    "sha256": "afeb3e099be8ab50c26bcd98aa727a93539d528ada4299ce5160e133a30607be"
   },
   {
     "id": 630,
@@ -5198,7 +7403,12 @@
     "image_file_path": "Image/Enemies/630.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/630.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9077,
+    "sha256": "44d5b5a99ab3fce71db5f40454f130418421ee477788f699a6c668cc89503a9e"
   },
   {
     "id": 631,
@@ -5206,7 +7416,12 @@
     "image_file_path": "Image/Enemies/631.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/631.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9210,
+    "sha256": "4cf476cc5b78bdcc89986bffd1628e330005b306c50f6c94e52510392671f17f"
   },
   {
     "id": 632,
@@ -5214,7 +7429,12 @@
     "image_file_path": "Image/Enemies/632.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/632.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11149,
+    "sha256": "f85d037304c2e10da8d24f47189dc531e5f9e9e5a96dc7857dbeec2a67cb4ec4"
   },
   {
     "id": 633,
@@ -5222,7 +7442,12 @@
     "image_file_path": "Image/Enemies/633.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/633.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11588,
+    "sha256": "86c77768f0c24c178a814d7e7bc1dad28d7c94387f3c65617bc1dc42b21cf9a0"
   },
   {
     "id": 634,
@@ -5230,7 +7455,12 @@
     "image_file_path": "Image/Enemies/634.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/634.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 12355,
+    "sha256": "3ace255cdb25dbb7899d27b5f63853d56ef8152ce88d3dbfa75ff572c0cbc37e"
   },
   {
     "id": 635,
@@ -5238,7 +7468,12 @@
     "image_file_path": "Image/Enemies/635.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/635.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9263,
+    "sha256": "f27039be60c79deb5546a251f4514e5a329242009abcf5c63807871c711fce51"
   },
   {
     "id": 636,
@@ -5246,7 +7481,12 @@
     "image_file_path": "Image/Enemies/636.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/636.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 12072,
+    "sha256": "360014fc03da9de150119b6e09e0c69f7ea299fe6c6101e3878dcd1c1d7fc93c"
   },
   {
     "id": 637,
@@ -5254,7 +7494,12 @@
     "image_file_path": "Image/Enemies/637.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/637.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11472,
+    "sha256": "b6f9190c3d69243e6220ee402e32ac4124f16a1dcb7b532f58bc4ca04df65fd9"
   },
   {
     "id": 638,
@@ -5262,7 +7507,12 @@
     "image_file_path": "Image/Enemies/638.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/638.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11942,
+    "sha256": "920a3bfa2d653a0ac2cae06e2ed4fbf809de082e0857d4e49303c43907543e10"
   },
   {
     "id": 639,
@@ -5270,7 +7520,12 @@
     "image_file_path": "Image/Enemies/639.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/639.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 12569,
+    "sha256": "3dd67298293fe0915fed27a8f36a00b4b4ae0a0e66e6ad9f8ced8551cb8be793"
   },
   {
     "id": 640,
@@ -5278,7 +7533,12 @@
     "image_file_path": "Image/Enemies/640.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/640.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 12083,
+    "sha256": "f43f2cd9a4eac5fa6976fa81c2138a8c405c3e48192cfbef57826fa33a21620d"
   },
   {
     "id": 641,
@@ -5286,7 +7546,12 @@
     "image_file_path": "Image/Enemies/641.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/641.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9084,
+    "sha256": "9770b5334bfaa6c0208a7de3a36f751bcb093d5bf4e0dd1a20a5affbdf950ce9"
   },
   {
     "id": 642,
@@ -5294,7 +7559,12 @@
     "image_file_path": "Image/Enemies/642.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/642.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11264,
+    "sha256": "fe4efbfad03867c4ab0e40bd288404f30f468d669801f64371fcc5223972abae"
   },
   {
     "id": 643,
@@ -5302,7 +7572,12 @@
     "image_file_path": "Image/Enemies/643.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/643.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11716,
+    "sha256": "e7be50fcd2438c7c2c82900c6a011804f32763de4b5d441fc9a446d95e2202e8"
   },
   {
     "id": 644,
@@ -5310,7 +7585,12 @@
     "image_file_path": "Image/Enemies/644.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/644.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 13657,
+    "sha256": "fae68c4f12b087f99bdebf080f969147e60c316ab0655f6cb8bc81f999b87b26"
   },
   {
     "id": 645,
@@ -5318,7 +7598,12 @@
     "image_file_path": "Image/Enemies/645.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/645.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9470,
+    "sha256": "45f61962e1632991110686d9d00c71e548498e556706aed86c1b0c57469b78c7"
   },
   {
     "id": 646,
@@ -5326,7 +7611,12 @@
     "image_file_path": "Image/Enemies/646.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/646.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 12282,
+    "sha256": "878d0911ff9d2e6fbadffdba6dc8b1faaa37402f63cc46aac1bebbab1382e81b"
   },
   {
     "id": 647,
@@ -5334,7 +7624,12 @@
     "image_file_path": "Image/Enemies/647.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/647.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11379,
+    "sha256": "bb3416a04605f7863d953b8abe2cb1e89bf10a614b2ac25be35de51cb01f14a0"
   },
   {
     "id": 648,
@@ -5342,7 +7637,12 @@
     "image_file_path": "Image/Enemies/648.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/648.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11811,
+    "sha256": "593a28633a1a752834f077648d5b94cfccbd750b6b6fe50b48520965d8adcc8b"
   },
   {
     "id": 649,
@@ -5350,7 +7650,12 @@
     "image_file_path": "Image/Enemies/649.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/649.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 13828,
+    "sha256": "db423f29c6d50784130b6cf9f81693e44b4cb737ccea9a8877370b472b02cc35"
   },
   {
     "id": 650,
@@ -5358,7 +7663,12 @@
     "image_file_path": "Image/Enemies/650.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/650.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 12172,
+    "sha256": "1236f358bc377b3487b2152dc77e95b55e53f097900bf4c7fa5add9d1904e772"
   },
   {
     "id": 651,
@@ -5366,7 +7676,12 @@
     "image_file_path": "Image/Enemies/651.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/651.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 6664,
+    "sha256": "55772554b92ce0670c8c8f6e47a10006fc2f856ee61ce943564843d6c105bd55"
   },
   {
     "id": 652,
@@ -5374,7 +7689,12 @@
     "image_file_path": "Image/Enemies/652.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/652.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8148,
+    "sha256": "97133ede62ef6bb68cb5d6ac9a6c77865b436c9a64dc9cb2a9828b543941cde4"
   },
   {
     "id": 653,
@@ -5382,7 +7702,12 @@
     "image_file_path": "Image/Enemies/653.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/653.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8461,
+    "sha256": "95120200a16126285b21bbee9a4b6f88915ea723117ebf4d1bfd2aa4c112505f"
   },
   {
     "id": 654,
@@ -5390,7 +7715,12 @@
     "image_file_path": "Image/Enemies/654.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/654.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10046,
+    "sha256": "8b7b2c876af36ee6f079bb89db5ed9e5c64c089221443d78c6cb571698794b2d"
   },
   {
     "id": 655,
@@ -5398,7 +7728,12 @@
     "image_file_path": "Image/Enemies/655.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/655.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 6716,
+    "sha256": "6bcd259a9d11b6e2b9c1ab938d1c76ad9b2b38289437309a5e9df180e1e5d766"
   },
   {
     "id": 656,
@@ -5406,7 +7741,12 @@
     "image_file_path": "Image/Enemies/656.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/656.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8896,
+    "sha256": "5375bcac9d07ad8dc70e1e7b7c7e1e9bd6d74bc4e9b471105979ddab12517c98"
   },
   {
     "id": 657,
@@ -5414,7 +7754,12 @@
     "image_file_path": "Image/Enemies/657.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/657.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8194,
+    "sha256": "88f244cee45f329b4a540c4d50dbd3fa178ee0f54f3e980f302a89a09d2bde08"
   },
   {
     "id": 658,
@@ -5422,7 +7767,12 @@
     "image_file_path": "Image/Enemies/658.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/658.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8555,
+    "sha256": "3f58ff30055210976aa6091891e4f73e713e9498cd57e17eaf88361a8ff969a3"
   },
   {
     "id": 659,
@@ -5430,7 +7780,12 @@
     "image_file_path": "Image/Enemies/659.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/659.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10151,
+    "sha256": "bba1017e5bfdeef86c7476cdd458471ed5e2210c0dc5db19e1747d6cbb6b408b"
   },
   {
     "id": 660,
@@ -5438,7 +7793,12 @@
     "image_file_path": "Image/Enemies/660.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/660.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8982,
+    "sha256": "aeec2625f7b56ada8ca79fcd58941c41b170e1ff3d0c17fa941d3dfde14d3f0c"
   },
   {
     "id": 661,
@@ -5446,7 +7806,12 @@
     "image_file_path": "Image/Enemies/661.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/661.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7515,
+    "sha256": "0e54fce42c6d41a6d20857e0a24e435bca542efc8feaa3a2c1c0aae9c9f92966"
   },
   {
     "id": 662,
@@ -5454,7 +7819,12 @@
     "image_file_path": "Image/Enemies/662.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/662.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8762,
+    "sha256": "a3ca4aa180fb326946d1ee8e9ca0d0fc35006fd33ab095cf339b58a9a46b25af"
   },
   {
     "id": 663,
@@ -5462,7 +7832,12 @@
     "image_file_path": "Image/Enemies/663.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/663.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8979,
+    "sha256": "570eda6c4fb1d89758f7a33b9492369312e55151ef61028c89ee7eca7cfb611d"
   },
   {
     "id": 664,
@@ -5470,7 +7845,12 @@
     "image_file_path": "Image/Enemies/664.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/664.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10108,
+    "sha256": "6a345efaeddcfb5f813a023ec1d88b88f4d810828a9a2cb9354c8e26538d171c"
   },
   {
     "id": 665,
@@ -5478,7 +7858,12 @@
     "image_file_path": "Image/Enemies/665.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/665.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7801,
+    "sha256": "378bd14ce6fc818d693a7793bf4524df08dec7849be958baaa1565ebb1e64def"
   },
   {
     "id": 666,
@@ -5486,7 +7871,12 @@
     "image_file_path": "Image/Enemies/666.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/666.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9678,
+    "sha256": "50a78f9d79ae80eb264afdae9399b0761708fd8bf8fb02ce57f6d78c083c8f67"
   },
   {
     "id": 667,
@@ -5494,7 +7884,12 @@
     "image_file_path": "Image/Enemies/667.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/667.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9036,
+    "sha256": "5d6e1e0535e29ad9d5371c733cee47e26be6b6c0caff9b23864a5910cc2b9de9"
   },
   {
     "id": 668,
@@ -5502,7 +7897,12 @@
     "image_file_path": "Image/Enemies/668.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/668.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9254,
+    "sha256": "25803ce1b5ffbb01a127820499e5a82fdb71edbddc10bdd7d71e421d23adecb7"
   },
   {
     "id": 669,
@@ -5510,7 +7910,12 @@
     "image_file_path": "Image/Enemies/669.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/669.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10221,
+    "sha256": "1d969ead303c64ed639651408fb822aa69fd53a607eec8af43c34bca0d7c8dc1"
   },
   {
     "id": 670,
@@ -5518,7 +7923,12 @@
     "image_file_path": "Image/Enemies/670.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/670.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9737,
+    "sha256": "541e29681e32a47038b423f55350aebab3259fd67e9acab94f53cab1ac48ae20"
   },
   {
     "id": 671,
@@ -5535,7 +7945,12 @@
     "enemy_types": [
       671,
       682
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 128,
+    "height": 128,
+    "size_bytes": 40874,
+    "sha256": "539a77356cfd5cc06d99bfa4a623cd614058abc77cfec18e8b547745979d5094"
   },
   {
     "id": 672,
@@ -5543,7 +7958,12 @@
     "image_file_path": "Image/Enemies/672.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/672.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9280,
+    "sha256": "f366420ccaf8afac80cacee28dd8a880832792f8b006ae8e0390682e94dde215"
   },
   {
     "id": 673,
@@ -5551,7 +7971,12 @@
     "image_file_path": "Image/Enemies/673.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/673.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9847,
+    "sha256": "bdb94f1e9f5ad90588f9fb022a81402c8492436e90d5ea22ade5605ff1ceaa03"
   },
   {
     "id": 674,
@@ -5559,7 +7984,12 @@
     "image_file_path": "Image/Enemies/674.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/674.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10319,
+    "sha256": "1990f0815af9e3f9ba9d21c22000f091412ad794d5b559b3e8975611e56121b0"
   },
   {
     "id": 675,
@@ -5567,7 +7997,12 @@
     "image_file_path": "Image/Enemies/675.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/675.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7943,
+    "sha256": "a08311dcfb99c4e61caf12d9c33d9e885736462c4ed2c1477af97853021a4475"
   },
   {
     "id": 676,
@@ -5575,7 +8010,12 @@
     "image_file_path": "Image/Enemies/676.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/676.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10354,
+    "sha256": "0f4890f6f73971724a3d521878b32e1f0e0c58af05222d1b856ba4e0249d93e1"
   },
   {
     "id": 677,
@@ -5583,7 +8023,12 @@
     "image_file_path": "Image/Enemies/677.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/677.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10354,
+    "sha256": "0f4890f6f73971724a3d521878b32e1f0e0c58af05222d1b856ba4e0249d93e1"
   },
   {
     "id": 678,
@@ -5591,7 +8036,12 @@
     "image_file_path": "Image/Enemies/678.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/678.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9800,
+    "sha256": "5faada9dc635bc35d85e48e4e2c70455f113cb9d22b6bbda3a5121a73f115ff8"
   },
   {
     "id": 679,
@@ -5599,7 +8049,12 @@
     "image_file_path": "Image/Enemies/679.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/679.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10065,
+    "sha256": "b7f71b6157d991c0df2ec286223e1c071b1666cd049e59ee81d18acb35cf54b8"
   },
   {
     "id": 680,
@@ -5607,7 +8062,12 @@
     "image_file_path": "Image/Enemies/680.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/680.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8915,
+    "sha256": "fd6d4a92bd0e2704cde87a2d4fdb1e3cc2ac9797ed365f4dba9f15a43795211c"
   },
   {
     "id": 681,
@@ -5623,7 +8083,12 @@
     ],
     "enemy_types": [
       681
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 11404,
+    "sha256": "088b8fd8e326d4b014bdcc0421363948ed6da5038960d0375073d37939e025c1"
   },
   {
     "id": 682,
@@ -5631,7 +8096,12 @@
     "image_file_path": "Image/Enemies/682.png",
     "source_image_url": "https://www.mycryptoheroes.net/images/enemies/682.png",
     "names": [],
-    "enemy_types": []
+    "enemy_types": [],
+    "referenced_by_official_enemy_csv": false,
+    "width": 128,
+    "height": 128,
+    "size_bytes": 25044,
+    "sha256": "c4477267d88ea0ab23796f8b785025238a397657c9d70f86d5af687a7ea66714"
   },
   {
     "id": 683,
@@ -5647,7 +8117,12 @@
     ],
     "enemy_types": [
       683
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9244,
+    "sha256": "715e9721e92c50e68c7f6d4915bc58406082001d8efa198af6c469a8428cbc1a"
   },
   {
     "id": 684,
@@ -5665,7 +8140,12 @@
       684,
       689,
       705
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9661,
+    "sha256": "19219e84c8d9b6bfa71c18ef910dd6a39e80662ad3748a1eaf492c8ceaba9e1a"
   },
   {
     "id": 685,
@@ -5684,7 +8164,12 @@
       694,
       695,
       701
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9267,
+    "sha256": "a39e81bc69c96344537762e1a775805c1ca7befe344fef78d1c8b35089ff617a"
   },
   {
     "id": 686,
@@ -5701,7 +8186,12 @@
     "enemy_types": [
       686,
       700
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9103,
+    "sha256": "5dc9c95ecedaf56992e36cf72ec219d89aa6bc04835347981fdbf211d3f2a6b6"
   },
   {
     "id": 687,
@@ -5719,7 +8209,12 @@
       687,
       691,
       699
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9594,
+    "sha256": "a6edbe3f14f0cfee417447bd31555fe76ce6bb1267d4a32ad2e66571cf4307df"
   },
   {
     "id": 688,
@@ -5736,7 +8231,12 @@
     "enemy_types": [
       688,
       698
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9836,
+    "sha256": "9567964f5b40c1450b53fcb9fc71f9b1e649a04880df86d8c1ce239b91dec74f"
   },
   {
     "id": 690,
@@ -5752,7 +8252,12 @@
     ],
     "enemy_types": [
       690
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9437,
+    "sha256": "2760a55f22868a4441d40e28113c9bd23260e7d7aed3096735ff476e992068af"
   },
   {
     "id": 692,
@@ -5774,7 +8279,12 @@
       708,
       709,
       740
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9550,
+    "sha256": "51def4e4da81e29102e4fb7e2df9ecb1241de151503ab52e16ee2982ac5771ec"
   },
   {
     "id": 696,
@@ -5797,7 +8307,12 @@
       1064,
       1069,
       1082
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8585,
+    "sha256": "a63ddc80871a068e6d9870834b1f045c8ce58bf560f154d35d7b4d1467e9b72d"
   },
   {
     "id": 697,
@@ -5815,7 +8330,12 @@
       697,
       702,
       706
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9076,
+    "sha256": "84c3a82a874290c9af74b9d50c0fd35714e99012ce3befd2f0e3af6a8a282d77"
   },
   {
     "id": 704,
@@ -5836,7 +8356,12 @@
       732,
       733,
       1078
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8105,
+    "sha256": "58bcfe5e6a0b994d8f0ab979556a0c0b5a753780ed979fddeb03e3211c0d2e7b"
   },
   {
     "id": 710,
@@ -5852,7 +8377,12 @@
     ],
     "enemy_types": [
       712
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8872,
+    "sha256": "a15c2a61b225a1e4a65877f10df87a025b5f8ba27ff501ae9d387aead4e8b442"
   },
   {
     "id": 711,
@@ -5868,7 +8398,12 @@
     ],
     "enemy_types": [
       711
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9944,
+    "sha256": "65c97f5cef3567b76dbb1bfefd00e7dfa9ed3a9d66555cd4e88fead8867263c3"
   },
   {
     "id": 712,
@@ -5884,7 +8419,12 @@
     ],
     "enemy_types": [
       710
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8306,
+    "sha256": "b484416a40acb9da643e293ef123759580f1e423e239962b80913853858c6ccb"
   },
   {
     "id": 713,
@@ -5901,7 +8441,12 @@
     "enemy_types": [
       713,
       728
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9063,
+    "sha256": "92087df7c57262cfee4ed566b7d0b2d366418618d895edf6db3b075764197fe5"
   },
   {
     "id": 714,
@@ -5922,7 +8467,12 @@
       1074,
       1075,
       1076
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9471,
+    "sha256": "b838834ed986c613751f89cc842041f112cee8b52dc30747cbc9635aaed7325b"
   },
   {
     "id": 715,
@@ -5939,7 +8489,12 @@
     "enemy_types": [
       715,
       745
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9455,
+    "sha256": "0f8f101239ed89ab7660e99601c1cbe19e55d90377902cf252de627058cf07d8"
   },
   {
     "id": 718,
@@ -5958,7 +8513,12 @@
       749,
       1062,
       1071
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8808,
+    "sha256": "f602426317d6f3db490a425a9ad661e066322e83a034030df65a1478ffdedbe3"
   },
   {
     "id": 722,
@@ -5974,7 +8534,12 @@
     ],
     "enemy_types": [
       722
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 10058,
+    "sha256": "abe3fca2686f46c94f1fc0b165d981b22a53e5dea48dd9cc96ec9afde0d31030"
   },
   {
     "id": 725,
@@ -5994,7 +8559,12 @@
       727,
       1068,
       1077
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9293,
+    "sha256": "51dc62183aa10e0ab7d10a95e863eacf7418732c08af24fae54a783a1ad1eef1"
   },
   {
     "id": 729,
@@ -6011,7 +8581,12 @@
     "enemy_types": [
       729,
       1080
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8734,
+    "sha256": "b12cd60b3d72d1ac42f7c3d1205feaac9f750899be5c458a283fd03d04a3f1ae"
   },
   {
     "id": 731,
@@ -6028,7 +8603,12 @@
     "enemy_types": [
       731,
       757
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9074,
+    "sha256": "75a0fb15ec429c633659b97f7ea9cfdcac6ec765eca878b299a77b439d9a6c33"
   },
   {
     "id": 737,
@@ -6045,7 +8625,12 @@
     "enemy_types": [
       737,
       738
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9838,
+    "sha256": "2612aed9e9394f18e0b780a6b5b1c859c3fc691197afd9ce5ff238c61539230e"
   },
   {
     "id": 739,
@@ -6061,7 +8646,12 @@
     ],
     "enemy_types": [
       739
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 7690,
+    "sha256": "3426cf0ab2ecd637180f760c3b835c39dfed54419a242db7b5c085b0f12f02f9"
   },
   {
     "id": 741,
@@ -6079,7 +8669,12 @@
       741,
       742,
       1073
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9273,
+    "sha256": "af9c6cc9caabbab594198bff40b59bf7a417c199a0fd9e09e6bd9f467c7ce630"
   },
   {
     "id": 743,
@@ -6097,7 +8692,12 @@
       743,
       1053,
       1072
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8895,
+    "sha256": "757a5fd441002918d8e2df5939d0e238cce18292a2d5ae22b7e5de6d3389d18b"
   },
   {
     "id": 744,
@@ -6115,7 +8715,12 @@
       744,
       750,
       751
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8437,
+    "sha256": "e6b85dea9b29b24a756bca5a437c637ebc45c6af5fd6bc9aa9657d044c14c480"
   },
   {
     "id": 755,
@@ -6132,7 +8737,12 @@
     "enemy_types": [
       755,
       756
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8972,
+    "sha256": "518a4af2ff39ac7c1f670976c1b99866ba5fb5a1578140de3f0d88d348755203"
   },
   {
     "id": 758,
@@ -6150,7 +8760,12 @@
       758,
       759,
       760
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8231,
+    "sha256": "474c73cf8f0fe0179a25ab03f2a276819a483211d2e7d70120728efbd4eca644"
   },
   {
     "id": 762,
@@ -6166,7 +8781,12 @@
     ],
     "enemy_types": [
       762
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9072,
+    "sha256": "bf3937607228339bd7bb39a64f5026b1c86b49ed8543f9beb4abe66a755b7cef"
   },
   {
     "id": 767,
@@ -6184,7 +8804,12 @@
       767,
       768,
       769
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8856,
+    "sha256": "a85b647f0de59ab5936568a4689aee37d1fbe80c9d3ced458f482920ee8134ef"
   },
   {
     "id": 774,
@@ -6200,7 +8825,12 @@
     ],
     "enemy_types": [
       774
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8187,
+    "sha256": "9cdd94519741f5c772522eee3091d1a1968348a9f7455d2d83480b90056651d7"
   },
   {
     "id": 776,
@@ -6219,7 +8849,12 @@
       788,
       811,
       1102
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8782,
+    "sha256": "bc7dea26bffbe2ea7258de4a634a520562d8452db89bd72a9dd33547b8c7d66f"
   },
   {
     "id": 777,
@@ -6236,7 +8871,12 @@
     "enemy_types": [
       777,
       809
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9368,
+    "sha256": "23f278b5cec9d2445d37eacbaa9bb00a992ef149bbb9593c931fb35e571a196f"
   },
   {
     "id": 780,
@@ -6256,7 +8896,12 @@
       805,
       1094,
       1112
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9585,
+    "sha256": "21cc5416cf03bb157bc14bb8214a125f344d515f2b39000d06ef7e8bc4870272"
   },
   {
     "id": 782,
@@ -6272,7 +8917,12 @@
     ],
     "enemy_types": [
       782
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9383,
+    "sha256": "e4b08b4cf615c04420500e08f52b181cca2129f5c99c735280619afa70a3c49d"
   },
   {
     "id": 785,
@@ -6289,7 +8939,12 @@
     "enemy_types": [
       785,
       787
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9019,
+    "sha256": "ad54aae36eb2b263bebb7c7b0cf014c8a45aaafaff6c5d57249030f0aa7c51f0"
   },
   {
     "id": 786,
@@ -6305,7 +8960,12 @@
     ],
     "enemy_types": [
       786
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9687,
+    "sha256": "1265e96dd217b09daf5bd12349cbd87328dce9eca340c42a2028bb823923efd6"
   },
   {
     "id": 789,
@@ -6327,7 +8987,12 @@
       1087,
       1106,
       1107
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9203,
+    "sha256": "1f563f2a8f811ecf36cd59ac87140d1f4d2eff46fb37df976ed581ef19ece5ba"
   },
   {
     "id": 791,
@@ -6344,7 +9009,12 @@
     "enemy_types": [
       791,
       843
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9225,
+    "sha256": "87e7157b0f19c8c51d73515ee32d819f326f6f17a596cc213e5315a0fa7e1631"
   },
   {
     "id": 792,
@@ -6360,7 +9030,12 @@
     ],
     "enemy_types": [
       792
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8832,
+    "sha256": "a424a083c0ef11d50e618c59146e67eddb2ace6a3c519e0196defb81c0973db1"
   },
   {
     "id": 796,
@@ -6380,7 +9055,12 @@
       807,
       808,
       817
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8917,
+    "sha256": "7714544870914c8d42d0e937c76d7e9dc696e2d7922b024b4d97bcfd9c702cc1"
   },
   {
     "id": 797,
@@ -6397,7 +9077,12 @@
     "enemy_types": [
       797,
       799
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9032,
+    "sha256": "9b9e286729591c4c020ce5d9b95fcc442ca96e757c028bdbe4c865fedf61101d"
   },
   {
     "id": 804,
@@ -6416,7 +9101,12 @@
       1097,
       1099,
       1110
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9017,
+    "sha256": "6d1553ef6036e0a431a4c6a82c2a3b53506003aa3c485b06352d75be63f3257d"
   },
   {
     "id": 815,
@@ -6432,7 +9122,12 @@
     ],
     "enemy_types": [
       815
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8256,
+    "sha256": "ffc78f74ad28f09aaa0c975aa50a9cf417f97446e4a34d9a71df2755481120f0"
   },
   {
     "id": 818,
@@ -6450,7 +9145,12 @@
       818,
       819,
       820
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9076,
+    "sha256": "7fecff448ee4ae3c51016896d6965a5344f86c43ed63fab930d7e4705b898717"
   },
   {
     "id": 821,
@@ -6466,7 +9166,12 @@
     ],
     "enemy_types": [
       821
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8401,
+    "sha256": "842ce59664df06153f0f4de570ebff2d8656f8fbbaa4908c687eed9375de6ba2"
   },
   {
     "id": 822,
@@ -6483,7 +9188,12 @@
     "enemy_types": [
       822,
       823
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8906,
+    "sha256": "80a50cd83023a8df6447c1ff6c598962d2d5b8b0d32fca974a5197290898ad5e"
   },
   {
     "id": 828,
@@ -6499,7 +9209,12 @@
     ],
     "enemy_types": [
       828
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9029,
+    "sha256": "71f67ca35cabae66d9ba6b0cceee59ea7b483ce1f3b8be01681a37e752221c68"
   },
   {
     "id": 830,
@@ -6516,7 +9231,12 @@
     "enemy_types": [
       830,
       832
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8802,
+    "sha256": "f4a089a3370d6ea5cc15f91e33c8ff8c5d9a3c8716e7501ffd3414c2ee5df821"
   },
   {
     "id": 831,
@@ -6532,7 +9252,12 @@
     ],
     "enemy_types": [
       831
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9499,
+    "sha256": "6d3476f4afd988d182d91ce4d15593cc21973fea8a188c3b7a181098d7ad1031"
   },
   {
     "id": 844,
@@ -6548,7 +9273,12 @@
     ],
     "enemy_types": [
       844
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9263,
+    "sha256": "247525e2637df91003773a77ef61fd132b8a491a644ef6470ea286b77e7d77fb"
   },
   {
     "id": 885,
@@ -6565,7 +9295,12 @@
     "enemy_types": [
       885,
       1129
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 8694,
+    "sha256": "25c0965f48db608bfd52ebab09820b4266cfa8488e9d62158bc7d27d5eafd460"
   },
   {
     "id": 893,
@@ -6590,7 +9325,12 @@
       1006,
       1148,
       1150
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 9918,
+    "sha256": "0b5d2fa2c275eedf87dbb30df38413d0af26b379e0f34ade36f753dadc149122"
   },
   {
     "id": 895,
@@ -6612,6 +9352,11 @@
       1001,
       1152,
       1174
-    ]
+    ],
+    "referenced_by_official_enemy_csv": true,
+    "width": 64,
+    "height": 64,
+    "size_bytes": 12614,
+    "sha256": "e29b4125292d0891ae27d1e8eb79c837756da191687783863611408806b4624e"
   }
 ]

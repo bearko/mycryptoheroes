@@ -3,13 +3,407 @@
   "fetched_at": "2026-04-29T05:02:15.799Z",
   "login_required_for_public_master_data": false,
   "note": "The public extension dictionary page embeds extension, active skill, aura, and image URL master data in window.__NUXT__; wallet login is not required for these public records.",
-  "total_extension_master_records": 1825,
-  "dictionary_visible_records": 974,
-  "image_count": 1825,
+  "total_extension_master_records": 1797,
+  "dictionary_visible_records": 956,
+  "image_count": 1797,
   "image_download_failures": [],
   "category_counts": {
-    "legacy": 830,
+    "legacy": 812,
     "modern": 144,
-    "replica": 851
-  }
+    "replica": 841
+  },
+  "restricted_removed_records": [
+    {
+      "id": 1060,
+      "name": {
+        "en": "Patch gourd",
+        "ja": "ヒョウタンツギ",
+        "zh": "Patch gourd"
+      },
+      "series": {
+        "ja": "手塚オールスター",
+        "en": "Tezuka All-star",
+        "zh": "Tezuka All-star"
+      },
+      "image_file_path": "Image/Extensions/1060.png"
+    },
+    {
+      "id": 2060,
+      "name": {
+        "en": "Robita",
+        "ja": "ロビタ",
+        "zh": "Robita"
+      },
+      "series": {
+        "ja": "手塚オールスター",
+        "en": "Tezuka All-star",
+        "zh": "Tezuka All-star"
+      },
+      "image_file_path": "Image/Extensions/2060.png"
+    },
+    {
+      "id": 2062,
+      "name": {
+        "en": "Shiny Sword",
+        "ja": "創輝剣ベルテ",
+        "zh": "Shiny Sword"
+      },
+      "series": {
+        "ja": "ブレイブ フロンティア ヒーローズ 創剣",
+        "en": "BRAVE FRONTIER HEROES Original Sword",
+        "zh": "BRAVE FRONTIER HEROES Original Sword"
+      },
+      "image_file_path": "Image/Extensions/2062.png"
+    },
+    {
+      "id": 2101,
+      "name": {
+        "en": "Lilyetta's shield",
+        "ja": "リリエッタの盾",
+        "zh": "Lilyetta's shield"
+      },
+      "series": {
+        "ja": "おとなの防具屋さん",
+        "en": "Armor Shop for Ladies & Gentlemen",
+        "zh": "Armor Shop for Ladies & Gentlemen"
+      },
+      "image_file_path": "Image/Extensions/2101.png"
+    },
+    {
+      "id": 3060,
+      "name": {
+        "en": "Unico",
+        "ja": "ユニコ",
+        "zh": "Unico"
+      },
+      "series": {
+        "ja": "手塚オールスター",
+        "en": "Tezuka All-star",
+        "zh": "Tezuka All-star"
+      },
+      "image_file_path": "Image/Extensions/3060.png"
+    },
+    {
+      "id": 3062,
+      "name": {
+        "en": "Holy Sword",
+        "ja": "創聖剣ベラネル",
+        "zh": "Holy Sword"
+      },
+      "series": {
+        "ja": "ブレイブ フロンティア ヒーローズ 創剣",
+        "en": "BRAVE FRONTIER HEROES Original Sword",
+        "zh": "BRAVE FRONTIER HEROES Original Sword"
+      },
+      "image_file_path": "Image/Extensions/3062.png"
+    },
+    {
+      "id": 3101,
+      "name": {
+        "en": "Mokuku",
+        "ja": "モクク",
+        "zh": "Mokuku"
+      },
+      "series": {
+        "ja": "おとなの防具屋さん",
+        "en": "Armor Shop for Ladies & Gentlemen",
+        "zh": "Armor Shop for Ladies & Gentlemen"
+      },
+      "image_file_path": "Image/Extensions/3101.png"
+    },
+    {
+      "id": 4060,
+      "name": {
+        "en": "Leo",
+        "ja": "レオ",
+        "zh": "Leo"
+      },
+      "series": {
+        "ja": "手塚オールスター",
+        "en": "Tezuka All-star",
+        "zh": "Tezuka All-star"
+      },
+      "image_file_path": "Image/Extensions/4060.png"
+    },
+    {
+      "id": 4101,
+      "name": {
+        "en": "Mamori",
+        "ja": "マモリ",
+        "zh": "Mamori"
+      },
+      "series": {
+        "ja": "おとなの防具屋さん",
+        "en": "Armor Shop for Ladies & Gentlemen",
+        "zh": "Armor Shop for Ladies & Gentlemen"
+      },
+      "image_file_path": "Image/Extensions/4101.png"
+    },
+    {
+      "id": 4114,
+      "name": {
+        "en": "The Emblem of NANKATSU SC",
+        "ja": "南葛SCのエンブレム",
+        "zh": "The Emblem of NANKATSU SC"
+      },
+      "series": {
+        "ja": "南葛SC",
+        "en": "NANKATSU SC",
+        "zh": "NANKATSU SC"
+      },
+      "image_file_path": "Image/Extensions/4114.png"
+    },
+    {
+      "id": 4145,
+      "name": {
+        "en": "Yoichi Red Wine",
+        "ja": "余市町赤ワイン",
+        "zh": "Yoichi Red Wine"
+      },
+      "series": {
+        "ja": "余市町ワイン",
+        "en": "Yoichi Town Wine",
+        "zh": "Yoichi Town Wine"
+      },
+      "image_file_path": "Image/Extensions/4145.png"
+    },
+    {
+      "id": 4146,
+      "name": {
+        "en": "Yoichi White Wine",
+        "ja": "余市町白ワイン",
+        "zh": "Yoichi White Wine"
+      },
+      "series": {
+        "ja": "余市町ワイン",
+        "en": "Yoichi Town Wine",
+        "zh": "Yoichi Town Wine"
+      },
+      "image_file_path": "Image/Extensions/4146.png"
+    },
+    {
+      "id": 4166,
+      "name": {
+        "en": "Laevateinn[PK Alterna]",
+        "ja": "レーヴァテイン[PK Alterna]",
+        "zh": "Laevateinn[PK Alterna]"
+      },
+      "series": {
+        "ja": "ファンキルオルタナ",
+        "en": "PotK Alterna",
+        "zh": "PotK Alterna"
+      },
+      "image_file_path": "Image/Extensions/4166.png"
+    },
+    {
+      "id": 4167,
+      "name": {
+        "en": "Almace[PK Alterna]",
+        "ja": "アルマス[PK Alterna]",
+        "zh": "Almace[PK Alterna]"
+      },
+      "series": {
+        "ja": "ファンキルオルタナ",
+        "en": "PotK Alterna",
+        "zh": "PotK Alterna"
+      },
+      "image_file_path": "Image/Extensions/4167.png"
+    },
+    {
+      "id": 4168,
+      "name": {
+        "en": "Failnaught[PK Alterna]",
+        "ja": "フェイルノート[PK Alterna]",
+        "zh": "Failnaught[PK Alterna]"
+      },
+      "series": {
+        "ja": "ファンキルオルタナ",
+        "en": "PotK Alterna",
+        "zh": "PotK Alterna"
+      },
+      "image_file_path": "Image/Extensions/4168.png"
+    },
+    {
+      "id": 5060,
+      "name": {
+        "en": "Phoenix",
+        "ja": "火の鳥",
+        "zh": "Phoenix"
+      },
+      "series": {
+        "ja": "手塚オールスター",
+        "en": "Tezuka All-star",
+        "zh": "Tezuka All-star"
+      },
+      "image_file_path": "Image/Extensions/5060.png"
+    },
+    {
+      "id": 5114,
+      "name": {
+        "en": "The Insignia of NANKATSU SC",
+        "ja": "南葛SCのインシグニア",
+        "zh": "The Insignia of NANKATSU SC"
+      },
+      "series": {
+        "ja": "南葛SC",
+        "en": "NANKATSU SC",
+        "zh": "NANKATSU SC"
+      },
+      "image_file_path": "Image/Extensions/5114.png"
+    },
+    {
+      "id": 5144,
+      "name": {
+        "en": "Yoichi’s Treasure -Hokkaido Yoichi Town’s Speciality Wine-",
+        "ja": "余市の宝〜北海道余市町名産ワイン〜",
+        "zh": "Yoichi’s Treasure -Hokkaido Yoichi Town’s Speciality Wine-"
+      },
+      "series": {
+        "ja": "余市町ワイン",
+        "en": "Yoichi Town Wine",
+        "zh": "Yoichi Town Wine"
+      },
+      "image_file_path": "Image/Extensions/5144.png"
+    },
+    {
+      "id": 11060,
+      "name": {
+        "en": "Tezuka All-star.RepF",
+        "ja": "手塚オールスター.RepF",
+        "zh": "Tezuka All-star.RepF"
+      },
+      "series": {
+        "ja": "手塚オールスター",
+        "en": "Tezuka All-star",
+        "zh": "Tezuka All-star"
+      },
+      "image_file_path": "Image/Extensions/11060.png"
+    },
+    {
+      "id": 12060,
+      "name": {
+        "en": "Tezuka All-star.RepE",
+        "ja": "手塚オールスター.RepE",
+        "zh": "Tezuka All-star.RepE"
+      },
+      "series": {
+        "ja": "手塚オールスター",
+        "en": "Tezuka All-star",
+        "zh": "Tezuka All-star"
+      },
+      "image_file_path": "Image/Extensions/12060.png"
+    },
+    {
+      "id": 13060,
+      "name": {
+        "en": "Tezuka All-star.RepD",
+        "ja": "手塚オールスター.RepD",
+        "zh": "Tezuka All-star.RepD"
+      },
+      "series": {
+        "ja": "手塚オールスター",
+        "en": "Tezuka All-star",
+        "zh": "Tezuka All-star"
+      },
+      "image_file_path": "Image/Extensions/13060.png"
+    },
+    {
+      "id": 14060,
+      "name": {
+        "en": "Tezuka All-star.RepC",
+        "ja": "手塚オールスター.RepC",
+        "zh": "Tezuka All-star.RepC"
+      },
+      "series": {
+        "ja": "手塚オールスター",
+        "en": "Tezuka All-star",
+        "zh": "Tezuka All-star"
+      },
+      "image_file_path": "Image/Extensions/14060.png"
+    },
+    {
+      "id": 15060,
+      "name": {
+        "en": "Tezuka All-star.RepB",
+        "ja": "手塚オールスター.RepB",
+        "zh": "Tezuka All-star.RepB"
+      },
+      "series": {
+        "ja": "手塚オールスター",
+        "en": "Tezuka All-star",
+        "zh": "Tezuka All-star"
+      },
+      "image_file_path": "Image/Extensions/15060.png"
+    },
+    {
+      "id": 15101,
+      "name": {
+        "en": "Lilyetta's shield.Rep B",
+        "ja": "リリエッタの盾.Rep B",
+        "zh": "Lilyetta's shield.Rep B"
+      },
+      "series": {
+        "ja": "おとなの防具屋さん",
+        "en": "Armor Shop for Ladies & Gentlemen",
+        "zh": "Armor Shop for Ladies & Gentlemen"
+      },
+      "image_file_path": "Image/Extensions/15101.png"
+    },
+    {
+      "id": 16060,
+      "name": {
+        "en": "Tezuka All-star.RepA",
+        "ja": "手塚オールスター.RepA",
+        "zh": "Tezuka All-star.RepA"
+      },
+      "series": {
+        "ja": "手塚オールスター",
+        "en": "Tezuka All-star",
+        "zh": "Tezuka All-star"
+      },
+      "image_file_path": "Image/Extensions/16060.png"
+    },
+    {
+      "id": 16101,
+      "name": {
+        "en": "Mokuku.Rep A",
+        "ja": "モクク.Rep A",
+        "zh": "Mokuku.Rep A"
+      },
+      "series": {
+        "ja": "おとなの防具屋さん",
+        "en": "Armor Shop for Ladies & Gentlemen",
+        "zh": "Armor Shop for Ladies & Gentlemen"
+      },
+      "image_file_path": "Image/Extensions/16101.png"
+    },
+    {
+      "id": 17060,
+      "name": {
+        "en": "Tezuka All-star.RepS",
+        "ja": "手塚オールスター.RepS",
+        "zh": "Tezuka All-star.RepS"
+      },
+      "series": {
+        "ja": "手塚オールスター",
+        "en": "Tezuka All-star",
+        "zh": "Tezuka All-star"
+      },
+      "image_file_path": "Image/Extensions/17060.png"
+    },
+    {
+      "id": 17101,
+      "name": {
+        "en": "Mamori.Rep S",
+        "ja": "マモリ.Rep S",
+        "zh": "Mamori.Rep S"
+      },
+      "series": {
+        "ja": "おとなの防具屋さん",
+        "en": "Armor Shop for Ladies & Gentlemen",
+        "zh": "Armor Shop for Ladies & Gentlemen"
+      },
+      "image_file_path": "Image/Extensions/17101.png"
+    }
+  ]
 }

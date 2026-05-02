@@ -3,9 +3,9 @@
   "fetched_at": "2026-04-29T04:52:13.132Z",
   "login_required_for_public_master_data": false,
   "note": "The public dictionary page embeds hero, passive skill, attribute, and image URL master data in window.__NUXT__; wallet login is not required for these public records.",
-  "total_hero_master_records": 414,
-  "dictionary_visible_records": 218,
-  "image_count": 414,
+  "total_hero_master_records": 404,
+  "dictionary_visible_records": 210,
+  "image_count": 404,
   "image_download_failures": [],
   "image_download_fallbacks": [
     {
@@ -54,10 +54,102 @@
     }
   ],
   "category_counts": {
-    "original": 196,
-    "collaboration": 14,
+    "original": 194,
+    "collaboration": 8,
     "novice": 8,
     "other": 8,
-    "replica": 188
-  }
+    "replica": 186
+  },
+  "restricted_removed_records": [
+    {
+      "id": 2050,
+      "name": {
+        "en": "Ippatsuman & Gyakuten-oh",
+        "ja": "イッパツマン & 逆転王",
+        "zh": "Ippatsuman & Gyakuten-oh"
+      },
+      "image_file_path": "Image/Heroes/2050.png"
+    },
+    {
+      "id": 3052,
+      "name": {
+        "en": "Casshan & Friender",
+        "ja": "キャシャーン & フレンダー",
+        "zh": "Casshan & Friender"
+      },
+      "image_file_path": "Image/Heroes/3052.png"
+    },
+    {
+      "id": 3053,
+      "name": {
+        "en": "Crystal Bowie",
+        "ja": "クリスタル・ボーイ",
+        "zh": "Crystal Bowie"
+      },
+      "image_file_path": "Image/Heroes/3053.png"
+    },
+    {
+      "id": 4042,
+      "name": {
+        "en": "Buddha",
+        "ja": "ブッダ",
+        "zh": "Buddha"
+      },
+      "image_file_path": "Image/Heroes/4042.png"
+    },
+    {
+      "id": 4043,
+      "name": {
+        "en": "Astro boy",
+        "ja": "鉄腕アトム",
+        "zh": "Astro boy"
+      },
+      "image_file_path": "Image/Heroes/4043.png"
+    },
+    {
+      "id": 4058,
+      "name": {
+        "en": "Yatterman-1 & 2",
+        "ja": "ヤッターマン1号 & 2号",
+        "zh": "Yatterman-1 & 2"
+      },
+      "image_file_path": "Image/Heroes/4058.png"
+    },
+    {
+      "id": 4059,
+      "name": {
+        "en": "Cobra",
+        "ja": "コブラ",
+        "zh": "Cobra"
+      },
+      "image_file_path": "Image/Heroes/4059.png"
+    },
+    {
+      "id": 4061,
+      "name": {
+        "en": "Tyrfing[PK Alterna]",
+        "ja": "ティルフィング[PK Alterna]",
+        "zh": "Tyrfing[Alterna]"
+      },
+      "image_file_path": "Image/Heroes/4061.png"
+    },
+    {
+      "id": 14042,
+      "name": {
+        "en": "Buddha",
+        "ja": "ブッダ",
+        "zh": "Buddha"
+      },
+      "image_file_path": "Image/Heroes/14042.png"
+    },
+    {
+      "id": 14043,
+      "name": {
+        "en": "Astro boy",
+        "ja": "鉄腕アトム",
+        "zh": "Astro boy"
+      },
+      "image_file_path": "Image/Heroes/14043.png"
+    }
+  ]
 }

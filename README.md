@@ -4,11 +4,11 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 
 ## 収録データ
 
-- `Data/Heroes/heroes.json`: 全ヒーローマスタ 414 件のJSON。
+- `Data/Heroes/heroes.json`: 権利上利用できない対象を除外したヒーローマスタ 404 件のJSON。
 - `Data/Heroes/heroes.csv`: 主要項目を表形式で確認するためのCSV。
 - `Data/Heroes/metadata.json`: 取得元、件数、ウォレットログイン要否、画像取得時の補足。
 - `Image/Heroes/*.png`: ヒーロー画像。ファイル名は `Image/Heroes/[ID].png` です。
-- `Data/Extensions/extensions.json`: 全エクステンションマスタ 1825 件のJSON。
+- `Data/Extensions/extensions.json`: 権利上利用できない対象を除外したエクステンションマスタ 1797 件のJSON。
 - `Data/Extensions/extensions.csv`: エクステンション主要項目のCSV。
 - `Data/Extensions/metadata.json`: エクステンション取得元、件数、ウォレットログイン要否、画像取得結果。
 - `Image/Extensions/*.png`: エクステンション画像。ファイル名は `Image/Extensions/[ID].png` です。
@@ -40,6 +40,8 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 `heroes.json` には、ヒーロー名、ID、画像パス、Max Level Stats（HP/PHY/INT/AGI）、Passiveスキル名と内容、Attribute、Rarity、勢力、Enchantを収録しています。
 
 `extensions.json` には、エクステンション名、ID、画像パス、シリーズ、Rarity、Legacy/Modern区分、Max Level Stats（HP/PHY/INT/AGI）、Active Skill名と内容、Aura情報を収録しています。
+
+ヒーロー/エクステンションの一部コラボ・権利対象素材は、利用不可のためDBと画像フォルダから除外しています。除外したレコードは各 `metadata.json` の `restricted_removed_records` に記録しています。
 
 `enemies.json` には、エネミー名、ID、画像パス、基礎パラメーター（HP/PHY/INT/AGI）、成長値、Active Skill、Passive Skillを収録しています。画像は `image` ファイル名で `Image/Enemies` と紐づけています。
 

@@ -30,6 +30,19 @@ const ENCHANTS = {
   104: { key: "adversity", name: { ja: "adversity", en: "Adversity" } },
 };
 
+const RESTRICTED_HERO_TYPES = new Set([
+  2050, // イッパツマン & 逆転王
+  3052, // キャシャーン & フレンダー
+  3053, // クリスタル・ボーイ
+  4042, // ブッダ
+  4043, // 鉄腕アトム
+  4058, // ヤッターマン1号 & 2号
+  4059, // コブラ
+  4061, // ティルフィング[PK Alterna]
+  14042, // ブッダ.RepA
+  14043, // 鉄腕アトム.RepA
+]);
+
 function request(url, responseType = "utf8", redirects = 0) {
   return new Promise((resolve, reject) => {
     const client = url.startsWith("https:") ? https : http;
@@ -344,7 +357,9 @@ async function main() {
   const attributeById = new Map(
     state.hero.heroAttributeTypes.map((attribute) => [attribute.heroAttributeType, attribute])
   );
+  const restrictedHeroes = state.hero.masters.filter((hero) => RESTRICTED_HERO_TYPES.has(hero.heroType));
   const heroes = state.hero.masters
+    .filter((hero) => !RESTRICTED_HERO_TYPES.has(hero.heroType))
     .map((hero) => normalizeHero(hero, skillById, attributeById))
     .sort((a, b) => a.id - b.id);
 
@@ -361,6 +376,12 @@ async function main() {
     total_hero_master_records: heroes.length,
     dictionary_visible_records: visibleHeroes.length,
     image_count: fs.readdirSync(HERO_IMAGE_DIR).filter((file) => file.endsWith(".png")).length,
+    restricted_removed_records: restrictedHeroes
+      .map((hero) => ({
+        id: hero.heroType,
+        name: hero.name,
+      }))
+      .sort((a, b) => a.id - b.id),
     image_download_failures: imageDownloads.failures,
     image_download_fallbacks: imageDownloads.fallbacks,
     category_counts: heroes.reduce((counts, hero) => {

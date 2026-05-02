@@ -38,6 +38,37 @@ const EXPANSION_TYPES = {
   2: "Modern",
 };
 
+const RESTRICTED_EXTENSIONS = new Map([
+  [2101, "おとなの防具屋さん / リリエッタの盾"],
+  [3101, "おとなの防具屋さん / モクク"],
+  [4101, "おとなの防具屋さん / マモリ"],
+  [15101, "おとなの防具屋さん / リリエッタの盾.Rep B"],
+  [16101, "おとなの防具屋さん / モクク.Rep A"],
+  [17101, "おとなの防具屋さん / マモリ.Rep S"],
+  [4166, "ファンキルオルタナ / レーヴァテイン[PK Alterna]"],
+  [4167, "ファンキルオルタナ / アルマス[PK Alterna]"],
+  [4168, "ファンキルオルタナ / フェイルノート[PK Alterna]"],
+  [2062, "ブレイブ フロンティア ヒーローズ 創剣 / 創輝剣ベルテ"],
+  [3062, "ブレイブ フロンティア ヒーローズ 創剣 / 創聖剣ベラネル"],
+  [1060, "手塚オールスター / ヒョウタンツギ"],
+  [2060, "手塚オールスター / ロビタ"],
+  [3060, "手塚オールスター / ユニコ"],
+  [4060, "手塚オールスター / レオ"],
+  [5060, "手塚オールスター / 火の鳥"],
+  [11060, "手塚オールスター / 手塚オールスター.RepF"],
+  [12060, "手塚オールスター / 手塚オールスター.RepE"],
+  [13060, "手塚オールスター / 手塚オールスター.RepD"],
+  [14060, "手塚オールスター / 手塚オールスター.RepC"],
+  [15060, "手塚オールスター / 手塚オールスター.RepB"],
+  [16060, "手塚オールスター / 手塚オールスター.RepA"],
+  [17060, "手塚オールスター / 手塚オールスター.RepS"],
+  [4114, "南葛SC / 南葛SCのエンブレム"],
+  [5114, "南葛SC / 南葛SCのインシグニア"],
+  [4145, "余市町ワイン / 余市町赤ワイン"],
+  [4146, "余市町ワイン / 余市町白ワイン"],
+  [5144, "余市町ワイン / 余市の宝〜北海道余市町名産ワイン〜"],
+]);
+
 function request(url, responseType = "utf8", redirects = 0) {
   return new Promise((resolve, reject) => {
     const client = url.startsWith("https:") ? https : http;
@@ -289,7 +320,11 @@ async function main() {
   const state = getNuxtState(html);
   const skillById = new Map(state.skill.masters.map((skill) => [skill.skillId, skill]));
   const auraById = new Map((state.aura.masters || []).map((aura) => [aura.auraId, aura]));
+  const restrictedExtensions = state.extension.masters.filter((extension) =>
+    RESTRICTED_EXTENSIONS.has(extension.extensionType)
+  );
   const extensions = state.extension.masters
+    .filter((extension) => !RESTRICTED_EXTENSIONS.has(extension.extensionType))
     .map((extension) => normalizeExtension(extension, skillById, auraById))
     .sort((a, b) => a.id - b.id);
 
@@ -306,6 +341,14 @@ async function main() {
     total_extension_master_records: extensions.length,
     dictionary_visible_records: visibleExtensions.length,
     image_count: fs.readdirSync(EXTENSION_IMAGE_DIR).filter((file) => file.endsWith(".png")).length,
+    restricted_removed_records: restrictedExtensions
+      .map((extension) => ({
+        id: extension.extensionType,
+        reason: RESTRICTED_EXTENSIONS.get(extension.extensionType),
+        name: extension.name,
+        series_name: extension.seriesName,
+      }))
+      .sort((a, b) => a.id - b.id),
     image_download_failures: imageDownloadFailures,
     category_counts: extensions.reduce((counts, extension) => {
       counts[extension.category] = (counts[extension.category] || 0) + 1;

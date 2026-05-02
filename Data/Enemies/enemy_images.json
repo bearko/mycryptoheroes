@@ -113,49 +113,6 @@
     "sha256": "439f760539707456a911c97174daf07e0d96461897b4096a3df709c38234d7eb"
   },
   {
-    "id": 1044,
-    "filename": "1044.png",
-    "image_file_path": "Image/Enemies/1044.png",
-    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/1044.png",
-    "names": [
-      {
-        "en": "Slime",
-        "ja": "スライム希少種",
-        "zh": "Slime"
-      }
-    ],
-    "enemy_types": [
-      1044
-    ],
-    "referenced_by_official_enemy_csv": true,
-    "width": 64,
-    "height": 64,
-    "size_bytes": 6662,
-    "sha256": "0dd6478c9af195fcd880534d1bdde672fbc8c0e436d740d0ee481775420aebe5"
-  },
-  {
-    "id": 1045,
-    "filename": "1045.png",
-    "image_file_path": "Image/Enemies/1045.png",
-    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/1045.png",
-    "names": [
-      {
-        "en": "Slime",
-        "ja": "スライム",
-        "zh": "Slime"
-      }
-    ],
-    "enemy_types": [
-      1045,
-      1046
-    ],
-    "referenced_by_official_enemy_csv": true,
-    "width": 64,
-    "height": 64,
-    "size_bytes": 7212,
-    "sha256": "e8f8be8b865b87e1d0a8d46b0da567f0a3736024fb40f3e43e843a3f9f30cc11"
-  },
-  {
     "id": 105,
     "filename": "105.png",
     "image_file_path": "Image/Enemies/105.png",
@@ -3551,27 +3508,6 @@
     "height": 64,
     "size_bytes": 10354,
     "sha256": "0f4890f6f73971724a3d521878b32e1f0e0c58af05222d1b856ba4e0249d93e1"
-  },
-  {
-    "id": 419,
-    "filename": "419.png",
-    "image_file_path": "Image/Enemies/419.png",
-    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/419.png",
-    "names": [
-      {
-        "en": "Pluto",
-        "ja": "プルートウ",
-        "zh": "Pluto"
-      }
-    ],
-    "enemy_types": [
-      419
-    ],
-    "referenced_by_official_enemy_csv": true,
-    "width": 128,
-    "height": 128,
-    "size_bytes": 35193,
-    "sha256": "7ea4c1fa77071b3cb6293cadd95d464ebfb60f9ff603feef14647df6b0135b55"
   },
   {
     "id": 420,

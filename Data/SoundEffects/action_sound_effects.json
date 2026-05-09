@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "key": "craft",
+    "label_ja": "クラフト",
+    "label_en": "Craft",
+    "description": "クラフト演出 / 工房作業中の汎用 SE",
+    "files": [
+      {
+        "format": "mp3",
+        "audio_file_path": "Audio/SE/Actions/craft.mp3",
+        "size_bytes": 4312448,
+        "sha256": "0eea35492fc743903ee9fbb7bb7b40504dbe3a88b0da32968d5af0000b18218f"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "key": "crash",
+    "label_ja": "破壊/失敗",
+    "label_en": "Crash / Fail",
+    "description": "破壊・失敗・キャンセル等のネガティブ演出",
+    "files": [
+      {
+        "format": "mp3",
+        "audio_file_path": "Audio/SE/Actions/crash.mp3",
+        "size_bytes": 17553,
+        "sha256": "c091f5dec5e578e00cd465eed22c891fc6bf8bb3e5e3386499b7f667e49f06bf"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "key": "cp_mining_complete",
+    "label_ja": "資源採掘完了",
+    "label_en": "CP Mining Complete",
+    "description": "CP / 資源採掘完了通知",
+    "files": [
+      {
+        "format": "mp3",
+        "audio_file_path": "Audio/SE/Actions/cp-mining-complete.mp3",
+        "size_bytes": 49527,
+        "sha256": "ddd05cdaa40365d7a823dbb59034daea68b22b86dc4027457c7609d7fca16fcf"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "key": "open_treasure",
+    "label_ja": "宝箱オープン",
+    "label_en": "Open Treasure",
+    "description": "宝箱・ガチャ・報酬獲得演出",
+    "files": [
+      {
+        "format": "mp3",
+        "audio_file_path": "Audio/SE/Actions/open_treasure.mp3",
+        "size_bytes": 17171,
+        "sha256": "43cae99a105103b335d0e42e254c96fc57de85850b3be271147aae6892102ae8"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "key": "tooldev",
+    "label_ja": "ツール開発",
+    "label_en": "Tool Development",
+    "description": "ツール開発・道具製作完了",
+    "files": [
+      {
+        "format": "mp3",
+        "audio_file_path": "Audio/SE/Actions/tooldev.mp3",
+        "size_bytes": 58176,
+        "sha256": "2eb1d91cdd78d135b1d2e3c77864a462f23ba03999046932c655dc5facbb2f28"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "key": "production",
+    "label_ja": "生産",
+    "label_en": "Production",
+    "description": "生産ライン稼働・完成",
+    "files": [
+      {
+        "format": "mp3",
+        "audio_file_path": "Audio/SE/Actions/production.mp3",
+        "size_bytes": 26496,
+        "sha256": "8774eca27e1f6872b800afe10f435498263665cf7224b5afbeea7f1ffc01501b"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "key": "insp",
+    "label_ja": "鑑定/閃き",
+    "label_en": "Inspect / Inspiration",
+    "description": "鑑定演出・閃き表現",
+    "files": [
+      {
+        "format": "mp3",
+        "audio_file_path": "Audio/SE/Actions/insp.mp3",
+        "size_bytes": 41472,
+        "sha256": "63d12ca1a4c8ad65c3576c6f1a5ce4932dc75aae4738723404dff631de5b613b"
+      }
+    ]
+  }
+]

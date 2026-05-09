@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T06:28:47.316Z",
+  "generated_at": "2026-05-09T11:08:16.944Z",
   "total_backgrounds": 37,
   "duplicate_groups": [
     [
@@ -35,5 +35,7 @@
       "1057.png"
     ]
   ],
-  "note": "Background assets are managed with special permission from MCH Co.Ltd. They are not listed as covered assets in the public design guideline."
+  "note": "Background assets are managed with special permission from MCH Co.Ltd. They are not listed as covered assets in the public design guideline.",
+  "nodes_labeled": 14,
+  "node_naming_note": "Selected entries (1023, 1023 (1), 1006, 1037, 1038 = normal nodes; 2105-2905 = land nodes) carry node_type/node_name_ja and, for land nodes, node_name_en + cryptid_ref. Other duplicates by sha256 (e.g. 1049/1054/1058 = 1037) are intentionally NOT auto-labeled to avoid speculation."
 }

@@ -1,8 +1,21 @@
 {
-  "fetched_at": "2026-04-29T10:30:05.395Z",
-  "source_url_pattern": "https://d2fvodbijouf8s.cloudfront.net/sounds/se/[1-5].{mp3,ogg}",
-  "total_effects": 5,
-  "total_files": 10,
-  "audio_download_failures": [],
-  "note": "Battle source loads getSe(1)..getSe(5); effect-N classes map these IDs to battle animations."
+  "generated_at": "2026-05-09T11:08:16.944Z",
+  "total_categories": 2,
+  "total_files_all_categories": 17,
+  "categories": {
+    "battle": {
+      "data_file": "Data/SoundEffects/battle_sound_effects.json",
+      "total_effects": 5,
+      "total_files": 10,
+      "source_url_pattern": "https://d2fvodbijouf8s.cloudfront.net/sounds/se/[1-5].{mp3,ogg}",
+      "note": "Battle source loads getSe(1)..getSe(5); effect-N classes map these IDs to battle animations."
+    },
+    "actions": {
+      "data_file": "Data/SoundEffects/action_sound_effects.json",
+      "total_effects": 7,
+      "total_files": 7,
+      "source": "Local upload (deduped against Audio/SE/Battle and Audio/SE/Jingles)",
+      "note": "派生作品でのクラフト/採掘/宝箱/ガチャ等のアクション系演出向け。"
+    }
+  }
 }

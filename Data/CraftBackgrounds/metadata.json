@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-05-09T11:08:16.944Z",
+  "total_files": 9,
+  "layers": {
+    "base": 6,
+    "stage": 3
+  },
+  "stage_progression": [
+    {
+      "stage": 1,
+      "key": "magic_pot",
+      "name_ja": "魔法の壺",
+      "name_en": "Magic Pot"
+    },
+    {
+      "stage": 2,
+      "key": "conveyor",
+      "name_ja": "搬送レーン",
+      "name_en": "Conveyor Lane"
+    },
+    {
+      "stage": 3,
+      "key": "capsule",
+      "name_ja": "具現化カプセル",
+      "name_en": "Materialization Capsule"
+    }
+  ],
+  "rendering_note": "派生作品でのレンダリング推奨: (1) Image/CraftBackgrounds/Base/100.webp を背景レイヤーに敷く。(2) 同 Base/ の各 GIF を ambient overlay として常時重ねる(必要に応じ)。(3) Stages/ の GIF はクラフト進行度に応じて段階的に重ねる(stage 1 → 2 → 3)。全 GIF は 1000x1000 px で、それぞれ独立した透過アニメーション。"
+}

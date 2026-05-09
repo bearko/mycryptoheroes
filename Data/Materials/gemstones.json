@@ -1,0 +1,58 @@
+[
+  {
+    "id": "315",
+    "key": "ifrit_gemstone",
+    "filename": "315.webp",
+    "image_file_path": "Image/Materials/Gemstones/315.webp",
+    "category": "gemstone",
+    "element": "ifrit",
+    "phenomenon_hint": "fire",
+    "name_ja": "イフリートの魔石",
+    "name_en": "Ifrit Gemstone",
+    "sha256": "32e99716e0453529deb06d41dc689d4c4db156085cf85092e866211e9abf0661",
+    "size_bytes": 82874,
+    "usage_note": "MCH派生作品でクラフト/育成素材として使用可能。本リポジトリでは MCH Co.,Ltd. の許諾範囲で保持。"
+  },
+  {
+    "id": "325",
+    "key": "leviathan_gemstone",
+    "filename": "325.webp",
+    "image_file_path": "Image/Materials/Gemstones/325.webp",
+    "category": "gemstone",
+    "element": "leviathan",
+    "phenomenon_hint": "water",
+    "name_ja": "リヴァイアサンの魔石",
+    "name_en": "Leviathan Gemstone",
+    "sha256": "bba72d4d4877cd4d62df1fd16552e7ea4d0dc948134efedb28b278bf7178dbd1",
+    "size_bytes": 83364,
+    "usage_note": "MCH派生作品でクラフト/育成素材として使用可能。本リポジトリでは MCH Co.,Ltd. の許諾範囲で保持。"
+  },
+  {
+    "id": "335",
+    "key": "tiamat_gemstone",
+    "filename": "335.webp",
+    "image_file_path": "Image/Materials/Gemstones/335.webp",
+    "category": "gemstone",
+    "element": "tiamat",
+    "phenomenon_hint": "earth",
+    "name_ja": "ティアマトの魔石",
+    "name_en": "Tiamat Gemstone",
+    "sha256": "300cc791c006aef748db93eb42e492b59fe068432d11c4cc1e0b9e606c7667ba",
+    "size_bytes": 84646,
+    "usage_note": "MCH派生作品でクラフト/育成素材として使用可能。本リポジトリでは MCH Co.,Ltd. の許諾範囲で保持。"
+  },
+  {
+    "id": "345",
+    "key": "garuda_gemstone",
+    "filename": "345.webp",
+    "image_file_path": "Image/Materials/Gemstones/345.webp",
+    "category": "gemstone",
+    "element": "garuda",
+    "phenomenon_hint": "wind",
+    "name_ja": "ガルーダの魔石",
+    "name_en": "Garuda Gemstone",
+    "sha256": "ed33b63c6518490fa3f9d109af7b914b8de4b505ec5890e23985a7ffef9cc5e5",
+    "size_bytes": 83838,
+    "usage_note": "MCH派生作品でクラフト/育成素材として使用可能。本リポジトリでは MCH Co.,Ltd. の許諾範囲で保持。"
+  }
+]

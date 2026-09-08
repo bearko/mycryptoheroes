@@ -174,8 +174,8 @@
                 "image_file_path": "Image/HeroAnimations/16x32/10001/attack_s.gif",
                 "width": 32,
                 "height": 32,
-                "sha256": "7c6fb0b4c411ceabdca287c9dc5081cfa1c1a112937b972ed151ea4be193e0f2",
-                "size_bytes": 1840
+                "sha256": "248495c7b1859d675da129374915238061705712623c808c2c1cc89b8eef6229",
+                "size_bytes": 1842
               },
               "sprite_sheet": {
                 "image_file_path": "Image/HeroAnimations/16x32/10001/attack_s.png",
@@ -183,8 +183,8 @@
                 "height": 32,
                 "columns": 7,
                 "rows": 1,
-                "sha256": "72776891a078df5c95bd7f653f0acf0849c51da21c6408812f55245873f2aaf6",
-                "size_bytes": 2040
+                "sha256": "b06ccc9d15aed7bbc9367785a66e6c95f1ffd32cf5792b9f04abb4ca10eee4e9",
+                "size_bytes": 2033
               }
             },
             {

@@ -1,11 +1,15 @@
 {
-  "generated_at": "2026-09-08T11:49:57.848Z",
-  "total_heroes": 0,
-  "total_sheets": 0,
-  "frame_sizes": [
+  "generated_at": "2026-09-08T12:59:57.948Z",
+  "total_heroes": 1,
+  "total_clips": 21,
+  "template_sizes": [
     "16x32"
   ],
-  "motions": [],
+  "motions": [
+    "attack",
+    "idle",
+    "walk"
+  ],
   "heroes_missing_master_record": [],
   "warnings": [],
   "credit": {

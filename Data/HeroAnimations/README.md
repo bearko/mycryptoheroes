@@ -11,7 +11,7 @@
 ```
 Image/HeroAnimations/
 └── 16x32/                 1コマのサイズ。別サイズを追加する場合は 32x32/ のように並べる
-    └── 1001/              ヒーローID。Data/Heroes/heroes.json の id と一致させる
+    └── 10001/             ヒーローID。Data/Heroes/heroes.json の id と一致させる
         ├── idle_s.png
         ├── idle_se.png
         ├── ...
@@ -22,6 +22,8 @@ Image/HeroAnimations/
 ```
 
 ヒーローIDのフォルダ名は `Data/Heroes/heroes.json` の `id` と同じ値にしてください。生成スクリプトがマスタと突き合わせ、見つからないIDは警告として `metadata.json` に記録します。
+
+> **注意**: 制作ツール側のフォルダ名（`prod_1001` のような連番）は、`heroes.json` のヒーローIDとは一致しないことがあります。たとえばMCHウォーリアーのIDは `10001` で、`1001` は別のヒーロー（コナン・ドイル）です。スクリプトは存在しないIDしか警告できないため、フォルダ名は必ず `heroes.json` の `id` を確認してから付けてください。
 
 ## ファイル名の規約
 

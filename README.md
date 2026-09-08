@@ -171,6 +171,35 @@ node scripts/fetch_battle_cutin_assets.js
 一部レプリカ画像URLはCDNで直接 503 になることがあります。該当ヒーローは同名の元ヒーロー画像URLへフォールバックして `Image/Heroes/[ID].png` として保存し、`metadata.json` の `image_download_fallbacks` に記録します。
 
 
+## WebGLヒーロー図鑑ビューア
+
+このリポジトリのデータと画像をそのまま使う、ブラウザ用のヒーロー図鑑ビューアを `WebGL/HeroCompendium/` に収録しています。外部ライブラリなしの素のWebGLで、ヒーロー404体をインスタンス描画で一覧表示します。
+
+```bash
+# リポジトリのルートで静的サーバーを起動
+python3 -m http.server 8000
+# => http://localhost:8000/WebGL/HeroCompendium/
+```
+
+- 配置は「グリッド」「勢力（四神ごとのかたまり）」「PHY×INT散布図」の3種類を切り替えられます。
+- レアリティ / 勢力 / 区分 / 属性 / パッシブ演出 / フリーワードで絞り込み、8種類の並べ替えに対応しています。
+- カードを選ぶと、最大レベル・初期ステータス、パッシブスキル、属性、エンチャント、発行数、Wikipediaリンクを表示します。
+- 選択時には、そのヒーローのパッシブスキルの `effect_id` に対応する `Image/Effects/Battle` のスプライトを再生します。`SE` をONにすると `Audio/SE/Battle` の効果音も鳴ります。
+- ドット絵は `NEAREST` フィルタのテクスチャアトラスで描画しているため、拡大してもぼやけません。
+- UIとヒーロー名・スキル文は日本語/英語を切り替えられます。
+
+詳細は [`WebGL/HeroCompendium/README.md`](WebGL/HeroCompendium/README.md) を参照してください。
+
+### Vercelへのデプロイ
+
+リポジトリをそのまま静的サイトとして公開できます。Vercelのプロジェクト設定は Framework Preset を `Other`、Build Command と Output Directory は未設定（デフォルト）のままで構いません。
+
+- `vercel.json`: ルート `/` をヒーロー図鑑にリライトし、`Image` / `Audio` / `Data` にキャッシュヘッダーを付けます。
+- `.vercelignore`: デプロイサイズを抑えるため、図鑑ビューアが参照しない大きな素材（`Image/Backgrounds`、`Image/Extensions`、`Image/Enemies`、`Image/CraftBackgrounds`、`Data/Extensions`、`Data/Enemies`、`Audio/BGM`）と `scripts/`、`prod_*.csv` を除外しています。これらもまとめて公開したい場合は該当行を削除してください。
+
+公開する画像・音声は、下記「画像利用ガイドライン要約」の範囲内で利用してください。
+
+
 # ルート README.md への追記用スニペット
 
 このファイルは `git push` には含めません。

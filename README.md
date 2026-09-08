@@ -18,6 +18,10 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 - `Data/Enemies/enemy_images.json`: エネミー画像とenemyTypeの紐づけ一覧。
 - `Data/Enemies/metadata.json`: 公式CSV、画像紐づけ、欠損スキルIDなどの補足。
 - `Image/Enemies/*.png`: 有効なエネミー画像 502 件。公式CSV参照画像と既存取得済み画像を保持しています。
+- `Data/HeroAnimations/hero_animations.json`: ヒーローごとのデフォルメアニメーション一覧。ヒーローIDで `Data/Heroes/heroes.json` と紐づきます。
+- `Data/HeroAnimations/metadata.json`: 件数、収録モーション、生成時の警告、クレジット。
+- `Data/HeroAnimations/README.md`: ファイル名の規約と追加手順。
+- `Image/HeroAnimations/16x32/[ID]/*.png`: 1コマ16x32のデフォルメアニメーション。8方向（攻撃は5方向）の待機/歩行/攻撃を収録しています。
 - `Data/Backgrounds/backgrounds.json`: バトル背景などに使う背景画像 37 件の一覧。
 - `Data/Backgrounds/metadata.json`: 背景画像の件数、重複グループ、利用許可に関する補足。
 - `Image/Backgrounds/*.png`: 背景画像。ファイル名はアップロード時の名前を維持しています。
@@ -52,6 +56,7 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 - パラメーター、バフ/デバフ、状態異常系アイコンは `Data/BattleIcons/battle_icons.json` から用途説明と `image_file_path` を参照できます。
 - Action欄のバトルエフェクトは `Data/Effects/battle_effect_sprites.json` からCSSクラス、用途、`image_file_path` を参照できます。
 - クリプタイドアイコンは `Data/Cryptids/cryptids.json` からランド名と `image_file_path` を参照できます。
+- デフォルメアニメーションは `Data/HeroAnimations/hero_animations.json` から、ヒーローID・モーション・方向ごとの `image_file_path` とコマ数を参照できます。
 - 背景画像はバトル背景などに利用できます。縦長画面ではそのまま表示し、横長画面では中央部分を拡大・クロップする形で利用してください。
 - BGMは `Audio/BGM`、効果音は `Audio/SE` を参照してください。
 - ドット絵素材を拡大表示する場合は、バイキュービック法ではなく、ニアレストネイバー法を強く推奨します。ブラウザでは `image-rendering: pixelated;` などを指定してください。
@@ -86,6 +91,23 @@ Action欄のダメージ、回復、バフ/デバフ演出は `effect-1`〜`effe
 - `04_buff`: バフ。
 - `05_debuff_status_effect`: デバフ/状態異常系。
 - `06_effect_06`〜`12_effect_12`: バトルCSS上で定義されている追加エフェクトスプライト。現行の公開スキルマスタでは主に `effectId` 1〜5 が使われています。
+
+## デフォルメアニメーション補足
+
+`Image/HeroAnimations/` には、ヒーローごとの16x32ドットのデフォルメアニメーションを収録しています。既存の `Image/Heroes/[ID].png`（64x64の立ち絵）とはフォルダを分け、`Image/HeroAnimations/<コマサイズ>/<ヒーローID>/` の階層でヒーローIDに紐づけています。
+
+- モーションは `idle`（待機）、`walk`（歩行）、`attack`（攻撃）。今後追加される可能性があります。
+- 方向は `s` `se` `e` `ne` `n` `nw` `w` `sw` の8方向。攻撃は `s` `se` `e` `ne` `n` の5方向のみで、左向きは右向きの左右反転で表示します。どの向きを反転で作るかは `hero_animations.json` の `mirrored_directions` に入っています。
+- 各PNGは1コマ16x32のグリッドで、左から右にコマが並ぶスプライトシートです。
+- ファイル名は `<モーション>_<方向>.png`（例: `idle_s.png`、`attack_ne.png`）。
+
+画像を追加したら、次のコマンドでマニフェストを再生成します。
+
+```bash
+node scripts/generate_hero_animation_manifest.js
+```
+
+ファイル名の規約、方向の別名表記、追加手順の詳細は [`Data/HeroAnimations/README.md`](Data/HeroAnimations/README.md) を参照してください。
 
 ## カットイン・ジングル補足
 
@@ -122,6 +144,15 @@ Action欄のダメージ、回復、バフ/デバフ演出は `effect-1`〜`effe
 - `mai_sd`: MAI。MCH Verseを擬人化したアイドルキャラクターのアイコン。
 - `mch_company_logo`: My Crypto Heroesを運営する会社のロゴ。
 - `mch_company_logo_negate`: My Crypto Heroesを運営する会社の反転ロゴ。
+
+## クレジット
+
+### Eris Esra's Character Templates Pack
+
+`Image/HeroAnimations/` のデフォルメアニメーションは、**[Eris Esra's Character Templates Pack](https://erisesra.itch.io/character-templates-pack)**（作者: Eris Esra）のキャラクターテンプレートをもとに作成しています。
+
+- 素材ページ: https://erisesra.itch.io/character-templates-pack
+- 本リポジトリのデフォルメアニメーションを利用・再配布する場合は、テンプレート側のライセンス条件も併せて確認してください。
 
 ## 画像利用ガイドライン要約
 
@@ -166,6 +197,7 @@ node scripts/generate_cryptid_manifest.js
 node scripts/fetch_battle_sound_effects.js
 node scripts/fetch_battle_effect_sprites.js
 node scripts/fetch_battle_cutin_assets.js
+node scripts/generate_hero_animation_manifest.js
 ```
 
 一部レプリカ画像URLはCDNで直接 503 になることがあります。該当ヒーローは同名の元ヒーロー画像URLへフォールバックして `Image/Heroes/[ID].png` として保存し、`metadata.json` の `image_download_fallbacks` に記録します。

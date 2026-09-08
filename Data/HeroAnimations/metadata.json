@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-09-08T11:49:57.848Z",
+  "total_heroes": 0,
+  "total_sheets": 0,
+  "frame_sizes": [
+    "16x32"
+  ],
+  "motions": [],
+  "heroes_missing_master_record": [],
+  "warnings": [],
+  "credit": {
+    "template": "Eris Esra's Character Templates Pack",
+    "author": "Eris Esra",
+    "url": "https://erisesra.itch.io/character-templates-pack",
+    "note": "Hero deformed animations in Image/HeroAnimations are drawn on this character template. Check the template's own license before redistributing."
+  },
+  "note": "Hero artwork itself follows the MCH design guideline summarized in the repository README."
+}

@@ -1,0 +1,113 @@
+{
+  "format": {
+    "sheet_layout": "Each PNG is a sprite sheet laid out on a grid of frame_width x frame_height cells, read left to right.",
+    "direction_order": [
+      "s",
+      "se",
+      "e",
+      "ne",
+      "n",
+      "nw",
+      "w",
+      "sw"
+    ],
+    "direction_mirror": {
+      "nw": "ne",
+      "w": "e",
+      "sw": "se"
+    },
+    "file_name_rule": "<motion>_<direction>.png (direction is optional when one sheet holds every direction as rows)",
+    "scaling_note": "Pixel art. Scale with nearest neighbor (image-rendering: pixelated), never bicubic."
+  },
+  "directions": [
+    {
+      "key": "s",
+      "label": {
+        "ja": "下",
+        "en": "South"
+      },
+      "vector": [
+        0,
+        1
+      ]
+    },
+    {
+      "key": "se",
+      "label": {
+        "ja": "右下",
+        "en": "South East"
+      },
+      "vector": [
+        1,
+        1
+      ]
+    },
+    {
+      "key": "e",
+      "label": {
+        "ja": "右",
+        "en": "East"
+      },
+      "vector": [
+        1,
+        0
+      ]
+    },
+    {
+      "key": "ne",
+      "label": {
+        "ja": "右上",
+        "en": "North East"
+      },
+      "vector": [
+        1,
+        -1
+      ]
+    },
+    {
+      "key": "n",
+      "label": {
+        "ja": "上",
+        "en": "North"
+      },
+      "vector": [
+        0,
+        -1
+      ]
+    },
+    {
+      "key": "nw",
+      "label": {
+        "ja": "左上",
+        "en": "North West"
+      },
+      "vector": [
+        -1,
+        -1
+      ]
+    },
+    {
+      "key": "w",
+      "label": {
+        "ja": "左",
+        "en": "West"
+      },
+      "vector": [
+        -1,
+        0
+      ]
+    },
+    {
+      "key": "sw",
+      "label": {
+        "ja": "左下",
+        "en": "South West"
+      },
+      "vector": [
+        -1,
+        1
+      ]
+    }
+  ],
+  "heroes": []
+}

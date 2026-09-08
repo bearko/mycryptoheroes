@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>ヒーロー図鑑 | My Crypto Heroes (WebGL)</title>
+<meta name="description" content="My Crypto Heroes のヒーロー404体を WebGL で一覧・検索できる図鑑ビューアです。">
+<link rel="icon" href="../../Image/Icons/mch_icon.png">
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+<canvas id="stage" aria-label="ヒーロー図鑑のWebGLキャンバス" role="img"></canvas>
+<div id="labels" aria-hidden="true"></div>
+<div id="tooltip" hidden></div>
+
+<header id="topbar">
+  <div class="brand">
+    <img src="../../Image/Icons/mch_icon.png" alt="My Crypto Heroes">
+    <div class="brand-text">
+      <strong data-i18n="title"></strong>
+      <span data-i18n="subtitle"></span>
+    </div>
+  </div>
+  <div class="search">
+    <input id="search" type="search" autocomplete="off" spellcheck="false">
+  </div>
+  <div class="top-actions">
+    <div class="segmented" id="layout-modes" role="group"></div>
+    <button type="button" id="fit-button" class="ghost" data-i18n="fit"></button>
+    <button type="button" id="sound-button" class="ghost" aria-pressed="false"></button>
+    <button type="button" id="lang-button" class="ghost" data-i18n="lang"></button>
+  </div>
+</header>
+
+<button type="button" id="sidebar-toggle" aria-expanded="true">☰</button>
+
+<aside id="sidebar">
+  <div class="sidebar-head">
+    <span id="hero-count"></span>
+    <button type="button" id="reset-button" class="ghost small" data-i18n="reset"></button>
+  </div>
+
+  <section class="filter-group">
+    <h2 data-i18n="rarity"></h2>
+    <div class="chips" id="rarity-chips"></div>
+  </section>
+
+  <section class="filter-group">
+    <h2 data-i18n="faction"></h2>
+    <div class="chips" id="faction-chips"></div>
+  </section>
+
+  <section class="filter-group">
+    <h2 data-i18n="category"></h2>
+    <div class="chips" id="category-chips"></div>
+  </section>
+
+  <section class="filter-group">
+    <h2 data-i18n="attribute"></h2>
+    <select id="attribute-select"></select>
+  </section>
+
+  <section class="filter-group">
+    <h2 data-i18n="effect"></h2>
+    <select id="effect-select"></select>
+  </section>
+
+  <section class="filter-group">
+    <h2 data-i18n="sortLabel"></h2>
+    <select id="sort-select"></select>
+  </section>
+</aside>
+
+<section id="detail" hidden aria-live="polite"></section>
+
+<footer id="hints"></footer>
+
+<div id="loading">
+  <div class="loading-inner">
+    <p id="loading-label"></p>
+    <div class="progress"><i id="loading-bar"></i></div>
+  </div>
+</div>
+
+<div id="fatal" hidden></div>
+
+<script type="module" src="js/main.js"></script>
+</body>
+</html>

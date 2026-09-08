@@ -94,7 +94,7 @@ function parseFrameSize(directoryName) {
 
 // "attack_se.png" -> { motion: "attack", direction: "se" }
 // "idle.png"      -> { motion: "idle", direction: null }  (全方向が行方向に並ぶシート)
-// "1001_walk_n.png" のようにヒーローIDが前置されていても解釈できる。
+// "10001_walk_n.png" のようにヒーローIDが前置されていても解釈できる。
 function parseFileName(fileName, heroId) {
   const base = path.basename(fileName, path.extname(fileName)).toLowerCase();
   let tokens = base.split(/[_\-\s.]+/).filter(Boolean);
@@ -301,7 +301,7 @@ function main() {
   warnings.forEach((warning) => console.warn(`  warning: ${warning}`));
   if (!heroes.length) {
     console.log(
-      "Image/HeroAnimations/<frame_size>/<heroId>/ に PNG を置いてから実行してください（例: Image/HeroAnimations/16x32/1001/idle_s.png）。"
+      "Image/HeroAnimations/<frame_size>/<heroId>/ に PNG を置いてから実行してください（例: Image/HeroAnimations/16x32/10001/idle_s.png）。"
     );
   }
 }

@@ -31,6 +31,10 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 - `Style/Cutins/*.css`: カットイン演出を再現するCSS。
 - `Data/Cryptids/cryptids.json`: ランドごとのクリプタイドアイコン一覧。
 - `Image/Cryptids/*.png`: クリプタイドアイコン。ファイル名の連番を除いた名称がランド名です。
+- `Data/Characters/characters.json`: オリジナルキャラクター（クリスくん/マインちゃん/マイクリくん）の立ち絵・差分 59 コマの一覧。
+- `Data/Characters/metadata.json`: 立ち絵の書き出し方法、利用条件、クレジット表記の補足。
+- `Image/Characters/*.png`: 立ち絵PNG。ファイル名は `Image/Characters/[差分セットID]_[コマ番号]_[ポーズ].png` です。
+- `Image/Characters/Source/*.aseprite`: 立ち絵のAsepriteソース。レイヤーとループタグを保持しています。
 - `Data/SoundEffects/battle_sound_effects.json`: バトル中のサウンドエフェクト一覧。
 - `Audio/BGM/*.mp3`: BGM素材。
 - `Audio/SE/*.wav`: SE素材。
@@ -52,6 +56,7 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 - パラメーター、バフ/デバフ、状態異常系アイコンは `Data/BattleIcons/battle_icons.json` から用途説明と `image_file_path` を参照できます。
 - Action欄のバトルエフェクトは `Data/Effects/battle_effect_sprites.json` からCSSクラス、用途、`image_file_path` を参照できます。
 - クリプタイドアイコンは `Data/Cryptids/cryptids.json` からランド名と `image_file_path` を参照できます。
+- オリジナルキャラクターの立ち絵は `Data/Characters/characters.json` からポーズ、表情、コマの表示時間、`image_file_path` を参照できます。
 - 背景画像はバトル背景などに利用できます。縦長画面ではそのまま表示し、横長画面では中央部分を拡大・クロップする形で利用してください。
 - BGMは `Audio/BGM`、効果音は `Audio/SE` を参照してください。
 - ドット絵素材を拡大表示する場合は、バイキュービック法ではなく、ニアレストネイバー法を強く推奨します。ブラウザでは `image-rendering: pixelated;` などを指定してください。
@@ -123,11 +128,68 @@ Action欄のダメージ、回復、バフ/デバフ演出は `effect-1`〜`effe
 - `mch_company_logo`: My Crypto Heroesを運営する会社のロゴ。
 - `mch_company_logo_negate`: My Crypto Heroesを運営する会社の反転ロゴ。
 
+## オリジナルキャラクター補足
+
+`Image/Characters` のクリスくん/マインちゃん/マイクリくんは、マイクリの派生コンテンツや解説動画で使えるオリジナルキャラクターです。マイクリ公式が提供する「マイクリ画像」ではないため、公式デザインガイドラインの制約対象ではありません。
+
+- 本リポジトリのオーナーが、デザインの著作権込みでデザイナー様に制作を依頼・納品を受けた素材です。
+- 自作・改変や、他のイラストレーターの方への依頼も含めて自由に利用できます。
+- クレジット表記は任意です。記載する場合は、クリスくん/マインちゃんは「ドット絵：こじもこ」、マイクリくんは「原画：こはるさん／ドット絵：こじもこさん」としてください。各キャラクターの表記は `characters.json` の `credit` にも記録しています。
+
+### キャラクター
+
+- クリスくん（ID: `chris` / 英字表記: Chris）: ハンチング帽とベストを身につけた緑髪の少年。キャンバスサイズは 72x140px。
+- マインちゃん（ID: `navi_ain` / 英字表記: Mine）: 白衣と指し棒で解説を担当するナビゲーター役の少女。キャンバスサイズは 96x128px。
+- マイクリくん（ID: `maycri` / 英字表記: MCH）: メガホンを持った丸いマスコットキャラクター。キャンバスサイズは 64x64px。
+
+### フォルダ構成
+
+| パス | 内容 |
+| --- | --- |
+| `Image/Characters/Source/*.aseprite` | 納品されたAsepriteソース。レイヤーとループタグを保持しています。 |
+| `Image/Characters/*.png` | `scripts/export_character_sprites.py` がAsepriteソースから自動生成するPNG。手動でファイルを追加しないでください（再生成時に削除されます）。 |
+| `Data/Characters/characters.json` | ポーズ、表情、コマの表示時間、ループ範囲、画像パスの一覧。 |
+
+### 差分セットとファイル名
+
+PNGは `Image/Characters/[差分セットID]_[コマ番号]_[ポーズ].png` の形式で、1ファイル = Asepriteの1コマです。
+
+| 差分セットID | キャラクター | コマ数 | 内容 |
+| --- | --- | --- | --- |
+| `chris` | クリスくん | 12 | 基本立ち絵とポーズ/表情差分（腕組み、挨拶、喜び、ガッツポーズ、ひらめき、悲しみなど） |
+| `chris_speak` | クリスくん | 7 | 口パク（リップシンク）用差分 |
+| `chris_cry` | クリスくん | 4 | 泣き差分 |
+| `navi_ain` | マインちゃん | 15 | 基本立ち絵とポーズ/表情差分（指し棒、腕組み、挨拶、ひらめき、涙目など） |
+| `navi_ain_greeting` | マインちゃん | 6 | 挨拶ポーズ差分（キラキラ演出付きのコマを含む） |
+| `navi_ain_speak` | マインちゃん | 4 | 口パク（リップシンク）用差分 |
+| `navi_ain_cross` | マインちゃん | 4 | 腕組みポーズ差分 |
+| `maycri` | マイクリくん | 7 | 待機アニメーション（目の表情差分） |
+
+### アニメーション
+
+各コマの表示時間は `characters.json` の `duration_ms`、Aseprite側のループ範囲は `loop_tags` に記録しています。ループ範囲のコマを順に切り替えると、元のAsepriteと同じアニメーションになります。
+
+- `chris`: コマ9〜11が待機時のまばたきループ。
+- `chris_speak`: コマ2〜3が口パクループ。
+- `chris_cry`: コマ2〜3が泣き叫びループ。
+- `navi_ain`: コマ11〜13が待機時のまばたきループ。
+- `navi_ain_greeting`: コマ0〜1がキラキラ演出付きの挨拶ループ。
+- `navi_ain_speak`: コマ0〜1が口パクループ。
+- `navi_ain_cross`: コマ0〜1が腕組み待機ループ。
+- `maycri`: コマ4〜6が待機ループ。
+
+### Asepriteソース
+
+`Image/Characters/Source/*.aseprite` に元データを置いています。`body` / `eye` / `mouth` などのレイヤーが分かれているため、表情差分やポーズの追加はソースから編集できます。制作時の下書き用の非表示レイヤーは、PNG書き出しの対象外です。
+
+`python3 scripts/export_character_sprites.py` を実行すると、Asepriteソースから `Image/Characters/*.png` と `Data/Characters/*.json` を再生成します（外部ライブラリ不要）。
+
 ## 画像利用ガイドライン要約
 
 公式ガイドライン: https://medium.com/mycryptoheroes/mch-design-guideline-ja-99ff0970ccdc
 
 - 「マイクリ画像」は、運営側が提供するヒーロー、エクステンション、エネミー、MCHロゴマークを指します。
+- `Image/Characters` のオリジナルキャラクター（クリスくん/マインちゃん/マイクリくん）は運営側が提供する素材ではないため、このガイドラインの対象外です。利用条件は「オリジナルキャラクター補足」を参照してください。
 - 上記以外の画像は使用できません。
 - 背景画像は上記ガイドラインの利用可能素材には明記されていませんが、本リポジトリではMCH Co.Ltd.から特別に許可をいただいて管理しています。
 - 禁止事項に抵触しない範囲で、ゲーム内のアートエディット/アートギャラリー素材として利用できます。
@@ -166,6 +228,7 @@ node scripts/generate_cryptid_manifest.js
 node scripts/fetch_battle_sound_effects.js
 node scripts/fetch_battle_effect_sprites.js
 node scripts/fetch_battle_cutin_assets.js
+python3 scripts/export_character_sprites.py
 ```
 
 一部レプリカ画像URLはCDNで直接 503 になることがあります。該当ヒーローは同名の元ヒーロー画像URLへフォールバックして `Image/Heroes/[ID].png` として保存し、`metadata.json` の `image_download_fallbacks` に記録します。

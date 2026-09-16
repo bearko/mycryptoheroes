@@ -35,6 +35,7 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 - `Data/Characters/metadata.json`: 立ち絵の書き出し方法、利用条件、クレジット表記の補足。
 - `Image/Characters/*.png`: 立ち絵PNG。ファイル名は `Image/Characters/[差分セットID]_[コマ番号]_[ポーズ].png` です。
 - `Image/Characters/Source/*.aseprite`: 立ち絵のAsepriteソース。レイヤーとループタグを保持しています。
+- `Image/Characters/Gif/*.gif`: PNGのつながりを確認するためのアニメーションGIF 16本。
 - `Data/SoundEffects/battle_sound_effects.json`: バトル中のサウンドエフェクト一覧。
 - `Audio/BGM/*.mp3`: BGM素材。
 - `Audio/SE/*.wav`: SE素材。
@@ -57,6 +58,7 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 - Action欄のバトルエフェクトは `Data/Effects/battle_effect_sprites.json` からCSSクラス、用途、`image_file_path` を参照できます。
 - クリプタイドアイコンは `Data/Cryptids/cryptids.json` からランド名と `image_file_path` を参照できます。
 - オリジナルキャラクターの立ち絵は `Data/Characters/characters.json` からポーズ、表情、コマの表示時間、`image_file_path` を参照できます。
+- 立ち絵のアニメーション（口パク、まばたきなど）は `characters.json` の `animations` から再生順のコマ一覧と `gif_file_path` を参照できます。
 - 背景画像はバトル背景などに利用できます。縦長画面ではそのまま表示し、横長画面では中央部分を拡大・クロップする形で利用してください。
 - BGMは `Audio/BGM`、効果音は `Audio/SE` を参照してください。
 - ドット絵素材を拡大表示する場合は、バイキュービック法ではなく、ニアレストネイバー法を強く推奨します。ブラウザでは `image-rendering: pixelated;` などを指定してください。
@@ -147,6 +149,7 @@ Action欄のダメージ、回復、バフ/デバフ演出は `effect-1`〜`effe
 | パス | 内容 |
 | --- | --- |
 | `Image/Characters/Source/*.aseprite` | 納品されたAsepriteソース。レイヤーとループタグを保持しています。 |
+| `Image/Characters/Gif/*.gif` | PNGのつながりを確認するためのアニメーションGIF。Asepriteソースから自動生成します。 |
 | `Image/Characters/*.png` | `scripts/export_character_sprites.py` がAsepriteソースから自動生成するPNG。手動でファイルを追加しないでください（再生成時に削除されます）。 |
 | `Data/Characters/characters.json` | ポーズ、表情、コマの表示時間、ループ範囲、画像パスの一覧。 |
 
@@ -167,22 +170,31 @@ PNGは `Image/Characters/[差分セットID]_[コマ番号]_[ポーズ].png` の
 
 ### アニメーション
 
-各コマの表示時間は `characters.json` の `duration_ms`、Aseprite側のループ範囲は `loop_tags` に記録しています。ループ範囲のコマを順に切り替えると、元のAsepriteと同じアニメーションになります。
+PNGのつながり（口パクやまばたきの再生順）は `characters.json` の `animations` に定義しています。各アニメーションは再生順のコマ一覧、コマごとの表示時間、合計時間、対応するGIFのパスを持ちます。
 
-- `chris`: コマ9〜11が待機時のまばたきループ。
-- `chris_speak`: コマ2〜3が口パクループ。
-- `chris_cry`: コマ2〜3が泣き叫びループ。
-- `navi_ain`: コマ11〜13が待機時のまばたきループ。
-- `navi_ain_greeting`: コマ0〜1がキラキラ演出付きの挨拶ループ。
-- `navi_ain_speak`: コマ0〜1が口パクループ。
-- `navi_ain_cross`: コマ0〜1が腕組み待機ループ。
-- `maycri`: コマ4〜6が待機ループ。
+差分セットごとに2種類を用意しています。
+
+- `[差分セットID]_loop`: Asepriteのループタグで指定された区間。実際のアニメーションはこちらです。
+- `[差分セットID]_all`: 全コマを順番に再生するプレビュー。どんな差分があるかの確認用です。
+
+同じ内容を `Image/Characters/Gif/[アニメーションID].gif` にアニメーションGIFとして書き出しています（無限ループ、背景透過）。実装時はGIFをそのまま使っても、PNGコマを `duration_ms` の間隔で切り替えても同じ結果になります。
+
+| アニメーションID | 内容 | コマ | 合計時間 |
+| --- | --- | --- | --- |
+| `chris_loop` | 待機（まばたき）ループ | 9〜11 | 900ms |
+| `chris_speak_loop` | 口パク（リップシンク）ループ | 2〜3 | 1200ms |
+| `chris_cry_loop` | 泣き叫びループ | 2〜3 | 1200ms |
+| `navi_ain_loop` | 待機（まばたき）ループ | 11〜13 | 900ms |
+| `navi_ain_greeting_loop` | 挨拶ループ（キラキラ演出付き） | 0〜1 | 800ms |
+| `navi_ain_speak_loop` | 口パク（リップシンク）ループ | 0〜1 | 800ms |
+| `navi_ain_cross_loop` | 腕組み待機ループ | 0〜1 | 600ms |
+| `maycri_loop` | 待機ループ | 4〜6 | 800ms |
 
 ### Asepriteソース
 
 `Image/Characters/Source/*.aseprite` に元データを置いています。`body` / `eye` / `mouth` などのレイヤーが分かれているため、表情差分やポーズの追加はソースから編集できます。制作時の下書き用の非表示レイヤーは、PNG書き出しの対象外です。
 
-`python3 scripts/export_character_sprites.py` を実行すると、Asepriteソースから `Image/Characters/*.png` と `Data/Characters/*.json` を再生成します（外部ライブラリ不要）。
+`python3 scripts/export_character_sprites.py` を実行すると、Asepriteソースから `Image/Characters/*.png`、`Image/Characters/Gif/*.gif`、`Data/Characters/*.json` を再生成します（外部ライブラリ不要）。
 
 ## 画像利用ガイドライン要約
 

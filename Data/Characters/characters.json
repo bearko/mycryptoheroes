@@ -24,6 +24,143 @@
             "to": 11
           }
         ],
+        "animations": [
+          {
+            "id": "chris_loop",
+            "name": "待機（まばたき）ループ",
+            "description": "Asepriteのループタグで指定された区間。コマ9〜11を順番に繰り返します。",
+            "frame_indexes": [
+              9,
+              10,
+              11
+            ],
+            "total_duration_ms": 900,
+            "loop": true,
+            "gif_filename": "chris_loop.gif",
+            "gif_file_path": "Image/Characters/Gif/chris_loop.gif",
+            "gif_size_bytes": 4740,
+            "gif_sha256": "3fff0f52a6ebf62b5ffb6bd94fabc3f0b3ff739521564997128d3798a5c1369e",
+            "frames": [
+              {
+                "index": 9,
+                "duration_ms": 600,
+                "filename": "chris_09_idle.png",
+                "image_file_path": "Image/Characters/chris_09_idle.png"
+              },
+              {
+                "index": 10,
+                "duration_ms": 150,
+                "filename": "chris_10_blink.png",
+                "image_file_path": "Image/Characters/chris_10_blink.png"
+              },
+              {
+                "index": 11,
+                "duration_ms": 150,
+                "filename": "chris_11_blink.png",
+                "image_file_path": "Image/Characters/chris_11_blink.png"
+              }
+            ]
+          },
+          {
+            "id": "chris_all",
+            "name": "全コマ（お手本用）",
+            "description": "この差分セットの全コマを順番に再生するプレビュー。個別の差分を確認する用途です。",
+            "frame_indexes": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11
+            ],
+            "total_duration_ms": 6300,
+            "loop": true,
+            "gif_filename": "chris_all.gif",
+            "gif_file_path": "Image/Characters/Gif/chris_all.gif",
+            "gif_size_bytes": 19290,
+            "gif_sha256": "18ba5cb2b82fa5c3b0eccebe88a60b74e936c73ec28837b658b75a7e8a16e60c",
+            "frames": [
+              {
+                "index": 0,
+                "duration_ms": 600,
+                "filename": "chris_00_idle.png",
+                "image_file_path": "Image/Characters/chris_00_idle.png"
+              },
+              {
+                "index": 1,
+                "duration_ms": 600,
+                "filename": "chris_01_arms_crossed.png",
+                "image_file_path": "Image/Characters/chris_01_arms_crossed.png"
+              },
+              {
+                "index": 2,
+                "duration_ms": 600,
+                "filename": "chris_02_wave.png",
+                "image_file_path": "Image/Characters/chris_02_wave.png"
+              },
+              {
+                "index": 3,
+                "duration_ms": 600,
+                "filename": "chris_03_cheer.png",
+                "image_file_path": "Image/Characters/chris_03_cheer.png"
+              },
+              {
+                "index": 4,
+                "duration_ms": 600,
+                "filename": "chris_04_guts_pose.png",
+                "image_file_path": "Image/Characters/chris_04_guts_pose.png"
+              },
+              {
+                "index": 5,
+                "duration_ms": 600,
+                "filename": "chris_05_smile.png",
+                "image_file_path": "Image/Characters/chris_05_smile.png"
+              },
+              {
+                "index": 6,
+                "duration_ms": 600,
+                "filename": "chris_06_laugh.png",
+                "image_file_path": "Image/Characters/chris_06_laugh.png"
+              },
+              {
+                "index": 7,
+                "duration_ms": 600,
+                "filename": "chris_07_sparkle.png",
+                "image_file_path": "Image/Characters/chris_07_sparkle.png"
+              },
+              {
+                "index": 8,
+                "duration_ms": 600,
+                "filename": "chris_08_sad.png",
+                "image_file_path": "Image/Characters/chris_08_sad.png"
+              },
+              {
+                "index": 9,
+                "duration_ms": 600,
+                "filename": "chris_09_idle.png",
+                "image_file_path": "Image/Characters/chris_09_idle.png"
+              },
+              {
+                "index": 10,
+                "duration_ms": 150,
+                "filename": "chris_10_blink.png",
+                "image_file_path": "Image/Characters/chris_10_blink.png"
+              },
+              {
+                "index": 11,
+                "duration_ms": 150,
+                "filename": "chris_11_blink.png",
+                "image_file_path": "Image/Characters/chris_11_blink.png"
+              }
+            ]
+          }
+        ],
         "frames": [
           {
             "index": 0,
@@ -186,6 +323,101 @@
             "to": 3
           }
         ],
+        "animations": [
+          {
+            "id": "chris_speak_loop",
+            "name": "口パク（リップシンク）ループ",
+            "description": "Asepriteのループタグで指定された区間。コマ2〜3を順番に繰り返します。",
+            "frame_indexes": [
+              2,
+              3
+            ],
+            "total_duration_ms": 1200,
+            "loop": true,
+            "gif_filename": "chris_speak_loop.gif",
+            "gif_file_path": "Image/Characters/Gif/chris_speak_loop.gif",
+            "gif_size_bytes": 3228,
+            "gif_sha256": "4b276aa0872ce399ea4024d753144491006772ee088207979b497340e6d9b75b",
+            "frames": [
+              {
+                "index": 2,
+                "duration_ms": 600,
+                "filename": "chris_speak_02_talk.png",
+                "image_file_path": "Image/Characters/chris_speak_02_talk.png"
+              },
+              {
+                "index": 3,
+                "duration_ms": 600,
+                "filename": "chris_speak_03_talk.png",
+                "image_file_path": "Image/Characters/chris_speak_03_talk.png"
+              }
+            ]
+          },
+          {
+            "id": "chris_speak_all",
+            "name": "全コマ（お手本用）",
+            "description": "この差分セットの全コマを順番に再生するプレビュー。個別の差分を確認する用途です。",
+            "frame_indexes": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "total_duration_ms": 3300,
+            "loop": true,
+            "gif_filename": "chris_speak_all.gif",
+            "gif_file_path": "Image/Characters/Gif/chris_speak_all.gif",
+            "gif_size_bytes": 10922,
+            "gif_sha256": "7118a0776ea37a880a23081e696dd45829d4b95158d3409cb72d8d02fafac7bc",
+            "frames": [
+              {
+                "index": 0,
+                "duration_ms": 600,
+                "filename": "chris_speak_00_talk.png",
+                "image_file_path": "Image/Characters/chris_speak_00_talk.png"
+              },
+              {
+                "index": 1,
+                "duration_ms": 600,
+                "filename": "chris_speak_01_talk.png",
+                "image_file_path": "Image/Characters/chris_speak_01_talk.png"
+              },
+              {
+                "index": 2,
+                "duration_ms": 600,
+                "filename": "chris_speak_02_talk.png",
+                "image_file_path": "Image/Characters/chris_speak_02_talk.png"
+              },
+              {
+                "index": 3,
+                "duration_ms": 600,
+                "filename": "chris_speak_03_talk.png",
+                "image_file_path": "Image/Characters/chris_speak_03_talk.png"
+              },
+              {
+                "index": 4,
+                "duration_ms": 600,
+                "filename": "chris_speak_04_talk.png",
+                "image_file_path": "Image/Characters/chris_speak_04_talk.png"
+              },
+              {
+                "index": 5,
+                "duration_ms": 150,
+                "filename": "chris_speak_05_blink.png",
+                "image_file_path": "Image/Characters/chris_speak_05_blink.png"
+              },
+              {
+                "index": 6,
+                "duration_ms": 150,
+                "filename": "chris_speak_06_blink.png",
+                "image_file_path": "Image/Characters/chris_speak_06_blink.png"
+              }
+            ]
+          }
+        ],
         "frames": [
           {
             "index": 0,
@@ -288,6 +520,80 @@
             "to": 3
           }
         ],
+        "animations": [
+          {
+            "id": "chris_cry_loop",
+            "name": "泣き叫びループ",
+            "description": "Asepriteのループタグで指定された区間。コマ2〜3を順番に繰り返します。",
+            "frame_indexes": [
+              2,
+              3
+            ],
+            "total_duration_ms": 1200,
+            "loop": true,
+            "gif_filename": "chris_cry_loop.gif",
+            "gif_file_path": "Image/Characters/Gif/chris_cry_loop.gif",
+            "gif_size_bytes": 3531,
+            "gif_sha256": "a5b269889ebb0838502ef7664fa36d2d6ade31898ec003e55d9be3e769320365",
+            "frames": [
+              {
+                "index": 2,
+                "duration_ms": 600,
+                "filename": "chris_cry_02_wail.png",
+                "image_file_path": "Image/Characters/chris_cry_02_wail.png"
+              },
+              {
+                "index": 3,
+                "duration_ms": 600,
+                "filename": "chris_cry_03_wail.png",
+                "image_file_path": "Image/Characters/chris_cry_03_wail.png"
+              }
+            ]
+          },
+          {
+            "id": "chris_cry_all",
+            "name": "全コマ（お手本用）",
+            "description": "この差分セットの全コマを順番に再生するプレビュー。個別の差分を確認する用途です。",
+            "frame_indexes": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "total_duration_ms": 2400,
+            "loop": true,
+            "gif_filename": "chris_cry_all.gif",
+            "gif_file_path": "Image/Characters/Gif/chris_cry_all.gif",
+            "gif_size_bytes": 6481,
+            "gif_sha256": "3f838f1c69c97e304d48c3196066f3213ed3a5d178f9caca9fc7361c3b79dd6f",
+            "frames": [
+              {
+                "index": 0,
+                "duration_ms": 600,
+                "filename": "chris_cry_00_sad.png",
+                "image_file_path": "Image/Characters/chris_cry_00_sad.png"
+              },
+              {
+                "index": 1,
+                "duration_ms": 600,
+                "filename": "chris_cry_01_cry.png",
+                "image_file_path": "Image/Characters/chris_cry_01_cry.png"
+              },
+              {
+                "index": 2,
+                "duration_ms": 600,
+                "filename": "chris_cry_02_wail.png",
+                "image_file_path": "Image/Characters/chris_cry_02_wail.png"
+              },
+              {
+                "index": 3,
+                "duration_ms": 600,
+                "filename": "chris_cry_03_wail.png",
+                "image_file_path": "Image/Characters/chris_cry_03_wail.png"
+              }
+            ]
+          }
+        ],
         "frames": [
           {
             "index": 0,
@@ -364,6 +670,164 @@
             "name": "Loop",
             "from": 11,
             "to": 13
+          }
+        ],
+        "animations": [
+          {
+            "id": "navi_ain_loop",
+            "name": "待機（まばたき）ループ",
+            "description": "Asepriteのループタグで指定された区間。コマ11〜13を順番に繰り返します。",
+            "frame_indexes": [
+              11,
+              12,
+              13
+            ],
+            "total_duration_ms": 900,
+            "loop": true,
+            "gif_filename": "navi_ain_loop.gif",
+            "gif_file_path": "Image/Characters/Gif/navi_ain_loop.gif",
+            "gif_size_bytes": 6126,
+            "gif_sha256": "82957ffc993133a284498a491e7c0c3f29cd95c043e1cff5f8585ee95dfad5f1",
+            "frames": [
+              {
+                "index": 11,
+                "duration_ms": 600,
+                "filename": "navi_ain_11_idle.png",
+                "image_file_path": "Image/Characters/navi_ain_11_idle.png"
+              },
+              {
+                "index": 12,
+                "duration_ms": 150,
+                "filename": "navi_ain_12_blink.png",
+                "image_file_path": "Image/Characters/navi_ain_12_blink.png"
+              },
+              {
+                "index": 13,
+                "duration_ms": 150,
+                "filename": "navi_ain_13_blink.png",
+                "image_file_path": "Image/Characters/navi_ain_13_blink.png"
+              }
+            ]
+          },
+          {
+            "id": "navi_ain_all",
+            "name": "全コマ（お手本用）",
+            "description": "この差分セットの全コマを順番に再生するプレビュー。個別の差分を確認する用途です。",
+            "frame_indexes": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14
+            ],
+            "total_duration_ms": 8100,
+            "loop": true,
+            "gif_filename": "navi_ain_all.gif",
+            "gif_file_path": "Image/Characters/Gif/navi_ain_all.gif",
+            "gif_size_bytes": 29548,
+            "gif_sha256": "88703c7ba2fdd8635ac4c05a7c9cde74760c93e8ffcd7e2c8fcbe646928bfac2",
+            "frames": [
+              {
+                "index": 0,
+                "duration_ms": 600,
+                "filename": "navi_ain_00_pointer_up.png",
+                "image_file_path": "Image/Characters/navi_ain_00_pointer_up.png"
+              },
+              {
+                "index": 1,
+                "duration_ms": 600,
+                "filename": "navi_ain_01_arms_crossed.png",
+                "image_file_path": "Image/Characters/navi_ain_01_arms_crossed.png"
+              },
+              {
+                "index": 2,
+                "duration_ms": 600,
+                "filename": "navi_ain_02_both_arms_up.png",
+                "image_file_path": "Image/Characters/navi_ain_02_both_arms_up.png"
+              },
+              {
+                "index": 3,
+                "duration_ms": 600,
+                "filename": "navi_ain_03_wave.png",
+                "image_file_path": "Image/Characters/navi_ain_03_wave.png"
+              },
+              {
+                "index": 4,
+                "duration_ms": 600,
+                "filename": "navi_ain_04_hands_to_face.png",
+                "image_file_path": "Image/Characters/navi_ain_04_hands_to_face.png"
+              },
+              {
+                "index": 5,
+                "duration_ms": 600,
+                "filename": "navi_ain_05_wink.png",
+                "image_file_path": "Image/Characters/navi_ain_05_wink.png"
+              },
+              {
+                "index": 6,
+                "duration_ms": 600,
+                "filename": "navi_ain_06_smile.png",
+                "image_file_path": "Image/Characters/navi_ain_06_smile.png"
+              },
+              {
+                "index": 7,
+                "duration_ms": 600,
+                "filename": "navi_ain_07_talk.png",
+                "image_file_path": "Image/Characters/navi_ain_07_talk.png"
+              },
+              {
+                "index": 8,
+                "duration_ms": 600,
+                "filename": "navi_ain_08_sparkle.png",
+                "image_file_path": "Image/Characters/navi_ain_08_sparkle.png"
+              },
+              {
+                "index": 9,
+                "duration_ms": 600,
+                "filename": "navi_ain_09_cry.png",
+                "image_file_path": "Image/Characters/navi_ain_09_cry.png"
+              },
+              {
+                "index": 10,
+                "duration_ms": 600,
+                "filename": "navi_ain_10_teary.png",
+                "image_file_path": "Image/Characters/navi_ain_10_teary.png"
+              },
+              {
+                "index": 11,
+                "duration_ms": 600,
+                "filename": "navi_ain_11_idle.png",
+                "image_file_path": "Image/Characters/navi_ain_11_idle.png"
+              },
+              {
+                "index": 12,
+                "duration_ms": 150,
+                "filename": "navi_ain_12_blink.png",
+                "image_file_path": "Image/Characters/navi_ain_12_blink.png"
+              },
+              {
+                "index": 13,
+                "duration_ms": 150,
+                "filename": "navi_ain_13_blink.png",
+                "image_file_path": "Image/Characters/navi_ain_13_blink.png"
+              },
+              {
+                "index": 14,
+                "duration_ms": 600,
+                "filename": "navi_ain_14_talk.png",
+                "image_file_path": "Image/Characters/navi_ain_14_talk.png"
+              }
+            ]
           }
         ],
         "frames": [
@@ -564,6 +1028,94 @@
             "to": 1
           }
         ],
+        "animations": [
+          {
+            "id": "navi_ain_greeting_loop",
+            "name": "挨拶ループ（キラキラ演出付き）",
+            "description": "Asepriteのループタグで指定された区間。コマ0〜1を順番に繰り返します。",
+            "frame_indexes": [
+              0,
+              1
+            ],
+            "total_duration_ms": 800,
+            "loop": true,
+            "gif_filename": "navi_ain_greeting_loop.gif",
+            "gif_file_path": "Image/Characters/Gif/navi_ain_greeting_loop.gif",
+            "gif_size_bytes": 4085,
+            "gif_sha256": "e76e9497ff15e47868b04c26e80fbb90e92edf6282019623dce0d27c56d975e5",
+            "frames": [
+              {
+                "index": 0,
+                "duration_ms": 200,
+                "filename": "navi_ain_greeting_00_greet_sparkle.png",
+                "image_file_path": "Image/Characters/navi_ain_greeting_00_greet_sparkle.png"
+              },
+              {
+                "index": 1,
+                "duration_ms": 600,
+                "filename": "navi_ain_greeting_01_greet_sparkle.png",
+                "image_file_path": "Image/Characters/navi_ain_greeting_01_greet_sparkle.png"
+              }
+            ]
+          },
+          {
+            "id": "navi_ain_greeting_all",
+            "name": "全コマ（お手本用）",
+            "description": "この差分セットの全コマを順番に再生するプレビュー。個別の差分を確認する用途です。",
+            "frame_indexes": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5
+            ],
+            "total_duration_ms": 2400,
+            "loop": true,
+            "gif_filename": "navi_ain_greeting_all.gif",
+            "gif_file_path": "Image/Characters/Gif/navi_ain_greeting_all.gif",
+            "gif_size_bytes": 11717,
+            "gif_sha256": "8e904605ec28142d9f3bcfaf3d98dce2b4b4f5cd23316eff9f37bdb6735f6d35",
+            "frames": [
+              {
+                "index": 0,
+                "duration_ms": 200,
+                "filename": "navi_ain_greeting_00_greet_sparkle.png",
+                "image_file_path": "Image/Characters/navi_ain_greeting_00_greet_sparkle.png"
+              },
+              {
+                "index": 1,
+                "duration_ms": 600,
+                "filename": "navi_ain_greeting_01_greet_sparkle.png",
+                "image_file_path": "Image/Characters/navi_ain_greeting_01_greet_sparkle.png"
+              },
+              {
+                "index": 2,
+                "duration_ms": 600,
+                "filename": "navi_ain_greeting_02_greet.png",
+                "image_file_path": "Image/Characters/navi_ain_greeting_02_greet.png"
+              },
+              {
+                "index": 3,
+                "duration_ms": 200,
+                "filename": "navi_ain_greeting_03_greet.png",
+                "image_file_path": "Image/Characters/navi_ain_greeting_03_greet.png"
+              },
+              {
+                "index": 4,
+                "duration_ms": 600,
+                "filename": "navi_ain_greeting_04_greet.png",
+                "image_file_path": "Image/Characters/navi_ain_greeting_04_greet.png"
+              },
+              {
+                "index": 5,
+                "duration_ms": 200,
+                "filename": "navi_ain_greeting_05_greet.png",
+                "image_file_path": "Image/Characters/navi_ain_greeting_05_greet.png"
+              }
+            ]
+          }
+        ],
         "frames": [
           {
             "index": 0,
@@ -654,6 +1206,80 @@
             "to": 1
           }
         ],
+        "animations": [
+          {
+            "id": "navi_ain_speak_loop",
+            "name": "口パク（リップシンク）ループ",
+            "description": "Asepriteのループタグで指定された区間。コマ0〜1を順番に繰り返します。",
+            "frame_indexes": [
+              0,
+              1
+            ],
+            "total_duration_ms": 800,
+            "loop": true,
+            "gif_filename": "navi_ain_speak_loop.gif",
+            "gif_file_path": "Image/Characters/Gif/navi_ain_speak_loop.gif",
+            "gif_size_bytes": 4179,
+            "gif_sha256": "888031cae580b2c4367ed5a1976f5427d066c46cdddb361c94762116d859e51c",
+            "frames": [
+              {
+                "index": 0,
+                "duration_ms": 400,
+                "filename": "navi_ain_speak_00_talk.png",
+                "image_file_path": "Image/Characters/navi_ain_speak_00_talk.png"
+              },
+              {
+                "index": 1,
+                "duration_ms": 400,
+                "filename": "navi_ain_speak_01_talk.png",
+                "image_file_path": "Image/Characters/navi_ain_speak_01_talk.png"
+              }
+            ]
+          },
+          {
+            "id": "navi_ain_speak_all",
+            "name": "全コマ（お手本用）",
+            "description": "この差分セットの全コマを順番に再生するプレビュー。個別の差分を確認する用途です。",
+            "frame_indexes": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "total_duration_ms": 900,
+            "loop": true,
+            "gif_filename": "navi_ain_speak_all.gif",
+            "gif_file_path": "Image/Characters/Gif/navi_ain_speak_all.gif",
+            "gif_size_bytes": 8108,
+            "gif_sha256": "2b1980c38803c0762ee9f3065678a42ac16e731a6bf729bef18f6b69ff10399a",
+            "frames": [
+              {
+                "index": 0,
+                "duration_ms": 400,
+                "filename": "navi_ain_speak_00_talk.png",
+                "image_file_path": "Image/Characters/navi_ain_speak_00_talk.png"
+              },
+              {
+                "index": 1,
+                "duration_ms": 400,
+                "filename": "navi_ain_speak_01_talk.png",
+                "image_file_path": "Image/Characters/navi_ain_speak_01_talk.png"
+              },
+              {
+                "index": 2,
+                "duration_ms": 50,
+                "filename": "navi_ain_speak_02_blink.png",
+                "image_file_path": "Image/Characters/navi_ain_speak_02_blink.png"
+              },
+              {
+                "index": 3,
+                "duration_ms": 50,
+                "filename": "navi_ain_speak_03_blink.png",
+                "image_file_path": "Image/Characters/navi_ain_speak_03_blink.png"
+              }
+            ]
+          }
+        ],
         "frames": [
           {
             "index": 0,
@@ -718,6 +1344,80 @@
             "name": "Loop",
             "from": 0,
             "to": 1
+          }
+        ],
+        "animations": [
+          {
+            "id": "navi_ain_cross_loop",
+            "name": "腕組み待機ループ",
+            "description": "Asepriteのループタグで指定された区間。コマ0〜1を順番に繰り返します。",
+            "frame_indexes": [
+              0,
+              1
+            ],
+            "total_duration_ms": 600,
+            "loop": true,
+            "gif_filename": "navi_ain_cross_loop.gif",
+            "gif_file_path": "Image/Characters/Gif/navi_ain_cross_loop.gif",
+            "gif_size_bytes": 3760,
+            "gif_sha256": "0cfb0017d09be1f1735017da4758f4e80bcd0c8e7a55fc1880c70205e3e16d2a",
+            "frames": [
+              {
+                "index": 0,
+                "duration_ms": 300,
+                "filename": "navi_ain_cross_00_talk.png",
+                "image_file_path": "Image/Characters/navi_ain_cross_00_talk.png"
+              },
+              {
+                "index": 1,
+                "duration_ms": 300,
+                "filename": "navi_ain_cross_01_smile.png",
+                "image_file_path": "Image/Characters/navi_ain_cross_01_smile.png"
+              }
+            ]
+          },
+          {
+            "id": "navi_ain_cross_all",
+            "name": "全コマ（お手本用）",
+            "description": "この差分セットの全コマを順番に再生するプレビュー。個別の差分を確認する用途です。",
+            "frame_indexes": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "total_duration_ms": 900,
+            "loop": true,
+            "gif_filename": "navi_ain_cross_all.gif",
+            "gif_file_path": "Image/Characters/Gif/navi_ain_cross_all.gif",
+            "gif_size_bytes": 7269,
+            "gif_sha256": "5aa3d3c2b53dc6dd93caff4dfdfc28ebb77f011d5bc83ab5e5fa4495c48a4a0e",
+            "frames": [
+              {
+                "index": 0,
+                "duration_ms": 300,
+                "filename": "navi_ain_cross_00_talk.png",
+                "image_file_path": "Image/Characters/navi_ain_cross_00_talk.png"
+              },
+              {
+                "index": 1,
+                "duration_ms": 300,
+                "filename": "navi_ain_cross_01_smile.png",
+                "image_file_path": "Image/Characters/navi_ain_cross_01_smile.png"
+              },
+              {
+                "index": 2,
+                "duration_ms": 150,
+                "filename": "navi_ain_cross_02_blink.png",
+                "image_file_path": "Image/Characters/navi_ain_cross_02_blink.png"
+              },
+              {
+                "index": 3,
+                "duration_ms": 150,
+                "filename": "navi_ain_cross_03_blink.png",
+                "image_file_path": "Image/Characters/navi_ain_cross_03_blink.png"
+              }
+            ]
           }
         ],
         "frames": [
@@ -796,6 +1496,108 @@
             "name": "Loop",
             "from": 4,
             "to": 6
+          }
+        ],
+        "animations": [
+          {
+            "id": "maycri_loop",
+            "name": "待機ループ",
+            "description": "Asepriteのループタグで指定された区間。コマ4〜6を順番に繰り返します。",
+            "frame_indexes": [
+              4,
+              5,
+              6
+            ],
+            "total_duration_ms": 800,
+            "loop": true,
+            "gif_filename": "maycri_loop.gif",
+            "gif_file_path": "Image/Characters/Gif/maycri_loop.gif",
+            "gif_size_bytes": 1818,
+            "gif_sha256": "ff5e4ae8c72950f6faa1e210c4b439f702d16eca07f145dac21464f63e016bac",
+            "frames": [
+              {
+                "index": 4,
+                "duration_ms": 600,
+                "filename": "maycri_04_eyes_blank.png",
+                "image_file_path": "Image/Characters/maycri_04_eyes_blank.png"
+              },
+              {
+                "index": 5,
+                "duration_ms": 100,
+                "filename": "maycri_05_blink.png",
+                "image_file_path": "Image/Characters/maycri_05_blink.png"
+              },
+              {
+                "index": 6,
+                "duration_ms": 100,
+                "filename": "maycri_06_eyes_small.png",
+                "image_file_path": "Image/Characters/maycri_06_eyes_small.png"
+              }
+            ]
+          },
+          {
+            "id": "maycri_all",
+            "name": "全コマ（お手本用）",
+            "description": "この差分セットの全コマを順番に再生するプレビュー。個別の差分を確認する用途です。",
+            "frame_indexes": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "total_duration_ms": 1200,
+            "loop": true,
+            "gif_filename": "maycri_all.gif",
+            "gif_file_path": "Image/Characters/Gif/maycri_all.gif",
+            "gif_size_bytes": 4183,
+            "gif_sha256": "227d85803406fe5b42c26c93bfd8a6f0834da28631b4faec51b59a1761d81128",
+            "frames": [
+              {
+                "index": 0,
+                "duration_ms": 100,
+                "filename": "maycri_00_eyes_blank.png",
+                "image_file_path": "Image/Characters/maycri_00_eyes_blank.png"
+              },
+              {
+                "index": 1,
+                "duration_ms": 100,
+                "filename": "maycri_01_eyes_small.png",
+                "image_file_path": "Image/Characters/maycri_01_eyes_small.png"
+              },
+              {
+                "index": 2,
+                "duration_ms": 100,
+                "filename": "maycri_02_eyes_wide.png",
+                "image_file_path": "Image/Characters/maycri_02_eyes_wide.png"
+              },
+              {
+                "index": 3,
+                "duration_ms": 100,
+                "filename": "maycri_03_eyes_thin.png",
+                "image_file_path": "Image/Characters/maycri_03_eyes_thin.png"
+              },
+              {
+                "index": 4,
+                "duration_ms": 600,
+                "filename": "maycri_04_eyes_blank.png",
+                "image_file_path": "Image/Characters/maycri_04_eyes_blank.png"
+              },
+              {
+                "index": 5,
+                "duration_ms": 100,
+                "filename": "maycri_05_blink.png",
+                "image_file_path": "Image/Characters/maycri_05_blink.png"
+              },
+              {
+                "index": 6,
+                "duration_ms": 100,
+                "filename": "maycri_06_eyes_small.png",
+                "image_file_path": "Image/Characters/maycri_06_eyes_small.png"
+              }
+            ]
           }
         ],
         "frames": [

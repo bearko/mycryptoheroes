@@ -21,7 +21,8 @@ SOURCE_DIR = os.path.join(ROOT, "Image", "Characters", "Source")
 IMAGE_DIR = os.path.join(ROOT, "Image", "Characters")
 DATA_DIR = os.path.join(ROOT, "Data", "Characters")
 
-CREDIT_TEXT = "ドット絵：こじもこ"
+DEFAULT_CREDIT_TEXT = "ドット絵：こじもこ"
+MAYCRI_CREDIT_TEXT = "原画：こはるさん／ドット絵：こじもこさん"
 
 
 # --------------------------------------------------------------------------
@@ -356,28 +357,34 @@ CHARACTERS = [
         "name_ja": "クリスくん",
         "name_en": "Chris",
         "description": "マイクリの派生コンテンツや解説動画で利用できるオリジナルキャラクター。ハンチング帽とベストを身につけた緑髪の少年。",
+        "credit_text": DEFAULT_CREDIT_TEXT,
     },
     {
         "id": "navi_ain",
         "name_ja": "マインちゃん",
         "name_en": "Mine",
         "description": "マイクリの派生コンテンツや解説動画で利用できるオリジナルキャラクター。白衣と指し棒で解説を担当するナビゲーター役の少女。",
+        "credit_text": DEFAULT_CREDIT_TEXT,
     },
     {
         "id": "maycri",
-        "name_ja": "マイクリ",
-        "name_en": "Maycri",
-        "description": "メガホンを持った丸いマスコットキャラクター。クリスくん/マインちゃんと同じ納品に含まれるオリジナル素材です。",
-        "name_note": "名称はソースファイル名 `maycri.aseprite` 由来の暫定表記です。正式名称が決まり次第更新してください。",
+        "name_ja": "マイクリくん",
+        "name_en": "MCH",
+        "description": "マイクリの派生コンテンツや解説動画で利用できるオリジナルキャラクター。メガホンを持った丸いマスコット。",
+        "credit_text": MAYCRI_CREDIT_TEXT,
     },
 ]
 
 USAGE_NOTE = (
-    "クリスくん/マインちゃんは本リポジトリオーナーがデザインの著作権込みで委託・納品を受けたオリジナルキャラクターです。"
+    "クリスくん/マインちゃん/マイクリくんは本リポジトリオーナーがデザインの著作権込みで委託・納品を受けたオリジナルキャラクターです。"
     "マイクリの派生コンテンツや解説動画で利用でき、自作・改変や他のイラストレーターへの依頼も含めて自由に利用できます。"
     "マイクリ公式の画像ではないため、公式デザインガイドラインの「マイクリ画像」の制約対象ではありません。"
 )
-CREDIT_NOTE = "クレジット表記は任意です。記載する場合は「%s」としてください。" % CREDIT_TEXT
+CREDIT_NOTE = (
+    "クレジット表記は任意です。記載する場合は、クリスくん/マインちゃんは「%s」、"
+    "マイクリくんは「%s」としてください。各キャラクターの表記は characters.json の credit にも記録しています。"
+    % (DEFAULT_CREDIT_TEXT, MAYCRI_CREDIT_TEXT)
+)
 
 
 def main():
@@ -440,7 +447,7 @@ def main():
     characters = []
     for character in CHARACTERS:
         entry = dict(character)
-        entry["credit"] = {"required": False, "text": CREDIT_TEXT}
+        entry["credit"] = {"required": False, "text": entry.pop("credit_text")}
         entry["sprite_sets"] = sets_by_character[character["id"]]
         characters.append(entry)
 
@@ -465,7 +472,10 @@ def main():
         "pixel_art_note": "ドット絵のため、拡大表示にはニアレストネイバー法（image-rendering: pixelated）を使用してください。",
         "usage_note": USAGE_NOTE,
         "credit_note": CREDIT_NOTE,
-        "credit": {"required": False, "text": CREDIT_TEXT},
+        "credit": {
+            "required": False,
+            "by_character": {character["id"]: character["credit_text"] for character in CHARACTERS},
+        },
     }
     with open(os.path.join(DATA_DIR, "metadata.json"), "w", encoding="utf-8") as handle:
         json.dump(metadata, handle, ensure_ascii=False, indent=2)

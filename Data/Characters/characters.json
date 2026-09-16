@@ -1,0 +1,620 @@
+[
+  {
+    "id": "crys",
+    "name_ja": "クリスくん",
+    "name_en": "Crys",
+    "description": "マイクリの派生コンテンツや解説動画で利用できるオリジナルキャラクター。ハンチング帽とベストを身につけた緑髪の少年。",
+    "credit": {
+      "required": false,
+      "text": "ドット絵：こじもこ"
+    },
+    "sprite_sets": [
+      {
+        "id": "crys",
+        "description": "クリスくんの基本立ち絵とポーズ/表情差分。",
+        "source_file_path": "Image/Characters/Source/crys.aseprite",
+        "canvas": {
+          "width": 72,
+          "height": 140
+        },
+        "loop_tags": [
+          {
+            "name": "Loop",
+            "from": 9,
+            "to": 11
+          }
+        ],
+        "frames": [
+          {
+            "index": 0,
+            "pose": "idle",
+            "description": "基本の立ちポーズ。",
+            "duration_ms": 600,
+            "filename": "crys_00_idle.png",
+            "image_file_path": "Image/Characters/crys_00_idle.png",
+            "width": 72,
+            "height": 140,
+            "size_bytes": 1916,
+            "sha256": "b4f15aa0b80eff07e7ba230024e5deef290120b8aface76db7279b04bf84e9f9"
+          },
+          {
+            "index": 1,
+            "pose": "arms_crossed",
+            "description": "腕を組んだポーズ。",
+            "duration_ms": 600,
+            "filename": "crys_01_arms_crossed.png",
+            "image_file_path": "Image/Characters/crys_01_arms_crossed.png",
+            "width": 72,
+            "height": 140,
+            "size_bytes": 1854,
+            "sha256": "e61450b464b9783291481c8b69c9837030bc1b8d09549ee4f4af12b3895059fd"
+          },
+          {
+            "index": 2,
+            "pose": "wave",
+            "description": "手を上げて挨拶するポーズ。",
+            "duration_ms": 600,
+            "filename": "crys_02_wave.png",
+            "image_file_path": "Image/Characters/crys_02_wave.png",
+            "width": 72,
+            "height": 140,
+            "size_bytes": 2006,
+            "sha256": "0cd156de7d83896762ebf74dac555b6d23bd7a3ff4e0855f7e1ed4332bcca27a"
+          },
+          {
+            "index": 3,
+            "pose": "cheer",
+            "description": "両手を上げて喜ぶポーズ。",
+            "duration_ms": 600,
+            "filename": "crys_03_cheer.png",
+            "image_file_path": "Image/Characters/crys_03_cheer.png",
+            "width": 72,
+            "height": 140,
+            "size_bytes": 2076,
+            "sha256": "0a5a679fabed893df3433d622649f208f250e62305f9be00d8c5dbc1e4e526d3"
+          },
+          {
+            "index": 4,
+            "pose": "guts_pose",
+            "description": "拳を握ってウインクするガッツポーズ。",
+            "duration_ms": 600,
+            "filename": "crys_04_guts_pose.png",
+            "image_file_path": "Image/Characters/crys_04_guts_pose.png",
+            "width": 72,
+            "height": 140,
+            "size_bytes": 1977,
+            "sha256": "35b4553219ee7894cdee2d54ed1c2f972758ec83ef487bc5240aac1df73e45ae"
+          },
+          {
+            "index": 5,
+            "pose": "smile",
+            "description": "笑顔で話す表情差分。",
+            "duration_ms": 600,
+            "filename": "crys_05_smile.png",
+            "image_file_path": "Image/Characters/crys_05_smile.png",
+            "width": 72,
+            "height": 140,
+            "size_bytes": 1921,
+            "sha256": "a5a9ea1b916429d801c16c0be59d6e02c68bbec5a6e47dfb76d97ae47f424ea3"
+          },
+          {
+            "index": 6,
+            "pose": "laugh",
+            "description": "口を大きく開けて笑う表情差分。",
+            "duration_ms": 600,
+            "filename": "crys_06_laugh.png",
+            "image_file_path": "Image/Characters/crys_06_laugh.png",
+            "width": 72,
+            "height": 140,
+            "size_bytes": 1922,
+            "sha256": "e7ce8d2ae0b3ec447aeb4944c9e5ec8a0014213968f577de6acc1d6cc0a0b9c4"
+          },
+          {
+            "index": 7,
+            "pose": "sparkle",
+            "description": "ひらめき/感動を表すキラキラ演出付きの表情差分。",
+            "duration_ms": 600,
+            "filename": "crys_07_sparkle.png",
+            "image_file_path": "Image/Characters/crys_07_sparkle.png",
+            "width": 72,
+            "height": 140,
+            "size_bytes": 1972,
+            "sha256": "5416ac9b13a97c17a2317efd7333b2ade3694049c039d563fc30200c477eff31"
+          },
+          {
+            "index": 8,
+            "pose": "sad",
+            "description": "目を閉じて涙を流す悲しい表情差分。",
+            "duration_ms": 600,
+            "filename": "crys_08_sad.png",
+            "image_file_path": "Image/Characters/crys_08_sad.png",
+            "width": 72,
+            "height": 140,
+            "size_bytes": 1912,
+            "sha256": "033ae2b768ab1b81c8acdb331e5ece628bedb4e954880fc5cadd832c50e027c4"
+          },
+          {
+            "index": 9,
+            "pose": "idle",
+            "description": "待機ループ1コマ目。目を開いた基本表情。",
+            "duration_ms": 600,
+            "filename": "crys_09_idle.png",
+            "image_file_path": "Image/Characters/crys_09_idle.png",
+            "width": 72,
+            "height": 140,
+            "size_bytes": 1916,
+            "sha256": "b4f15aa0b80eff07e7ba230024e5deef290120b8aface76db7279b04bf84e9f9"
+          },
+          {
+            "index": 10,
+            "pose": "blink",
+            "description": "待機ループ2コマ目。まばたき。",
+            "duration_ms": 150,
+            "filename": "crys_10_blink.png",
+            "image_file_path": "Image/Characters/crys_10_blink.png",
+            "width": 72,
+            "height": 140,
+            "size_bytes": 1889,
+            "sha256": "d6c47dcb33eaddaabc1ab305e29d5d247e0715fb4a824e74183ddfe00b7fdc7a"
+          },
+          {
+            "index": 11,
+            "pose": "blink",
+            "description": "待機ループ3コマ目。まばたき。",
+            "duration_ms": 150,
+            "filename": "crys_11_blink.png",
+            "image_file_path": "Image/Characters/crys_11_blink.png",
+            "width": 72,
+            "height": 140,
+            "size_bytes": 1912,
+            "sha256": "4bf050f1fffded78154134090065b14038884db234c21696ad60ac3a37be3a04"
+          }
+        ]
+      },
+      {
+        "id": "crys_speak",
+        "description": "クリスくんの口パク（リップシンク）用差分。",
+        "source_file_path": "Image/Characters/Source/crys_speak.aseprite",
+        "canvas": {
+          "width": 72,
+          "height": 140
+        },
+        "loop_tags": [
+          {
+            "name": "Loop",
+            "from": 2,
+            "to": 3
+          }
+        ],
+        "frames": [
+          {
+            "index": 0,
+            "pose": "talk",
+            "description": "口パク1コマ目。口を閉じた状態。",
+            "duration_ms": 600,
+            "filename": "crys_speak_00_talk.png",
+            "image_file_path": "Image/Characters/crys_speak_00_talk.png",
+            "width": 72,
+            "height": 140,
+            "size_bytes": 1916,
+            "sha256": "b4f15aa0b80eff07e7ba230024e5deef290120b8aface76db7279b04bf84e9f9"
+          },
+          {
+            "index": 1,
+            "pose": "talk",
+            "description": "口パク2コマ目。口を開いた状態。",
+            "duration_ms": 600,
+            "filename": "crys_speak_01_talk.png",
+            "image_file_path": "Image/Characters/crys_speak_01_talk.png",
+            "width": 72,
+            "height": 140,
+            "size_bytes": 1921,
+            "sha256": "a5a9ea1b916429d801c16c0be59d6e02c68bbec5a6e47dfb76d97ae47f424ea3"
+          },
+          {
+            "index": 2,
+            "pose": "talk",
+            "description": "口パク3コマ目。口を閉じた状態。",
+            "duration_ms": 600,
+            "filename": "crys_speak_02_talk.png",
+            "image_file_path": "Image/Characters/crys_speak_02_talk.png",
+            "width": 72,
+            "height": 140,
+            "size_bytes": 1916,
+            "sha256": "b4f15aa0b80eff07e7ba230024e5deef290120b8aface76db7279b04bf84e9f9"
+          },
+          {
+            "index": 3,
+            "pose": "talk",
+            "description": "口パク4コマ目。口を大きめに開いた状態。",
+            "duration_ms": 600,
+            "filename": "crys_speak_03_talk.png",
+            "image_file_path": "Image/Characters/crys_speak_03_talk.png",
+            "width": 72,
+            "height": 140,
+            "size_bytes": 1922,
+            "sha256": "e7ce8d2ae0b3ec447aeb4944c9e5ec8a0014213968f577de6acc1d6cc0a0b9c4"
+          },
+          {
+            "index": 4,
+            "pose": "talk",
+            "description": "口パク5コマ目。口を閉じた状態。",
+            "duration_ms": 600,
+            "filename": "crys_speak_04_talk.png",
+            "image_file_path": "Image/Characters/crys_speak_04_talk.png",
+            "width": 72,
+            "height": 140,
+            "size_bytes": 1916,
+            "sha256": "b4f15aa0b80eff07e7ba230024e5deef290120b8aface76db7279b04bf84e9f9"
+          },
+          {
+            "index": 5,
+            "pose": "blink",
+            "description": "まばたき1コマ目。",
+            "duration_ms": 150,
+            "filename": "crys_speak_05_blink.png",
+            "image_file_path": "Image/Characters/crys_speak_05_blink.png",
+            "width": 72,
+            "height": 140,
+            "size_bytes": 1889,
+            "sha256": "d6c47dcb33eaddaabc1ab305e29d5d247e0715fb4a824e74183ddfe00b7fdc7a"
+          },
+          {
+            "index": 6,
+            "pose": "blink",
+            "description": "まばたき2コマ目。",
+            "duration_ms": 150,
+            "filename": "crys_speak_06_blink.png",
+            "image_file_path": "Image/Characters/crys_speak_06_blink.png",
+            "width": 72,
+            "height": 140,
+            "size_bytes": 1912,
+            "sha256": "4bf050f1fffded78154134090065b14038884db234c21696ad60ac3a37be3a04"
+          }
+        ]
+      },
+      {
+        "id": "crys_cry",
+        "description": "クリスくんの泣き差分。",
+        "source_file_path": "Image/Characters/Source/crys_cry.aseprite",
+        "canvas": {
+          "width": 72,
+          "height": 140
+        },
+        "loop_tags": [
+          {
+            "name": "Loop",
+            "from": 2,
+            "to": 3
+          }
+        ],
+        "frames": [
+          {
+            "index": 0,
+            "pose": "sad",
+            "description": "腕を組んで目を閉じた悲しい表情。",
+            "duration_ms": 600,
+            "filename": "crys_cry_00_sad.png",
+            "image_file_path": "Image/Characters/crys_cry_00_sad.png",
+            "width": 72,
+            "height": 140,
+            "size_bytes": 1831,
+            "sha256": "300e9a67ea4fdcf60e95b9a31ab36d217eda10a1fbd9ddaf9ae974185bf2b146"
+          },
+          {
+            "index": 1,
+            "pose": "cry",
+            "description": "腕を組んで涙を流すポーズ。",
+            "duration_ms": 600,
+            "filename": "crys_cry_01_cry.png",
+            "image_file_path": "Image/Characters/crys_cry_01_cry.png",
+            "width": 72,
+            "height": 140,
+            "size_bytes": 1845,
+            "sha256": "f5bee3f4c011493a03d9d39f0ddf8a4cdcd7dd74f6002fe7b8d607e02ba81b83"
+          },
+          {
+            "index": 2,
+            "pose": "wail",
+            "description": "両手を上げて泣き叫ぶポーズ。口を開いた状態。",
+            "duration_ms": 600,
+            "filename": "crys_cry_02_wail.png",
+            "image_file_path": "Image/Characters/crys_cry_02_wail.png",
+            "width": 72,
+            "height": 140,
+            "size_bytes": 2074,
+            "sha256": "f409a2839f31aa73d65341b3a2e4dad8ca65041d76c76f2927242bd175553326"
+          },
+          {
+            "index": 3,
+            "pose": "wail",
+            "description": "両手を上げて泣き叫ぶポーズ。口を閉じた状態。",
+            "duration_ms": 600,
+            "filename": "crys_cry_03_wail.png",
+            "image_file_path": "Image/Characters/crys_cry_03_wail.png",
+            "width": 72,
+            "height": 140,
+            "size_bytes": 2065,
+            "sha256": "a1532fd7f80b410f9e70b053f705d794d891fad8301f3441214f4ed885ca7906"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "navi_ain",
+    "name_ja": "マインちゃん",
+    "name_en": "Main",
+    "description": "マイクリの派生コンテンツや解説動画で利用できるオリジナルキャラクター。白衣と指し棒で解説を担当するナビゲーター役の少女。",
+    "credit": {
+      "required": false,
+      "text": "ドット絵：こじもこ"
+    },
+    "sprite_sets": [
+      {
+        "id": "navi_ain",
+        "description": "マインちゃんの基本立ち絵とポーズ/表情差分。指し棒を持ったナビゲーター姿。",
+        "source_file_path": "Image/Characters/Source/navi_ain.aseprite",
+        "canvas": {
+          "width": 96,
+          "height": 128
+        },
+        "loop_tags": [
+          {
+            "name": "Loop",
+            "from": 11,
+            "to": 13
+          }
+        ],
+        "frames": [
+          {
+            "index": 0,
+            "pose": "pointer_up",
+            "description": "指し棒を斜め上に構えた基本の立ちポーズ。",
+            "duration_ms": 600,
+            "filename": "navi_ain_00_pointer_up.png",
+            "image_file_path": "Image/Characters/navi_ain_00_pointer_up.png",
+            "width": 96,
+            "height": 128,
+            "size_bytes": 2525,
+            "sha256": "edfabd0df1bc181a2200b64017e177f34c0d637acfdf40ac74a90cfaa932f81d"
+          },
+          {
+            "index": 1,
+            "pose": "arms_crossed",
+            "description": "指し棒を持ったまま腕を組んだポーズ。",
+            "duration_ms": 600,
+            "filename": "navi_ain_01_arms_crossed.png",
+            "image_file_path": "Image/Characters/navi_ain_01_arms_crossed.png",
+            "width": 96,
+            "height": 128,
+            "size_bytes": 2238,
+            "sha256": "ee446b015d7f5fd929e7c8b1c9b13fbd11795ccbc6bd10037341b39484262024"
+          },
+          {
+            "index": 2,
+            "pose": "both_arms_up",
+            "description": "両手を上げて指し棒を掲げるポーズ。",
+            "duration_ms": 600,
+            "filename": "navi_ain_02_both_arms_up.png",
+            "image_file_path": "Image/Characters/navi_ain_02_both_arms_up.png",
+            "width": 96,
+            "height": 128,
+            "size_bytes": 2532,
+            "sha256": "e47657874acf2409b46ea9ba8d2e3faf13ee60e1fb0a2bdee23cc38fb198117a"
+          },
+          {
+            "index": 3,
+            "pose": "pointer_down",
+            "description": "指し棒を斜め下に向けたポーズ。",
+            "duration_ms": 600,
+            "filename": "navi_ain_03_pointer_down.png",
+            "image_file_path": "Image/Characters/navi_ain_03_pointer_down.png",
+            "width": 96,
+            "height": 128,
+            "size_bytes": 2384,
+            "sha256": "9e3623f18ab0e50fc01022e12f54c8ecafde5c18345510ec60746913819083e5"
+          },
+          {
+            "index": 4,
+            "pose": "hands_to_face",
+            "description": "両手を顔の横に上げたポーズ。",
+            "duration_ms": 600,
+            "filename": "navi_ain_04_hands_to_face.png",
+            "image_file_path": "Image/Characters/navi_ain_04_hands_to_face.png",
+            "width": 96,
+            "height": 128,
+            "size_bytes": 2353,
+            "sha256": "eb036533b3f656a9b5b752cf9634f99d872e5702990925482eb87687a272445e"
+          },
+          {
+            "index": 5,
+            "pose": "wink",
+            "description": "ウインクして笑う表情差分。",
+            "duration_ms": 600,
+            "filename": "navi_ain_05_wink.png",
+            "image_file_path": "Image/Characters/navi_ain_05_wink.png",
+            "width": 96,
+            "height": 128,
+            "size_bytes": 2508,
+            "sha256": "b01812bfef9f5a1de313e94b4ab67e4ddbc3c22bdfe0072d0efa92ac66a3a44c"
+          },
+          {
+            "index": 6,
+            "pose": "smile",
+            "description": "微笑む表情差分。",
+            "duration_ms": 600,
+            "filename": "navi_ain_06_smile.png",
+            "image_file_path": "Image/Characters/navi_ain_06_smile.png",
+            "width": 96,
+            "height": 128,
+            "size_bytes": 2520,
+            "sha256": "021a4572b5645409e8840bdf3cc1976e70b3e93c1e6cf743c7a9bf737882cf4a"
+          },
+          {
+            "index": 7,
+            "pose": "talk",
+            "description": "口を開けて話す表情差分。",
+            "duration_ms": 600,
+            "filename": "navi_ain_07_talk.png",
+            "image_file_path": "Image/Characters/navi_ain_07_talk.png",
+            "width": 96,
+            "height": 128,
+            "size_bytes": 2541,
+            "sha256": "afa81a336285e0ff4d7167100795baa084eceb93851eeda21c5c06a0353b5a03"
+          },
+          {
+            "index": 8,
+            "pose": "sparkle",
+            "description": "ひらめき/感動を表すキラキラ演出付きの表情差分。",
+            "duration_ms": 600,
+            "filename": "navi_ain_08_sparkle.png",
+            "image_file_path": "Image/Characters/navi_ain_08_sparkle.png",
+            "width": 96,
+            "height": 128,
+            "size_bytes": 2585,
+            "sha256": "259d2dce5b70b8962894c420b4520257e3afd714f51c9d5f0b508ab343313bb2"
+          },
+          {
+            "index": 9,
+            "pose": "cry",
+            "description": "涙を流す表情差分。",
+            "duration_ms": 600,
+            "filename": "navi_ain_09_cry.png",
+            "image_file_path": "Image/Characters/navi_ain_09_cry.png",
+            "width": 96,
+            "height": 128,
+            "size_bytes": 2530,
+            "sha256": "0e0b15c1adb47c87913a2916333b2a12f6633f4b1962431ef525365f236bc0db"
+          },
+          {
+            "index": 10,
+            "pose": "teary",
+            "description": "涙目で困った表情差分。",
+            "duration_ms": 600,
+            "filename": "navi_ain_10_teary.png",
+            "image_file_path": "Image/Characters/navi_ain_10_teary.png",
+            "width": 96,
+            "height": 128,
+            "size_bytes": 2542,
+            "sha256": "1f79ba5a36d0dc04cb916a5233be5e87a0f99a4d182a1a0c0437e9394236f240"
+          },
+          {
+            "index": 11,
+            "pose": "idle",
+            "description": "待機ループ1コマ目。目を開いた基本表情。",
+            "duration_ms": 600,
+            "filename": "navi_ain_11_idle.png",
+            "image_file_path": "Image/Characters/navi_ain_11_idle.png",
+            "width": 96,
+            "height": 128,
+            "size_bytes": 2525,
+            "sha256": "edfabd0df1bc181a2200b64017e177f34c0d637acfdf40ac74a90cfaa932f81d"
+          },
+          {
+            "index": 12,
+            "pose": "blink",
+            "description": "待機ループ2コマ目。まばたき。",
+            "duration_ms": 150,
+            "filename": "navi_ain_12_blink.png",
+            "image_file_path": "Image/Characters/navi_ain_12_blink.png",
+            "width": 96,
+            "height": 128,
+            "size_bytes": 2495,
+            "sha256": "b2ce8ca3c198a516c79654aa5d71f7c72a1a57261a63ab8dd6340ec383caaf07"
+          },
+          {
+            "index": 13,
+            "pose": "blink",
+            "description": "待機ループ3コマ目。まばたき。",
+            "duration_ms": 150,
+            "filename": "navi_ain_13_blink.png",
+            "image_file_path": "Image/Characters/navi_ain_13_blink.png",
+            "width": 96,
+            "height": 128,
+            "size_bytes": 2524,
+            "sha256": "8c02ea9304f6eeed33eca79daee5498ab77b7b6be08d37b781d7dd89abedc2b0"
+          },
+          {
+            "index": 14,
+            "pose": "talk",
+            "description": "口を開いた表情差分。",
+            "duration_ms": 600,
+            "filename": "navi_ain_14_talk.png",
+            "image_file_path": "Image/Characters/navi_ain_14_talk.png",
+            "width": 96,
+            "height": 128,
+            "size_bytes": 2538,
+            "sha256": "9d9bc345ea8beb206705285ff46e4d8a4ecce4f48e20db133959ba4d9dbc9cb1"
+          }
+        ]
+      },
+      {
+        "id": "navi_ain_cross",
+        "description": "マインちゃんの腕組みポーズ差分。",
+        "source_file_path": "Image/Characters/Source/navi_ain_cross.aseprite",
+        "canvas": {
+          "width": 96,
+          "height": 128
+        },
+        "loop_tags": [
+          {
+            "name": "Loop",
+            "from": 0,
+            "to": 1
+          }
+        ],
+        "frames": [
+          {
+            "index": 0,
+            "pose": "talk",
+            "description": "腕を組んだまま口を開けて話すポーズ。",
+            "duration_ms": 300,
+            "filename": "navi_ain_cross_00_talk.png",
+            "image_file_path": "Image/Characters/navi_ain_cross_00_talk.png",
+            "width": 96,
+            "height": 128,
+            "size_bytes": 2255,
+            "sha256": "3ed7317971c33b3884c49ecf1e57e76138c9ec1867067945efaf4635a1d36024"
+          },
+          {
+            "index": 1,
+            "pose": "smile",
+            "description": "腕を組んで微笑むポーズ。",
+            "duration_ms": 300,
+            "filename": "navi_ain_cross_01_smile.png",
+            "image_file_path": "Image/Characters/navi_ain_cross_01_smile.png",
+            "width": 96,
+            "height": 128,
+            "size_bytes": 2239,
+            "sha256": "c2efab5433fc0774c30782074902a61ddbe65601a50ad93d05703bb805117bc4"
+          },
+          {
+            "index": 2,
+            "pose": "blink",
+            "description": "まばたき1コマ目。",
+            "duration_ms": 150,
+            "filename": "navi_ain_cross_02_blink.png",
+            "image_file_path": "Image/Characters/navi_ain_cross_02_blink.png",
+            "width": 96,
+            "height": 128,
+            "size_bytes": 2200,
+            "sha256": "51f2dcc45b3cbd727dff79f12ab9b933ad279b58b5e10fff6464fd5a2e8d6161"
+          },
+          {
+            "index": 3,
+            "pose": "blink",
+            "description": "まばたき2コマ目。",
+            "duration_ms": 150,
+            "filename": "navi_ain_cross_03_blink.png",
+            "image_file_path": "Image/Characters/navi_ain_cross_03_blink.png",
+            "width": 96,
+            "height": 128,
+            "size_bytes": 2238,
+            "sha256": "43c164b6712f3aa49e5cbd979ec05300bbaa18e0185193e39e45e0d61c52e48a"
+          }
+        ]
+      }
+    ]
+  }
+]

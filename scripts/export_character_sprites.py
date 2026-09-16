@@ -319,7 +319,7 @@ CHARACTERS = [
     {
         "id": "navi_ain",
         "name_ja": "マインちゃん",
-        "name_en": "Main",
+        "name_en": "Mine",
         "description": "マイクリの派生コンテンツや解説動画で利用できるオリジナルキャラクター。白衣と指し棒で解説を担当するナビゲーター役の少女。",
     },
 ]

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-16T22:38:55Z",
+  "generated_at": "2026-09-16T22:43:29Z",
   "generated_by": "scripts/export_character_sprites.py",
-  "total_characters": 2,
-  "total_sprite_sets": 5,
-  "total_frames": 42,
+  "total_characters": 3,
+  "total_sprite_sets": 8,
+  "total_frames": 59,
   "source_format": "Aseprite (Image/Characters/Source/*.aseprite)",
   "export_note": "各PNGはAsepriteソースの1フレームをRGBAで書き出したものです。デザイナーの下書き用非表示レイヤーは除外しています。",
   "pixel_art_note": "ドット絵のため、拡大表示にはニアレストネイバー法（image-rendering: pixelated）を使用してください。",

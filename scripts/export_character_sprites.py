@@ -226,9 +226,9 @@ def write_png(path, width, height, rgba):
 # --------------------------------------------------------------------------
 SPRITE_SETS = [
     {
-        "id": "crys",
-        "character": "crys",
-        "source": "crys.aseprite",
+        "id": "chris",
+        "character": "chris",
+        "source": "chris.aseprite",
         "description": "クリスくんの基本立ち絵とポーズ/表情差分。",
         "frames": [
             ("idle", "基本の立ちポーズ。"),
@@ -246,9 +246,9 @@ SPRITE_SETS = [
         ],
     },
     {
-        "id": "crys_speak",
-        "character": "crys",
-        "source": "crys_speak.aseprite",
+        "id": "chris_speak",
+        "character": "chris",
+        "source": "chris_speak.aseprite",
         "description": "クリスくんの口パク（リップシンク）用差分。",
         "frames": [
             ("talk", "口パク1コマ目。口を閉じた状態。"),
@@ -261,9 +261,9 @@ SPRITE_SETS = [
         ],
     },
     {
-        "id": "crys_cry",
-        "character": "crys",
-        "source": "crys_cry.aseprite",
+        "id": "chris_cry",
+        "character": "chris",
+        "source": "chris_cry.aseprite",
         "description": "クリスくんの泣き差分。",
         "frames": [
             ("sad", "腕を組んで目を閉じた悲しい表情。"),
@@ -281,8 +281,8 @@ SPRITE_SETS = [
             ("pointer_up", "指し棒を斜め上に構えた基本の立ちポーズ。"),
             ("arms_crossed", "指し棒を持ったまま腕を組んだポーズ。"),
             ("both_arms_up", "両手を上げて指し棒を掲げるポーズ。"),
-            ("pointer_down", "指し棒を斜め下に向けたポーズ。"),
-            ("hands_to_face", "両手を顔の横に上げたポーズ。"),
+            ("wave", "片手を上げて挨拶するポーズ。指し棒は下向きになります。"),
+            ("hands_to_face", "両手を顔の横に上げたポーズ。驚きや照れの表現に使えます。"),
             ("wink", "ウインクして笑う表情差分。"),
             ("smile", "微笑む表情差分。"),
             ("talk", "口を開けて話す表情差分。"),
@@ -293,6 +293,32 @@ SPRITE_SETS = [
             ("blink", "待機ループ2コマ目。まばたき。"),
             ("blink", "待機ループ3コマ目。まばたき。"),
             ("talk", "口を開いた表情差分。"),
+        ],
+    },
+    {
+        "id": "navi_ain_greeting",
+        "character": "navi_ain",
+        "source": "navi_ain_greeting.aseprite",
+        "description": "マインちゃんの挨拶ポーズ差分。キラキラ演出付きのコマを含みます。",
+        "frames": [
+            ("greet_sparkle", "片手を上げた挨拶ポーズ。キラキラ演出付きで口を閉じた状態。"),
+            ("greet_sparkle", "片手を上げた挨拶ポーズ。キラキラ演出付きで口を開いた状態。"),
+            ("greet", "片手を上げた挨拶ポーズ。口を閉じた状態。"),
+            ("greet", "片手を上げた挨拶ポーズ。口を開いた状態。"),
+            ("greet", "片手を上げた挨拶ポーズ。口を閉じた状態。"),
+            ("greet", "片手を上げた挨拶ポーズ。口を開いた状態。"),
+        ],
+    },
+    {
+        "id": "navi_ain_speak",
+        "character": "navi_ain",
+        "source": "navi_ain_speak.aseprite",
+        "description": "マインちゃんの口パク（リップシンク）用差分。指し棒を構えた基本ポーズ。",
+        "frames": [
+            ("talk", "口パク1コマ目。口を閉じた状態。"),
+            ("talk", "口パク2コマ目。口を開いた状態。"),
+            ("blink", "まばたき1コマ目。"),
+            ("blink", "まばたき2コマ目。"),
         ],
     },
     {
@@ -307,13 +333,28 @@ SPRITE_SETS = [
             ("blink", "まばたき2コマ目。"),
         ],
     },
+    {
+        "id": "maycri",
+        "character": "maycri",
+        "source": "maycri.aseprite",
+        "description": "マスコットキャラクターの待機アニメーション。目の表情差分で構成しています。",
+        "frames": [
+            ("eyes_blank", "基本コマ。瞳のない表情。"),
+            ("eyes_small", "片目に小さな瞳が入った表情差分。"),
+            ("eyes_wide", "両目に丸い瞳が入った表情差分。"),
+            ("eyes_thin", "細い瞳の表情差分。"),
+            ("eyes_blank", "待機ループ1コマ目。瞳のない基本の表情。"),
+            ("blink", "待機ループ2コマ目。目を閉じた表情。"),
+            ("eyes_small", "待機ループ3コマ目。小さな瞳の表情。"),
+        ],
+    },
 ]
 
 CHARACTERS = [
     {
-        "id": "crys",
+        "id": "chris",
         "name_ja": "クリスくん",
-        "name_en": "Crys",
+        "name_en": "Chris",
         "description": "マイクリの派生コンテンツや解説動画で利用できるオリジナルキャラクター。ハンチング帽とベストを身につけた緑髪の少年。",
     },
     {
@@ -321,6 +362,13 @@ CHARACTERS = [
         "name_ja": "マインちゃん",
         "name_en": "Mine",
         "description": "マイクリの派生コンテンツや解説動画で利用できるオリジナルキャラクター。白衣と指し棒で解説を担当するナビゲーター役の少女。",
+    },
+    {
+        "id": "maycri",
+        "name_ja": "マイクリ",
+        "name_en": "Maycri",
+        "description": "メガホンを持った丸いマスコットキャラクター。クリスくん/マインちゃんと同じ納品に含まれるオリジナル素材です。",
+        "name_note": "名称はソースファイル名 `maycri.aseprite` 由来の暫定表記です。正式名称が決まり次第更新してください。",
     },
 ]
 
@@ -338,6 +386,7 @@ def main():
 
     sets_by_character = {character["id"]: [] for character in CHARACTERS}
     total_frames = 0
+    exported_filenames = set()
 
     for sprite_set in SPRITE_SETS:
         source_path = os.path.join(SOURCE_DIR, sprite_set["source"])
@@ -351,6 +400,7 @@ def main():
         frames = []
         for index, (pose, description) in enumerate(sprite_set["frames"]):
             filename = "%s_%02d_%s.png" % (sprite_set["id"], index, pose)
+            exported_filenames.add(filename)
             output_path = os.path.join(IMAGE_DIR, filename)
             write_png(output_path, ase.width, ase.height, ase.render_frame(index))
             payload = open(output_path, "rb").read()
@@ -380,6 +430,12 @@ def main():
                 "frames": frames,
             }
         )
+
+    # Drop PNGs left over from earlier runs (e.g. after a pose was renamed).
+    for filename in sorted(os.listdir(IMAGE_DIR)):
+        if filename.endswith(".png") and filename not in exported_filenames:
+            os.remove(os.path.join(IMAGE_DIR, filename))
+            print("Removed stale %s" % filename)
 
     characters = []
     for character in CHARACTERS:

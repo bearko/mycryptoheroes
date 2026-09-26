@@ -31,6 +31,9 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 - `Style/Cutins/*.css`: カットイン演出を再現するCSS。
 - `Data/Cryptids/cryptids.json`: ランドごとのクリプタイドアイコン一覧。
 - `Image/Cryptids/*.png`: クリプタイドアイコン。ファイル名の連番を除いた名称がランド名です。
+- `Data/LandSectors/land_sectors.json`: ランドごとのランドセクタアイコン（レアリティ5段階 × ランド9種 = 45種）の一覧。
+- `Data/LandSectors/metadata.json`: 収録状況、レアリティの並び、ファイル名規則の補足。
+- `Image/LandSectors/*.png`: ランドセクタアイコン。ファイル名は `Image/LandSectors/[ランド連番]_[ランド名]_[レアリティID]_[レアリティ名].png` です。
 - `Data/Characters/characters.json`: オリジナルキャラクター（クリスくん/マインちゃん/マイクリくん）の立ち絵・差分 59 コマの一覧。
 - `Data/Characters/metadata.json`: 立ち絵の書き出し方法、利用条件、クレジット表記の補足。
 - `Image/Characters/*.png`: 立ち絵PNG。ファイル名は `Image/Characters/[差分セットID]_[コマ番号]_[ポーズ].png` です。
@@ -57,6 +60,7 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 - パラメーター、バフ/デバフ、状態異常系アイコンは `Data/BattleIcons/battle_icons.json` から用途説明と `image_file_path` を参照できます。
 - Action欄のバトルエフェクトは `Data/Effects/battle_effect_sprites.json` からCSSクラス、用途、`image_file_path` を参照できます。
 - クリプタイドアイコンは `Data/Cryptids/cryptids.json` からランド名と `image_file_path` を参照できます。
+- ランドセクタアイコンは `Data/LandSectors/land_sectors.json` からランド名、レアリティ、背景のランドカラー、`image_file_path` を参照できます。
 - オリジナルキャラクターの立ち絵は `Data/Characters/characters.json` からポーズ、表情、コマの表示時間、`image_file_path` を参照できます。
 - 立ち絵のアニメーション（口パク、まばたきなど）は `characters.json` の `animations` から再生順のコマ一覧と `gif_file_path` を参照できます。
 - 背景画像はバトル背景などに利用できます。縦長画面ではそのまま表示し、横長画面では中央部分を拡大・クロップする形で利用してください。
@@ -74,6 +78,30 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 ## クリプタイド補足
 
 クリプタイドは、マイクリ内のゲーム内ギルド「ランド」の守護神的な存在です。`Image/Cryptids` のファイル名は `01_Ocean.png` のように連番とランド名で構成しており、連番を除いた `Ocean`、`Strawberry` などがそのままランド名です。
+
+## ランドセクタ補足
+
+ランドセクタは、ランドを構成する区画のアイコンです。`Image/LandSectors` に、レアリティ5段階 × ランド9種の計45種を収録しています。
+
+- ファイル名は `[ランド連番]_[ランド名]_[レアリティID]_[レアリティ名].png` です（例: `02_Strawberry_1_Common.png`）。ランド連番は `Image/Cryptids` と同じ並びです。
+- レアリティは `Common`（ID 1）、`Uncommon`（2）、`Rare`（3）、`Epic`（4）、`Legendary`（5）の順で、レアリティが上がるほど絵柄が豪華になります。
+- キャンバスサイズは 64x64px です。背景は透過ではなく、そのランドのランドカラーで塗りつぶされています。
+
+### ランドとランドカラー
+
+背景色は各ランドのランドカラーです。`land_sectors.json` の `background_color` から参照できます。
+
+| ランド連番 | ランド名 | ランドカラー |
+| --- | --- | --- |
+| 01 | Ocean | `#00d9d5` |
+| 02 | Strawberry | `#ff80b5` |
+| 03 | Tangerine | `#ff9407` |
+| 04 | Lime | `#7fbf00` |
+| 05 | Graphite | `#737373` |
+| 06 | Grape | `#7e2ebd` |
+| 07 | Sage | `#00735a` |
+| 08 | Blueberry | `#3071f2` |
+| 09 | Ruby | `#d00013` |
 
 ## バトルSE補足
 
@@ -237,6 +265,7 @@ node scripts/fetch_icons.js
 node scripts/generate_background_manifest.js
 node scripts/generate_battle_icon_manifest.js
 node scripts/generate_cryptid_manifest.js
+node scripts/generate_land_sector_manifest.js
 node scripts/fetch_battle_sound_effects.js
 node scripts/fetch_battle_effect_sprites.js
 node scripts/fetch_battle_cutin_assets.js

@@ -81,12 +81,27 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 
 ## ランドセクタ補足
 
-ランドセクタは、ランドを構成する区画のアイコンです。`Image/LandSectors` に、レアリティ5段階 × ランド9種の計45種を収録します。
+ランドセクタは、ランドを構成する区画のアイコンです。`Image/LandSectors` に、レアリティ5段階 × ランド9種の計45種を収録しています。
 
 - ファイル名は `[ランド連番]_[ランド名]_[レアリティID]_[レアリティ名].png` です（例: `02_Strawberry_1_Common.png`）。ランド連番は `Image/Cryptids` と同じ並びです。
 - レアリティは `Common`（ID 1）、`Uncommon`（2）、`Rare`（3）、`Epic`（4）、`Legendary`（5）の順で、レアリティが上がるほど絵柄が豪華になります。
-- キャンバスサイズは 64x64px です。背景は透過ではなく、そのランドのランドカラーで塗りつぶされています。背景色は `land_sectors.json` の `background_color` から参照できます（例: Strawberry は `#ff80b5`）。
-- 現在収録しているのは Strawberry の5種のみです。残り8ランド分は順次追加します。未収録のランドは `Data/LandSectors/metadata.json` の `lands_pending` に記録しています。
+- キャンバスサイズは 64x64px です。背景は透過ではなく、そのランドのランドカラーで塗りつぶされています。
+
+### ランドとランドカラー
+
+背景色は各ランドのランドカラーです。`land_sectors.json` の `background_color` から参照できます。
+
+| ランド連番 | ランド名 | ランドカラー |
+| --- | --- | --- |
+| 01 | Ocean | `#00d9d5` |
+| 02 | Strawberry | `#ff80b5` |
+| 03 | Tangerine | `#ff9407` |
+| 04 | Lime | `#7fbf00` |
+| 05 | Graphite | `#737373` |
+| 06 | Grape | `#7e2ebd` |
+| 07 | Sage | `#00735a` |
+| 08 | Blueberry | `#3071f2` |
+| 09 | Ruby | `#d00013` |
 
 ## バトルSE補足
 

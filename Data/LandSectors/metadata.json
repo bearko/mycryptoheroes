@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-09-26T06:18:42.445Z",
+  "generated_by": "scripts/generate_land_sector_manifest.js",
+  "total_land_sectors": 5,
+  "expected_total_land_sectors": 45,
+  "rarity_order": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Epic",
+    "Legendary"
+  ],
+  "lands_with_icons": [
+    "Strawberry"
+  ],
+  "lands_pending": [
+    "Ocean",
+    "Tangerine",
+    "Lime",
+    "Graphite",
+    "Grape",
+    "Sage",
+    "Blueberry",
+    "Ruby"
+  ],
+  "canvas": {
+    "width": 64,
+    "height": 64
+  },
+  "filename_note": "ファイル名は [ランド連番]_[ランド名]_[レアリティID]_[レアリティ名].png です。ランド連番はImage/Cryptidsと揃えています。",
+  "background_note": "各アイコンの背景色はランドカラーで、背景は透過ではなく不透明です。background_color は左上ピクセルの色です。",
+  "pixel_art_note": "ドット絵のため、拡大表示にはニアレストネイバー法（image-rendering: pixelated）を使用してください。"
+}

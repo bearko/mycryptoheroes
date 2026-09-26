@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-26T06:26:37.607Z",
+  "generated_at": "2026-09-26T06:26:57.895Z",
   "generated_by": "scripts/generate_land_sector_manifest.js",
-  "total_land_sectors": 35,
+  "total_land_sectors": 40,
   "expected_total_land_sectors": 45,
   "rarity_order": [
     "Common",
@@ -17,10 +17,10 @@
     "Lime",
     "Graphite",
     "Grape",
-    "Sage"
+    "Sage",
+    "Blueberry"
   ],
   "lands_pending": [
-    "Blueberry",
     "Ruby"
   ],
   "canvas": {

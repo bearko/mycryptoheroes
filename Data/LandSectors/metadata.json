@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-26T06:18:42.445Z",
+  "generated_at": "2026-09-26T06:25:25.401Z",
   "generated_by": "scripts/generate_land_sector_manifest.js",
-  "total_land_sectors": 5,
+  "total_land_sectors": 20,
   "expected_total_land_sectors": 45,
   "rarity_order": [
     "Common",
@@ -11,12 +11,12 @@
     "Legendary"
   ],
   "lands_with_icons": [
-    "Strawberry"
+    "Ocean",
+    "Strawberry",
+    "Tangerine",
+    "Lime"
   ],
   "lands_pending": [
-    "Ocean",
-    "Tangerine",
-    "Lime",
     "Graphite",
     "Grape",
     "Sage",

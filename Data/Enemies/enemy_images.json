@@ -8411,28 +8411,6 @@
     "sha256": "b838834ed986c613751f89cc842041f112cee8b52dc30747cbc9635aaed7325b"
   },
   {
-    "id": 715,
-    "filename": "715.png",
-    "image_file_path": "Image/Enemies/715.png",
-    "source_image_url": "https://www.mycryptoheroes.net/images/enemies/715.png",
-    "names": [
-      {
-        "en": "Ghost Sarutahiko",
-        "ja": "ゴースト・猿田彦",
-        "zh": "Ghost Sarutahiko"
-      }
-    ],
-    "enemy_types": [
-      715,
-      745
-    ],
-    "referenced_by_official_enemy_csv": true,
-    "width": 64,
-    "height": 64,
-    "size_bytes": 9455,
-    "sha256": "0f8f101239ed89ab7660e99601c1cbe19e55d90377902cf252de627058cf07d8"
-  },
-  {
     "id": 718,
     "filename": "718.png",
     "image_file_path": "Image/Enemies/718.png",

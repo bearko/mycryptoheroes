@@ -4,7 +4,7 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 
 ## 収録データ
 
-- `Data/Heroes/heroes.json`: 権利上利用できない対象を除外したヒーローマスタ 404 件のJSON。
+- `Data/Heroes/heroes.json`: 権利上利用できない対象を除外したヒーローマスタ 402 件のJSON。
 - `Data/Heroes/heroes.csv`: 主要項目を表形式で確認するためのCSV。
 - `Data/Heroes/metadata.json`: 取得元、件数、ウォレットログイン要否、画像取得時の補足。
 - `Image/Heroes/*.png`: ヒーロー画像。ファイル名は `Image/Heroes/[ID].png` です。
@@ -12,12 +12,12 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 - `Data/Extensions/extensions.csv`: エクステンション主要項目のCSV。
 - `Data/Extensions/metadata.json`: エクステンション取得元、件数、ウォレットログイン要否、画像取得結果。
 - `Image/Extensions/*.png`: エクステンション画像。ファイル名は `Image/Extensions/[ID].png` です。
-- `Data/Enemies/enemies.json`: 公式CSVをもとにした全エネミーマスタ 938 件のJSON。
+- `Data/Enemies/enemies.json`: 公式CSVをもとにした全エネミーマスタ 932 件のJSON。
 - `Data/Enemies/enemies.csv`: エネミー主要項目のCSV。
-- `Data/Enemies/enemy_skills.json`: 公式CSVをもとにしたエネミースキル 1912 件のJSON。
+- `Data/Enemies/enemy_skills.json`: 公式CSVをもとにしたエネミースキル 1911 件のJSON。
 - `Data/Enemies/enemy_images.json`: エネミー画像とenemyTypeの紐づけ一覧。
 - `Data/Enemies/metadata.json`: 公式CSV、画像紐づけ、欠損スキルIDなどの補足。
-- `Image/Enemies/*.png`: 有効なエネミー画像 502 件。公式CSV参照画像と既存取得済み画像を保持しています。
+- `Image/Enemies/*.png`: 有効なエネミー画像 498 件。公式CSV参照画像と既存取得済み画像を保持しています。
 - `Data/Backgrounds/backgrounds.json`: バトル背景などに使う背景画像 37 件の一覧。
 - `Data/Backgrounds/metadata.json`: 背景画像の件数、重複グループ、利用許可に関する補足。
 - `Image/Backgrounds/*.png`: 背景画像。ファイル名はアップロード時の名前を維持しています。

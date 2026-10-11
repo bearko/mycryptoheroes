@@ -3,9 +3,9 @@
   "fetched_at": "2026-04-29T04:52:13.132Z",
   "login_required_for_public_master_data": false,
   "note": "The public dictionary page embeds hero, passive skill, attribute, and image URL master data in window.__NUXT__; wallet login is not required for these public records.",
-  "total_hero_master_records": 404,
-  "dictionary_visible_records": 210,
-  "image_count": 404,
+  "total_hero_master_records": 402,
+  "dictionary_visible_records": 209,
+  "image_count": 402,
   "image_download_failures": [],
   "image_download_fallbacks": [
     {
@@ -54,11 +54,11 @@
     }
   ],
   "category_counts": {
-    "original": 194,
+    "original": 193,
     "collaboration": 8,
     "novice": 8,
     "other": 8,
-    "replica": 186
+    "replica": 185
   },
   "restricted_removed_records": [
     {

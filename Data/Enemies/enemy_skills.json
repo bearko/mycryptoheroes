@@ -2460,22 +2460,6 @@
     }
   },
   {
-    "id": 1149,
-    "name": {
-      "en": "AD 3344 years",
-      "ja": "西暦3344年"
-    },
-    "description": {
-      "ja": {
-        "effects": [
-          "自分がActiveSkillを使用した後、40%の確率で発動 : 先頭の敵のINTを、自分のPHYの20%分アップ",
-          "自分のINTを、自分のINTの20%-30%分アップ"
-        ],
-        "text": "自分がActiveSkillを使用した後、40%の確率で発動 : 先頭の敵のINTを、自分のPHYの20%分アップ / 自分のINTを、自分のINTの20%-30%分アップ"
-      }
-    }
-  },
-  {
     "id": 1150,
     "name": {
       "en": "Chu song from four sides",

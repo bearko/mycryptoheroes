@@ -31,6 +31,7 @@ const ENCHANTS = {
 };
 
 const RESTRICTED_HERO_TYPES = new Set([
+  2035, // 版権コラボ
   2050, // イッパツマン & 逆転王
   3052, // キャシャーン & フレンダー
   3053, // クリスタル・ボーイ
@@ -39,6 +40,7 @@ const RESTRICTED_HERO_TYPES = new Set([
   4058, // ヤッターマン1号 & 2号
   4059, // コブラ
   4061, // ティルフィング[PK Alterna]
+  12035, // 版権コラボ.RepC
   14042, // ブッダ.RepA
   14043, // 鉄腕アトム.RepA
 ]);

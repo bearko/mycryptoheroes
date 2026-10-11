@@ -4160,8 +4160,6 @@ skillId,name_en,name_ja,description_ja
 1147,Buddhist enlightenment,悟り,味方全員のAGIを、対象のAGI増加分の40%分ダウン
 1147,Buddhist enlightenment,悟り,味方全員のINTを、自分のINTの15%分アップ
 1147,Buddhist enlightenment,悟り,味方全員のAGIを、自分のAGIの25%分アップ
-1149,AD 3344 years,西暦3344年,自分がActiveSkillを使用した後、40%の確率で発動 : 先頭の敵のINTを、自分のPHYの20%分アップ
-1149,AD 3344 years,西暦3344年,自分のINTを、自分のINTの20%-30%分アップ
 1152,Takekurabe,たけくらべ,Battle開始時、100%の確率で発動 : 最もMAXHPが高い敵のAGIを、対象のAGIの30%分ダウン
 1152,Takekurabe,たけくらべ,先頭の味方のINTを、自分のINTの100%分ダウン
 1152,Takekurabe,たけくらべ,先頭の味方のINTを、自分のINTの80%分アップ

@@ -1,0 +1,149 @@
+id,category,name_ja,name_en,acquisition_condition_ja,acquisition_condition_en,image_file_path,is_placeholder
+1,Trophy,ランキング戦: 1位,Ranked Match: 1st,,,Image/Trophies/trophy_1.png,false
+2,Trophy,ランキング戦: 2位,Ranked Match: 2nd,,,Image/Trophies/trophy_2.png,false
+3,Trophy,ランキング戦: 3位,Ranked Match: 3rd,,,Image/Trophies/trophy_3.png,false
+4,Trophy,ランキング戦: 4-10位,Ranked Match: 4-10th,,,Image/Trophies/trophy_4.png,false
+5,Trophy,ランキング戦: 111位,Ranked Match: 111th,,,Image/Trophies/trophy_5.png,false
+6,Trophy,ランキング戦: 777位,Ranked Match: 777th,,,Image/Trophies/trophy_6.png,false
+11,Trophy,Blue Dragon: 1位,Blue Dragon: 1st,,,Image/Trophies/trophy_11.png,false
+12,Trophy,Blue Dragon: 2位,Blue Dragon: 2nd,,,Image/Trophies/trophy_12.png,false
+13,Trophy,Blue Dragon: 3位,Blue Dragon: 3rd,,,Image/Trophies/trophy_13.png,false
+14,Trophy,Blue Dragon: 4-10位,Blue Dragon: 4-10th,,,Image/Trophies/trophy_14.png,false
+15,Trophy,Blue Dragon: 111位,Blue Dragon: 111th,,,Image/Trophies/trophy_15.png,false
+16,Trophy,Blue Dragon: 777位,Blue Dragon: 777th,,,Image/Trophies/trophy_16.png,false
+21,Trophy,Red Dragon: 1位,Red Dragon: 1st,,,Image/Trophies/trophy_21.png,false
+22,Trophy,Red Dragon: 2位,Red Dragon: 2nd,,,Image/Trophies/trophy_22.png,false
+23,Trophy,Red Dragon: 3位,Red Dragon: 3rd,,,Image/Trophies/trophy_23.png,false
+24,Trophy,Red Dragon: 4-10位,Red Dragon: 4-10th,,,Image/Trophies/trophy_24.png,false
+25,Trophy,Red Dragon: 111位,Red Dragon: 111th,,,Image/Trophies/trophy_25.png,false
+26,Trophy,Red Dragon: 777位,Red Dragon: 777th,,,Image/Trophies/trophy_26.png,false
+31,Trophy,Baby Dragon: 1位,Baby Dragon: 1st,,,Image/Trophies/trophy_31.png,false
+32,Trophy,Baby Dragon: 2位,Baby Dragon: 2nd,,,Image/Trophies/trophy_32.png,false
+33,Trophy,Baby Dragon: 3位,Baby Dragon: 3rd,,,Image/Trophies/trophy_33.png,false
+34,Trophy,Baby Dragon: 4-10位,Baby Dragon: 4-10th,,,Image/Trophies/trophy_34.png,false
+35,Trophy,Baby Dragon: 111位,Baby Dragon: 111th,,,Image/Trophies/trophy_35.png,false
+36,Trophy,Baby Dragon: 777位,Baby Dragon: 777th,,,Image/Trophies/trophy_36.png,false
+41,Trophy,GOOD! Art,GOOD! Art,,,Image/Trophies/trophy_41.png,false
+42,Trophy,COOL!! Art,COOL!! Art,,,Image/Trophies/trophy_42.png,false
+43,Trophy,AWESOME!!! Art,AWESOME!!! Art,,,,false
+51,Trophy,raid:シンギュラリティ: 1位,raid:Singularity: 1st,,,Image/Trophies/trophy_51.png,false
+52,Trophy,raid:シンギュラリティ: 2位,raid:Singularity: 2nd,,,Image/Trophies/trophy_52.png,false
+53,Trophy,raid:シンギュラリティ: 3位,raid:Singularity: 3rd,,,Image/Trophies/trophy_53.png,false
+54,Trophy,raid:シンギュラリティ: Last Attack,raid:Singularity: Last Attack,,,Image/Trophies/trophy_54.png,false
+61,Trophy,Dragon Egg: 1位,Dragon Egg: 1st,,,Image/Trophies/trophy_61.png,false
+62,Trophy,Dragon Egg: 2位,Dragon Egg: 2nd,,,Image/Trophies/trophy_62.png,false
+63,Trophy,Dragon Egg: 3位,Dragon Egg: 3rd,,,Image/Trophies/trophy_63.png,false
+64,Trophy,Dragon Egg: 4-10位,Dragon Egg: 4-10th,,,Image/Trophies/trophy_64.png,false
+65,Trophy,Dragon Egg: 111位,Dragon Egg: 111th,,,Image/Trophies/trophy_65.png,false
+66,Trophy,Dragon Egg: 777位,Dragon Egg: 777th,,,Image/Trophies/trophy_66.png,false
+71,Trophy,9 On 9 Battle: 1位,9 On 9 Battle: 1st,,,Image/Trophies/trophy_71.png,false
+72,Trophy,9 On 9 Battle: 2位,9 On 9 Battle: 2nd,,,Image/Trophies/trophy_72.png,false
+73,Trophy,9 On 9 Battle: 3位,9 On 9 Battle: 3rd,,,Image/Trophies/trophy_73.png,false
+74,Trophy,9 On 9 Battle: 4-10位,9 On 9 Battle: 4-10th,,,Image/Trophies/trophy_74.png,false
+75,Trophy,9 On 9 Battle: 99位,9 On 9 Battle: 99th,,,Image/Trophies/trophy_75.png,false
+81,Trophy,Official Duel Cup: 1位,Official Duel Cup: 1st,,,Image/Trophies/trophy_81.png,false
+82,Trophy,Official Duel Cup: 2位,Official Duel Cup: 2nd,,,Image/Trophies/trophy_82.png,false
+83,Trophy,Official Duel Cup: 3位,Official Duel Cup: 3rd,,,Image/Trophies/trophy_83.png,false
+84,Trophy,Official Duel Cup: 4-10位,Official Duel Cup: 4-10th,,,Image/Trophies/trophy_84.png,false
+85,Trophy,Official Duel Cup: 111位,Official Duel Cup: 111th,,,Image/Trophies/trophy_85.png,false
+86,Trophy,Official Duel Cup: 777位,Official Duel Cup: 777th,,,Image/Trophies/trophy_86.png,false
+91,Trophy,TOKU Ranking: 1位,TOKU Ranking: 1st,,,Image/Trophies/trophy_91.png,false
+92,Trophy,TOKU Ranking: 2位,TOKU Ranking: 2nd,,,Image/Trophies/trophy_92.png,false
+93,Trophy,TOKU Ranking: 3位,TOKU Ranking: 3rd,,,Image/Trophies/trophy_93.png,false
+94,Trophy,TOKU Ranking: 4-10位,TOKU Ranking: 4-10th,,,Image/Trophies/trophy_94.png,false
+101,Trophy,,,,,Image/Trophies/trophy_101.png,false
+102,Trophy,,,,,Image/Trophies/trophy_102.png,false
+103,Trophy,,,,,Image/Trophies/trophy_103.png,false
+104,Trophy,,,,,Image/Trophies/trophy_104.png,false
+111,Trophy,Ocean G5: Season {ref},Ocean G5: Season {ref},,,Image/Trophies/trophy_111.png,false
+112,Trophy,Strawberry G5: Season {ref},Strawberry G5: Season {ref},,,Image/Trophies/trophy_112.png,false
+113,Trophy,Tangerine G5: Season {ref},Tangerine G5: Season {ref},,,Image/Trophies/trophy_113.png,false
+114,Trophy,Lime G5: Season {ref},Lime G5: Season {ref},,,Image/Trophies/trophy_114.png,false
+115,Trophy,Graphite G5: Season {ref},Graphite G5: Season {ref},,,Image/Trophies/trophy_115.png,false
+116,Trophy,Grape G5: Season {ref},Grape G5: Season {ref},,,Image/Trophies/trophy_116.png,false
+117,Trophy,Sage G5: Season {ref},Sage G5: Season {ref},,,Image/Trophies/trophy_117.png,false
+118,Trophy,Blueberry G5: Season {ref},Blueberry G5: Season {ref},,,Image/Trophies/trophy_118.png,false
+119,Trophy,Ruby G5: Season {ref},Ruby G5: Season {ref},,,Image/Trophies/trophy_119.png,false
+121,Trophy,Knight Battle 1st: Season {ref},Knight Battle 1st: Season {ref},,,Image/Trophies/trophy_121.png,false
+131,Trophy,King Dragon: 1位,King Dragon: 1st,,,Image/Trophies/trophy_131.png,false
+132,Trophy,King Dragon: 2位,King Dragon: 2nd,,,Image/Trophies/trophy_132.png,false
+133,Trophy,King Dragon: 3位,King Dragon: 3rd,,,Image/Trophies/trophy_133.png,false
+134,Trophy,King Dragon: 4位,King Dragon: 4th,,,Image/Trophies/trophy_134.png,false
+141,Trophy,raid:シンギュラリティ: プルートウ 1位,raid:Singularity: Pluto 1st,,,,false
+142,Trophy,raid:シンギュラリティ: プルートウ 2位,raid:Singularity: Pluto 2nd,,,,false
+143,Trophy,raid:シンギュラリティ: プルートウ 3位,raid:Singularity: Pluto 3rd,,,,false
+144,Trophy,raid:シンギュラリティ: プルートウ Last Attack,raid:Singularity: Pluto Last Attack,,,,false
+151,Trophy,HRC master: 1位,HRC master: 1st,,,Image/Trophies/trophy_151.png,false
+152,Trophy,HRC master: 2位,HRC master: 2nd,,,Image/Trophies/trophy_152.png,false
+153,Trophy,HRC master: 3位,HRC master: 3rd,,,Image/Trophies/trophy_153.png,false
+154,Trophy,HRC master: 4-10位,HRC master: 4-10th,,,Image/Trophies/trophy_154.png,false
+155,Trophy,HRC master: 111位,HRC master: 111th,,,Image/Trophies/trophy_155.png,false
+161,Trophy,HRC advance: 1位,HRC advance: 1st,,,Image/Trophies/trophy_161.png,false
+162,Trophy,HRC advance: 2位,HRC advance: 2nd,,,Image/Trophies/trophy_162.png,false
+163,Trophy,HRC advance: 3位,HRC advance: 3rd,,,Image/Trophies/trophy_163.png,false
+164,Trophy,HRC advance: 4-10位,HRC advance: 4-10th,,,Image/Trophies/trophy_164.png,false
+165,Trophy,HRC advance: 111位,HRC advance: 111th,,,Image/Trophies/trophy_165.png,false
+171,Trophy,HRC intermediate: 1位,HRC intermediate: 1st,,,Image/Trophies/trophy_171.png,false
+172,Trophy,HRC intermediate: 2位,HRC intermediate: 2nd,,,Image/Trophies/trophy_172.png,false
+173,Trophy,HRC intermediate: 3位,HRC intermediate: 3rd,,,Image/Trophies/trophy_173.png,false
+174,Trophy,HRC intermediate: 4-10位,HRC intermediate: 4-10th,,,Image/Trophies/trophy_174.png,false
+175,Trophy,HRC intermediate: 111位,HRC intermediate: 111th,,,Image/Trophies/trophy_175.png,false
+181,Trophy,HRC beginner: 1位,HRC beginner: 1st,,,Image/Trophies/trophy_181.png,false
+182,Trophy,HRC beginner: 2位,HRC beginner: 2nd,,,Image/Trophies/trophy_182.png,false
+183,Trophy,HRC beginner: 3位,HRC beginner: 3rd,,,Image/Trophies/trophy_183.png,false
+184,Trophy,HRC beginner: 4-10位,HRC beginner: 4-10th,,,Image/Trophies/trophy_184.png,false
+185,Trophy,HRC beginner: 111位,HRC beginner: 111th,,,Image/Trophies/trophy_185.png,false
+191,Trophy,Colosseum: 1位,Colosseum: 1st,,,Image/Trophies/trophy_191.png,false
+192,Trophy,Colosseum: 2位,Colosseum: 2nd,,,Image/Trophies/trophy_192.png,false
+193,Trophy,Colosseum: 3位,Colosseum: 3rd,,,Image/Trophies/trophy_193.png,false
+194,Trophy,Colosseum: 4-10位,Colosseum: 4-10th,,,Image/Trophies/trophy_194.png,false
+195,Trophy,,,,,Image/Trophies/trophy_195.png,false
+196,Trophy,,,,,Image/Trophies/trophy_196.png,false
+201,Trophy,King Dragon {ref}: 1位,King Dragon {ref}: 1st,,,Image/Trophies/trophy_201.png,false
+202,Trophy,King Dragon {ref}: 2位,King Dragon {ref}: 2nd,,,Image/Trophies/trophy_202.png,false
+203,Trophy,King Dragon {ref}: 3位,King Dragon {ref}: 3rd,,,Image/Trophies/trophy_203.png,false
+204,Trophy,King Dragon {ref}: 4位,King Dragon {ref}: 4th,,,Image/Trophies/trophy_204.png,false
+205,Trophy,King Dragon {ref}: BEST 8,King Dragon {ref}: BEST 8,,,Image/Trophies/trophy_205.png,false
+206,Trophy,King Dragon {ref}: BEST 16,King Dragon {ref}: BEST 16,,,Image/Trophies/trophy_206.png,false
+211,Trophy,Queen Dragon {ref}: 1位,Queen Dragon {ref}: 1st,,,Image/Trophies/trophy_211.png,false
+212,Trophy,Queen Dragon {ref}: 2位,Queen Dragon {ref}: 2nd,,,Image/Trophies/trophy_212.png,false
+213,Trophy,Queen Dragon {ref}: 3位,Queen Dragon {ref}: 3rd,,,Image/Trophies/trophy_213.png,false
+214,Trophy,Queen Dragon {ref}: 4位,Queen Dragon {ref}: 4th,,,Image/Trophies/trophy_214.png,false
+215,Trophy,Queen Dragon {ref}: BEST 8,Queen Dragon {ref}: BEST 8,,,Image/Trophies/trophy_215.png,false
+216,Trophy,Queen Dragon {ref}: BEST 16,Queen Dragon {ref}: BEST 16,,,Image/Trophies/trophy_216.png,false
+221,Trophy,Prince Dragon {ref}: 1位,Prince Dragon {ref}: 1st,,,Image/Trophies/trophy_221.png,false
+222,Trophy,Prince Dragon {ref}: 2位,Prince Dragon {ref}: 2nd,,,Image/Trophies/trophy_222.png,false
+223,Trophy,Prince Dragon {ref}: 3位,Prince Dragon {ref}: 3rd,,,Image/Trophies/trophy_223.png,false
+224,Trophy,Prince Dragon {ref}: 4位,Prince Dragon {ref}: 4th,,,Image/Trophies/trophy_224.png,false
+225,Trophy,Prince Dragon {ref}: BEST 8,Prince Dragon {ref}: BEST 8,,,Image/Trophies/trophy_225.png,false
+226,Trophy,Prince Dragon {ref}: BEST 16,Prince Dragon {ref}: BEST 16,,,Image/Trophies/trophy_226.png,false
+231,Trophy,Princess Dragon {ref}: 1位,Princess Dragon {ref}: 1st,,,Image/Trophies/trophy_231.png,false
+232,Trophy,Princess Dragon {ref}: 2位,Princess Dragon {ref}: 2nd,,,Image/Trophies/trophy_232.png,false
+233,Trophy,Princess Dragon {ref}: 3位,Princess Dragon {ref}: 3rd,,,Image/Trophies/trophy_233.png,false
+234,Trophy,Princess Dragon {ref}: 4位,Princess Dragon {ref}: 4th,,,Image/Trophies/trophy_234.png,false
+235,Trophy,Princess Dragon {ref}: BEST 8,Princess Dragon {ref}: BEST 8,,,Image/Trophies/trophy_235.png,false
+236,Trophy,Princess Dragon {ref}: BEST 16,Princess Dragon {ref}: BEST 16,,,Image/Trophies/trophy_236.png,false
+241,Trophy,Soul Battle Season {ref}: 1位,Soul Battle Season {ref}: 1st,,,Image/Trophies/trophy_241.png,false
+242,Trophy,Soul Battle Season {ref}: 2位,Soul Battle Season {ref}: 2nd,,,Image/Trophies/trophy_242.png,false
+243,Trophy,Soul Battle Season {ref}: 3位,Soul Battle Season {ref}: 3rd,,,Image/Trophies/trophy_243.png,false
+244,Trophy,Soul Battle Season {ref}: 4-10位,Soul Battle Season {ref}: 4-10th,,,Image/Trophies/trophy_244.png,false
+251,Trophy,raid:シンギュラリティ: フラッグ 1位,raid:Singularity: Flag 1st,,,Image/Trophies/trophy_251.png,false
+252,Trophy,raid:シンギュラリティ: フラッグ 2位,raid:Singularity: Flag 2nd,,,Image/Trophies/trophy_252.png,false
+253,Trophy,raid:シンギュラリティ: フラッグ 3位,raid:Singularity: Flag 3rd,,,Image/Trophies/trophy_253.png,false
+254,Trophy,raid:シンギュラリティ: フラッグ Last Attack,raid:Singularity: Flag Last Attac,,,Image/Trophies/trophy_254.png,false
+261,Trophy,Common Cup: 1位,Common Cup: 1st,,,Image/Trophies/trophy_261.png,false
+262,Trophy,Common Cup: 2位,Common Cup: 2nd,,,Image/Trophies/trophy_262.png,false
+263,Trophy,Common Cup: 3位,Common Cup: 3rd,,,Image/Trophies/trophy_263.png,false
+264,Trophy,Common Cup: 4-10位,Common Cup: 4-10th,,,Image/Trophies/trophy_264.png,false
+265,Trophy,Common Cup: 111位,Common Cup: 111th,,,Image/Trophies/trophy_265.png,false
+266,Trophy,Common Cup: 777位,Common Cup: 777th,,,Image/Trophies/trophy_266.png,false
+271,Trophy,,,,,Image/Trophies/trophy_271.png,false
+272,Trophy,,,,,Image/Trophies/trophy_272.png,false
+273,Trophy,,,,,Image/Trophies/trophy_273.png,false
+274,Trophy,,,,,Image/Trophies/trophy_274.png,false
+281,Trophy,Duke Dragon {ref}: 1位,Duke Dragon {ref}: 1st,,,Image/Trophies/trophy_281.png,false
+282,Trophy,Duke Dragon {ref}: 2位,Duke Dragon {ref}: 2nd,,,Image/Trophies/trophy_282.png,false
+283,Trophy,Duke Dragon {ref}: 3位,Duke Dragon {ref}: 3rd,,,Image/Trophies/trophy_283.png,false
+284,Trophy,Duke Dragon {ref}: 4位,Duke Dragon {ref}: 4th,,,Image/Trophies/trophy_284.png,false
+285,Trophy,Duke Dragon {ref}: BEST 8,Duke Dragon {ref}: BEST 8,,,Image/Trophies/trophy_285.png,false
+286,Trophy,Duke Dragon {ref}: BEST 16,Duke Dragon {ref}: BEST 16,,,Image/Trophies/trophy_286.png,false

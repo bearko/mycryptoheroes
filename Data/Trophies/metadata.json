@@ -1,15 +1,37 @@
 {
-  "generated_at": "2026-10-21T01:18:06.034Z",
+  "generated_at": "2026-10-21T01:27:34.015Z",
   "generated_by": "scripts/generate_achievement_trophy_manifest.js",
   "source": "MCH社より受領（2026-10-21、Google Drive経由）",
-  "total_trophies": 143,
+  "types_source": "Data/Achievements/achievement_types.json",
+  "total_trophies": 148,
+  "total_images": 143,
+  "ids_without_image": [
+    43,
+    141,
+    142,
+    143,
+    144
+  ],
+  "ids_without_type": [
+    101,
+    102,
+    103,
+    104,
+    195,
+    196,
+    271,
+    272,
+    273,
+    274
+  ],
   "placeholder_count": 0,
   "image_sizes": {
     "200x200": 104,
     "400x400": 39
   },
   "filename_note": "ファイル名は受領時の名前（trophy_[ID].png）を維持しています。id はファイル名の数値部分です。",
-  "acquisition_condition_note": "名称と獲得条件はMCH社に確認中のため、現時点では name / acquisition_condition を null にしています。",
+  "acquisition_condition_note": "名称と獲得条件は achievement_types.json の achievementType とIDで紐づけています。獲得条件が \"None\"（大会順位などで付与されるもの）は acquisition_condition を null にしています。",
+  "ids_note": "ids_without_image は名称・条件はあるが画像がないID、ids_without_type は画像はあるが名称・条件がないIDです。",
   "placeholder_note": "is_placeholder が true の画像は「Please wait for the reveal.」と書かれた未公開用の仮アートです。",
   "duplicate_image_groups": [
     [

@@ -1,0 +1,1298 @@
+[
+  {
+    "image": "Image/TournamentBanners/preview/banner_current.png",
+    "category": "preview",
+    "width": 1280,
+    "height": 400,
+    "psd_layer": null,
+    "note": "PSD保存時の表示状態"
+  },
+  {
+    "image": "Image/TournamentBanners/originals/oasys_logofix.png",
+    "category": "original",
+    "width": null,
+    "height": null,
+    "psd_layer": "OASYS_logoFIX のコピー",
+    "note": "スマートオブジェクトに埋め込まれていた元画像"
+  },
+  {
+    "image": "Image/TournamentBanners/originals/gym.png",
+    "category": "original",
+    "width": null,
+    "height": null,
+    "psd_layer": "gym",
+    "note": "スマートオブジェクトに埋め込まれていた元画像"
+  },
+  {
+    "image": "Image/TournamentBanners/originals/1005.png",
+    "category": "original",
+    "width": null,
+    "height": null,
+    "psd_layer": "ドラゴン全部 のコピー/Challenge/heroes/1005",
+    "note": "スマートオブジェクトに埋め込まれていた元画像"
+  },
+  {
+    "image": "Image/TournamentBanners/originals/1004.png",
+    "category": "original",
+    "width": null,
+    "height": null,
+    "psd_layer": "ドラゴン全部 のコピー/Challenge/heroes/1004",
+    "note": "スマートオブジェクトに埋め込まれていた元画像"
+  },
+  {
+    "image": "Image/TournamentBanners/originals/oasys_small_logo_light_green.png",
+    "category": "original",
+    "width": null,
+    "height": null,
+    "psd_layer": "ドラゴン全部 のコピー/Common/Oasys_Small Logo Light Green",
+    "note": "スマートオブジェクトに埋め込まれていた元画像"
+  },
+  {
+    "image": "Image/TournamentBanners/originals/officialduel_1.png",
+    "category": "original",
+    "width": null,
+    "height": null,
+    "psd_layer": "ドラゴン全部 のコピー/Absolute/officialduel_1",
+    "note": "スマートオブジェクトに埋め込まれていた元画像"
+  },
+  {
+    "image": "Image/TournamentBanners/originals/11070.png",
+    "category": "original",
+    "width": null,
+    "height": null,
+    "psd_layer": "9on9/Absolute JIN/11070",
+    "note": "スマートオブジェクトに埋め込まれていた元画像"
+  },
+  {
+    "image": "Image/TournamentBanners/originals/12030.png",
+    "category": "original",
+    "width": null,
+    "height": null,
+    "psd_layer": "9on9/Absolute JIN/12030",
+    "note": "スマートオブジェクトに埋め込まれていた元画像"
+  },
+  {
+    "image": "Image/TournamentBanners/originals/11080.png",
+    "category": "original",
+    "width": null,
+    "height": null,
+    "psd_layer": "9on9/Absolute JIN/11080",
+    "note": "スマートオブジェクトに埋め込まれていた元画像"
+  },
+  {
+    "image": "Image/TournamentBanners/originals/181.png",
+    "category": "original",
+    "width": null,
+    "height": null,
+    "psd_layer": "HRC/U/181",
+    "note": "スマートオブジェクトに埋め込まれていた元画像"
+  },
+  {
+    "image": "Image/TournamentBanners/originals/171.png",
+    "category": "original",
+    "width": null,
+    "height": null,
+    "psd_layer": "HRC/R/171",
+    "note": "スマートオブジェクトに埋め込まれていた元画像"
+  },
+  {
+    "image": "Image/TournamentBanners/originals/161.png",
+    "category": "original",
+    "width": null,
+    "height": null,
+    "psd_layer": "HRC/E/161",
+    "note": "スマートオブジェクトに埋め込まれていた元画像"
+  },
+  {
+    "image": "Image/TournamentBanners/originals/151.png",
+    "category": "original",
+    "width": null,
+    "height": null,
+    "psd_layer": "HRC/L/151",
+    "note": "スマートオブジェクトに埋め込まれていた元画像"
+  },
+  {
+    "image": "Image/TournamentBanners/originals/princess_1.png",
+    "category": "original",
+    "width": null,
+    "height": null,
+    "psd_layer": "world champ/Princess/princess_1",
+    "note": "スマートオブジェクトに埋め込まれていた元画像"
+  },
+  {
+    "image": "Image/TournamentBanners/originals/prince_1.png",
+    "category": "original",
+    "width": null,
+    "height": null,
+    "psd_layer": "world champ/Prince/prince_1",
+    "note": "スマートオブジェクトに埋め込まれていた元画像"
+  },
+  {
+    "image": "Image/TournamentBanners/originals/queen_1.png",
+    "category": "original",
+    "width": null,
+    "height": null,
+    "psd_layer": "world champ/Queen/queen_1",
+    "note": "スマートオブジェクトに埋め込まれていた元画像"
+  },
+  {
+    "image": "Image/TournamentBanners/originals/king_1.png",
+    "category": "original",
+    "width": null,
+    "height": null,
+    "psd_layer": "world champ/King/king_1",
+    "note": "スマートオブジェクトに埋め込まれていた元画像"
+  },
+  {
+    "image": "Image/TournamentBanners/originals/11002.png",
+    "category": "original",
+    "width": null,
+    "height": null,
+    "psd_layer": "Rep/Rep/11002",
+    "note": "スマートオブジェクトに埋め込まれていた元画像"
+  },
+  {
+    "image": "Image/TournamentBanners/originals/11006.png",
+    "category": "original",
+    "width": null,
+    "height": null,
+    "psd_layer": "Rep/Rep/11006",
+    "note": "スマートオブジェクトに埋め込まれていた元画像"
+  },
+  {
+    "image": "Image/TournamentBanners/originals/11007.png",
+    "category": "original",
+    "width": null,
+    "height": null,
+    "psd_layer": "Rep/Rep/11007",
+    "note": "スマートオブジェクトに埋め込まれていた元画像"
+  },
+  {
+    "image": "Image/TournamentBanners/originals/11001.png",
+    "category": "original",
+    "width": null,
+    "height": null,
+    "psd_layer": "Rep/Rep/11001",
+    "note": "スマートオブジェクトに埋め込まれていた元画像"
+  },
+  {
+    "image": "Image/TournamentBanners/originals/nftnyc-logo-dark.svg",
+    "category": "original",
+    "width": null,
+    "height": null,
+    "psd_layer": "logo/nftnyc-logo-dark",
+    "note": "スマートオブジェクトに埋め込まれていた元画像"
+  },
+  {
+    "image": "Image/TournamentBanners/originals/mch_logo_yoko_b.png",
+    "category": "original",
+    "width": null,
+    "height": null,
+    "psd_layer": "logo/mch_logo_yoko_b (1)",
+    "note": "スマートオブジェクトに埋め込まれていた元画像"
+  },
+  {
+    "image": "Image/TournamentBanners/originals/oasys_large_logo_light_green.png",
+    "category": "original",
+    "width": null,
+    "height": null,
+    "psd_layer": "logo/Oasys_Large Logo Light Green",
+    "note": "スマートオブジェクトに埋め込まれていた元画像"
+  },
+  {
+    "image": "Image/TournamentBanners/icons/rule/realtime.png",
+    "category": "rule",
+    "width": 83,
+    "height": 76,
+    "psd_layer": "リアルタイム",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/icons/rule/rating.png",
+    "category": "rule",
+    "width": 70,
+    "height": 80,
+    "psd_layer": "レーティング",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/icons/rule/tournament.png",
+    "category": "rule",
+    "width": 80,
+    "height": 76,
+    "psd_layer": "トーナメント",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/icons/rule/oni_time.png",
+    "category": "rule",
+    "width": 87,
+    "height": 77,
+    "psd_layer": "鬼タイム",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/icons/rule/aura.png",
+    "category": "rule",
+    "width": 71,
+    "height": 77,
+    "psd_layer": "AURA",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/icons/format/standard_on.png",
+    "category": "format",
+    "width": 193,
+    "height": 54,
+    "psd_layer": "standard on",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/icons/format/modern_on.png",
+    "category": "format",
+    "width": 192,
+    "height": 54,
+    "psd_layer": "modern on",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/icons/format/legacy_on.png",
+    "category": "format",
+    "width": 193,
+    "height": 54,
+    "psd_layer": "legacy on",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/icons/class_label/trial_cup.png",
+    "category": "class_label",
+    "width": 433,
+    "height": 365,
+    "psd_layer": "Rep",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/icons/class_label/novice.png",
+    "category": "class_label",
+    "width": 416,
+    "height": 67,
+    "psd_layer": "Novice",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/icons/class_label/challenge.png",
+    "category": "class_label",
+    "width": 416,
+    "height": 67,
+    "psd_layer": "Challenge",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/icons/class_label/common.png",
+    "category": "class_label",
+    "width": 416,
+    "height": 67,
+    "psd_layer": "Common",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/icons/class_label/uncommon.png",
+    "category": "class_label",
+    "width": 416,
+    "height": 67,
+    "psd_layer": "Uncommon",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/icons/class_label/rare.png",
+    "category": "class_label",
+    "width": 416,
+    "height": 67,
+    "psd_layer": "Rare",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/icons/class_label/epic.png",
+    "category": "class_label",
+    "width": 416,
+    "height": 67,
+    "psd_layer": "Epic",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/icons/class_label/legendary.png",
+    "category": "class_label",
+    "width": 416,
+    "height": 67,
+    "psd_layer": "Lagendaly",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/icons/class_label/all.png",
+    "category": "class_label",
+    "width": 416,
+    "height": 67,
+    "psd_layer": "all",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/icons/button/click_button.png",
+    "category": "button",
+    "width": 181,
+    "height": 77,
+    "psd_layer": "ボタン",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/icons/button/more_info.png",
+    "category": "button",
+    "width": 146,
+    "height": 64,
+    "psd_layer": "文字：More Info yoko",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/cups/dragon_cup/challenge_icon.png",
+    "category": "cup_icon",
+    "width": 334,
+    "height": 302,
+    "psd_layer": "ドラゴン全部 のコピー/Challenge",
+    "note": "タイトル文字なし"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/dragon_cup/challenge_with_title.png",
+    "category": "cup_icon",
+    "width": 969,
+    "height": 302,
+    "psd_layer": "ドラゴン全部 のコピー/Challenge",
+    "note": "タイトル文字あり"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/dragon_cup/challenge_title.png",
+    "category": "cup_title",
+    "width": 642,
+    "height": 120,
+    "psd_layer": "ドラゴン全部 のコピー/Challenge/Challenge Cup",
+    "note": "タイトル文字のみ"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/dragon_cup/common_icon.png",
+    "category": "cup_icon",
+    "width": 318,
+    "height": 315,
+    "psd_layer": "ドラゴン全部 のコピー/Common",
+    "note": "タイトル文字なし"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/dragon_cup/common_with_title.png",
+    "category": "cup_icon",
+    "width": 913,
+    "height": 315,
+    "psd_layer": "ドラゴン全部 のコピー/Common",
+    "note": "タイトル文字あり"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/dragon_cup/common_title.png",
+    "category": "cup_title",
+    "width": 590,
+    "height": 120,
+    "psd_layer": "ドラゴン全部 のコピー/Common/Common Cup",
+    "note": "タイトル文字のみ"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/dragon_cup/egg_icon.png",
+    "category": "cup_icon",
+    "width": 244,
+    "height": 274,
+    "psd_layer": "ドラゴン全部 のコピー/ドラゴン：エッグ",
+    "note": "タイトル文字なし"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/dragon_cup/egg_with_title.png",
+    "category": "cup_icon",
+    "width": 872,
+    "height": 274,
+    "psd_layer": "ドラゴン全部 のコピー/ドラゴン：エッグ",
+    "note": "タイトル文字あり"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/dragon_cup/egg_title.png",
+    "category": "cup_title",
+    "width": 571,
+    "height": 133,
+    "psd_layer": "ドラゴン全部 のコピー/ドラゴン：エッグ/Egg",
+    "note": "タイトル文字のみ"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/dragon_cup/baby_icon.png",
+    "category": "cup_icon",
+    "width": 276,
+    "height": 234,
+    "psd_layer": "ドラゴン全部 のコピー/ドラゴン：ベイビー",
+    "note": "タイトル文字なし"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/dragon_cup/baby_with_title.png",
+    "category": "cup_icon",
+    "width": 938,
+    "height": 234,
+    "psd_layer": "ドラゴン全部 のコピー/ドラゴン：ベイビー",
+    "note": "タイトル文字あり"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/dragon_cup/baby_title.png",
+    "category": "cup_title",
+    "width": 634,
+    "height": 133,
+    "psd_layer": "ドラゴン全部 のコピー/ドラゴン：ベイビー/Baby",
+    "note": "タイトル文字のみ"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/dragon_cup/blue_icon.png",
+    "category": "cup_icon",
+    "width": 408,
+    "height": 231,
+    "psd_layer": "ドラゴン全部 のコピー/ドラゴン：ブルー",
+    "note": "タイトル文字なし"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/dragon_cup/blue_with_title.png",
+    "category": "cup_icon",
+    "width": 902,
+    "height": 231,
+    "psd_layer": "ドラゴン全部 のコピー/ドラゴン：ブルー",
+    "note": "タイトル文字あり"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/dragon_cup/blue_title.png",
+    "category": "cup_title",
+    "width": 610,
+    "height": 133,
+    "psd_layer": "ドラゴン全部 のコピー/ドラゴン：ブルー/Blue",
+    "note": "タイトル文字のみ"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/dragon_cup/red_icon.png",
+    "category": "cup_icon",
+    "width": 666,
+    "height": 280,
+    "psd_layer": "ドラゴン全部 のコピー/ドラゴン：レッド",
+    "note": "タイトル文字なし"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/dragon_cup/red_with_title.png",
+    "category": "cup_icon",
+    "width": 905,
+    "height": 280,
+    "psd_layer": "ドラゴン全部 のコピー/ドラゴン：レッド",
+    "note": "タイトル文字あり"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/dragon_cup/red_title.png",
+    "category": "cup_title",
+    "width": 578,
+    "height": 133,
+    "psd_layer": "ドラゴン全部 のコピー/ドラゴン：レッド/Red",
+    "note": "タイトル文字のみ"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/dragon_cup/absolute_icon.png",
+    "category": "cup_icon",
+    "width": 282,
+    "height": 273,
+    "psd_layer": "ドラゴン全部 のコピー/Absolute",
+    "note": "タイトル文字なし"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/dragon_cup/absolute_with_title.png",
+    "category": "cup_icon",
+    "width": 752,
+    "height": 273,
+    "psd_layer": "ドラゴン全部 のコピー/Absolute",
+    "note": "タイトル文字あり"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/dragon_cup/absolute_title.png",
+    "category": "cup_title",
+    "width": 435,
+    "height": 109,
+    "psd_layer": "ドラゴン全部 のコピー/Absolute/Absolute",
+    "note": "タイトル文字のみ"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/9on9/c_icon.png",
+    "category": "cup_icon",
+    "width": 323,
+    "height": 305,
+    "psd_layer": "9on9/C",
+    "note": "タイトル文字なし"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/9on9/c_with_title.png",
+    "category": "cup_icon",
+    "width": 1044,
+    "height": 305,
+    "psd_layer": "9on9/C",
+    "note": "タイトル文字あり"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/9on9/c_title.png",
+    "category": "cup_title",
+    "width": 711,
+    "height": 123,
+    "psd_layer": "9on9/C/9on9 のコピー 3",
+    "note": "タイトル文字のみ"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/9on9/u_icon.png",
+    "category": "cup_icon",
+    "width": 264,
+    "height": 260,
+    "psd_layer": "9on9/U",
+    "note": "タイトル文字なし"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/9on9/u_with_title.png",
+    "category": "cup_icon",
+    "width": 1080,
+    "height": 260,
+    "psd_layer": "9on9/U",
+    "note": "タイトル文字あり"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/9on9/u_title.png",
+    "category": "cup_title",
+    "width": 771,
+    "height": 101,
+    "psd_layer": "9on9/U/9on9 のコピー 3",
+    "note": "タイトル文字のみ"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/9on9/r_icon.png",
+    "category": "cup_icon",
+    "width": 264,
+    "height": 260,
+    "psd_layer": "9on9/R",
+    "note": "タイトル文字なし"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/9on9/r_with_title.png",
+    "category": "cup_icon",
+    "width": 782,
+    "height": 260,
+    "psd_layer": "9on9/R",
+    "note": "タイトル文字あり"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/9on9/r_title.png",
+    "category": "cup_title",
+    "width": 473,
+    "height": 101,
+    "psd_layer": "9on9/R/9on9 のコピー 2",
+    "note": "タイトル文字のみ"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/9on9/e_icon.png",
+    "category": "cup_icon",
+    "width": 264,
+    "height": 260,
+    "psd_layer": "9on9/E",
+    "note": "タイトル文字なし"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/9on9/e_with_title.png",
+    "category": "cup_icon",
+    "width": 755,
+    "height": 260,
+    "psd_layer": "9on9/E",
+    "note": "タイトル文字あり"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/9on9/e_title.png",
+    "category": "cup_title",
+    "width": 446,
+    "height": 122,
+    "psd_layer": "9on9/E/9on9 のコピー",
+    "note": "タイトル文字のみ"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/9on9/l_icon.png",
+    "category": "cup_icon",
+    "width": 264,
+    "height": 260,
+    "psd_layer": "9on9/L",
+    "note": "タイトル文字なし"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/9on9/l_with_title.png",
+    "category": "cup_icon",
+    "width": 966,
+    "height": 260,
+    "psd_layer": "9on9/L",
+    "note": "タイトル文字あり"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/9on9/l_title.png",
+    "category": "cup_title",
+    "width": 657,
+    "height": 101,
+    "psd_layer": "9on9/L/9on9",
+    "note": "タイトル文字のみ"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/9on9/absolute_jin_icon.png",
+    "category": "cup_icon",
+    "width": 537,
+    "height": 323,
+    "psd_layer": "9on9/Absolute JIN",
+    "note": "タイトル文字なし"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/9on9/absolute_jin_with_title.png",
+    "category": "cup_icon",
+    "width": 966,
+    "height": 323,
+    "psd_layer": "9on9/Absolute JIN",
+    "note": "タイトル文字あり"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/9on9/absolute_jin_title.png",
+    "category": "cup_title",
+    "width": 657,
+    "height": 101,
+    "psd_layer": "9on9/Absolute JIN/9on9",
+    "note": "タイトル文字のみ"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/hrc/challenge_icon.png",
+    "category": "cup_icon",
+    "width": 330,
+    "height": 301,
+    "psd_layer": "HRC/Challenge のコピー",
+    "note": "タイトル文字なし"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/hrc/challenge_with_title.png",
+    "category": "cup_icon",
+    "width": 599,
+    "height": 301,
+    "psd_layer": "HRC/Challenge のコピー",
+    "note": "タイトル文字あり"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/hrc/challenge_title.png",
+    "category": "cup_title",
+    "width": 274,
+    "height": 99,
+    "psd_layer": "HRC/Challenge のコピー/HRC 5",
+    "note": "タイトル文字のみ"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/hrc/u_icon.png",
+    "category": "cup_icon",
+    "width": 213,
+    "height": 209,
+    "psd_layer": "HRC/U",
+    "note": "タイトル文字なし"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/hrc/u_with_title.png",
+    "category": "cup_icon",
+    "width": 571,
+    "height": 209,
+    "psd_layer": "HRC/U",
+    "note": "タイトル文字あり"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/hrc/u_title.png",
+    "category": "cup_title",
+    "width": 296,
+    "height": 111,
+    "psd_layer": "HRC/U/Egg のコピー",
+    "note": "タイトル文字のみ"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/hrc/r_icon.png",
+    "category": "cup_icon",
+    "width": 213,
+    "height": 209,
+    "psd_layer": "HRC/R",
+    "note": "タイトル文字なし"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/hrc/r_with_title.png",
+    "category": "cup_icon",
+    "width": 634,
+    "height": 209,
+    "psd_layer": "HRC/R",
+    "note": "タイトル文字あり"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/hrc/r_title.png",
+    "category": "cup_title",
+    "width": 359,
+    "height": 111,
+    "psd_layer": "HRC/R/Baby のコピー",
+    "note": "タイトル文字のみ"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/hrc/e_icon.png",
+    "category": "cup_icon",
+    "width": 213,
+    "height": 209,
+    "psd_layer": "HRC/E",
+    "note": "タイトル文字なし"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/hrc/e_with_title.png",
+    "category": "cup_icon",
+    "width": 632,
+    "height": 209,
+    "psd_layer": "HRC/E",
+    "note": "タイトル文字あり"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/hrc/e_title.png",
+    "category": "cup_title",
+    "width": 357,
+    "height": 111,
+    "psd_layer": "HRC/E/Blue のコピー",
+    "note": "タイトル文字のみ"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/hrc/l_icon.png",
+    "category": "cup_icon",
+    "width": 213,
+    "height": 209,
+    "psd_layer": "HRC/L",
+    "note": "タイトル文字なし"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/hrc/l_with_title.png",
+    "category": "cup_icon",
+    "width": 706,
+    "height": 209,
+    "psd_layer": "HRC/L",
+    "note": "タイトル文字あり"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/hrc/l_title.png",
+    "category": "cup_title",
+    "width": 435,
+    "height": 109,
+    "psd_layer": "HRC/L/Red のコピー",
+    "note": "タイトル文字のみ"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/world_champ/princess_icon.png",
+    "category": "cup_icon",
+    "width": 268,
+    "height": 267,
+    "psd_layer": "world champ/Princess",
+    "note": "タイトル文字なし"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/world_champ/princess_with_title.png",
+    "category": "cup_icon",
+    "width": 1102,
+    "height": 267,
+    "psd_layer": "world champ/Princess",
+    "note": "タイトル文字あり"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/world_champ/princess_title.png",
+    "category": "cup_title",
+    "width": 815,
+    "height": 133,
+    "psd_layer": "world champ/Princess/Egg",
+    "note": "タイトル文字のみ"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/world_champ/prince_icon.png",
+    "category": "cup_icon",
+    "width": 268,
+    "height": 267,
+    "psd_layer": "world champ/Prince",
+    "note": "タイトル文字なし"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/world_champ/prince_with_title.png",
+    "category": "cup_icon",
+    "width": 997,
+    "height": 267,
+    "psd_layer": "world champ/Prince",
+    "note": "タイトル文字あり"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/world_champ/prince_title.png",
+    "category": "cup_title",
+    "width": 710,
+    "height": 133,
+    "psd_layer": "world champ/Prince/Egg のコピー 2",
+    "note": "タイトル文字のみ"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/world_champ/queen_icon.png",
+    "category": "cup_icon",
+    "width": 268,
+    "height": 267,
+    "psd_layer": "world champ/Queen",
+    "note": "タイトル文字なし"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/world_champ/queen_with_title.png",
+    "category": "cup_icon",
+    "width": 986,
+    "height": 267,
+    "psd_layer": "world champ/Queen",
+    "note": "タイトル文字あり"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/world_champ/queen_title.png",
+    "category": "cup_title",
+    "width": 701,
+    "height": 135,
+    "psd_layer": "world champ/Queen/Egg のコピー 3",
+    "note": "タイトル文字のみ"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/world_champ/king_icon.png",
+    "category": "cup_icon",
+    "width": 272,
+    "height": 269,
+    "psd_layer": "world champ/King",
+    "note": "タイトル文字なし"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/world_champ/king_with_title.png",
+    "category": "cup_icon",
+    "width": 901,
+    "height": 269,
+    "psd_layer": "world champ/King",
+    "note": "タイトル文字あり"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/world_champ/king_title.png",
+    "category": "cup_title",
+    "width": 610,
+    "height": 133,
+    "psd_layer": "world champ/King/Egg のコピー 4",
+    "note": "タイトル文字のみ"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/gym/egg_icon.png",
+    "category": "cup_icon",
+    "width": 244,
+    "height": 274,
+    "psd_layer": "gym/ドラゴン：エッグ のコピー",
+    "note": "タイトル文字なし"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/gym/egg_with_title.png",
+    "category": "cup_icon",
+    "width": 872,
+    "height": 274,
+    "psd_layer": "gym/ドラゴン：エッグ のコピー",
+    "note": "タイトル文字あり"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/gym/egg_title.png",
+    "category": "cup_title",
+    "width": 571,
+    "height": 133,
+    "psd_layer": "gym/ドラゴン：エッグ のコピー/Egg",
+    "note": "タイトル文字のみ"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/gym/baby_icon.png",
+    "category": "cup_icon",
+    "width": 276,
+    "height": 234,
+    "psd_layer": "gym/ドラゴン：ベイビー のコピー",
+    "note": "タイトル文字なし"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/gym/baby_with_title.png",
+    "category": "cup_icon",
+    "width": 938,
+    "height": 234,
+    "psd_layer": "gym/ドラゴン：ベイビー のコピー",
+    "note": "タイトル文字あり"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/gym/baby_title.png",
+    "category": "cup_title",
+    "width": 634,
+    "height": 133,
+    "psd_layer": "gym/ドラゴン：ベイビー のコピー/Baby",
+    "note": "タイトル文字のみ"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/gym/blue_icon.png",
+    "category": "cup_icon",
+    "width": 408,
+    "height": 231,
+    "psd_layer": "gym/ドラゴン：ブルー のコピー",
+    "note": "タイトル文字なし"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/gym/blue_with_title.png",
+    "category": "cup_icon",
+    "width": 902,
+    "height": 231,
+    "psd_layer": "gym/ドラゴン：ブルー のコピー",
+    "note": "タイトル文字あり"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/gym/blue_title.png",
+    "category": "cup_title",
+    "width": 610,
+    "height": 133,
+    "psd_layer": "gym/ドラゴン：ブルー のコピー/Blue",
+    "note": "タイトル文字のみ"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/gym/absolute_icon.png",
+    "category": "cup_icon",
+    "width": 666,
+    "height": 280,
+    "psd_layer": "gym/Absolute のコピー",
+    "note": "タイトル文字なし"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/gym/absolute_with_title.png",
+    "category": "cup_icon",
+    "width": 734,
+    "height": 280,
+    "psd_layer": "gym/Absolute のコピー",
+    "note": "タイトル文字あり"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/gym/absolute_title.png",
+    "category": "cup_title",
+    "width": 435,
+    "height": 109,
+    "psd_layer": "gym/Absolute のコピー/Absolute",
+    "note": "タイトル文字のみ"
+  },
+  {
+    "image": "Image/TournamentBanners/cups/9on9/frame.png",
+    "category": "cup_icon",
+    "width": 272,
+    "height": 267,
+    "psd_layer": "9on9/FIX",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/regulation/no_same_hero.png",
+    "category": "regulation",
+    "width": 291,
+    "height": 45,
+    "psd_layer": "レギュ/No Same Hero",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/regulation/no_int.png",
+    "category": "regulation",
+    "width": 311,
+    "height": 54,
+    "psd_layer": "レギュ/No INT",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/regulation/tournament_rule.png",
+    "category": "regulation",
+    "width": 339,
+    "height": 39,
+    "psd_layer": "レギュ/-Tournament  Rule-",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/regulation/tournament_only.png",
+    "category": "regulation",
+    "width": 439,
+    "height": 60,
+    "psd_layer": "レギュ/-Tournament  Only-",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/regulation/real_time_rule.png",
+    "category": "regulation",
+    "width": 290,
+    "height": 39,
+    "psd_layer": "レギュ/-Real Time Rule-",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/regulation/oni_time.png",
+    "category": "regulation",
+    "width": 296,
+    "height": 78,
+    "psd_layer": "レギュ/鬼タイム",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/regulation/oni_time_small_real_time_rule.png",
+    "category": "regulation",
+    "width": 197,
+    "height": 27,
+    "psd_layer": "レギュ/小さい鬼タイム/-Real Time Rule-",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/regulation/oni_time_small_oni_time.png",
+    "category": "regulation",
+    "width": 201,
+    "height": 53,
+    "psd_layer": "レギュ/小さい鬼タイム/鬼タイム",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/regulation/wpt.png",
+    "category": "regulation",
+    "width": 241,
+    "height": 97,
+    "psd_layer": "レギュ/WPT",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/regulation/no_wp.png",
+    "category": "regulation",
+    "width": 196,
+    "height": 46,
+    "psd_layer": "レギュ/NO WP",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/regulation/no_same_extension.png",
+    "category": "regulation",
+    "width": 533,
+    "height": 60,
+    "psd_layer": "レギュ/No Same Extension",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/regulation/no_same_hero_2.png",
+    "category": "regulation",
+    "width": 397,
+    "height": 60,
+    "psd_layer": "レギュ/No Same Hero",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/regulation/jin.png",
+    "category": "regulation",
+    "width": 169,
+    "height": 96,
+    "psd_layer": "レギュ/JIN",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/regulation/collab_oasys.png",
+    "category": "regulation",
+    "width": 458,
+    "height": 49,
+    "psd_layer": "Oasysコラボ",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/regulation/collab_1912.png",
+    "category": "regulation",
+    "width": 458,
+    "height": 49,
+    "psd_layer": "1912コラボ",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/regulation/trial_cup.png",
+    "category": "regulation",
+    "width": 401,
+    "height": 120,
+    "psd_layer": "Rep",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/regulation/test.png",
+    "category": "regulation",
+    "width": 471,
+    "height": 96,
+    "psd_layer": "Test",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/regulation/term_6.png",
+    "category": "regulation",
+    "width": 88,
+    "height": 107,
+    "psd_layer": "Term        6 ",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/logos/nftnyc_tagline.png",
+    "category": "logo",
+    "width": 406,
+    "height": 28,
+    "psd_layer": "logo/The Leading Non‑Fungible Token Event のコピー",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/logos/nftnyc_date.png",
+    "category": "logo",
+    "width": 260,
+    "height": 27,
+    "psd_layer": "logo/NYC - February 20, 2020 ",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/logos/nftnyc-logo-dark.png",
+    "category": "logo",
+    "width": 246,
+    "height": 79,
+    "psd_layer": "logo/nftnyc-logo-dark",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/logos/mch_logo_yoko_b.png",
+    "category": "logo",
+    "width": 214,
+    "height": 51,
+    "psd_layer": "logo/mch_logo_yoko_b (1)",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/logos/1912_logo.png",
+    "category": "logo",
+    "width": 204,
+    "height": 87,
+    "psd_layer": "logo/1912 logo",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/logos/oasys_logo.png",
+    "category": "logo",
+    "width": 219,
+    "height": 53,
+    "psd_layer": "logo/oasys logo",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/logos/oasys_large_logo_light_green.png",
+    "category": "logo",
+    "width": 227,
+    "height": 53,
+    "psd_layer": "logo/Oasys_Large Logo Light Green",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/backgrounds/base.png",
+    "category": "background",
+    "width": 1280,
+    "height": 400,
+    "psd_layer": "背景 のコピー 2",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/backgrounds/king_dragon.png",
+    "category": "background",
+    "width": 1280,
+    "height": 400,
+    "psd_layer": "kingDragon",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/backgrounds/exwars.png",
+    "category": "background",
+    "width": 1280,
+    "height": 400,
+    "psd_layer": "exwars",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/backgrounds/exwars_title.png",
+    "category": "background",
+    "width": 1280,
+    "height": 400,
+    "psd_layer": "ex wars",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/backgrounds/1912_bg.png",
+    "category": "background",
+    "width": 1280,
+    "height": 400,
+    "psd_layer": "1912 bg",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/backgrounds/layer331.png",
+    "category": "background",
+    "width": 1280,
+    "height": 400,
+    "psd_layer": "レイヤー 331",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/backgrounds/layer509.png",
+    "category": "background",
+    "width": 1280,
+    "height": 400,
+    "psd_layer": "レイヤー 509",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/backgrounds/layer513_shadow.png",
+    "category": "background",
+    "width": 1280,
+    "height": 400,
+    "psd_layer": "レイヤー 513",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/backgrounds/filter_overlay.png",
+    "category": "background",
+    "width": 1280,
+    "height": 400,
+    "psd_layer": "フィルタ",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/backgrounds/filter_overlay_years_cup.png",
+    "category": "background",
+    "width": 1280,
+    "height": 400,
+    "psd_layer": "フィルタ years cup",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/backgrounds/king_dragon_parts/background.png",
+    "category": "background",
+    "width": 1280,
+    "height": 400,
+    "psd_layer": "kingDragon/background",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/backgrounds/king_dragon_parts/dragon.png",
+    "category": "background",
+    "width": 1280,
+    "height": 400,
+    "psd_layer": "kingDragon/Dragon",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/backgrounds/king_dragon_parts/kumo.png",
+    "category": "background",
+    "width": 1280,
+    "height": 400,
+    "psd_layer": "kingDragon/kumo",
+    "note": null
+  },
+  {
+    "image": "Image/TournamentBanners/backgrounds/king_dragon_parts/filter.png",
+    "category": "background",
+    "width": 1280,
+    "height": 400,
+    "psd_layer": "kingDragon/フィルター",
+    "note": null
+  }
+]

@@ -43,6 +43,9 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 - `Data/Trophies/trophies.csv`: トロフィー一覧のCSV。
 - `Data/Trophies/metadata.json`: 受領元、件数、画像サイズ、同一画像の補足。
 - `Image/Trophies/*.png`: トロフィー画像。ファイル名は受領時の `trophy_[ID].png` を維持しています。
+- `Data/TournamentBanners/tournament_banner_assets.json`: MCH社より提供された大会バナーPSD（`duelcup_master_clb.psd`）から書き出した素材 162 件の一覧。元のPSDレイヤー名も記録しています。
+- `Data/TournamentBanners/metadata.json`: 書き出し元PSD、件数、カテゴリ別件数の補足。
+- `Image/TournamentBanners/*`: 大会バナー素材の透過PNG。`originals/`（スマートオブジェクトの元画像）、`icons/`（ルール・フォーマット・クラスラベル・ボタン）、`cups/`（大会ごとのカップアイコン。`_icon`／`_title`／`_with_title` の3種）、`regulation/`、`logos/`、`backgrounds/`（1280×400）に分けています。再書き出しは `scripts/export_tournament_banner_assets.py` で行います。
 - `Data/Characters/characters.json`: オリジナルキャラクター（クリスくん/マインちゃん/マイクリくん）の立ち絵・差分 59 コマの一覧。
 - `Data/Characters/metadata.json`: 立ち絵の書き出し方法、利用条件、クレジット表記の補足。
 - `Image/Characters/*.png`: 立ち絵PNG。ファイル名は `Image/Characters/[差分セットID]_[コマ番号]_[ポーズ].png` です。

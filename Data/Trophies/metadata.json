@@ -1,0 +1,63 @@
+{
+  "generated_at": "2026-10-21T01:18:06.034Z",
+  "generated_by": "scripts/generate_achievement_trophy_manifest.js",
+  "source": "MCH社より受領（2026-10-21、Google Drive経由）",
+  "total_trophies": 143,
+  "placeholder_count": 0,
+  "image_sizes": {
+    "200x200": 104,
+    "400x400": 39
+  },
+  "filename_note": "ファイル名は受領時の名前（trophy_[ID].png）を維持しています。id はファイル名の数値部分です。",
+  "acquisition_condition_note": "名称と獲得条件はMCH社に確認中のため、現時点では name / acquisition_condition を null にしています。",
+  "placeholder_note": "is_placeholder が true の画像は「Please wait for the reveal.」と書かれた未公開用の仮アートです。",
+  "duplicate_image_groups": [
+    [
+      "trophy_51.png",
+      "trophy_251.png",
+      "trophy_271.png"
+    ],
+    [
+      "trophy_52.png",
+      "trophy_252.png",
+      "trophy_272.png"
+    ],
+    [
+      "trophy_53.png",
+      "trophy_253.png",
+      "trophy_273.png"
+    ],
+    [
+      "trophy_54.png",
+      "trophy_254.png",
+      "trophy_274.png"
+    ],
+    [
+      "trophy_81.png",
+      "trophy_101.png",
+      "trophy_261.png"
+    ],
+    [
+      "trophy_82.png",
+      "trophy_102.png",
+      "trophy_262.png"
+    ],
+    [
+      "trophy_83.png",
+      "trophy_103.png",
+      "trophy_263.png"
+    ],
+    [
+      "trophy_84.png",
+      "trophy_264.png"
+    ],
+    [
+      "trophy_85.png",
+      "trophy_265.png"
+    ],
+    [
+      "trophy_86.png",
+      "trophy_266.png"
+    ]
+  ]
+}

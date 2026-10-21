@@ -34,6 +34,12 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 - `Data/LandSectors/land_sectors.json`: ランドごとのランドセクタアイコン（レアリティ5段階 × ランド9種 = 45種）の一覧。
 - `Data/LandSectors/metadata.json`: 収録状況、レアリティの並び、ファイル名規則の補足。
 - `Image/LandSectors/*.png`: ランドセクタアイコン。ファイル名は `Image/LandSectors/[ランド連番]_[ランド名]_[レアリティID]_[レアリティ名].png` です。
+- `Data/Achievements/achievements.json`: アチーブメント（称号アート）120 件の一覧。
+- `Data/Achievements/metadata.json`: 受領元、件数、仮アート・同一画像の補足。
+- `Image/Achievements/*.png`: アチーブメント画像。ファイル名は受領時の `piece_[ID].png` を維持しています。
+- `Data/Trophies/trophies.json`: トロフィー（称号アート）143 件の一覧。
+- `Data/Trophies/metadata.json`: 受領元、件数、画像サイズ、同一画像の補足。
+- `Image/Trophies/*.png`: トロフィー画像。ファイル名は受領時の `trophy_[ID].png` を維持しています。
 - `Data/Characters/characters.json`: オリジナルキャラクター（クリスくん/マインちゃん/マイクリくん）の立ち絵・差分 59 コマの一覧。
 - `Data/Characters/metadata.json`: 立ち絵の書き出し方法、利用条件、クレジット表記の補足。
 - `Image/Characters/*.png`: 立ち絵PNG。ファイル名は `Image/Characters/[差分セットID]_[コマ番号]_[ポーズ].png` です。
@@ -61,6 +67,7 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 - Action欄のバトルエフェクトは `Data/Effects/battle_effect_sprites.json` からCSSクラス、用途、`image_file_path` を参照できます。
 - クリプタイドアイコンは `Data/Cryptids/cryptids.json` からランド名と `image_file_path` を参照できます。
 - ランドセクタアイコンは `Data/LandSectors/land_sectors.json` からランド名、レアリティ、背景のランドカラー、`image_file_path` を参照できます。
+- アチーブメント/トロフィーは `Data/Achievements/achievements.json` / `Data/Trophies/trophies.json` から `id` と `image_file_path` を参照できます。
 - オリジナルキャラクターの立ち絵は `Data/Characters/characters.json` からポーズ、表情、コマの表示時間、`image_file_path` を参照できます。
 - 立ち絵のアニメーション（口パク、まばたきなど）は `characters.json` の `animations` から再生順のコマ一覧と `gif_file_path` を参照できます。
 - 背景画像はバトル背景などに利用できます。縦長画面ではそのまま表示し、横長画面では中央部分を拡大・クロップする形で利用してください。
@@ -78,6 +85,17 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 ## クリプタイド補足
 
 クリプタイドは、マイクリ内のゲーム内ギルド「ランド」の守護神的な存在です。`Image/Cryptids` のファイル名は `01_Ocean.png` のように連番とランド名で構成しており、連番を除いた `Ocean`、`Strawberry` などがそのままランド名です。
+
+## アチーブメント・トロフィー補足
+
+アチーブメントとトロフィーは、ゲーム内の大会で一定の成績を収めたプレイヤーや、各種獲得条件を達成したプレイヤーを称える称号のアートです。MCH社より受領した素材を、受領時のファイル名のまま収録しています。
+
+- `Image/Achievements`: ファイル名に `piece` を含むアート（アチーブメント）。全120件、194x217px。
+- `Image/Trophies`: ファイル名に `trophy` を含むアート（トロフィー）。全143件、200x200px（104件）と400x400px（39件）。
+- 名称と獲得条件はMCH社に確認中です。各JSONの `name` / `acquisition_condition` は確定するまで `null` です。
+- アチーブメントのうち22件は「Please wait for the reveal.」と書かれた未公開用の仮アートで、`is_placeholder: true` にしています。
+- IDが異なっても同じ画像のものがあります（例: `trophy_51` / `trophy_251` / `trophy_271`）。一覧は各 `metadata.json` の `duplicate_image_groups` を参照してください。
+- マニフェストは `node scripts/generate_achievement_trophy_manifest.js` で再生成できます。
 
 ## ランドセクタ補足
 

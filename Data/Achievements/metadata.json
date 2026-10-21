@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-10-21T01:18:06.007Z",
+  "generated_by": "scripts/generate_achievement_trophy_manifest.js",
+  "source": "MCH社より受領（2026-10-21、Google Drive経由）",
+  "total_achievements": 120,
+  "placeholder_count": 22,
+  "image_sizes": {
+    "194x217": 120
+  },
+  "filename_note": "ファイル名は受領時の名前（piece_[ID].png）を維持しています。id はファイル名の数値部分です。",
+  "acquisition_condition_note": "名称と獲得条件はMCH社に確認中のため、現時点では name / acquisition_condition を null にしています。",
+  "placeholder_note": "is_placeholder が true の画像は「Please wait for the reveal.」と書かれた未公開用の仮アートです。",
+  "duplicate_image_groups": [
+    [
+      "piece_20031.png",
+      "piece_20032.png",
+      "piece_20033.png",
+      "piece_20041.png",
+      "piece_20042.png",
+      "piece_20043.png",
+      "piece_40061.png",
+      "piece_40062.png",
+      "piece_40063.png",
+      "piece_40071.png",
+      "piece_40072.png",
+      "piece_40073.png",
+      "piece_40081.png",
+      "piece_40082.png",
+      "piece_40083.png",
+      "piece_40084.png",
+      "piece_40085.png",
+      "piece_40091.png",
+      "piece_40092.png",
+      "piece_40093.png",
+      "piece_40101.png",
+      "piece_40102.png"
+    ],
+    [
+      "piece_40043.png",
+      "piece_40051.png"
+    ],
+    [
+      "piece_40044.png",
+      "piece_40052.png"
+    ]
+  ]
+}

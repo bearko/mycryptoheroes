@@ -1,0 +1,24 @@
+{
+  "generated_at": "2026-10-21T01:44:59Z",
+  "source": "duelcup_master_clb.psd",
+  "source_size": [
+    1280,
+    400
+  ],
+  "source_layer_count": 471,
+  "total_assets": 162,
+  "counts_by_category": {
+    "preview": 1,
+    "original": 24,
+    "rule": 5,
+    "format": 3,
+    "class_label": 9,
+    "button": 2,
+    "cup_icon": 53,
+    "cup_title": 26,
+    "regulation": 18,
+    "logo": 7,
+    "background": 14
+  },
+  "note": "MCH社より提供された大会バナーPSDから書き出した素材です。PSD本体は容量が大きいためリポジトリには含めていません。"
+}

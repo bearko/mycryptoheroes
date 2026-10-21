@@ -1,10 +1,14 @@
 [
   {
     "id": 1,
+    "category": "Trophy",
     "filename": "trophy_1.png",
     "image_file_path": "Image/Trophies/trophy_1.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "ランキング戦: 1位",
+      "en": "Ranked Match: 1st"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -14,10 +18,14 @@
   },
   {
     "id": 2,
+    "category": "Trophy",
     "filename": "trophy_2.png",
     "image_file_path": "Image/Trophies/trophy_2.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "ランキング戦: 2位",
+      "en": "Ranked Match: 2nd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -27,10 +35,14 @@
   },
   {
     "id": 3,
+    "category": "Trophy",
     "filename": "trophy_3.png",
     "image_file_path": "Image/Trophies/trophy_3.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "ランキング戦: 3位",
+      "en": "Ranked Match: 3rd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -40,10 +52,14 @@
   },
   {
     "id": 4,
+    "category": "Trophy",
     "filename": "trophy_4.png",
     "image_file_path": "Image/Trophies/trophy_4.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "ランキング戦: 4-10位",
+      "en": "Ranked Match: 4-10th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -53,10 +69,14 @@
   },
   {
     "id": 5,
+    "category": "Trophy",
     "filename": "trophy_5.png",
     "image_file_path": "Image/Trophies/trophy_5.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "ランキング戦: 111位",
+      "en": "Ranked Match: 111th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -66,10 +86,14 @@
   },
   {
     "id": 6,
+    "category": "Trophy",
     "filename": "trophy_6.png",
     "image_file_path": "Image/Trophies/trophy_6.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "ランキング戦: 777位",
+      "en": "Ranked Match: 777th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -79,10 +103,14 @@
   },
   {
     "id": 11,
+    "category": "Trophy",
     "filename": "trophy_11.png",
     "image_file_path": "Image/Trophies/trophy_11.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Blue Dragon: 1位",
+      "en": "Blue Dragon: 1st"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -92,10 +120,14 @@
   },
   {
     "id": 12,
+    "category": "Trophy",
     "filename": "trophy_12.png",
     "image_file_path": "Image/Trophies/trophy_12.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Blue Dragon: 2位",
+      "en": "Blue Dragon: 2nd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -105,10 +137,14 @@
   },
   {
     "id": 13,
+    "category": "Trophy",
     "filename": "trophy_13.png",
     "image_file_path": "Image/Trophies/trophy_13.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Blue Dragon: 3位",
+      "en": "Blue Dragon: 3rd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -118,10 +154,14 @@
   },
   {
     "id": 14,
+    "category": "Trophy",
     "filename": "trophy_14.png",
     "image_file_path": "Image/Trophies/trophy_14.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Blue Dragon: 4-10位",
+      "en": "Blue Dragon: 4-10th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -131,10 +171,14 @@
   },
   {
     "id": 15,
+    "category": "Trophy",
     "filename": "trophy_15.png",
     "image_file_path": "Image/Trophies/trophy_15.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Blue Dragon: 111位",
+      "en": "Blue Dragon: 111th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -144,10 +188,14 @@
   },
   {
     "id": 16,
+    "category": "Trophy",
     "filename": "trophy_16.png",
     "image_file_path": "Image/Trophies/trophy_16.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Blue Dragon: 777位",
+      "en": "Blue Dragon: 777th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -157,10 +205,14 @@
   },
   {
     "id": 21,
+    "category": "Trophy",
     "filename": "trophy_21.png",
     "image_file_path": "Image/Trophies/trophy_21.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Red Dragon: 1位",
+      "en": "Red Dragon: 1st"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -170,10 +222,14 @@
   },
   {
     "id": 22,
+    "category": "Trophy",
     "filename": "trophy_22.png",
     "image_file_path": "Image/Trophies/trophy_22.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Red Dragon: 2位",
+      "en": "Red Dragon: 2nd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -183,10 +239,14 @@
   },
   {
     "id": 23,
+    "category": "Trophy",
     "filename": "trophy_23.png",
     "image_file_path": "Image/Trophies/trophy_23.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Red Dragon: 3位",
+      "en": "Red Dragon: 3rd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -196,10 +256,14 @@
   },
   {
     "id": 24,
+    "category": "Trophy",
     "filename": "trophy_24.png",
     "image_file_path": "Image/Trophies/trophy_24.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Red Dragon: 4-10位",
+      "en": "Red Dragon: 4-10th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -209,10 +273,14 @@
   },
   {
     "id": 25,
+    "category": "Trophy",
     "filename": "trophy_25.png",
     "image_file_path": "Image/Trophies/trophy_25.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Red Dragon: 111位",
+      "en": "Red Dragon: 111th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -222,10 +290,14 @@
   },
   {
     "id": 26,
+    "category": "Trophy",
     "filename": "trophy_26.png",
     "image_file_path": "Image/Trophies/trophy_26.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Red Dragon: 777位",
+      "en": "Red Dragon: 777th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -235,10 +307,14 @@
   },
   {
     "id": 31,
+    "category": "Trophy",
     "filename": "trophy_31.png",
     "image_file_path": "Image/Trophies/trophy_31.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Baby Dragon: 1位",
+      "en": "Baby Dragon: 1st"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -248,10 +324,14 @@
   },
   {
     "id": 32,
+    "category": "Trophy",
     "filename": "trophy_32.png",
     "image_file_path": "Image/Trophies/trophy_32.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Baby Dragon: 2位",
+      "en": "Baby Dragon: 2nd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -261,10 +341,14 @@
   },
   {
     "id": 33,
+    "category": "Trophy",
     "filename": "trophy_33.png",
     "image_file_path": "Image/Trophies/trophy_33.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Baby Dragon: 3位",
+      "en": "Baby Dragon: 3rd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -274,10 +358,14 @@
   },
   {
     "id": 34,
+    "category": "Trophy",
     "filename": "trophy_34.png",
     "image_file_path": "Image/Trophies/trophy_34.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Baby Dragon: 4-10位",
+      "en": "Baby Dragon: 4-10th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -287,10 +375,14 @@
   },
   {
     "id": 35,
+    "category": "Trophy",
     "filename": "trophy_35.png",
     "image_file_path": "Image/Trophies/trophy_35.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Baby Dragon: 111位",
+      "en": "Baby Dragon: 111th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -300,10 +392,14 @@
   },
   {
     "id": 36,
+    "category": "Trophy",
     "filename": "trophy_36.png",
     "image_file_path": "Image/Trophies/trophy_36.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Baby Dragon: 777位",
+      "en": "Baby Dragon: 777th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -313,10 +409,14 @@
   },
   {
     "id": 41,
+    "category": "Trophy",
     "filename": "trophy_41.png",
     "image_file_path": "Image/Trophies/trophy_41.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "GOOD! Art",
+      "en": "GOOD! Art"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -326,10 +426,14 @@
   },
   {
     "id": 42,
+    "category": "Trophy",
     "filename": "trophy_42.png",
     "image_file_path": "Image/Trophies/trophy_42.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "COOL!! Art",
+      "en": "COOL!! Art"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -338,11 +442,32 @@
     "sha256": "62cbb097712244e5dcd566f5af84af47a3b1e6d3fb7241e2ef81515732ff448b"
   },
   {
+    "id": 43,
+    "category": "Trophy",
+    "filename": null,
+    "image_file_path": null,
+    "is_placeholder": false,
+    "name": {
+      "ja": "AWESOME!!! Art",
+      "en": "AWESOME!!! Art"
+    },
+    "acquisition_condition": null,
+    "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
+    "width": null,
+    "height": null,
+    "size_bytes": null,
+    "sha256": null
+  },
+  {
     "id": 51,
+    "category": "Trophy",
     "filename": "trophy_51.png",
     "image_file_path": "Image/Trophies/trophy_51.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "raid:シンギュラリティ: 1位",
+      "en": "raid:Singularity: 1st"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -352,10 +477,14 @@
   },
   {
     "id": 52,
+    "category": "Trophy",
     "filename": "trophy_52.png",
     "image_file_path": "Image/Trophies/trophy_52.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "raid:シンギュラリティ: 2位",
+      "en": "raid:Singularity: 2nd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -365,10 +494,14 @@
   },
   {
     "id": 53,
+    "category": "Trophy",
     "filename": "trophy_53.png",
     "image_file_path": "Image/Trophies/trophy_53.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "raid:シンギュラリティ: 3位",
+      "en": "raid:Singularity: 3rd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -378,10 +511,14 @@
   },
   {
     "id": 54,
+    "category": "Trophy",
     "filename": "trophy_54.png",
     "image_file_path": "Image/Trophies/trophy_54.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "raid:シンギュラリティ: Last Attack",
+      "en": "raid:Singularity: Last Attack"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -391,10 +528,14 @@
   },
   {
     "id": 61,
+    "category": "Trophy",
     "filename": "trophy_61.png",
     "image_file_path": "Image/Trophies/trophy_61.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Dragon Egg: 1位",
+      "en": "Dragon Egg: 1st"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -404,10 +545,14 @@
   },
   {
     "id": 62,
+    "category": "Trophy",
     "filename": "trophy_62.png",
     "image_file_path": "Image/Trophies/trophy_62.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Dragon Egg: 2位",
+      "en": "Dragon Egg: 2nd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -417,10 +562,14 @@
   },
   {
     "id": 63,
+    "category": "Trophy",
     "filename": "trophy_63.png",
     "image_file_path": "Image/Trophies/trophy_63.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Dragon Egg: 3位",
+      "en": "Dragon Egg: 3rd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -430,10 +579,14 @@
   },
   {
     "id": 64,
+    "category": "Trophy",
     "filename": "trophy_64.png",
     "image_file_path": "Image/Trophies/trophy_64.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Dragon Egg: 4-10位",
+      "en": "Dragon Egg: 4-10th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -443,10 +596,14 @@
   },
   {
     "id": 65,
+    "category": "Trophy",
     "filename": "trophy_65.png",
     "image_file_path": "Image/Trophies/trophy_65.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Dragon Egg: 111位",
+      "en": "Dragon Egg: 111th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -456,10 +613,14 @@
   },
   {
     "id": 66,
+    "category": "Trophy",
     "filename": "trophy_66.png",
     "image_file_path": "Image/Trophies/trophy_66.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Dragon Egg: 777位",
+      "en": "Dragon Egg: 777th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -469,10 +630,14 @@
   },
   {
     "id": 71,
+    "category": "Trophy",
     "filename": "trophy_71.png",
     "image_file_path": "Image/Trophies/trophy_71.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "9 On 9 Battle: 1位",
+      "en": "9 On 9 Battle: 1st"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -482,10 +647,14 @@
   },
   {
     "id": 72,
+    "category": "Trophy",
     "filename": "trophy_72.png",
     "image_file_path": "Image/Trophies/trophy_72.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "9 On 9 Battle: 2位",
+      "en": "9 On 9 Battle: 2nd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -495,10 +664,14 @@
   },
   {
     "id": 73,
+    "category": "Trophy",
     "filename": "trophy_73.png",
     "image_file_path": "Image/Trophies/trophy_73.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "9 On 9 Battle: 3位",
+      "en": "9 On 9 Battle: 3rd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -508,10 +681,14 @@
   },
   {
     "id": 74,
+    "category": "Trophy",
     "filename": "trophy_74.png",
     "image_file_path": "Image/Trophies/trophy_74.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "9 On 9 Battle: 4-10位",
+      "en": "9 On 9 Battle: 4-10th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -521,10 +698,14 @@
   },
   {
     "id": 75,
+    "category": "Trophy",
     "filename": "trophy_75.png",
     "image_file_path": "Image/Trophies/trophy_75.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "9 On 9 Battle: 99位",
+      "en": "9 On 9 Battle: 99th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -534,10 +715,14 @@
   },
   {
     "id": 81,
+    "category": "Trophy",
     "filename": "trophy_81.png",
     "image_file_path": "Image/Trophies/trophy_81.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Official Duel Cup: 1位",
+      "en": "Official Duel Cup: 1st"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -547,10 +732,14 @@
   },
   {
     "id": 82,
+    "category": "Trophy",
     "filename": "trophy_82.png",
     "image_file_path": "Image/Trophies/trophy_82.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Official Duel Cup: 2位",
+      "en": "Official Duel Cup: 2nd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -560,10 +749,14 @@
   },
   {
     "id": 83,
+    "category": "Trophy",
     "filename": "trophy_83.png",
     "image_file_path": "Image/Trophies/trophy_83.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Official Duel Cup: 3位",
+      "en": "Official Duel Cup: 3rd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -573,10 +766,14 @@
   },
   {
     "id": 84,
+    "category": "Trophy",
     "filename": "trophy_84.png",
     "image_file_path": "Image/Trophies/trophy_84.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Official Duel Cup: 4-10位",
+      "en": "Official Duel Cup: 4-10th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -586,10 +783,14 @@
   },
   {
     "id": 85,
+    "category": "Trophy",
     "filename": "trophy_85.png",
     "image_file_path": "Image/Trophies/trophy_85.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Official Duel Cup: 111位",
+      "en": "Official Duel Cup: 111th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -599,10 +800,14 @@
   },
   {
     "id": 86,
+    "category": "Trophy",
     "filename": "trophy_86.png",
     "image_file_path": "Image/Trophies/trophy_86.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Official Duel Cup: 777位",
+      "en": "Official Duel Cup: 777th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -612,10 +817,14 @@
   },
   {
     "id": 91,
+    "category": "Trophy",
     "filename": "trophy_91.png",
     "image_file_path": "Image/Trophies/trophy_91.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "TOKU Ranking: 1位",
+      "en": "TOKU Ranking: 1st"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -625,10 +834,14 @@
   },
   {
     "id": 92,
+    "category": "Trophy",
     "filename": "trophy_92.png",
     "image_file_path": "Image/Trophies/trophy_92.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "TOKU Ranking: 2位",
+      "en": "TOKU Ranking: 2nd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -638,10 +851,14 @@
   },
   {
     "id": 93,
+    "category": "Trophy",
     "filename": "trophy_93.png",
     "image_file_path": "Image/Trophies/trophy_93.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "TOKU Ranking: 3位",
+      "en": "TOKU Ranking: 3rd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -651,10 +868,14 @@
   },
   {
     "id": 94,
+    "category": "Trophy",
     "filename": "trophy_94.png",
     "image_file_path": "Image/Trophies/trophy_94.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "TOKU Ranking: 4-10位",
+      "en": "TOKU Ranking: 4-10th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -664,6 +885,7 @@
   },
   {
     "id": 101,
+    "category": "Trophy",
     "filename": "trophy_101.png",
     "image_file_path": "Image/Trophies/trophy_101.png",
     "is_placeholder": false,
@@ -677,6 +899,7 @@
   },
   {
     "id": 102,
+    "category": "Trophy",
     "filename": "trophy_102.png",
     "image_file_path": "Image/Trophies/trophy_102.png",
     "is_placeholder": false,
@@ -690,6 +913,7 @@
   },
   {
     "id": 103,
+    "category": "Trophy",
     "filename": "trophy_103.png",
     "image_file_path": "Image/Trophies/trophy_103.png",
     "is_placeholder": false,
@@ -703,6 +927,7 @@
   },
   {
     "id": 104,
+    "category": "Trophy",
     "filename": "trophy_104.png",
     "image_file_path": "Image/Trophies/trophy_104.png",
     "is_placeholder": false,
@@ -716,10 +941,14 @@
   },
   {
     "id": 111,
+    "category": "Trophy",
     "filename": "trophy_111.png",
     "image_file_path": "Image/Trophies/trophy_111.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Ocean G5: Season {ref}",
+      "en": "Ocean G5: Season {ref}"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -729,10 +958,14 @@
   },
   {
     "id": 112,
+    "category": "Trophy",
     "filename": "trophy_112.png",
     "image_file_path": "Image/Trophies/trophy_112.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Strawberry G5: Season {ref}",
+      "en": "Strawberry G5: Season {ref}"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -742,10 +975,14 @@
   },
   {
     "id": 113,
+    "category": "Trophy",
     "filename": "trophy_113.png",
     "image_file_path": "Image/Trophies/trophy_113.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Tangerine G5: Season {ref}",
+      "en": "Tangerine G5: Season {ref}"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -755,10 +992,14 @@
   },
   {
     "id": 114,
+    "category": "Trophy",
     "filename": "trophy_114.png",
     "image_file_path": "Image/Trophies/trophy_114.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Lime G5: Season {ref}",
+      "en": "Lime G5: Season {ref}"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -768,10 +1009,14 @@
   },
   {
     "id": 115,
+    "category": "Trophy",
     "filename": "trophy_115.png",
     "image_file_path": "Image/Trophies/trophy_115.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Graphite G5: Season {ref}",
+      "en": "Graphite G5: Season {ref}"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -781,10 +1026,14 @@
   },
   {
     "id": 116,
+    "category": "Trophy",
     "filename": "trophy_116.png",
     "image_file_path": "Image/Trophies/trophy_116.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Grape G5: Season {ref}",
+      "en": "Grape G5: Season {ref}"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -794,10 +1043,14 @@
   },
   {
     "id": 117,
+    "category": "Trophy",
     "filename": "trophy_117.png",
     "image_file_path": "Image/Trophies/trophy_117.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Sage G5: Season {ref}",
+      "en": "Sage G5: Season {ref}"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -807,10 +1060,14 @@
   },
   {
     "id": 118,
+    "category": "Trophy",
     "filename": "trophy_118.png",
     "image_file_path": "Image/Trophies/trophy_118.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Blueberry G5: Season {ref}",
+      "en": "Blueberry G5: Season {ref}"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -820,10 +1077,14 @@
   },
   {
     "id": 119,
+    "category": "Trophy",
     "filename": "trophy_119.png",
     "image_file_path": "Image/Trophies/trophy_119.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Ruby G5: Season {ref}",
+      "en": "Ruby G5: Season {ref}"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -833,10 +1094,14 @@
   },
   {
     "id": 121,
+    "category": "Trophy",
     "filename": "trophy_121.png",
     "image_file_path": "Image/Trophies/trophy_121.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Knight Battle 1st: Season {ref}",
+      "en": "Knight Battle 1st: Season {ref}"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -846,10 +1111,14 @@
   },
   {
     "id": 131,
+    "category": "Trophy",
     "filename": "trophy_131.png",
     "image_file_path": "Image/Trophies/trophy_131.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "King Dragon: 1位",
+      "en": "King Dragon: 1st"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -859,10 +1128,14 @@
   },
   {
     "id": 132,
+    "category": "Trophy",
     "filename": "trophy_132.png",
     "image_file_path": "Image/Trophies/trophy_132.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "King Dragon: 2位",
+      "en": "King Dragon: 2nd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -872,10 +1145,14 @@
   },
   {
     "id": 133,
+    "category": "Trophy",
     "filename": "trophy_133.png",
     "image_file_path": "Image/Trophies/trophy_133.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "King Dragon: 3位",
+      "en": "King Dragon: 3rd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -885,10 +1162,14 @@
   },
   {
     "id": 134,
+    "category": "Trophy",
     "filename": "trophy_134.png",
     "image_file_path": "Image/Trophies/trophy_134.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "King Dragon: 4位",
+      "en": "King Dragon: 4th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -897,11 +1178,83 @@
     "sha256": "22087722c2a82c05b9fcaab0b0c916ea1fa3f9acfa31b723ce6d8d47dd819297"
   },
   {
+    "id": 141,
+    "category": "Trophy",
+    "filename": null,
+    "image_file_path": null,
+    "is_placeholder": false,
+    "name": {
+      "ja": "raid:シンギュラリティ: プルートウ 1位",
+      "en": "raid:Singularity: Pluto 1st"
+    },
+    "acquisition_condition": null,
+    "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
+    "width": null,
+    "height": null,
+    "size_bytes": null,
+    "sha256": null
+  },
+  {
+    "id": 142,
+    "category": "Trophy",
+    "filename": null,
+    "image_file_path": null,
+    "is_placeholder": false,
+    "name": {
+      "ja": "raid:シンギュラリティ: プルートウ 2位",
+      "en": "raid:Singularity: Pluto 2nd"
+    },
+    "acquisition_condition": null,
+    "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
+    "width": null,
+    "height": null,
+    "size_bytes": null,
+    "sha256": null
+  },
+  {
+    "id": 143,
+    "category": "Trophy",
+    "filename": null,
+    "image_file_path": null,
+    "is_placeholder": false,
+    "name": {
+      "ja": "raid:シンギュラリティ: プルートウ 3位",
+      "en": "raid:Singularity: Pluto 3rd"
+    },
+    "acquisition_condition": null,
+    "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
+    "width": null,
+    "height": null,
+    "size_bytes": null,
+    "sha256": null
+  },
+  {
+    "id": 144,
+    "category": "Trophy",
+    "filename": null,
+    "image_file_path": null,
+    "is_placeholder": false,
+    "name": {
+      "ja": "raid:シンギュラリティ: プルートウ Last Attack",
+      "en": "raid:Singularity: Pluto Last Attack"
+    },
+    "acquisition_condition": null,
+    "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
+    "width": null,
+    "height": null,
+    "size_bytes": null,
+    "sha256": null
+  },
+  {
     "id": 151,
+    "category": "Trophy",
     "filename": "trophy_151.png",
     "image_file_path": "Image/Trophies/trophy_151.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "HRC master: 1位",
+      "en": "HRC master: 1st"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -911,10 +1264,14 @@
   },
   {
     "id": 152,
+    "category": "Trophy",
     "filename": "trophy_152.png",
     "image_file_path": "Image/Trophies/trophy_152.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "HRC master: 2位",
+      "en": "HRC master: 2nd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -924,10 +1281,14 @@
   },
   {
     "id": 153,
+    "category": "Trophy",
     "filename": "trophy_153.png",
     "image_file_path": "Image/Trophies/trophy_153.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "HRC master: 3位",
+      "en": "HRC master: 3rd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -937,10 +1298,14 @@
   },
   {
     "id": 154,
+    "category": "Trophy",
     "filename": "trophy_154.png",
     "image_file_path": "Image/Trophies/trophy_154.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "HRC master: 4-10位",
+      "en": "HRC master: 4-10th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -950,10 +1315,14 @@
   },
   {
     "id": 155,
+    "category": "Trophy",
     "filename": "trophy_155.png",
     "image_file_path": "Image/Trophies/trophy_155.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "HRC master: 111位",
+      "en": "HRC master: 111th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -963,10 +1332,14 @@
   },
   {
     "id": 161,
+    "category": "Trophy",
     "filename": "trophy_161.png",
     "image_file_path": "Image/Trophies/trophy_161.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "HRC advance: 1位",
+      "en": "HRC advance: 1st"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -976,10 +1349,14 @@
   },
   {
     "id": 162,
+    "category": "Trophy",
     "filename": "trophy_162.png",
     "image_file_path": "Image/Trophies/trophy_162.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "HRC advance: 2位",
+      "en": "HRC advance: 2nd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -989,10 +1366,14 @@
   },
   {
     "id": 163,
+    "category": "Trophy",
     "filename": "trophy_163.png",
     "image_file_path": "Image/Trophies/trophy_163.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "HRC advance: 3位",
+      "en": "HRC advance: 3rd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -1002,10 +1383,14 @@
   },
   {
     "id": 164,
+    "category": "Trophy",
     "filename": "trophy_164.png",
     "image_file_path": "Image/Trophies/trophy_164.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "HRC advance: 4-10位",
+      "en": "HRC advance: 4-10th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -1015,10 +1400,14 @@
   },
   {
     "id": 165,
+    "category": "Trophy",
     "filename": "trophy_165.png",
     "image_file_path": "Image/Trophies/trophy_165.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "HRC advance: 111位",
+      "en": "HRC advance: 111th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -1028,10 +1417,14 @@
   },
   {
     "id": 171,
+    "category": "Trophy",
     "filename": "trophy_171.png",
     "image_file_path": "Image/Trophies/trophy_171.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "HRC intermediate: 1位",
+      "en": "HRC intermediate: 1st"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -1041,10 +1434,14 @@
   },
   {
     "id": 172,
+    "category": "Trophy",
     "filename": "trophy_172.png",
     "image_file_path": "Image/Trophies/trophy_172.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "HRC intermediate: 2位",
+      "en": "HRC intermediate: 2nd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -1054,10 +1451,14 @@
   },
   {
     "id": 173,
+    "category": "Trophy",
     "filename": "trophy_173.png",
     "image_file_path": "Image/Trophies/trophy_173.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "HRC intermediate: 3位",
+      "en": "HRC intermediate: 3rd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -1067,10 +1468,14 @@
   },
   {
     "id": 174,
+    "category": "Trophy",
     "filename": "trophy_174.png",
     "image_file_path": "Image/Trophies/trophy_174.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "HRC intermediate: 4-10位",
+      "en": "HRC intermediate: 4-10th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -1080,10 +1485,14 @@
   },
   {
     "id": 175,
+    "category": "Trophy",
     "filename": "trophy_175.png",
     "image_file_path": "Image/Trophies/trophy_175.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "HRC intermediate: 111位",
+      "en": "HRC intermediate: 111th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -1093,10 +1502,14 @@
   },
   {
     "id": 181,
+    "category": "Trophy",
     "filename": "trophy_181.png",
     "image_file_path": "Image/Trophies/trophy_181.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "HRC beginner: 1位",
+      "en": "HRC beginner: 1st"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -1106,10 +1519,14 @@
   },
   {
     "id": 182,
+    "category": "Trophy",
     "filename": "trophy_182.png",
     "image_file_path": "Image/Trophies/trophy_182.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "HRC beginner: 2位",
+      "en": "HRC beginner: 2nd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -1119,10 +1536,14 @@
   },
   {
     "id": 183,
+    "category": "Trophy",
     "filename": "trophy_183.png",
     "image_file_path": "Image/Trophies/trophy_183.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "HRC beginner: 3位",
+      "en": "HRC beginner: 3rd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -1132,10 +1553,14 @@
   },
   {
     "id": 184,
+    "category": "Trophy",
     "filename": "trophy_184.png",
     "image_file_path": "Image/Trophies/trophy_184.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "HRC beginner: 4-10位",
+      "en": "HRC beginner: 4-10th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -1145,10 +1570,14 @@
   },
   {
     "id": 185,
+    "category": "Trophy",
     "filename": "trophy_185.png",
     "image_file_path": "Image/Trophies/trophy_185.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "HRC beginner: 111位",
+      "en": "HRC beginner: 111th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -1158,10 +1587,14 @@
   },
   {
     "id": 191,
+    "category": "Trophy",
     "filename": "trophy_191.png",
     "image_file_path": "Image/Trophies/trophy_191.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Colosseum: 1位",
+      "en": "Colosseum: 1st"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -1171,10 +1604,14 @@
   },
   {
     "id": 192,
+    "category": "Trophy",
     "filename": "trophy_192.png",
     "image_file_path": "Image/Trophies/trophy_192.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Colosseum: 2位",
+      "en": "Colosseum: 2nd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -1184,10 +1621,14 @@
   },
   {
     "id": 193,
+    "category": "Trophy",
     "filename": "trophy_193.png",
     "image_file_path": "Image/Trophies/trophy_193.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Colosseum: 3位",
+      "en": "Colosseum: 3rd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -1197,10 +1638,14 @@
   },
   {
     "id": 194,
+    "category": "Trophy",
     "filename": "trophy_194.png",
     "image_file_path": "Image/Trophies/trophy_194.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Colosseum: 4-10位",
+      "en": "Colosseum: 4-10th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -1210,6 +1655,7 @@
   },
   {
     "id": 195,
+    "category": "Trophy",
     "filename": "trophy_195.png",
     "image_file_path": "Image/Trophies/trophy_195.png",
     "is_placeholder": false,
@@ -1223,6 +1669,7 @@
   },
   {
     "id": 196,
+    "category": "Trophy",
     "filename": "trophy_196.png",
     "image_file_path": "Image/Trophies/trophy_196.png",
     "is_placeholder": false,
@@ -1236,10 +1683,14 @@
   },
   {
     "id": 201,
+    "category": "Trophy",
     "filename": "trophy_201.png",
     "image_file_path": "Image/Trophies/trophy_201.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "King Dragon {ref}: 1位",
+      "en": "King Dragon {ref}: 1st"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1249,10 +1700,14 @@
   },
   {
     "id": 202,
+    "category": "Trophy",
     "filename": "trophy_202.png",
     "image_file_path": "Image/Trophies/trophy_202.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "King Dragon {ref}: 2位",
+      "en": "King Dragon {ref}: 2nd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1262,10 +1717,14 @@
   },
   {
     "id": 203,
+    "category": "Trophy",
     "filename": "trophy_203.png",
     "image_file_path": "Image/Trophies/trophy_203.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "King Dragon {ref}: 3位",
+      "en": "King Dragon {ref}: 3rd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1275,10 +1734,14 @@
   },
   {
     "id": 204,
+    "category": "Trophy",
     "filename": "trophy_204.png",
     "image_file_path": "Image/Trophies/trophy_204.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "King Dragon {ref}: 4位",
+      "en": "King Dragon {ref}: 4th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1288,10 +1751,14 @@
   },
   {
     "id": 205,
+    "category": "Trophy",
     "filename": "trophy_205.png",
     "image_file_path": "Image/Trophies/trophy_205.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "King Dragon {ref}: BEST 8",
+      "en": "King Dragon {ref}: BEST 8"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1301,10 +1768,14 @@
   },
   {
     "id": 206,
+    "category": "Trophy",
     "filename": "trophy_206.png",
     "image_file_path": "Image/Trophies/trophy_206.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "King Dragon {ref}: BEST 16",
+      "en": "King Dragon {ref}: BEST 16"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1314,10 +1785,14 @@
   },
   {
     "id": 211,
+    "category": "Trophy",
     "filename": "trophy_211.png",
     "image_file_path": "Image/Trophies/trophy_211.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Queen Dragon {ref}: 1位",
+      "en": "Queen Dragon {ref}: 1st"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1327,10 +1802,14 @@
   },
   {
     "id": 212,
+    "category": "Trophy",
     "filename": "trophy_212.png",
     "image_file_path": "Image/Trophies/trophy_212.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Queen Dragon {ref}: 2位",
+      "en": "Queen Dragon {ref}: 2nd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1340,10 +1819,14 @@
   },
   {
     "id": 213,
+    "category": "Trophy",
     "filename": "trophy_213.png",
     "image_file_path": "Image/Trophies/trophy_213.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Queen Dragon {ref}: 3位",
+      "en": "Queen Dragon {ref}: 3rd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1353,10 +1836,14 @@
   },
   {
     "id": 214,
+    "category": "Trophy",
     "filename": "trophy_214.png",
     "image_file_path": "Image/Trophies/trophy_214.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Queen Dragon {ref}: 4位",
+      "en": "Queen Dragon {ref}: 4th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1366,10 +1853,14 @@
   },
   {
     "id": 215,
+    "category": "Trophy",
     "filename": "trophy_215.png",
     "image_file_path": "Image/Trophies/trophy_215.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Queen Dragon {ref}: BEST 8",
+      "en": "Queen Dragon {ref}: BEST 8"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1379,10 +1870,14 @@
   },
   {
     "id": 216,
+    "category": "Trophy",
     "filename": "trophy_216.png",
     "image_file_path": "Image/Trophies/trophy_216.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Queen Dragon {ref}: BEST 16",
+      "en": "Queen Dragon {ref}: BEST 16"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1392,10 +1887,14 @@
   },
   {
     "id": 221,
+    "category": "Trophy",
     "filename": "trophy_221.png",
     "image_file_path": "Image/Trophies/trophy_221.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Prince Dragon {ref}: 1位",
+      "en": "Prince Dragon {ref}: 1st"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1405,10 +1904,14 @@
   },
   {
     "id": 222,
+    "category": "Trophy",
     "filename": "trophy_222.png",
     "image_file_path": "Image/Trophies/trophy_222.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Prince Dragon {ref}: 2位",
+      "en": "Prince Dragon {ref}: 2nd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1418,10 +1921,14 @@
   },
   {
     "id": 223,
+    "category": "Trophy",
     "filename": "trophy_223.png",
     "image_file_path": "Image/Trophies/trophy_223.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Prince Dragon {ref}: 3位",
+      "en": "Prince Dragon {ref}: 3rd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1431,10 +1938,14 @@
   },
   {
     "id": 224,
+    "category": "Trophy",
     "filename": "trophy_224.png",
     "image_file_path": "Image/Trophies/trophy_224.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Prince Dragon {ref}: 4位",
+      "en": "Prince Dragon {ref}: 4th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1444,10 +1955,14 @@
   },
   {
     "id": 225,
+    "category": "Trophy",
     "filename": "trophy_225.png",
     "image_file_path": "Image/Trophies/trophy_225.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Prince Dragon {ref}: BEST 8",
+      "en": "Prince Dragon {ref}: BEST 8"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1457,10 +1972,14 @@
   },
   {
     "id": 226,
+    "category": "Trophy",
     "filename": "trophy_226.png",
     "image_file_path": "Image/Trophies/trophy_226.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Prince Dragon {ref}: BEST 16",
+      "en": "Prince Dragon {ref}: BEST 16"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1470,10 +1989,14 @@
   },
   {
     "id": 231,
+    "category": "Trophy",
     "filename": "trophy_231.png",
     "image_file_path": "Image/Trophies/trophy_231.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Princess Dragon {ref}: 1位",
+      "en": "Princess Dragon {ref}: 1st"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1483,10 +2006,14 @@
   },
   {
     "id": 232,
+    "category": "Trophy",
     "filename": "trophy_232.png",
     "image_file_path": "Image/Trophies/trophy_232.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Princess Dragon {ref}: 2位",
+      "en": "Princess Dragon {ref}: 2nd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1496,10 +2023,14 @@
   },
   {
     "id": 233,
+    "category": "Trophy",
     "filename": "trophy_233.png",
     "image_file_path": "Image/Trophies/trophy_233.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Princess Dragon {ref}: 3位",
+      "en": "Princess Dragon {ref}: 3rd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1509,10 +2040,14 @@
   },
   {
     "id": 234,
+    "category": "Trophy",
     "filename": "trophy_234.png",
     "image_file_path": "Image/Trophies/trophy_234.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Princess Dragon {ref}: 4位",
+      "en": "Princess Dragon {ref}: 4th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1522,10 +2057,14 @@
   },
   {
     "id": 235,
+    "category": "Trophy",
     "filename": "trophy_235.png",
     "image_file_path": "Image/Trophies/trophy_235.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Princess Dragon {ref}: BEST 8",
+      "en": "Princess Dragon {ref}: BEST 8"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1535,10 +2074,14 @@
   },
   {
     "id": 236,
+    "category": "Trophy",
     "filename": "trophy_236.png",
     "image_file_path": "Image/Trophies/trophy_236.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Princess Dragon {ref}: BEST 16",
+      "en": "Princess Dragon {ref}: BEST 16"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1548,10 +2091,14 @@
   },
   {
     "id": 241,
+    "category": "Trophy",
     "filename": "trophy_241.png",
     "image_file_path": "Image/Trophies/trophy_241.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Soul Battle Season {ref}: 1位",
+      "en": "Soul Battle Season {ref}: 1st"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1561,10 +2108,14 @@
   },
   {
     "id": 242,
+    "category": "Trophy",
     "filename": "trophy_242.png",
     "image_file_path": "Image/Trophies/trophy_242.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Soul Battle Season {ref}: 2位",
+      "en": "Soul Battle Season {ref}: 2nd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1574,10 +2125,14 @@
   },
   {
     "id": 243,
+    "category": "Trophy",
     "filename": "trophy_243.png",
     "image_file_path": "Image/Trophies/trophy_243.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Soul Battle Season {ref}: 3位",
+      "en": "Soul Battle Season {ref}: 3rd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1587,10 +2142,14 @@
   },
   {
     "id": 244,
+    "category": "Trophy",
     "filename": "trophy_244.png",
     "image_file_path": "Image/Trophies/trophy_244.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Soul Battle Season {ref}: 4-10位",
+      "en": "Soul Battle Season {ref}: 4-10th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1600,10 +2159,14 @@
   },
   {
     "id": 251,
+    "category": "Trophy",
     "filename": "trophy_251.png",
     "image_file_path": "Image/Trophies/trophy_251.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "raid:シンギュラリティ: フラッグ 1位",
+      "en": "raid:Singularity: Flag 1st"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -1613,10 +2176,14 @@
   },
   {
     "id": 252,
+    "category": "Trophy",
     "filename": "trophy_252.png",
     "image_file_path": "Image/Trophies/trophy_252.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "raid:シンギュラリティ: フラッグ 2位",
+      "en": "raid:Singularity: Flag 2nd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -1626,10 +2193,14 @@
   },
   {
     "id": 253,
+    "category": "Trophy",
     "filename": "trophy_253.png",
     "image_file_path": "Image/Trophies/trophy_253.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "raid:シンギュラリティ: フラッグ 3位",
+      "en": "raid:Singularity: Flag 3rd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -1639,10 +2210,14 @@
   },
   {
     "id": 254,
+    "category": "Trophy",
     "filename": "trophy_254.png",
     "image_file_path": "Image/Trophies/trophy_254.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "raid:シンギュラリティ: フラッグ Last Attack",
+      "en": "raid:Singularity: Flag Last Attac"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -1652,10 +2227,14 @@
   },
   {
     "id": 261,
+    "category": "Trophy",
     "filename": "trophy_261.png",
     "image_file_path": "Image/Trophies/trophy_261.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Common Cup: 1位",
+      "en": "Common Cup: 1st"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -1665,10 +2244,14 @@
   },
   {
     "id": 262,
+    "category": "Trophy",
     "filename": "trophy_262.png",
     "image_file_path": "Image/Trophies/trophy_262.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Common Cup: 2位",
+      "en": "Common Cup: 2nd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -1678,10 +2261,14 @@
   },
   {
     "id": 263,
+    "category": "Trophy",
     "filename": "trophy_263.png",
     "image_file_path": "Image/Trophies/trophy_263.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Common Cup: 3位",
+      "en": "Common Cup: 3rd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -1691,10 +2278,14 @@
   },
   {
     "id": 264,
+    "category": "Trophy",
     "filename": "trophy_264.png",
     "image_file_path": "Image/Trophies/trophy_264.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Common Cup: 4-10位",
+      "en": "Common Cup: 4-10th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -1704,10 +2295,14 @@
   },
   {
     "id": 265,
+    "category": "Trophy",
     "filename": "trophy_265.png",
     "image_file_path": "Image/Trophies/trophy_265.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Common Cup: 111位",
+      "en": "Common Cup: 111th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -1717,10 +2312,14 @@
   },
   {
     "id": 266,
+    "category": "Trophy",
     "filename": "trophy_266.png",
     "image_file_path": "Image/Trophies/trophy_266.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Common Cup: 777位",
+      "en": "Common Cup: 777th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 200,
@@ -1730,6 +2329,7 @@
   },
   {
     "id": 271,
+    "category": "Trophy",
     "filename": "trophy_271.png",
     "image_file_path": "Image/Trophies/trophy_271.png",
     "is_placeholder": false,
@@ -1743,6 +2343,7 @@
   },
   {
     "id": 272,
+    "category": "Trophy",
     "filename": "trophy_272.png",
     "image_file_path": "Image/Trophies/trophy_272.png",
     "is_placeholder": false,
@@ -1756,6 +2357,7 @@
   },
   {
     "id": 273,
+    "category": "Trophy",
     "filename": "trophy_273.png",
     "image_file_path": "Image/Trophies/trophy_273.png",
     "is_placeholder": false,
@@ -1769,6 +2371,7 @@
   },
   {
     "id": 274,
+    "category": "Trophy",
     "filename": "trophy_274.png",
     "image_file_path": "Image/Trophies/trophy_274.png",
     "is_placeholder": false,
@@ -1782,10 +2385,14 @@
   },
   {
     "id": 281,
+    "category": "Trophy",
     "filename": "trophy_281.png",
     "image_file_path": "Image/Trophies/trophy_281.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Duke Dragon {ref}: 1位",
+      "en": "Duke Dragon {ref}: 1st"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1795,10 +2402,14 @@
   },
   {
     "id": 282,
+    "category": "Trophy",
     "filename": "trophy_282.png",
     "image_file_path": "Image/Trophies/trophy_282.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Duke Dragon {ref}: 2位",
+      "en": "Duke Dragon {ref}: 2nd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1808,10 +2419,14 @@
   },
   {
     "id": 283,
+    "category": "Trophy",
     "filename": "trophy_283.png",
     "image_file_path": "Image/Trophies/trophy_283.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Duke Dragon {ref}: 3位",
+      "en": "Duke Dragon {ref}: 3rd"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1821,10 +2436,14 @@
   },
   {
     "id": 284,
+    "category": "Trophy",
     "filename": "trophy_284.png",
     "image_file_path": "Image/Trophies/trophy_284.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Duke Dragon {ref}: 4位",
+      "en": "Duke Dragon {ref}: 4th"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1834,10 +2453,14 @@
   },
   {
     "id": 285,
+    "category": "Trophy",
     "filename": "trophy_285.png",
     "image_file_path": "Image/Trophies/trophy_285.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Duke Dragon {ref}: BEST 8",
+      "en": "Duke Dragon {ref}: BEST 8"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,
@@ -1847,10 +2470,14 @@
   },
   {
     "id": 286,
+    "category": "Trophy",
     "filename": "trophy_286.png",
     "image_file_path": "Image/Trophies/trophy_286.png",
     "is_placeholder": false,
-    "name": null,
+    "name": {
+      "ja": "Duke Dragon {ref}: BEST 16",
+      "en": "Duke Dragon {ref}: BEST 16"
+    },
     "acquisition_condition": null,
     "description": "ゲーム内の大会成績や獲得条件の達成を称える称号「トロフィー」のアート。",
     "width": 400,

@@ -1,0 +1,121 @@
+id,category,name_ja,name_en,acquisition_condition_ja,acquisition_condition_en,image_file_path,is_placeholder
+10011,Piece,Red Dragon優勝 3回,Winner of the Red Dragon 3 times,Red Dragon: 1位のトロフィーを3回獲得する。,Earn Red dragon: 1st trophy 3 times.,Image/Achievements/piece_10011.png,false
+10012,Piece,Red Dragon優勝 10回,Winner of the Red Dragon 10 times,Red Dragon: 1位のトロフィーを10回獲得する。,Earn Red dragon: 1st trophy 10 times.,Image/Achievements/piece_10012.png,false
+10021,Piece,Blue Dragon優勝 3回,Winner of the Blue Dragon 3 times,Blue Dragon: 1位のトロフィーを3回獲得する。,Earn Blue dragon: 1st trophy 3 times.,Image/Achievements/piece_10021.png,false
+10022,Piece,Blue Dragon優勝 10回,Winner of the Blue Dragon 10 times,Blue Dragon: 1位のトロフィーを10回獲得する。,Earn Blue dragon: 1st trophy 10 times.,Image/Achievements/piece_10022.png,false
+10031,Piece,Baby Dragon優勝 3回,Winner of the Baby Dragon 3 times,Baby Dragon: 1位のトロフィーを3回獲得する。,Earn Baby dragon: 1st trophy 3 times.,Image/Achievements/piece_10031.png,false
+10032,Piece,Baby Dragon優勝 10回,Winner of the Baby Dragon 10 times,Baby Dragon: 1位のトロフィーを10回獲得する。,Earn Baby dragon: 1st trophy 10 times.,Image/Achievements/piece_10032.png,false
+10041,Piece,Dragon Egg優勝 3回,Winner of the Dragon Egg 3 times,Dragon Egg: 1位のトロフィーを3回獲得する。,Earn Dragon egg: 1st trophy 3 times.,Image/Achievements/piece_10041.png,false
+10042,Piece,Dragon Egg優勝 10回,Winner of the Dragon Egg 10 times,Dragon Egg: 1位のトロフィーを10回獲得する。,Earn Dragon egg: 1st trophy 10 times.,Image/Achievements/piece_10042.png,false
+10051,Piece,コロシアム優勝 3回,Winner of the Colosseum 3 times,Colosseum: 1位のトロフィーを3回獲得する。,Earn Colosseum: 1st trophy 3 times.,Image/Achievements/piece_10051.png,false
+10052,Piece,コロシアム優勝 10回,Winner of the Colosseum 10 times,Colosseum: 1位のトロフィーを10回獲得する。,Earn Colosseum: 1st trophy 10 times.,Image/Achievements/piece_10052.png,false
+10061,Piece,レイド1位 3回,Winner of the raid 3 times,レイドイベントの1位トロフィーを3回獲得する。,Earn raid: 1st trophy 3 times.,Image/Achievements/piece_10061.png,false
+10071,Piece,Ocean G5 3回,Ocean G5 3 times,Ocean G5トロフィーを3回獲得する。,Earn ocean G5 trophy 3 times.,Image/Achievements/piece_10071.png,false
+10072,Piece,Ocean G5 10回,Ocean G5 10 times,Ocean G5トロフィーを10回獲得する。,Earn ocean G5 trophy 10 times.,Image/Achievements/piece_10072.png,false
+10081,Piece,Strawberry G5 3回,Strawberry G5 3 times,Strawberry G5トロフィーを3回獲得する。,Earn strawberry G5 trophy 3 times.,Image/Achievements/piece_10081.png,false
+10082,Piece,Strawberry G5 10回,Strawberry G5 10 times,Strawberry G5トロフィーを10回獲得する。,Earn strawberry G5 trophy 10 times.,Image/Achievements/piece_10082.png,false
+10091,Piece,Tangerine G5 3回,Tangerine G5 3 times,Tangerine G5トロフィーを3回獲得する。,Earn tangerine G5 trophy 3 times.,Image/Achievements/piece_10091.png,false
+10092,Piece,Tangerine G5 10回,Tangerine G5 10 times,Tangerine G5トロフィーを10回獲得する。,Earn tangerine G5 trophy 10 times.,Image/Achievements/piece_10092.png,false
+10101,Piece,Lime G5 3回,Lime G5 3 times,Lime G5トロフィーを3回獲得する。,Earn lime G5 trophy 3 times.,Image/Achievements/piece_10101.png,false
+10102,Piece,Lime G5 10回,Lime G5 10 times,Lime G5トロフィーを10回獲得する。,Earn lime G5 trophy 10 times.,Image/Achievements/piece_10102.png,false
+10111,Piece,Graphite G5 3回,Graphite G5 3 times,Graphite G5トロフィーを3回獲得する。,Earn graphite G5 trophy 3 times.,Image/Achievements/piece_10111.png,false
+10112,Piece,Graphite G5 10回,Graphite G5 10 times,Graphite G5トロフィーを10回獲得する。,Earn graphite G5 trophy 10 times.,Image/Achievements/piece_10112.png,false
+10121,Piece,Grape G5 3回,Grape G5 3 times,Grape G5トロフィーを3回獲得する。,Earn grape G5 trophy 3 times.,Image/Achievements/piece_10121.png,false
+10122,Piece,Grape G5 10回,Grape G5 10 times,Grape G5トロフィーを10回獲得する。,Earn grape G5 trophy 10 times.,Image/Achievements/piece_10122.png,false
+10131,Piece,Sage G5 3回,Sage G5 3 times,Sage G5トロフィーを3回獲得する。,Earn sage G5 trophy 3 times.,Image/Achievements/piece_10131.png,false
+10132,Piece,Sage G5 10回,Sage G5 10 times,Sage G5トロフィーを10回獲得する。,Earn sage G5 trophy 10 times.,Image/Achievements/piece_10132.png,false
+10141,Piece,Blueberry G5 3回,Blueberry G5 3 times,Blueberry G5トロフィーを3回獲得する。,Earn blueberry G5 trophy 3 times.,Image/Achievements/piece_10141.png,false
+10142,Piece,Blueberry G5 10回,Blueberry G5 10 times,Blueberry G5トロフィーを10回獲得する。,Earn blueberry G5 trophy 10 times.,Image/Achievements/piece_10142.png,false
+10151,Piece,Ruby G5 3回,Ruby G5 3 times,Ruby G5トロフィーを3回獲得する。,Earn ruby G5 trophy 3 times.,Image/Achievements/piece_10151.png,false
+10152,Piece,Ruby G5 10回,Ruby G5 10 times,Ruby G5トロフィーを10回獲得する。,Earn ruby G5 trophy 10 times.,Image/Achievements/piece_10152.png,false
+10161,Piece,All Land G5,All Land G5,全てのランドのG5トロフィーを獲得する。,Earn G5 trophies in all lands.,Image/Achievements/piece_10161.png,false
+10171,Piece,Top Ocean Knight貢献,Top Ocean Knight,OceanでKnightPointを最も多く得る。（シーズン終了後に判定）,Gain the most KnightPoints in Ocean. (Judged by the end of the season),Image/Achievements/piece_10171.png,false
+10172,Piece,Top Strawberry Knight貢献,Top Strawberry Knight,StrawberryでKnightPointを最も多く得る。（シーズン終了後に判定）,Gain the most KnightPoints in Strawberry. (Judged by the end of the season),Image/Achievements/piece_10172.png,false
+10173,Piece,Top Tangerine Knight貢献,Top Tangerine Knight,TangerineでKnightPointを最も多く得る。（シーズン終了後に判定）,Gain the most KnightPoints in Tangerine. (Judged by the end of the season),Image/Achievements/piece_10173.png,false
+10174,Piece,Top Lime Knight貢献,Top Lime Knight,LimeでKnightPointを最も多く得る。（シーズン終了後に判定）,Gain the most KnightPoints in Lime. (Judged by the end of the season),Image/Achievements/piece_10174.png,false
+10175,Piece,Top Graphite Knight貢献,Top Graphite Knight,GraphiteでKnightPointを最も多く得る。（シーズン終了後に判定）,Gain the most KnightPoints in Graphite. (Judged by the end of the season),Image/Achievements/piece_10175.png,false
+10176,Piece,Top Grape Knight貢献,Top Grape Knight,GrapeでKnightPointを最も多く得る。（シーズン終了後に判定）,Gain the most KnightPoints in Grape. (Judged by the end of the season),Image/Achievements/piece_10176.png,false
+10177,Piece,Top Sage Knight貢献,Top Sage Knight,SageでKnightPointを最も多く得る。（シーズン終了後に判定）,Gain the most KnightPoints in Sage. (Judged by the end of the season),Image/Achievements/piece_10177.png,false
+10178,Piece,Top Blueberry Knight貢献,Top Blueberry Knight,BlueberryでKnightPointを最も多く得る。（シーズン終了後に判定）,Gain the most KnightPoints in Blueberry. (Judged by the end of the season),Image/Achievements/piece_10178.png,false
+10179,Piece,Top Ruby Knight貢献,Top Ruby Knight,RubyでKnightPointを最も多く得る。（シーズン終了後に判定）,Gain the most KnightPoints in Ruby. (Judged by the end of the season),Image/Achievements/piece_10179.png,false
+20011,Piece,Ocean King就任,Ocean King,Oceanのキングに就任する。,Become King of Ocean.,Image/Achievements/piece_20011.png,false
+20012,Piece,Strawberry King就任,Strawberry King,Strawberryのキングに就任する。,Become King of Strawberry.,Image/Achievements/piece_20012.png,false
+20013,Piece,Tangerine King就任,Tangerine King,Tangerineのキングに就任する。,Become King of Tangerine.,Image/Achievements/piece_20013.png,false
+20014,Piece,Lime King就任,Lime King,Limeのキングに就任する。,Become King of Lime.,Image/Achievements/piece_20014.png,false
+20015,Piece,Graphite King就任,Graphite King,Graphiteのキングに就任する。,Become King of Graphite.,Image/Achievements/piece_20015.png,false
+20016,Piece,Grape King就任,Grape King,Grapeのキングに就任する。,Become King of Grape.,Image/Achievements/piece_20016.png,false
+20017,Piece,Sage King就任,Sage King,Sageのキングに就任する。,Become King of Sage.,Image/Achievements/piece_20017.png,false
+20018,Piece,Blueberry King就任,Blueberry King,Blueberryのキングに就任する。,Become King of Blueberry.,Image/Achievements/piece_20018.png,false
+20019,Piece,Ruby King就任,Ruby King,Rubyのキングに就任する。,Become King of Ruby.,Image/Achievements/piece_20019.png,false
+20021,Piece,Ocean Maestro就任,Ocean Maestro,Oceanのマエストロに就任する。,Become Maestro of Ocean.,Image/Achievements/piece_20021.png,false
+20022,Piece,Strawberry Maestro就任,Strawberry Maestro,Strawberryのマエストロに就任する。,Become Maestro of Strawberry.,Image/Achievements/piece_20022.png,false
+20023,Piece,Tangerine Maestro就任,Tangerine Maestro,Tangerineのマエストロに就任する。,Become Maestro of Tangerine.,Image/Achievements/piece_20023.png,false
+20024,Piece,Lime Maestro就任,Lime Maestro,Limeのマエストロに就任する。,Become Maestro of Lime.,Image/Achievements/piece_20024.png,false
+20025,Piece,Graphite Maestro就任,Graphite Maestro,Graphiteのマエストロに就任する。,Become Maestro of Graphite.,Image/Achievements/piece_20025.png,false
+20026,Piece,Grape Maestro就任,Grape Maestro,Grapeのマエストロに就任する。,Become Maestro of Grape.,Image/Achievements/piece_20026.png,false
+20027,Piece,Sage Maestro就任,Sage Maestro,Sageのマエストロに就任する。,Become Maestro of Sage.,Image/Achievements/piece_20027.png,false
+20028,Piece,Blueberry Maestro就任,Blueberry Maestro,Blueberryのマエストロに就任する。,Become Maestro of Blueberry.,Image/Achievements/piece_20028.png,false
+20029,Piece,Ruby Maestro就任,Ruby Maestro,Rubyのマエストロに就任する。,Become Maestro of Ruby.,Image/Achievements/piece_20029.png,false
+20031,Piece,アリーナ満員開催 累計100人,"Arena held with full capacity, cumulative total of 100 people.",自身が開催したアリーナの参加人数が累計で100人を超える。（参加人数が上限に達した場合のみカウント）,The total number of participants in the arena held by you exceeds 100. (Counted only when the maximum number of participants is reached),Image/Achievements/piece_20031.png,true
+20032,Piece,アリーナ満員開催 累計500人,"Arena held with full capacity, cumulative total of 500 people.",自身が開催したアリーナの参加人数が累計で500人を超える。（参加人数が上限に達した場合のみカウント）,The total number of participants in the arena held by you exceeds 500. (Counted only when the maximum number of participants is reached),Image/Achievements/piece_20032.png,true
+20033,Piece,"アリーナ満員開催 累計1,000人","Arena held with full capacity, cumulative total of 1,000 people.",自身が開催したアリーナの参加人数が累計で1000人を超える。（参加人数が上限に達した場合のみカウント）,"The total number of participants in the arena held by you exceeds 1,000. (Counted only when the maximum number of participants is reached)",Image/Achievements/piece_20033.png,true
+20041,Piece,FA成立,FA contract,FA宣言が1回成立する。,One FA declaration is approved.,Image/Achievements/piece_20041.png,true
+20042,Piece,FA成立 3回,FA contract 3 times,FA宣言が3回成立する。,Three FA declarations were approved.,Image/Achievements/piece_20042.png,true
+20043,Piece,FA成立 10回,FA contract 10 times,FA宣言が10回成立する。,Ten FA declarations were approved.,Image/Achievements/piece_20043.png,true
+30011,Piece,Good Art 3回,Good Art 3 times,GOOD! Artトロフィーを3回獲得する。,Earn GOOD! Art trophy 3 times.,Image/Achievements/piece_30011.png,false
+30012,Piece,Good Art 5回,Good Art 5 times,GOOD! Artトロフィーを5回獲得する。,Earn GOOD! Art trophy 5 times.,Image/Achievements/piece_30012.png,false
+30013,Piece,Good Art 10回,Good Art 10 times,GOOD! Artトロフィーを10回獲得する。,Earn GOOD! Art trophy 10 times.,Image/Achievements/piece_30013.png,false
+30021,Piece,Cool Art 3回,Cool Art 3 times,COOL!! Artトロフィーを3回獲得する。,Earn COOL!! Art trophy 3 times.,Image/Achievements/piece_30021.png,false
+30022,Piece,Cool Art 5回,Cool Art 5 times,COOL!! Artトロフィーを5回獲得する。,Earn COOL!! Art trophy 5 times.,Image/Achievements/piece_30022.png,false
+30023,Piece,Cool Art 10回,Cool Art 10 times,COOL!! Artトロフィーを10回獲得する。,Earn COOL!! Art trophy 10 times.,Image/Achievements/piece_30023.png,false
+30031,Piece,Extension Competition採用,Adopted for Extension Competition,Extension Competitionで、自身のイラストが採用される。,This achievement will be awarded when your illustration is selected in the Extension Competition.,Image/Achievements/piece_30031.png,false
+40011,Piece,Ocean SHUIN購入,Buy Ocean SHUIN,OceanのSHUINを購入する。,Buy Ocean SHUIN.,Image/Achievements/piece_40011.png,false
+40012,Piece,Strawberry SHUIN購入,Buy Strawberry SHUIN,StrawberryのSHUINを購入する。,Buy Strawberry SHUIN.,Image/Achievements/piece_40012.png,false
+40013,Piece,Tangerine SHUIN購入,Buy Tangerine SHUIN,TangerineのSHUINを購入する。,Buy Tangerine SHUIN.,Image/Achievements/piece_40013.png,false
+40014,Piece,Lime SHUIN購入,Buy Lime SHUIN,LimeのSHUINを購入する。,Buy Lime SHUIN.,Image/Achievements/piece_40014.png,false
+40015,Piece,Graphite SHUIN購入,Buy Graphite SHUIN,GraphiteのSHUINを購入する。,Buy Graphite SHUIN.,Image/Achievements/piece_40015.png,false
+40016,Piece,Grape SHUIN購入,Buy Grape SHUIN,GrapeのSHUINを購入する。,Buy Grape SHUIN.,Image/Achievements/piece_40016.png,false
+40017,Piece,Sage SHUIN購入,Buy Sage SHUIN,SageのSHUINを購入する。,Buy Sage SHUIN.,Image/Achievements/piece_40017.png,false
+40018,Piece,Blueberry SHUIN購入,Buy Blueberry SHUIN,BlueberryのSHUINを購入する。,Buy Blueberry SHUIN.,Image/Achievements/piece_40018.png,false
+40019,Piece,Ruby SHUIN購入,Buy Ruby SHUIN,RubyのSHUINを購入する。,Buy Ruby SHUIN.,Image/Achievements/piece_40019.png,false
+40021,Piece,Ocean SHUIN購入complete,Buy all Ocean SHUIN,OceanのSHUINを上限まで購入する。,Buy all Ocean SHUIN.,Image/Achievements/piece_40021.png,false
+40022,Piece,Strawberry SHUIN購入complete,Buy all Strawberry SHUIN,StrawberryのSHUINを上限まで購入する。,Buy all Strawberry SHUIN.,Image/Achievements/piece_40022.png,false
+40023,Piece,Tangerine SHUIN購入complete,Buy all Tangerine SHUIN,TangerineのSHUINを上限まで購入する。,Buy all Tangerine SHUIN.,Image/Achievements/piece_40023.png,false
+40024,Piece,Lime SHUIN購入complete,Buy all Lime SHUIN,LimeのSHUINを上限まで購入する。,Buy all Lime SHUIN.,Image/Achievements/piece_40024.png,false
+40025,Piece,Graphite SHUIN購入complete,Buy all Graphite SHUIN,GraphiteのSHUINを上限まで購入する。,Buy all Graphite SHUIN.,Image/Achievements/piece_40025.png,false
+40026,Piece,Grape SHUIN購入complete,Buy all Grape SHUIN,GrapeのSHUINを上限まで購入する。,Buy all Grape SHUIN.,Image/Achievements/piece_40026.png,false
+40027,Piece,Sage SHUIN購入complete,Buy all Sage SHUIN,SageのSHUINを上限まで購入する。,Buy all Sage SHUIN.,Image/Achievements/piece_40027.png,false
+40028,Piece,Blueberry SHUIN購入complete,Buy all Blueberry SHUIN,BlueberryのSHUINを上限まで購入する。,Buy all Blueberry SHUIN.,Image/Achievements/piece_40028.png,false
+40029,Piece,Ruby SHUIN購入complete,Buy all Ruby SHUIN,RubyのSHUINを上限まで購入する。,Buy all Ruby SHUIN.,Image/Achievements/piece_40029.png,false
+40031,Piece,Top Ocean Nie貢献,Top Ocean Nie,OceanでNieを最も多く得る。（シーズン終了後に判定）,Gain the most Nie in Ocean. (Judged by the end of the season),Image/Achievements/piece_40031.png,false
+40032,Piece,Top Strawberry Nie貢献,Top Strawberry Nie,StrawberryでNieを最も多く得る。（シーズン終了後に判定）,Gain the most Nie in Strawberry. (Judged by the end of the season),Image/Achievements/piece_40032.png,false
+40033,Piece,Top Tangerine Nie貢献,Top Tangerine Nie,TangerineでNieを最も多く得る。（シーズン終了後に判定）,Gain the most Nie in Tangerine. (Judged by the end of the season),Image/Achievements/piece_40033.png,false
+40034,Piece,Top Lime Nie貢献,Top Lime Nie,LimeでNieを最も多く得る。（シーズン終了後に判定）,Gain the most Nie in Lime. (Judged by the end of the season),Image/Achievements/piece_40034.png,false
+40035,Piece,Top Graphite Nie貢献,Top Graphite Nie,GraphiteでNieを最も多く得る。（シーズン終了後に判定）,Gain the most Nie in Graphite. (Judged by the end of the season),Image/Achievements/piece_40035.png,false
+40036,Piece,Top Grape Nie貢献,Top Grape Nie,GrapeでNieを最も多く得る。（シーズン終了後に判定）,Gain the most Nie in Grape. (Judged by the end of the season),Image/Achievements/piece_40036.png,false
+40037,Piece,Top Sage Nie貢献,Top Sage Nie,SageでNieを最も多く得る。（シーズン終了後に判定）,Gain the most Nie in Sage. (Judged by the end of the season),Image/Achievements/piece_40037.png,false
+40038,Piece,Top Blueberry Nie貢献,Top Blueberry Nie,BlueberryでNieを最も多く得る。（シーズン終了後に判定）,Gain the most Nie in Blueberry. (Judged by the end of the season),Image/Achievements/piece_40038.png,false
+40039,Piece,Top Ruby Nie貢献,Top Ruby Nie,RubyでNieを最も多く得る。（シーズン終了後に判定）,Gain the most Nie in Ruby. (Judged by the end of the season),Image/Achievements/piece_40039.png,false
+40041,Piece,100 GUM課金,Charge 100 GUM,100GUM課金する。,Buy 100 GUM.,Image/Achievements/piece_40041.png,false
+40042,Piece,"10,000 GUM課金","Charge 10,000 GUM","10,000GUM課金する。","Buy 10,000 GUM.",Image/Achievements/piece_40042.png,false
+40043,Piece,"100,000 GUM課金","Charge 100,000 GUM","100,000GUM課金する。","Buy 100,000 GUM.",Image/Achievements/piece_40043.png,false
+40044,Piece,"1,000,000 GUM課金","Charge 1,000,000 GUM","1,000,000GUM課金する。","Buy 1,000,000 GUM.",Image/Achievements/piece_40044.png,false
+40051,Piece,"100,000 GUM消費","100,000 GUM to be consumed","100,000GUM消費する。","Use 100,000 GUM.",Image/Achievements/piece_40051.png,false
+40052,Piece,"1,000,000 GUM消費","1,000,000 GUM to be consumed","1,000,000GUM消費する。","Use 1,000,000 GUM.",Image/Achievements/piece_40052.png,false
+40061,Piece,"1,000回 クエストクリア","1,000 times Complete quests","1,000回クエストをクリアする。","Complete quest 1,000 times.",Image/Achievements/piece_40061.png,true
+40062,Piece,"10,000回クエストクリア","10,000 times Complete quests","10,000回クエストをクリアする。","Complete quest 10,000 times.",Image/Achievements/piece_40062.png,true
+40063,Piece,"100,000回 クエストクリア","100,000 times Complete quests","100,000 回クエストをクリアする。","Complete quest 100,000 times.",Image/Achievements/piece_40063.png,true
+40071,Piece,金箱獲得,Gold chest Acquisition,クエストから金箱を獲得する。,Obtain a gold chest from the quest.,Image/Achievements/piece_40071.png,true
+40072,Piece,金箱獲得 10回,Gold chest Acquisition 10 times,クエストから金箱を10回獲得する。,Obtain 10 gold chest from the quest.,Image/Achievements/piece_40072.png,true
+40073,Piece,金箱獲得 100回,Gold chest Acquisition 100 times,クエストから金箱を100回獲得する。,Obtain 100 gold chest from the quest.,Image/Achievements/piece_40073.png,true
+40081,Piece,Common Heroコンプ,Common Hero complete,Common Heroを全種類入手する。（コラボヒーローを除く）,Obtain all types of Common Hero.（Excluding collaboration heroes）,Image/Achievements/piece_40081.png,true
+40082,Piece,Uncommon Heroコンプ,Uncommon Hero complete,Uncommon Heroを全種類入手する。（コラボヒーローを除く）,Obtain all types of Uncommon Hero.（Excluding collaboration heroes）,Image/Achievements/piece_40082.png,true
+40083,Piece,Rare Heroコンプ,Rare Hero complete,Rare Heroを全種類入手する。（コラボヒーローを除く）,Obtain all types of Rare Hero.（Excluding collaboration heroes）,Image/Achievements/piece_40083.png,true
+40084,Piece,Epic Heroコンプ,Epic Hero complete,Epic Heroを全種類入手する。（コラボヒーローを除く）,Obtain all types of Epic Hero.（Excluding collaboration heroes）,Image/Achievements/piece_40084.png,true
+40085,Piece,Legendary Heroコンプ,Legendary Hero complete,Legendary Heroを全種類入手する。（コラボヒーローを除く）,Obtain all types of Legendary Hero.（Excluding collaboration heroes）,Image/Achievements/piece_40085.png,true
+40091,Piece,Summon 10回,Summon 10 times,ソウルを10回サモンする。,Summon soul 10 times.,Image/Achievements/piece_40091.png,true
+40092,Piece,Summon 100回,Summon 100 times,ソウルを100回サモンする。,Summon soul 100 times.,Image/Achievements/piece_40092.png,true
+40093,Piece,"Summon 1,000回","Summon 1,000 times","ソウルを1,000回サモンする。","Summon soul 1,000 times.",Image/Achievements/piece_40093.png,true
+40101,Piece,Prime継続 3回,Prime Continued 3 times,MCHプライムを継続して3回購入する。,Buy MCH Prime in a row 3 times,Image/Achievements/piece_40101.png,true
+40102,Piece,Prime継続 10回,Prime Continued 10 times,MCHプライムを継続して10回購入する。,Buy MCH Prime in a row 10 times,Image/Achievements/piece_40102.png,true
+40111,Piece,"蓄積VP 100,000","Accumulated VP 100,000","蓄積されるVPが100,000を超える。","VPs accumulated exceed 100,000.",Image/Achievements/piece_40111.png,false

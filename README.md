@@ -34,10 +34,13 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 - `Data/LandSectors/land_sectors.json`: ランドごとのランドセクタアイコン（レアリティ5段階 × ランド9種 = 45種）の一覧。
 - `Data/LandSectors/metadata.json`: 収録状況、レアリティの並び、ファイル名規則の補足。
 - `Image/LandSectors/*.png`: ランドセクタアイコン。ファイル名は `Image/LandSectors/[ランド連番]_[ランド名]_[レアリティID]_[レアリティ名].png` です。
-- `Data/Achievements/achievements.json`: アチーブメント（称号アート）120 件の一覧。
+- `Data/Achievements/achievements.json`: アチーブメント（称号アート）120 件の名称・獲得条件・画像の一覧。
+- `Data/Achievements/achievements.csv`: アチーブメント一覧のCSV。
+- `Data/Achievements/achievement_types.json`: MCH社より受領した、アチーブメント/トロフィーの名称と獲得条件の元データ（`achievementType` がID）。
 - `Data/Achievements/metadata.json`: 受領元、件数、仮アート・同一画像の補足。
 - `Image/Achievements/*.png`: アチーブメント画像。ファイル名は受領時の `piece_[ID].png` を維持しています。
-- `Data/Trophies/trophies.json`: トロフィー（称号アート）143 件の一覧。
+- `Data/Trophies/trophies.json`: トロフィー（称号アート）148 件の名称・獲得条件・画像の一覧。
+- `Data/Trophies/trophies.csv`: トロフィー一覧のCSV。
 - `Data/Trophies/metadata.json`: 受領元、件数、画像サイズ、同一画像の補足。
 - `Image/Trophies/*.png`: トロフィー画像。ファイル名は受領時の `trophy_[ID].png` を維持しています。
 - `Data/Characters/characters.json`: オリジナルキャラクター（クリスくん/マインちゃん/マイクリくん）の立ち絵・差分 59 コマの一覧。
@@ -67,7 +70,7 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 - Action欄のバトルエフェクトは `Data/Effects/battle_effect_sprites.json` からCSSクラス、用途、`image_file_path` を参照できます。
 - クリプタイドアイコンは `Data/Cryptids/cryptids.json` からランド名と `image_file_path` を参照できます。
 - ランドセクタアイコンは `Data/LandSectors/land_sectors.json` からランド名、レアリティ、背景のランドカラー、`image_file_path` を参照できます。
-- アチーブメント/トロフィーは `Data/Achievements/achievements.json` / `Data/Trophies/trophies.json` から `id` と `image_file_path` を参照できます。
+- アチーブメント/トロフィーは `Data/Achievements/achievements.json` / `Data/Trophies/trophies.json` から `id`、名称、獲得条件、`image_file_path` を参照できます。CSV版は同じフォルダの `achievements.csv` / `trophies.csv` です。
 - オリジナルキャラクターの立ち絵は `Data/Characters/characters.json` からポーズ、表情、コマの表示時間、`image_file_path` を参照できます。
 - 立ち絵のアニメーション（口パク、まばたきなど）は `characters.json` の `animations` から再生順のコマ一覧と `gif_file_path` を参照できます。
 - 背景画像はバトル背景などに利用できます。縦長画面ではそのまま表示し、横長画面では中央部分を拡大・クロップする形で利用してください。
@@ -92,7 +95,9 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 
 - `Image/Achievements`: ファイル名に `piece` を含むアート（アチーブメント）。全120件、194x217px。
 - `Image/Trophies`: ファイル名に `trophy` を含むアート（トロフィー）。全143件、200x200px（104件）と400x400px（39件）。
-- 名称と獲得条件はMCH社に確認中です。各JSONの `name` / `acquisition_condition` は確定するまで `null` です。
+- 名称と獲得条件は `Data/Achievements/achievement_types.json`（MCH社より受領）の `achievementType` と画像ファイル名のIDで紐づけています。`name` / `acquisition_condition` は日本語（`ja`）と英語（`en`）です。
+- トロフィーの多くは大会の順位などで付与されるため、元データの獲得条件が `None` です。その場合 `acquisition_condition` は `null` です。
+- トロフィーには、名称はあるが画像がないID（43, 141〜144）と、画像はあるが名称がないID（101〜104, 195, 196, 271〜274）があります。どちらも一覧に含め、欠けている側は `null` にしています。一覧は `Data/Trophies/metadata.json` の `ids_without_image` / `ids_without_type` を参照してください。
 - アチーブメントのうち22件は「Please wait for the reveal.」と書かれた未公開用の仮アートで、`is_placeholder: true` にしています。
 - IDが異なっても同じ画像のものがあります（例: `trophy_51` / `trophy_251` / `trophy_271`）。一覧は各 `metadata.json` の `duplicate_image_groups` を参照してください。
 - マニフェストは `node scripts/generate_achievement_trophy_manifest.js` で再生成できます。

@@ -1,0 +1,3614 @@
+[
+  {
+    "achievementType": 1,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Ranked Match: 1st",
+      "ja": "ランキング戦: 1位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 2,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Ranked Match: 2nd",
+      "ja": "ランキング戦: 2位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 3,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Ranked Match: 3rd",
+      "ja": "ランキング戦: 3位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 4,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Ranked Match: 4-10th",
+      "ja": "ランキング戦: 4-10位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 5,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Ranked Match: 111th",
+      "ja": "ランキング戦: 111位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 6,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Ranked Match: 777th",
+      "ja": "ランキング戦: 777位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 11,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Blue Dragon: 1st",
+      "ja": "Blue Dragon: 1位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 12,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Blue Dragon: 2nd",
+      "ja": "Blue Dragon: 2位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 13,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Blue Dragon: 3rd",
+      "ja": "Blue Dragon: 3位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 14,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Blue Dragon: 4-10th",
+      "ja": "Blue Dragon: 4-10位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 15,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Blue Dragon: 111th",
+      "ja": "Blue Dragon: 111位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 16,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Blue Dragon: 777th",
+      "ja": "Blue Dragon: 777位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 21,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Red Dragon: 1st",
+      "ja": "Red Dragon: 1位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 22,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Red Dragon: 2nd",
+      "ja": "Red Dragon: 2位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 23,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Red Dragon: 3rd",
+      "ja": "Red Dragon: 3位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 24,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Red Dragon: 4-10th",
+      "ja": "Red Dragon: 4-10位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 25,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Red Dragon: 111th",
+      "ja": "Red Dragon: 111位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 26,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Red Dragon: 777th",
+      "ja": "Red Dragon: 777位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 31,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Baby Dragon: 1st",
+      "ja": "Baby Dragon: 1位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 32,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Baby Dragon: 2nd",
+      "ja": "Baby Dragon: 2位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 33,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Baby Dragon: 3rd",
+      "ja": "Baby Dragon: 3位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 34,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Baby Dragon: 4-10th",
+      "ja": "Baby Dragon: 4-10位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 35,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Baby Dragon: 111th",
+      "ja": "Baby Dragon: 111位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 36,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Baby Dragon: 777th",
+      "ja": "Baby Dragon: 777位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 41,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "GOOD! Art",
+      "ja": "GOOD! Art",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 42,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "COOL!! Art",
+      "ja": "COOL!! Art",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 43,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "AWESOME!!! Art",
+      "ja": "AWESOME!!! Art",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 51,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "raid:Singularity: 1st",
+      "ja": "raid:シンギュラリティ: 1位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 52,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "raid:Singularity: 2nd",
+      "ja": "raid:シンギュラリティ: 2位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 53,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "raid:Singularity: 3rd",
+      "ja": "raid:シンギュラリティ: 3位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 54,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "raid:Singularity: Last Attack",
+      "ja": "raid:シンギュラリティ: Last Attack",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 61,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Dragon Egg: 1st",
+      "ja": "Dragon Egg: 1位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 62,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Dragon Egg: 2nd",
+      "ja": "Dragon Egg: 2位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 63,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Dragon Egg: 3rd",
+      "ja": "Dragon Egg: 3位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 64,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Dragon Egg: 4-10th",
+      "ja": "Dragon Egg: 4-10位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 65,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Dragon Egg: 111th",
+      "ja": "Dragon Egg: 111位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 66,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Dragon Egg: 777th",
+      "ja": "Dragon Egg: 777位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 71,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "9 On 9 Battle: 1st",
+      "ja": "9 On 9 Battle: 1位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 72,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "9 On 9 Battle: 2nd",
+      "ja": "9 On 9 Battle: 2位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 73,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "9 On 9 Battle: 3rd",
+      "ja": "9 On 9 Battle: 3位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 74,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "9 On 9 Battle: 4-10th",
+      "ja": "9 On 9 Battle: 4-10位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 75,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "9 On 9 Battle: 99th",
+      "ja": "9 On 9 Battle: 99位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 81,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Official Duel Cup: 1st",
+      "ja": "Official Duel Cup: 1位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 82,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Official Duel Cup: 2nd",
+      "ja": "Official Duel Cup: 2位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 83,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Official Duel Cup: 3rd",
+      "ja": "Official Duel Cup: 3位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 84,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Official Duel Cup: 4-10th",
+      "ja": "Official Duel Cup: 4-10位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 85,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Official Duel Cup: 111th",
+      "ja": "Official Duel Cup: 111位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 86,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Official Duel Cup: 777th",
+      "ja": "Official Duel Cup: 777位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 91,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "TOKU Ranking: 1st",
+      "ja": "TOKU Ranking: 1位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 92,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "TOKU Ranking: 2nd",
+      "ja": "TOKU Ranking: 2位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 93,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "TOKU Ranking: 3rd",
+      "ja": "TOKU Ranking: 3位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 94,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "TOKU Ranking: 4-10th",
+      "ja": "TOKU Ranking: 4-10位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 111,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Ocean G5: Season {ref}",
+      "ja": "Ocean G5: Season {ref}",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 112,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Strawberry G5: Season {ref}",
+      "ja": "Strawberry G5: Season {ref}",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 113,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Tangerine G5: Season {ref}",
+      "ja": "Tangerine G5: Season {ref}",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 114,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Lime G5: Season {ref}",
+      "ja": "Lime G5: Season {ref}",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 115,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Graphite G5: Season {ref}",
+      "ja": "Graphite G5: Season {ref}",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 116,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Grape G5: Season {ref}",
+      "ja": "Grape G5: Season {ref}",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 117,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Sage G5: Season {ref}",
+      "ja": "Sage G5: Season {ref}",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 118,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Blueberry G5: Season {ref}",
+      "ja": "Blueberry G5: Season {ref}",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 119,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Ruby G5: Season {ref}",
+      "ja": "Ruby G5: Season {ref}",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 121,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Knight Battle 1st: Season {ref}",
+      "ja": "Knight Battle 1st: Season {ref}",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 131,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "King Dragon: 1st",
+      "ja": "King Dragon: 1位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 132,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "King Dragon: 2nd",
+      "ja": "King Dragon: 2位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 133,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "King Dragon: 3rd",
+      "ja": "King Dragon: 3位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 134,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "King Dragon: 4th",
+      "ja": "King Dragon: 4位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 141,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "raid:Singularity: Pluto 1st",
+      "ja": "raid:シンギュラリティ: プルートウ 1位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 142,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "raid:Singularity: Pluto 2nd",
+      "ja": "raid:シンギュラリティ: プルートウ 2位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 143,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "raid:Singularity: Pluto 3rd",
+      "ja": "raid:シンギュラリティ: プルートウ 3位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 144,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "raid:Singularity: Pluto Last Attack",
+      "ja": "raid:シンギュラリティ: プルートウ Last Attack",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 151,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "HRC master: 1st",
+      "ja": "HRC master: 1位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 152,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "HRC master: 2nd",
+      "ja": "HRC master: 2位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 153,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "HRC master: 3rd",
+      "ja": "HRC master: 3位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 154,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "HRC master: 4-10th",
+      "ja": "HRC master: 4-10位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 155,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "HRC master: 111th",
+      "ja": "HRC master: 111位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 161,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "HRC advance: 1st",
+      "ja": "HRC advance: 1位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 162,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "HRC advance: 2nd",
+      "ja": "HRC advance: 2位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 163,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "HRC advance: 3rd",
+      "ja": "HRC advance: 3位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 164,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "HRC advance: 4-10th",
+      "ja": "HRC advance: 4-10位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 165,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "HRC advance: 111th",
+      "ja": "HRC advance: 111位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 171,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "HRC intermediate: 1st",
+      "ja": "HRC intermediate: 1位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 172,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "HRC intermediate: 2nd",
+      "ja": "HRC intermediate: 2位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 173,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "HRC intermediate: 3rd",
+      "ja": "HRC intermediate: 3位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 174,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "HRC intermediate: 4-10th",
+      "ja": "HRC intermediate: 4-10位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 175,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "HRC intermediate: 111th",
+      "ja": "HRC intermediate: 111位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 181,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "HRC beginner: 1st",
+      "ja": "HRC beginner: 1位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 182,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "HRC beginner: 2nd",
+      "ja": "HRC beginner: 2位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 183,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "HRC beginner: 3rd",
+      "ja": "HRC beginner: 3位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 184,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "HRC beginner: 4-10th",
+      "ja": "HRC beginner: 4-10位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 185,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "HRC beginner: 111th",
+      "ja": "HRC beginner: 111位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 191,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Colosseum: 1st",
+      "ja": "Colosseum: 1位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 192,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Colosseum: 2nd",
+      "ja": "Colosseum: 2位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 193,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Colosseum: 3rd",
+      "ja": "Colosseum: 3位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 194,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Colosseum: 4-10th",
+      "ja": "Colosseum: 4-10位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 201,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "King Dragon {ref}: 1st",
+      "ja": "King Dragon {ref}: 1位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 202,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "King Dragon {ref}: 2nd",
+      "ja": "King Dragon {ref}: 2位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 203,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "King Dragon {ref}: 3rd",
+      "ja": "King Dragon {ref}: 3位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 204,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "King Dragon {ref}: 4th",
+      "ja": "King Dragon {ref}: 4位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 205,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "King Dragon {ref}: BEST 8",
+      "ja": "King Dragon {ref}: BEST 8",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 206,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "King Dragon {ref}: BEST 16",
+      "ja": "King Dragon {ref}: BEST 16",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 211,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Queen Dragon {ref}: 1st",
+      "ja": "Queen Dragon {ref}: 1位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 212,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Queen Dragon {ref}: 2nd",
+      "ja": "Queen Dragon {ref}: 2位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 213,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Queen Dragon {ref}: 3rd",
+      "ja": "Queen Dragon {ref}: 3位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 214,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Queen Dragon {ref}: 4th",
+      "ja": "Queen Dragon {ref}: 4位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 215,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Queen Dragon {ref}: BEST 8",
+      "ja": "Queen Dragon {ref}: BEST 8",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 216,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Queen Dragon {ref}: BEST 16",
+      "ja": "Queen Dragon {ref}: BEST 16",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 221,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Prince Dragon {ref}: 1st",
+      "ja": "Prince Dragon {ref}: 1位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 222,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Prince Dragon {ref}: 2nd",
+      "ja": "Prince Dragon {ref}: 2位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 223,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Prince Dragon {ref}: 3rd",
+      "ja": "Prince Dragon {ref}: 3位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 224,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Prince Dragon {ref}: 4th",
+      "ja": "Prince Dragon {ref}: 4位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 225,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Prince Dragon {ref}: BEST 8",
+      "ja": "Prince Dragon {ref}: BEST 8",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 226,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Prince Dragon {ref}: BEST 16",
+      "ja": "Prince Dragon {ref}: BEST 16",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 231,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Princess Dragon {ref}: 1st",
+      "ja": "Princess Dragon {ref}: 1位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 232,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Princess Dragon {ref}: 2nd",
+      "ja": "Princess Dragon {ref}: 2位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 233,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Princess Dragon {ref}: 3rd",
+      "ja": "Princess Dragon {ref}: 3位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 234,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Princess Dragon {ref}: 4th",
+      "ja": "Princess Dragon {ref}: 4位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 235,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Princess Dragon {ref}: BEST 8",
+      "ja": "Princess Dragon {ref}: BEST 8",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 236,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Princess Dragon {ref}: BEST 16",
+      "ja": "Princess Dragon {ref}: BEST 16",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 241,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Soul Battle Season {ref}: 1st",
+      "ja": "Soul Battle Season {ref}: 1位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 242,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Soul Battle Season {ref}: 2nd",
+      "ja": "Soul Battle Season {ref}: 2位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 243,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Soul Battle Season {ref}: 3rd",
+      "ja": "Soul Battle Season {ref}: 3位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 244,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Soul Battle Season {ref}: 4-10th",
+      "ja": "Soul Battle Season {ref}: 4-10位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 251,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "raid:Singularity: Flag 1st",
+      "ja": "raid:シンギュラリティ: フラッグ 1位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 252,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "raid:Singularity: Flag 2nd",
+      "ja": "raid:シンギュラリティ: フラッグ 2位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 253,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "raid:Singularity: Flag 3rd",
+      "ja": "raid:シンギュラリティ: フラッグ 3位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 254,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "raid:Singularity: Flag Last Attac",
+      "ja": "raid:シンギュラリティ: フラッグ Last Attack",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 261,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Common Cup: 1st",
+      "ja": "Common Cup: 1位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 262,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Common Cup: 2nd",
+      "ja": "Common Cup: 2位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 263,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Common Cup: 3rd",
+      "ja": "Common Cup: 3位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 264,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Common Cup: 4-10th",
+      "ja": "Common Cup: 4-10位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 265,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Common Cup: 111th",
+      "ja": "Common Cup: 111位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 266,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Common Cup: 777th",
+      "ja": "Common Cup: 777位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 281,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Duke Dragon {ref}: 1st",
+      "ja": "Duke Dragon {ref}: 1位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 282,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Duke Dragon {ref}: 2nd",
+      "ja": "Duke Dragon {ref}: 2位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 283,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Duke Dragon {ref}: 3rd",
+      "ja": "Duke Dragon {ref}: 3位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 284,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Duke Dragon {ref}: 4th",
+      "ja": "Duke Dragon {ref}: 4位",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 285,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Duke Dragon {ref}: BEST 8",
+      "ja": "Duke Dragon {ref}: BEST 8",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 286,
+    "achievementCategory": "Trophy",
+    "name": {
+      "en": "Duke Dragon {ref}: BEST 16",
+      "ja": "Duke Dragon {ref}: BEST 16",
+      "zh": ""
+    },
+    "terms": {
+      "en": "None",
+      "ja": "None",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10011,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Winner of the Red Dragon 3 times",
+      "ja": "Red Dragon優勝 3回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn Red dragon: 1st trophy 3 times.",
+      "ja": "Red Dragon: 1位のトロフィーを3回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10012,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Winner of the Red Dragon 10 times",
+      "ja": "Red Dragon優勝 10回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn Red dragon: 1st trophy 10 times.",
+      "ja": "Red Dragon: 1位のトロフィーを10回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10021,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Winner of the Blue Dragon 3 times",
+      "ja": "Blue Dragon優勝 3回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn Blue dragon: 1st trophy 3 times.",
+      "ja": "Blue Dragon: 1位のトロフィーを3回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10022,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Winner of the Blue Dragon 10 times",
+      "ja": "Blue Dragon優勝 10回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn Blue dragon: 1st trophy 10 times.",
+      "ja": "Blue Dragon: 1位のトロフィーを10回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10031,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Winner of the Baby Dragon 3 times",
+      "ja": "Baby Dragon優勝 3回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn Baby dragon: 1st trophy 3 times.",
+      "ja": "Baby Dragon: 1位のトロフィーを3回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10032,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Winner of the Baby Dragon 10 times",
+      "ja": "Baby Dragon優勝 10回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn Baby dragon: 1st trophy 10 times.",
+      "ja": "Baby Dragon: 1位のトロフィーを10回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10041,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Winner of the Dragon Egg 3 times",
+      "ja": "Dragon Egg優勝 3回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn Dragon egg: 1st trophy 3 times.",
+      "ja": "Dragon Egg: 1位のトロフィーを3回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10042,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Winner of the Dragon Egg 10 times",
+      "ja": "Dragon Egg優勝 10回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn Dragon egg: 1st trophy 10 times.",
+      "ja": "Dragon Egg: 1位のトロフィーを10回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10051,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Winner of the Colosseum 3 times",
+      "ja": "コロシアム優勝 3回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn Colosseum: 1st trophy 3 times.",
+      "ja": "Colosseum: 1位のトロフィーを3回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10052,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Winner of the Colosseum 10 times",
+      "ja": "コロシアム優勝 10回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn Colosseum: 1st trophy 10 times.",
+      "ja": "Colosseum: 1位のトロフィーを10回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10061,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Winner of the raid 3 times",
+      "ja": "レイド1位 3回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn raid: 1st trophy 3 times.",
+      "ja": "レイドイベントの1位トロフィーを3回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10071,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Ocean G5 3 times",
+      "ja": "Ocean G5 3回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn ocean G5 trophy 3 times.",
+      "ja": "Ocean G5トロフィーを3回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10072,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Ocean G5 10 times",
+      "ja": "Ocean G5 10回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn ocean G5 trophy 10 times.",
+      "ja": "Ocean G5トロフィーを10回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10081,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Strawberry G5 3 times",
+      "ja": "Strawberry G5 3回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn strawberry G5 trophy 3 times.",
+      "ja": "Strawberry G5トロフィーを3回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10082,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Strawberry G5 10 times",
+      "ja": "Strawberry G5 10回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn strawberry G5 trophy 10 times.",
+      "ja": "Strawberry G5トロフィーを10回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10091,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Tangerine G5 3 times",
+      "ja": "Tangerine G5 3回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn tangerine G5 trophy 3 times.",
+      "ja": "Tangerine G5トロフィーを3回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10092,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Tangerine G5 10 times",
+      "ja": "Tangerine G5 10回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn tangerine G5 trophy 10 times.",
+      "ja": "Tangerine G5トロフィーを10回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10101,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Lime G5 3 times",
+      "ja": "Lime G5 3回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn lime G5 trophy 3 times.",
+      "ja": "Lime G5トロフィーを3回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10102,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Lime G5 10 times",
+      "ja": "Lime G5 10回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn lime G5 trophy 10 times.",
+      "ja": "Lime G5トロフィーを10回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10111,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Graphite G5 3 times",
+      "ja": "Graphite G5 3回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn graphite G5 trophy 3 times.",
+      "ja": "Graphite G5トロフィーを3回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10112,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Graphite G5 10 times",
+      "ja": "Graphite G5 10回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn graphite G5 trophy 10 times.",
+      "ja": "Graphite G5トロフィーを10回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10121,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Grape G5 3 times",
+      "ja": "Grape G5 3回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn grape G5 trophy 3 times.",
+      "ja": "Grape G5トロフィーを3回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10122,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Grape G5 10 times",
+      "ja": "Grape G5 10回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn grape G5 trophy 10 times.",
+      "ja": "Grape G5トロフィーを10回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10131,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Sage G5 3 times",
+      "ja": "Sage G5 3回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn sage G5 trophy 3 times.",
+      "ja": "Sage G5トロフィーを3回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10132,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Sage G5 10 times",
+      "ja": "Sage G5 10回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn sage G5 trophy 10 times.",
+      "ja": "Sage G5トロフィーを10回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10141,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Blueberry G5 3 times",
+      "ja": "Blueberry G5 3回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn blueberry G5 trophy 3 times.",
+      "ja": "Blueberry G5トロフィーを3回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10142,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Blueberry G5 10 times",
+      "ja": "Blueberry G5 10回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn blueberry G5 trophy 10 times.",
+      "ja": "Blueberry G5トロフィーを10回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10151,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Ruby G5 3 times",
+      "ja": "Ruby G5 3回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn ruby G5 trophy 3 times.",
+      "ja": "Ruby G5トロフィーを3回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10152,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Ruby G5 10 times",
+      "ja": "Ruby G5 10回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn ruby G5 trophy 10 times.",
+      "ja": "Ruby G5トロフィーを10回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10161,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "All Land G5",
+      "ja": "All Land G5",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn G5 trophies in all lands.",
+      "ja": "全てのランドのG5トロフィーを獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10171,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Top Ocean Knight",
+      "ja": "Top Ocean Knight貢献",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Gain the most KnightPoints in Ocean. (Judged by the end of the season)",
+      "ja": "OceanでKnightPointを最も多く得る。（シーズン終了後に判定）",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10172,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Top Strawberry Knight",
+      "ja": "Top Strawberry Knight貢献",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Gain the most KnightPoints in Strawberry. (Judged by the end of the season)",
+      "ja": "StrawberryでKnightPointを最も多く得る。（シーズン終了後に判定）",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10173,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Top Tangerine Knight",
+      "ja": "Top Tangerine Knight貢献",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Gain the most KnightPoints in Tangerine. (Judged by the end of the season)",
+      "ja": "TangerineでKnightPointを最も多く得る。（シーズン終了後に判定）",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10174,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Top Lime Knight",
+      "ja": "Top Lime Knight貢献",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Gain the most KnightPoints in Lime. (Judged by the end of the season)",
+      "ja": "LimeでKnightPointを最も多く得る。（シーズン終了後に判定）",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10175,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Top Graphite Knight",
+      "ja": "Top Graphite Knight貢献",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Gain the most KnightPoints in Graphite. (Judged by the end of the season)",
+      "ja": "GraphiteでKnightPointを最も多く得る。（シーズン終了後に判定）",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10176,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Top Grape Knight",
+      "ja": "Top Grape Knight貢献",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Gain the most KnightPoints in Grape. (Judged by the end of the season)",
+      "ja": "GrapeでKnightPointを最も多く得る。（シーズン終了後に判定）",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10177,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Top Sage Knight",
+      "ja": "Top Sage Knight貢献",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Gain the most KnightPoints in Sage. (Judged by the end of the season)",
+      "ja": "SageでKnightPointを最も多く得る。（シーズン終了後に判定）",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10178,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Top Blueberry Knight",
+      "ja": "Top Blueberry Knight貢献",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Gain the most KnightPoints in Blueberry. (Judged by the end of the season)",
+      "ja": "BlueberryでKnightPointを最も多く得る。（シーズン終了後に判定）",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 10179,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Top Ruby Knight",
+      "ja": "Top Ruby Knight貢献",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Gain the most KnightPoints in Ruby. (Judged by the end of the season)",
+      "ja": "RubyでKnightPointを最も多く得る。（シーズン終了後に判定）",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 20011,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Ocean King",
+      "ja": "Ocean King就任",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Become King of Ocean.",
+      "ja": "Oceanのキングに就任する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 20012,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Strawberry King",
+      "ja": "Strawberry King就任",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Become King of Strawberry.",
+      "ja": "Strawberryのキングに就任する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 20013,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Tangerine King",
+      "ja": "Tangerine King就任",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Become King of Tangerine.",
+      "ja": "Tangerineのキングに就任する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 20014,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Lime King",
+      "ja": "Lime King就任",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Become King of Lime.",
+      "ja": "Limeのキングに就任する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 20015,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Graphite King",
+      "ja": "Graphite King就任",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Become King of Graphite.",
+      "ja": "Graphiteのキングに就任する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 20016,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Grape King",
+      "ja": "Grape King就任",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Become King of Grape.",
+      "ja": "Grapeのキングに就任する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 20017,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Sage King",
+      "ja": "Sage King就任",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Become King of Sage.",
+      "ja": "Sageのキングに就任する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 20018,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Blueberry King",
+      "ja": "Blueberry King就任",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Become King of Blueberry.",
+      "ja": "Blueberryのキングに就任する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 20019,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Ruby King",
+      "ja": "Ruby King就任",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Become King of Ruby.",
+      "ja": "Rubyのキングに就任する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 20021,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Ocean Maestro",
+      "ja": "Ocean Maestro就任",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Become Maestro of Ocean.",
+      "ja": "Oceanのマエストロに就任する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 20022,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Strawberry Maestro",
+      "ja": "Strawberry Maestro就任",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Become Maestro of Strawberry.",
+      "ja": "Strawberryのマエストロに就任する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 20023,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Tangerine Maestro",
+      "ja": "Tangerine Maestro就任",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Become Maestro of Tangerine.",
+      "ja": "Tangerineのマエストロに就任する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 20024,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Lime Maestro",
+      "ja": "Lime Maestro就任",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Become Maestro of Lime.",
+      "ja": "Limeのマエストロに就任する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 20025,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Graphite Maestro",
+      "ja": "Graphite Maestro就任",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Become Maestro of Graphite.",
+      "ja": "Graphiteのマエストロに就任する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 20026,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Grape Maestro",
+      "ja": "Grape Maestro就任",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Become Maestro of Grape.",
+      "ja": "Grapeのマエストロに就任する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 20027,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Sage Maestro",
+      "ja": "Sage Maestro就任",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Become Maestro of Sage.",
+      "ja": "Sageのマエストロに就任する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 20028,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Blueberry Maestro",
+      "ja": "Blueberry Maestro就任",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Become Maestro of Blueberry.",
+      "ja": "Blueberryのマエストロに就任する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 20029,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Ruby Maestro",
+      "ja": "Ruby Maestro就任",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Become Maestro of Ruby.",
+      "ja": "Rubyのマエストロに就任する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 20031,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Arena held with full capacity, cumulative total of 100 people.",
+      "ja": "アリーナ満員開催 累計100人",
+      "zh": ""
+    },
+    "terms": {
+      "en": "The total number of participants in the arena held by you exceeds 100. (Counted only when the maximum number of participants is reached)",
+      "ja": "自身が開催したアリーナの参加人数が累計で100人を超える。（参加人数が上限に達した場合のみカウント）",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 20032,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Arena held with full capacity, cumulative total of 500 people.",
+      "ja": "アリーナ満員開催 累計500人",
+      "zh": ""
+    },
+    "terms": {
+      "en": "The total number of participants in the arena held by you exceeds 500. (Counted only when the maximum number of participants is reached)",
+      "ja": "自身が開催したアリーナの参加人数が累計で500人を超える。（参加人数が上限に達した場合のみカウント）",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 20033,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Arena held with full capacity, cumulative total of 1,000 people.",
+      "ja": "アリーナ満員開催 累計1,000人",
+      "zh": ""
+    },
+    "terms": {
+      "en": "The total number of participants in the arena held by you exceeds 1,000. (Counted only when the maximum number of participants is reached)",
+      "ja": "自身が開催したアリーナの参加人数が累計で1000人を超える。（参加人数が上限に達した場合のみカウント）",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 20041,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "FA contract",
+      "ja": "FA成立",
+      "zh": ""
+    },
+    "terms": {
+      "en": "One FA declaration is approved.",
+      "ja": "FA宣言が1回成立する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 20042,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "FA contract 3 times",
+      "ja": "FA成立 3回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Three FA declarations were approved.",
+      "ja": "FA宣言が3回成立する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 20043,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "FA contract 10 times",
+      "ja": "FA成立 10回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Ten FA declarations were approved.",
+      "ja": "FA宣言が10回成立する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 30011,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Good Art 3 times",
+      "ja": "Good Art 3回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn GOOD! Art trophy 3 times.",
+      "ja": "GOOD! Artトロフィーを3回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 30012,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Good Art 5 times",
+      "ja": "Good Art 5回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn GOOD! Art trophy 5 times.",
+      "ja": "GOOD! Artトロフィーを5回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 30013,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Good Art 10 times",
+      "ja": "Good Art 10回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn GOOD! Art trophy 10 times.",
+      "ja": "GOOD! Artトロフィーを10回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 30021,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Cool Art 3 times",
+      "ja": "Cool Art 3回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn COOL!! Art trophy 3 times.",
+      "ja": "COOL!! Artトロフィーを3回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 30022,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Cool Art 5 times",
+      "ja": "Cool Art 5回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn COOL!! Art trophy 5 times.",
+      "ja": "COOL!! Artトロフィーを5回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 30023,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Cool Art 10 times",
+      "ja": "Cool Art 10回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Earn COOL!! Art trophy 10 times.",
+      "ja": "COOL!! Artトロフィーを10回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 30031,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Adopted for Extension Competition",
+      "ja": "Extension Competition採用",
+      "zh": ""
+    },
+    "terms": {
+      "en": "This achievement will be awarded when your illustration is selected in the Extension Competition.",
+      "ja": "Extension Competitionで、自身のイラストが採用される。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40011,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Buy Ocean SHUIN",
+      "ja": "Ocean SHUIN購入",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Buy Ocean SHUIN.",
+      "ja": "OceanのSHUINを購入する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40012,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Buy Strawberry SHUIN",
+      "ja": "Strawberry SHUIN購入",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Buy Strawberry SHUIN.",
+      "ja": "StrawberryのSHUINを購入する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40013,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Buy Tangerine SHUIN",
+      "ja": "Tangerine SHUIN購入",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Buy Tangerine SHUIN.",
+      "ja": "TangerineのSHUINを購入する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40014,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Buy Lime SHUIN",
+      "ja": "Lime SHUIN購入",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Buy Lime SHUIN.",
+      "ja": "LimeのSHUINを購入する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40015,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Buy Graphite SHUIN",
+      "ja": "Graphite SHUIN購入",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Buy Graphite SHUIN.",
+      "ja": "GraphiteのSHUINを購入する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40016,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Buy Grape SHUIN",
+      "ja": "Grape SHUIN購入",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Buy Grape SHUIN.",
+      "ja": "GrapeのSHUINを購入する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40017,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Buy Sage SHUIN",
+      "ja": "Sage SHUIN購入",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Buy Sage SHUIN.",
+      "ja": "SageのSHUINを購入する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40018,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Buy Blueberry SHUIN",
+      "ja": "Blueberry SHUIN購入",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Buy Blueberry SHUIN.",
+      "ja": "BlueberryのSHUINを購入する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40019,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Buy Ruby SHUIN",
+      "ja": "Ruby SHUIN購入",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Buy Ruby SHUIN.",
+      "ja": "RubyのSHUINを購入する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40021,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Buy all Ocean SHUIN",
+      "ja": "Ocean SHUIN購入complete",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Buy all Ocean SHUIN.",
+      "ja": "OceanのSHUINを上限まで購入する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40022,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Buy all Strawberry SHUIN",
+      "ja": "Strawberry SHUIN購入complete",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Buy all Strawberry SHUIN.",
+      "ja": "StrawberryのSHUINを上限まで購入する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40023,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Buy all Tangerine SHUIN",
+      "ja": "Tangerine SHUIN購入complete",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Buy all Tangerine SHUIN.",
+      "ja": "TangerineのSHUINを上限まで購入する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40024,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Buy all Lime SHUIN",
+      "ja": "Lime SHUIN購入complete",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Buy all Lime SHUIN.",
+      "ja": "LimeのSHUINを上限まで購入する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40025,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Buy all Graphite SHUIN",
+      "ja": "Graphite SHUIN購入complete",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Buy all Graphite SHUIN.",
+      "ja": "GraphiteのSHUINを上限まで購入する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40026,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Buy all Grape SHUIN",
+      "ja": "Grape SHUIN購入complete",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Buy all Grape SHUIN.",
+      "ja": "GrapeのSHUINを上限まで購入する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40027,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Buy all Sage SHUIN",
+      "ja": "Sage SHUIN購入complete",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Buy all Sage SHUIN.",
+      "ja": "SageのSHUINを上限まで購入する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40028,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Buy all Blueberry SHUIN",
+      "ja": "Blueberry SHUIN購入complete",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Buy all Blueberry SHUIN.",
+      "ja": "BlueberryのSHUINを上限まで購入する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40029,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Buy all Ruby SHUIN",
+      "ja": "Ruby SHUIN購入complete",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Buy all Ruby SHUIN.",
+      "ja": "RubyのSHUINを上限まで購入する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40031,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Top Ocean Nie",
+      "ja": "Top Ocean Nie貢献",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Gain the most Nie in Ocean. (Judged by the end of the season)",
+      "ja": "OceanでNieを最も多く得る。（シーズン終了後に判定）",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40032,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Top Strawberry Nie",
+      "ja": "Top Strawberry Nie貢献",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Gain the most Nie in Strawberry. (Judged by the end of the season)",
+      "ja": "StrawberryでNieを最も多く得る。（シーズン終了後に判定）",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40033,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Top Tangerine Nie",
+      "ja": "Top Tangerine Nie貢献",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Gain the most Nie in Tangerine. (Judged by the end of the season)",
+      "ja": "TangerineでNieを最も多く得る。（シーズン終了後に判定）",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40034,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Top Lime Nie",
+      "ja": "Top Lime Nie貢献",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Gain the most Nie in Lime. (Judged by the end of the season)",
+      "ja": "LimeでNieを最も多く得る。（シーズン終了後に判定）",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40035,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Top Graphite Nie",
+      "ja": "Top Graphite Nie貢献",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Gain the most Nie in Graphite. (Judged by the end of the season)",
+      "ja": "GraphiteでNieを最も多く得る。（シーズン終了後に判定）",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40036,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Top Grape Nie",
+      "ja": "Top Grape Nie貢献",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Gain the most Nie in Grape. (Judged by the end of the season)",
+      "ja": "GrapeでNieを最も多く得る。（シーズン終了後に判定）",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40037,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Top Sage Nie",
+      "ja": "Top Sage Nie貢献",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Gain the most Nie in Sage. (Judged by the end of the season)",
+      "ja": "SageでNieを最も多く得る。（シーズン終了後に判定）",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40038,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Top Blueberry Nie",
+      "ja": "Top Blueberry Nie貢献",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Gain the most Nie in Blueberry. (Judged by the end of the season)",
+      "ja": "BlueberryでNieを最も多く得る。（シーズン終了後に判定）",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40039,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Top Ruby Nie",
+      "ja": "Top Ruby Nie貢献",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Gain the most Nie in Ruby. (Judged by the end of the season)",
+      "ja": "RubyでNieを最も多く得る。（シーズン終了後に判定）",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40041,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Charge 100 GUM",
+      "ja": "100 GUM課金",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Buy 100 GUM.",
+      "ja": "100GUM課金する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40042,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Charge 10,000 GUM",
+      "ja": "10,000 GUM課金",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Buy 10,000 GUM.",
+      "ja": "10,000GUM課金する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40043,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Charge 100,000 GUM",
+      "ja": "100,000 GUM課金",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Buy 100,000 GUM.",
+      "ja": "100,000GUM課金する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40044,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Charge 1,000,000 GUM",
+      "ja": "1,000,000 GUM課金",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Buy 1,000,000 GUM.",
+      "ja": "1,000,000GUM課金する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40051,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "100,000 GUM to be consumed",
+      "ja": "100,000 GUM消費",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Use 100,000 GUM.",
+      "ja": "100,000GUM消費する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40052,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "1,000,000 GUM to be consumed",
+      "ja": "1,000,000 GUM消費",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Use 1,000,000 GUM.",
+      "ja": "1,000,000GUM消費する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40061,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "1,000 times Complete quests",
+      "ja": "1,000回 クエストクリア",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Complete quest 1,000 times.",
+      "ja": "1,000回クエストをクリアする。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40062,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "10,000 times Complete quests",
+      "ja": "10,000回クエストクリア",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Complete quest 10,000 times.",
+      "ja": "10,000回クエストをクリアする。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40063,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "100,000 times Complete quests",
+      "ja": "100,000回 クエストクリア",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Complete quest 100,000 times.",
+      "ja": "100,000 回クエストをクリアする。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40071,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Gold chest Acquisition",
+      "ja": "金箱獲得",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Obtain a gold chest from the quest.",
+      "ja": "クエストから金箱を獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40072,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Gold chest Acquisition 10 times",
+      "ja": "金箱獲得 10回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Obtain 10 gold chest from the quest.",
+      "ja": "クエストから金箱を10回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40073,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Gold chest Acquisition 100 times",
+      "ja": "金箱獲得 100回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Obtain 100 gold chest from the quest.",
+      "ja": "クエストから金箱を100回獲得する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40081,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Common Hero complete",
+      "ja": "Common Heroコンプ",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Obtain all types of Common Hero.（Excluding collaboration heroes）",
+      "ja": "Common Heroを全種類入手する。（コラボヒーローを除く）",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40082,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Uncommon Hero complete",
+      "ja": "Uncommon Heroコンプ",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Obtain all types of Uncommon Hero.（Excluding collaboration heroes）",
+      "ja": "Uncommon Heroを全種類入手する。（コラボヒーローを除く）",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40083,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Rare Hero complete",
+      "ja": "Rare Heroコンプ",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Obtain all types of Rare Hero.（Excluding collaboration heroes）",
+      "ja": "Rare Heroを全種類入手する。（コラボヒーローを除く）",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40084,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Epic Hero complete",
+      "ja": "Epic Heroコンプ",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Obtain all types of Epic Hero.（Excluding collaboration heroes）",
+      "ja": "Epic Heroを全種類入手する。（コラボヒーローを除く）",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40085,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Legendary Hero complete",
+      "ja": "Legendary Heroコンプ",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Obtain all types of Legendary Hero.（Excluding collaboration heroes）",
+      "ja": "Legendary Heroを全種類入手する。（コラボヒーローを除く）",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40091,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Summon 10 times",
+      "ja": "Summon 10回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Summon soul 10 times.",
+      "ja": "ソウルを10回サモンする。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40092,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Summon 100 times",
+      "ja": "Summon 100回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Summon soul 100 times.",
+      "ja": "ソウルを100回サモンする。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40093,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Summon 1,000 times",
+      "ja": "Summon 1,000回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Summon soul 1,000 times.",
+      "ja": "ソウルを1,000回サモンする。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40101,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Prime Continued 3 times",
+      "ja": "Prime継続 3回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Buy MCH Prime in a row 3 times",
+      "ja": "MCHプライムを継続して3回購入する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40102,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Prime Continued 10 times",
+      "ja": "Prime継続 10回",
+      "zh": ""
+    },
+    "terms": {
+      "en": "Buy MCH Prime in a row 10 times",
+      "ja": "MCHプライムを継続して10回購入する。",
+      "zh": ""
+    }
+  },
+  {
+    "achievementType": 40111,
+    "achievementCategory": "Piece",
+    "name": {
+      "en": "Accumulated VP 100,000",
+      "ja": "蓄積VP 100,000",
+      "zh": ""
+    },
+    "terms": {
+      "en": "VPs accumulated exceed 100,000.",
+      "ja": "蓄積されるVPが100,000を超える。",
+      "zh": ""
+    }
+  }
+]

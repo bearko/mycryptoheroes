@@ -46,6 +46,7 @@ My Crypto Heroes の公開図鑑などから、ヒーロー、エクステンシ
 - `Data/TournamentBanners/tournament_banner_assets.json`: MCH社より提供された大会バナーPSD（`duelcup_master_clb.psd`）から書き出した素材 162 件の一覧。元のPSDレイヤー名も記録しています。
 - `Data/TournamentBanners/metadata.json`: 書き出し元PSD、件数、カテゴリ別件数の補足。
 - `Image/TournamentBanners/*`: 大会バナー素材の透過PNG。`originals/`（スマートオブジェクトの元画像）、`icons/`（ルール・フォーマット・クラスラベル・ボタン）、`cups/`（大会ごとのカップアイコン。`_icon`／`_title`／`_with_title` の3種）、`regulation/`、`logos/`、`backgrounds/`（1280×400）に分けています。再書き出しは `scripts/export_tournament_banner_assets.py` で行います。
+- `Image/TournamentBanners/generated/regulation/*.png`: 大会バナー素材を組み合わせて作った **バナー生成の参考例**。ドラゴンカップの 6 つのレギュレーション（`common`／`egg`／`baby`／`blue`／`red`／`absolute`、960×360）。雲柄の背景にレギュレーションの色を重ね、左にカップのアイコン、右に題字を置いています。コラボ相手（OASYS）のロゴが入った素材は使っていません（Common はアイコンの上だけを切り抜き、Red はジムカップの赤い龍とドラゴンカップの題字を組み合わせています）。作り直しや別の組み合わせは `scripts/generate_regulation_banners.py`（Pillow）の `BANNERS` を書き換えて実行します。
 - `Data/Characters/characters.json`: オリジナルキャラクター（クリスくん/マインちゃん/マイクリくん）の立ち絵・差分 59 コマの一覧。
 - `Data/Characters/metadata.json`: 立ち絵の書き出し方法、利用条件、クレジット表記の補足。
 - `Image/Characters/*.png`: 立ち絵PNG。ファイル名は `Image/Characters/[差分セットID]_[コマ番号]_[ポーズ].png` です。
